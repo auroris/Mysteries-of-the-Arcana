@@ -13,7 +13,7 @@
         "lint:html": "htmlhint './_site/**/*.html'"
     },
     "engines": {
-        "node": ">=18"
+        "node": ">=22"
     },
     "devDependencies": {
         "@11ty/eleventy": "^3.0.0",
