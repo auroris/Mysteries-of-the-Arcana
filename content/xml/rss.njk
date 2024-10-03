@@ -1,23 +1,24 @@
 ---
 layout: false
 title: rss
-permalink: /feed/rss.xml
+permalink: /feeds/arcanarss.xml
+eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <atom:link href="https://marjorie.auroris.net/feed/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ permalink | htmlBaseUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
     <title>{{ metadata.title }}</title>
     <description>{{ metadata.description }}</description>
     <link>{{ metadata.url }}</link>
     {%- for post in collections.sortedPosts %}
     {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
         <item>
-	    <title>{{ post.data.title }}</title>
-	    <description>{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</description>
-	    <link>{{ absolutePostUrl }}</link>
-	    <guid>{{ absolutePostUrl }}</guid>
-	    <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+        <title>{{ post.data.title }}</title>
+        <description>{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</description>
+        <link>{{ absolutePostUrl }}</link>
+        <guid>{{ absolutePostUrl }}</guid>
+        <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
         </item>
     {% endfor %}
 </channel>
