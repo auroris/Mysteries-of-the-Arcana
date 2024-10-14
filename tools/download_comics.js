@@ -13,7 +13,7 @@ const __dirname = dirname(__filename);
 // Set the base URL, start/end pages, and download directory
 const baseURL = 'http://mysteriesofthearcana.com/comics/';
 const startPage = 1;
-const endPage = 813;
+const endPage = 820;
 const downloadDir = path.resolve(__dirname, '../content/comics');
 
 (async () => {
