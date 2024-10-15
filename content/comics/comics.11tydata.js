@@ -8,5 +8,5 @@ export default {
     "alt": "Mysteries of the Arcana",
     "date": "2024-10-03",
     "author": "J Gray",
-    "artist": "verias",
+    "artist": "verias"
 };

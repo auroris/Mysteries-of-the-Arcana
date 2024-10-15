@@ -5,8 +5,13 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { DateTime } from "luxon";
 import { existsSync } from "fs";
 import { join } from "path";
+import sharp from 'sharp';
 import Image from "@11ty/eleventy-img";
-import imagesConfig from './eleventy.config.images.js';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -16,6 +21,8 @@ export default async function(eleventyConfig) {
             return false;
         }
     });
+
+    eleventyConfig.addPassthroughCopy({"./public/": "/"})
 
     // Add files to Eleventy watch target
     // Watch content images for changes to trigger re-build
@@ -84,32 +91,40 @@ export default async function(eleventyConfig) {
                           .replace(/'/g, "&#39;");
     });
 
-    // Shortcode to find and return the path of a comic image based on fileSlug
-    eleventyConfig.addShortcode("findComicImage", function(fileSlug) {
+    eleventyConfig.addNunjucksAsyncShortcode("ComicImage", async (src, alt, width = 650, formats = ["jpeg"]) => {
         const baseDir = join(process.cwd(), "content", "comics");
         const possibleExtensions = ["jpg", "png"];
 
         for (const ext of possibleExtensions) {
-            const filePath = join(baseDir, `${fileSlug}.${ext}`);
+            const filePath = join(baseDir, `${src}.${ext}`);
             if (existsSync(filePath)) {
-                return `/comics/${fileSlug}.${ext}`;
+                src = `comics/${src}.${ext}`;
+                break;
             }
         }
-        return "";
+
+        // Resolve the full filesystem path for the source image
+        let fullSrc = path.resolve(__dirname, 'content', src);
+        const outputDir = path.resolve(__dirname, "_site/img");
+
+        // Get the original metadata to calculate the height ratio
+        const { width: originalWidth, height: originalHeight } = await sharp(fullSrc).metadata();
+        const targetWidth = width;
+        const targetHeight = Math.round((originalHeight / originalWidth) * targetWidth);
+
+        // Process the image using the full filesystem path and enforce resizing
+        let metadata = await Image(fullSrc, {
+            widths: [width],  // Ensuring the width is set to the target width
+            formats: ["jpeg"],
+            urlPath: "/img/",       // Public URL path for images
+            outputDir: outputDir   // Output directory for processed images
+        });
+
+        // Return HTML
+        let data = metadata.jpeg[metadata.jpeg.length - 1];
+        return `<img src="${data.url}" width="${targetWidth}" height="${targetHeight}" alt="${alt}">`;
     });
 
-    // Image optimization plugin
-    // Processes images in the _site folder and outputs optimized versions
-    eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-        extensions: "html",
-        formats: ["avif", "webp", "auto"],
-        defaultAttributes: {
-            loading: "lazy",
-            decoding: "async",
-        }
-    });
-
-    imagesConfig(eleventyConfig);
 
     // Adds ID attributes to headings in generated content
     eleventyConfig.addPlugin(IdAttributePlugin, {

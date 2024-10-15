@@ -26,7 +26,7 @@ layout: base.njk
 
 <article class="comic">
     <h1>{{ title }}</h1>
-    <img src="{% findComicImage page.fileSlug %}" alt="{{ alt }}" />
+    {% ComicImage page.fileSlug, alt %}
     <p>Posted on {{ date }} by {{ author }} and drawn by {{ artist }}.</p>
 
     <nav class="comic-nav">
