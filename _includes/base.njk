@@ -8,19 +8,26 @@
         <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/rss.xml" type="application/rss+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}" />
-        <link rel="stylesheet" href="/theme/style.css" />
+        {% if author %}
+        <meta name="author" content="{{ author }}">
+        {% endif %}
+        {% if artist %}
+        <meta name="artist" content="{{ artist }}">
+        {% endif %}
+        <meta name="date" content="{{ date }}">
+        <link rel="stylesheet" href="/theme/style.css">
     </head>
     <body bgcolor="#000">
         <div class="outer-wrapper">
-            <header class="logo-container">
-                <center>
-                    <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" />
-                </center>
-            </header>
-            <div class="content-area">
-                {{ content | safe }}
-            </div>
-            <footer>Copyright 2008 - 2014 by J Gray</footer>
+            <center>
+                <header class="logo-container">
+	            <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" />
+                </header>
+                <div class="content-area">
+                    {{ content | safe }}
+                </div>
+                <footer>Copyright 2008 - 2014 by J Gray</footer>
+            </center>
         </div>
     </body>
 </html>

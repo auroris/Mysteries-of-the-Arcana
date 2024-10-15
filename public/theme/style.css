@@ -1,0 +1,75 @@
+.comic-nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.comic-nav ul li { 
+  margin-right: 15px;
+}
+
+.comic-nav a {
+  display: block;
+  position: relative;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+a.navfirst {
+  height: 99px;
+  width: 138px;
+  background: url('first.png') no-repeat;
+}
+
+a.navhasfirst:hover {
+  background-position: -138px 0;
+}
+
+a.navprev {
+  height: 99px;
+  width: 136px;
+  background: url('previous.png') no-repeat;
+}
+
+a.navhasprev:hover {
+  background-position: -136px 0;
+}
+
+a.navnext {
+  height: 99px;
+  width: 136px;
+  background: url('forward.png') no-repeat;
+}
+
+a.navhasnext:hover {
+  background-position: -136px 0;
+}
+
+a.navlast {
+  height: 99px;
+  width: 131px;
+  background: url('last.png') no-repeat;
+}
+
+a.navhaslast:hover {
+  background-position: -131px 0;
+}
+
+a.navarchive {
+  height: 99px;
+  width: 130px;
+  background: url('archive.png') no-repeat;
+}
+
+a.navarchive:hover {
+  background-position: -130px 0;
+}
+
+article.comic {
+  background: url('comicbg.png') no-repeat;
+  width: 650px;
+  padding: 12px 17px;
+}

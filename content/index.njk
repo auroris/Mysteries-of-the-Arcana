@@ -1,0 +1,17 @@
+---
+layout: base.njk
+pagination:
+    data: collections.comics
+    size: 1
+    reverse: true
+---
+
+{% set latestComic = pagination.items[0] %}
+
+{% include "comic-nav.njk" %}
+
+<article class="comic">
+    {% Image "comics/" + latestComic.fileSlug, alt %}
+</article>
+
+{% include "comic-nav.njk" %}
