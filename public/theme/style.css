@@ -6,11 +6,17 @@
   justify-content: center;
 }
 
+.site-nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
 .comic-nav ul li { 
   margin-right: 15px;
 }
 
-.comic-nav a {
+.comic-nav a, .site-nav a {
   display: block;
   position: relative;
   text-indent: -9999px;
@@ -68,8 +74,85 @@ a.navarchive:hover {
   background-position: -130px 0;
 }
 
+a.navhome {
+  height: 156px;
+  width: 116px;
+  margin-left: 6px; /* nudge to the right a bit for some reason */
+  background: url('home.png') no-repeat;
+}
+
+a.navabout {
+  background: url('About.png') no-repeat;
+}
+
+a.navabout, a.navcast, a.navforum, a.navart, a.navextras, a.navlinks, a.navstore {
+  height: 96px;
+  width: 82px;
+}
+
+a.navabout:hover, a.navcast:hover, a.navforum:hover, a.navart:hover, a.navextras:hover, a.navlinks:hover, a.navstore:hover {
+  background-position: -82px 0;
+}
+
+a.navcast {
+  background: url('Cast.png') no-repeat;
+}
+
+a.navforum {
+  background: url('Forum.png') no-repeat;
+}
+
+a.navart {
+  background: url('Art.png') no-repeat;
+}
+
+a.navextras {
+  background: url('Extras.png') no-repeat;
+}
+
+a.navlinks { 
+  background: url('Links.png') no-repeat;
+}
+
+a.navstore {
+  background: url('Links.png') no-repeat;
+}
+
+a.navadmin {
+  height: 137px;
+  width: 86px;
+  background: url('admin.png') no-repeat;
+}
+
 article.comic {
   background: url('comicbg.png') no-repeat;
   width: 650px;
   padding: 12px 17px;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.content-container {
+  display: flex;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.site-nav {
+  width: 123px;
+  flex-shrink: 0;
+  margin-top: 100px;
+}
+
+.site-nav a {
+  margin-bottom: 3px;
+}
+
+.content-area {
+  flex-grow: 1; /* Take up remaining space */
+  margin: 0 auto;
 }

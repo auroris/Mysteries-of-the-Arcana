@@ -8,26 +8,35 @@
         <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/rss.xml" type="application/rss+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}" />
-        {% if author %}
-        <meta name="author" content="{{ author }}">
-        {% endif %}
-        {% if artist %}
-        <meta name="artist" content="{{ artist }}">
-        {% endif %}
+        {% if author %}<meta name="author" content="{{ author }}">{% endif %}
+        {% if artist %}<meta name="artist" content="{{ artist }}">{% endif %}
         <meta name="date" content="{{ date }}">
         <link rel="stylesheet" href="/theme/style.css">
     </head>
     <body bgcolor="#000">
-        <div class="outer-wrapper">
-            <center>
-                <header class="logo-container">
-	            <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" />
-                </header>
+        <center>
+            <header class="logo-container">
+                <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" />
+            </header>
+            <div class="content-container">
+                <div class="site-nav">
+                    <ul>
+                        <li><a href="/" class="navhome">Home</a></li>
+                        <li><a href="/about.html" class="navabout">About</a></li>
+                        <li><a href="/cast.html" class="navcast">Cast</a></li>
+                        <li><a href="#" class="navforum">Forum</a></li>
+                        <li><a href="/art.html" class="navart">Art/a></li>
+                        <li><a href="/extras.html" class="navextras">Extras</a></li>
+                        <li><a href="/links.html" class="navlinks">Links</a></li>
+                        <li><a href="http://amzn.com/B00S7LB620" class="navstore">Store</a></li>
+                        <li><a href="#" class="navadmin">Admin</a></li>
+                    </ul>
+                </div>
                 <div class="content-area">
                     {{ content | safe }}
                 </div>
-                <footer>Copyright 2008 - 2014 by J Gray</footer>
-            </center>
-        </div>
+            </div>
+            <footer>Copyright 2008 - 2014 by J Gray</footer>
+        </center>
     </body>
 </html>
