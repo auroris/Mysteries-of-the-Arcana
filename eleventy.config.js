@@ -8,6 +8,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import fs from 'fs/promises';
+import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -30,6 +31,15 @@ export default async function(eleventyConfig) {
     eleventyConfig.addPlugin(pluginNavigation);
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+    eleventyConfig.addPlugin(IdAttributePlugin);
+
+    eleventyConfig.addPlugin(eleventyPluginRelativeUrls);
+    eleventyConfig.addTransform("relativeUrlsTransform", async function (content, outputPath) {
+        if (outputPath && outputPath.endsWith(".html")) {
+            return await eleventyPluginRelativeUrls().html(content, { outputPath });
+        }
+        return content;
+    });
 
     // Filters for template usage
     eleventyConfig.addFilter("strToDate", (str) => new Date(str));
@@ -97,8 +107,6 @@ export default async function(eleventyConfig) {
         // Return the <img> tag with the correct reference
         return `<img src="/img/${baseFileName}.${fileExtension}" width="${width}" alt="${alt}">`;
     });
-
-    eleventyConfig.addPlugin(IdAttributePlugin);
 
     eleventyConfig.addCollection("comics", (collectionApi) =>
         collectionApi.getFilteredByTag("comics").sort((a, b) => a.fileSlug - b.fileSlug)
