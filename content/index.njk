@@ -1,12 +1,9 @@
 ---
 layout: base.njk
-pagination:
-    data: collections.comics
-    size: 1
-    reverse: true
+permalink: index.html
 ---
 
-{% set latestComic = pagination.items[0] %}
+{% set latestComic = collections.comics | reverse | first %}
 
 {% include "comic-nav.njk" %}
 

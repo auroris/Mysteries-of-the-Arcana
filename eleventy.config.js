@@ -1,13 +1,13 @@
 import { existsSync } from "fs";
 import sharp from "sharp";
-import { join, resolve, dirname } from "path";
+import { join, resolve, dirname, basename } from "path";
 import { fileURLToPath } from "url";
 import { DateTime } from "luxon";
-import Image from "@11ty/eleventy-img";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import fs from 'fs/promises';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -25,10 +25,6 @@ export default async function(eleventyConfig) {
 
     // Add files to Eleventy watch target
     eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
-
-    // Per-page bundles (CSS and JS) to optimize output
-    eleventyConfig.addBundle("css", { toFileDirectory: "dist" });
-    eleventyConfig.addBundle("js", { toFileDirectory: "dist" });
 
     // Register official Eleventy plugins
     eleventyConfig.addPlugin(pluginNavigation);
@@ -71,32 +67,35 @@ export default async function(eleventyConfig) {
             .replace(/'/g, "&#39;")
     );
 
-    eleventyConfig.addNunjucksAsyncShortcode("Image", async (src, alt, width = 650, formats = ["jpeg"]) => {
+    eleventyConfig.addNunjucksAsyncShortcode("Image", async (src, alt, width = 650) => {
         const possibleExtensions = ["jpg", "png"];
+        const outputDir = './_site/img';
 
+        let resolvedSrc;
+        let fileExtension;
         for (const ext of possibleExtensions) {
             const filePath = resolve(__dirname, "content", `${src}.${ext}`);
             if (existsSync(filePath)) {
-                src = resolve(__dirname, "content", `${src}.${ext}`);
+                resolvedSrc = filePath;
+                fileExtension = ext;
                 break;
             }
         }
 
-        const fullSrc = src;
-        const outputDir = resolve(__dirname, "_site/img");
+        if (!resolvedSrc) {
+            throw new Error(`Image not found for ${src}`);
+        }
 
-        const { width: originalWidth, height: originalHeight } = await sharp(fullSrc).metadata();
-        const targetHeight = Math.round((originalHeight / originalWidth) * width);
+        const baseFileName = basename(src);
 
-        const metadata = await Image(fullSrc, {
-            widths: [width],
-            formats: ["jpeg"],
-            urlPath: "/img/",
-            outputDir: outputDir
-        });
+        // Define the destination path inside the _site/img folder
+        const outputFilePath = resolve(outputDir, `${baseFileName}.${fileExtension}`);
 
-        const data = metadata.jpeg[metadata.jpeg.length - 1];
-        return `<img src="${data.url}" width="${width}" height="${targetHeight}" alt="${alt}">`;
+        // Copy the file to the _site/img folder
+        await fs.copyFile(resolvedSrc, outputFilePath);
+
+        // Return the <img> tag with the correct reference
+        return `<img src="/img/${baseFileName}.${fileExtension}" width="${width}" alt="${alt}">`;
     });
 
     eleventyConfig.addPlugin(IdAttributePlugin);

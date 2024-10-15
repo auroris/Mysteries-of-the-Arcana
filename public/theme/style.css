@@ -82,7 +82,7 @@ a.navhome {
 }
 
 a.navabout {
-  background: url('About.png') no-repeat;
+  background: url('about.png') no-repeat;
 }
 
 a.navabout, a.navcast, a.navforum, a.navart, a.navextras, a.navlinks, a.navstore {
@@ -90,32 +90,32 @@ a.navabout, a.navcast, a.navforum, a.navart, a.navextras, a.navlinks, a.navstore
   width: 82px;
 }
 
-a.navabout:hover, a.navcast:hover, a.navforum:hover, a.navart:hover, a.navextras:hover, a.navlinks:hover, a.navstore:hover {
-  background-position: -82px 0;
-}
-
 a.navcast {
-  background: url('Cast.png') no-repeat;
+  background: url('cast.png') no-repeat;
 }
 
 a.navforum {
-  background: url('Forum.png') no-repeat;
+  background: url('forum.png') no-repeat;
 }
 
 a.navart {
-  background: url('Art.png') no-repeat;
+  background: url('art.png') no-repeat;
 }
 
 a.navextras {
-  background: url('Extras.png') no-repeat;
+  background: url('extras.png') no-repeat;
 }
 
 a.navlinks { 
-  background: url('Links.png') no-repeat;
+  background: url('links.png') no-repeat;
 }
 
 a.navstore {
-  background: url('Links.png') no-repeat;
+  background: url('store.png') no-repeat;
+}
+
+a.navabout:hover, a.navcast:hover, a.navforum:hover, a.navart:hover, a.navextras:hover, a.navlinks:hover, a.navstore:hover {
+  background-position: -82px 0;
 }
 
 a.navadmin {
