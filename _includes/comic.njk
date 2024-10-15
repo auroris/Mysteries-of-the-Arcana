@@ -1,0 +1,46 @@
+---
+layout: base.njk
+---
+
+{% set comics = collections.comics %}
+{% set currentIndex = -1 %}
+{% for comic in comics %}
+  {% if comic.url === page.url %}
+    {% set currentIndex = loop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% set prev = null %}
+{% set next = null %}
+
+{% if currentIndex > 0 %}
+  {% set prev = comics[currentIndex - 1] %}
+{% endif %}
+
+{% if currentIndex < comics.length - 1 %}
+  {% set next = comics[currentIndex + 1] %}
+{% endif %}
+
+{% set first = comics[0] %}
+{% set last = comics[comics.length - 1] %}
+
+<article class="comic">
+    <h1>{{ title }}</h1>
+    <img src="{% findComicImage page.fileSlug %}" alt="{{ alt }}" />
+    <p>Posted on {{ date }} by {{ author }} and drawn by {{ artist }}.</p>
+
+    <nav class="comic-nav">
+        {% if first %}
+            <a href="{{ first.url }}" class="first">First</a>
+        {% endif %}
+        {% if prev %}
+            <a href="{{ prev.url }}" class="prev">Previous</a>
+        {% endif %}
+        {% if next %}
+            <a href="{{ next.url }}" class="next">Next</a>
+        {% endif %}
+        {% if last %}
+            <a href="{{ last.url }}" class="last">Last</a>
+        {% endif %}
+    </nav>
+</article>

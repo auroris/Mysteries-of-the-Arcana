@@ -14,9 +14,12 @@
         <div class="outer-wrapper">
             <header class="logo-container">
                 <center>
-                    <img src="/theme/motalogo.png" />
+                    {% image "/theme/motalogo.png", "Mysteres of the Arcana Logo" %}
                 </center>
             </header>
+            <div class="content-area">
+                {{ content | safe }}
+            </div>
             <footer>Copyright 2008 - 2014 by J Gray</footer>
         </div>
     </body>
