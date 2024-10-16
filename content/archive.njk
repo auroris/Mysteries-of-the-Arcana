@@ -1,28 +1,38 @@
 ---
 layout: paper.njk
-title: Posts by Author and Artist
+title: Archive
 ---
 
-<h1>Posts Grouped by Author</h1>
+<h1>Comics</h1>
 
+<table>
+<tr><th>Title</th><th>Author</th><th>Artist</th></tr>
+{% for comic in collections.comics %}
+  <tr><td><a href="{{ comic.url }}">{{ comic.data.title }}</a></td>
+  <td>{{ comic.data.author }}</td><td>{{ comic.data.artist }}</td>
+  </tr>
+{% endfor %}
+</table>
+
+<h1>Blog Posts</h1>
+
+<table>
+<tr><th>Title</th><th>Author</th><th>Date</th></tr>
+{% for post in collections.posts %}
+  <tr><td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
+  <td>{{ post.data.author }}</td><td>{{ post.data.date }}</td>
+  </tr>
+{% endfor %}
+</table>
+
+{# If you want to display grouped by author
 {% for authorGroup in collections.groupedByAuthor %}
   <h2>{{ authorGroup.name }}</h2>
-  <ul>
+  <table>
+  <tr><th>Title</th><th>Date</th><tr>
     {% for post in authorGroup.posts %}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a> ({{ post.date | date('yyyy-MM-dd') }})</li>
+      <tr><td><a href="{{ post.url }}">{{ post.data.title }}</a></td><td>{{ post.date | date }}</td></tr>
     {% endfor %}
-  </ul>
+  </table>
 {% endfor %}
-
-<hr>
-
-<h1>Posts Grouped by Artist</h1>
-
-{% for artistGroup in collections.groupedByArtist %}
-  <h2>{{ artistGroup.name }}</h2>
-  <ul>
-    {% for post in artistGroup.posts %}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a> ({{ post.date | date('yyyy-MM-dd') }})</li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+#}

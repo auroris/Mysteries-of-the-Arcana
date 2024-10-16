@@ -4,6 +4,7 @@ permalink: index.html
 ---
 
 {% set latestComic = collections.comics | reverse | first %}
+{% set latestPost = collections.posts | reverse | first %}
 
 {% include "comic-nav.njk" %}
 
@@ -12,3 +13,13 @@ permalink: index.html
 </article>
 
 {% include "comic-nav.njk" %}
+
+<article class="post">
+    <div class="postheader">
+        <h1 class="posttitle">{{ latestPost.data.title }}</h1>
+        <div class="postmeta">Published on: <span class="date">{{ latestPost.date | date }}</span> | Author: <span class="author">{{ latestPost.data.author }}</span></div>
+    </div>
+    <div class="post-content">
+        {{ latestPost.rawInput | safe }}
+    </div>
+</article>

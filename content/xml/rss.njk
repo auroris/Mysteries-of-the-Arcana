@@ -11,14 +11,14 @@ eleventyExcludeFromCollections: true
     <title>{{ metadata.title }}</title>
     <description>{{ metadata.description }}</description>
     <link>{{ metadata.url }}</link>
-    {%- for post in collections.sortedPosts %}
+    {%- for post in collections.posts %}
     {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
         <item>
         <title>{{ post.data.title }}</title>
         <description>{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</description>
         <link>{{ absolutePostUrl }}</link>
         <guid>{{ absolutePostUrl }}</guid>
-        <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+        <pubDate>{{ post.date | date({ format: "rfc822" }) }}</pubDate>
         </item>
     {% endfor %}
 </channel>

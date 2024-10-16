@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
     <subtitle>{{ metadata.description }}</subtitle>
     <link href="{{ permalink | htmlBaseUrl(metadata.url) }}" rel="self"/>
     <link href="{{ metadata.url | addPathPrefixToFullUrl }}"/>
-    <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <updated>{{ collections.posts | getNewestCollectionItemDate | date({ format: "rfc3339" }) }}</updated>
     <id>{{ metadata.url }}</id>
     <author>
         <name>{{ metadata.author.name }}</name>
@@ -19,7 +19,7 @@ eleventyExcludeFromCollections: true
     <entry>
         <title>{{ post.data.title }}</title>
         <link href="{{ absolutePostUrl }}"/>
-        <updated>{{ post.date | dateToRfc3339 }}</updated>
+        <updated>{{ post.date | date({ format: "rfc3339" }) }}</updated>
         <id>{{ absolutePostUrl }}</id>
         <content type="html">{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) }}</content>
     </entry>

@@ -5,7 +5,6 @@ import { fileURLToPath } from "url";
 import { DateTime } from "luxon";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import fs from 'fs/promises';
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
@@ -44,18 +43,6 @@ export default async function(eleventyConfig) {
     // Filters for template usage
     eleventyConfig.addFilter("strToDate", (str) => new Date(str));
 
-    eleventyConfig.addFilter("readableDate", (dateObj, format, zone) =>
-        DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy")
-    );
-
-    eleventyConfig.addNunjucksFilter("readableDate", (dateString, format = "MMMM d, yyyy") =>
-        DateTime.fromISO(dateString, { zone: "utc" }).toFormat(format)
-    );
-
-    eleventyConfig.addFilter("htmlDateString", (dateObj) =>
-        DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd")
-    );
-
     eleventyConfig.addFilter("getNewestCollectionItemDate", (collection, emptyFallbackDate) => {
         if (!collection || !collection.length) {
             return emptyFallbackDate || new Date();
@@ -63,13 +50,26 @@ export default async function(eleventyConfig) {
         return new Date(Math.max(...collection.map(item => item.date)));
     });
 
-    eleventyConfig.addFilter("dateToRfc3339", (dateObj) => {
-        let s = dateObj.toISOString();
-        return s.split(".")[0] + "Z";
-    });
+    eleventyConfig.addFilter("date", (dateObj, options = {}) => {
+        const { format = "yyyy-MM-dd", zone = "system" } = options;
 
-    eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
-        return DateTime.fromJSDate(new Date(dateObj)).toFormat(format);
+        // Format examples:
+        // "readableDate": "dd LLLL yyyy" (e.g., 12 June 2023)
+        // "htmlDateString": "yyyy-LL-dd" (e.g., 2023-06-12)
+        // RFC3339 format: "yyyy-MM-dd'T'HH:mm:ss'Z'"
+        // RFC822 format: "EEE, dd LLL yyyy HH:mm:ss Z" (e.g., Mon, 12 Jun 2023 12:34:56 +0000)
+
+        if (format === "rfc3339") {
+            // Convert to RFC3339 format (e.g., 2023-06-12T12:34:56Z)
+            return dateObj.toISOString().split(".")[0] + "Z";
+        }
+
+        if (format === "rfc822") {
+            // Convert to RFC822 format (e.g., Mon, 12 Jun 2023 12:34:56 +0000)
+            return DateTime.fromJSDate(dateObj, { zone }).toFormat("EEE, dd LLL yyyy HH:mm:ss Z");
+        }
+
+        return DateTime.fromJSDate(dateObj, { zone }).toFormat(format || "dd LLLL yyyy");
     });
 
     eleventyConfig.addFilter("htmlEscape", (value) =>
@@ -114,8 +114,8 @@ export default async function(eleventyConfig) {
 
     eleventyConfig.addCollection("comics", (collectionApi) =>
         collectionApi.getFilteredByTag("comics").sort((a, b) => {
-            const numA = parseInt(a.fileSlug, 10);
-            const numB = parseInt(b.fileSlug, 10);
+            const numA = Number(a.fileSlug);
+            const numB = Number(b.fileSlug);
             return numA - numB;
         })
     );
@@ -125,7 +125,7 @@ export default async function(eleventyConfig) {
         let authors = {};
 
         // Group posts by author using an object
-        collectionApi.getAll().forEach((item) => {
+        collectionApi.getFilteredByTag("posts").forEach((item) => {
             if (item.data.author) {
                 if (!authors[item.data.author]) {
                     authors[item.data.author] = [];
@@ -147,36 +147,6 @@ export default async function(eleventyConfig) {
         });
 
         return authorArray;
-    });
-
-
-    // Add a collection for grouping posts by artist
-    eleventyConfig.addCollection("groupedByArtist", (collectionApi) => {
-        let artists = {};
-
-        // Group posts by author using an object
-        collectionApi.getAll().forEach((item) => {
-            if (item.data.artist) {
-                if (!artists[item.data.artist]) {
-                    artists[item.data.artist] = [];
-                }
-                artists[item.data.artist].push(item);
-            }
-        });
-
-        // Convert the authors object to an array with sorted posts
-        let artistArray = Object.keys(artists).map((artistName) => {
-            return {
-                name: artistName,
-                posts: artists[artistName].sort((a, b) => {
-                    const numA = Number(a.fileSlug);
-                    const numB = Number(b.fileSlug);
-                    return numA - numB;
-                })
-            };
-        });
-
-        return artistArray;
     });
 };
 
