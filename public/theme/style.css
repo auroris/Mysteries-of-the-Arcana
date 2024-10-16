@@ -1,3 +1,7 @@
+.comic-nav {
+  margin-left: -30px;
+}
+
 .comic-nav ul {
   padding: 0;
   margin: 0;
@@ -10,6 +14,9 @@
   padding: 0;
   margin: 0;
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .comic-nav ul li { 
@@ -133,12 +140,13 @@ article.comic {
 body {
   margin: 0;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
 }
 
 .content-container {
   display: flex;
-  width: 100%;
   max-width: 1200px;
 }
 
@@ -153,6 +161,13 @@ body {
 }
 
 .content-area {
-  flex-grow: 1; /* Take up remaining space */
-  margin: 0 auto;
+  flex-grow: 1;
+  margin-right: 123px;
+}
+
+article.post
+{
+  background: url('notebookwhole.png') repeat-y;
+  width: 590px;
+  padding: 5px 5px 10px 55px;
 }

@@ -1,4 +1,4 @@
-import { existsSync } from "fs";
+import { existsSync, readdirSync, readFileSync } from "fs";
 import sharp from "sharp";
 import { join, resolve, dirname, basename } from "path";
 import { fileURLToPath } from "url";
@@ -68,6 +68,10 @@ export default async function(eleventyConfig) {
         return s.split(".")[0] + "Z";
     });
 
+    eleventyConfig.addFilter("date", (dateObj, format = "yyyy-MM-dd") => {
+        return DateTime.fromJSDate(new Date(dateObj)).toFormat(format);
+    });
+
     eleventyConfig.addFilter("htmlEscape", (value) =>
         String(value)
             .replace(/&/g, "&amp;")
@@ -109,8 +113,71 @@ export default async function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection("comics", (collectionApi) =>
-        collectionApi.getFilteredByTag("comics").sort((a, b) => a.fileSlug - b.fileSlug)
+        collectionApi.getFilteredByTag("comics").sort((a, b) => {
+            const numA = parseInt(a.fileSlug, 10);
+            const numB = parseInt(b.fileSlug, 10);
+            return numA - numB;
+        })
     );
+
+    // Add a collection for grouping posts by author
+    eleventyConfig.addCollection("groupedByAuthor", (collectionApi) => {
+        let authors = {};
+
+        // Group posts by author using an object
+        collectionApi.getAll().forEach((item) => {
+            if (item.data.author) {
+                if (!authors[item.data.author]) {
+                    authors[item.data.author] = [];
+                }
+                authors[item.data.author].push(item);
+            }
+        });
+
+        // Convert the authors object to an array with sorted posts
+        let authorArray = Object.keys(authors).map((authorName) => {
+            return {
+                name: authorName,
+                posts: authors[authorName].sort((a, b) => {
+                    const numA = Number(a.fileSlug);
+                    const numB = Number(b.fileSlug);
+                    return numA - numB;
+                })
+            };
+        });
+
+        return authorArray;
+    });
+
+
+    // Add a collection for grouping posts by artist
+    eleventyConfig.addCollection("groupedByArtist", (collectionApi) => {
+        let artists = {};
+
+        // Group posts by author using an object
+        collectionApi.getAll().forEach((item) => {
+            if (item.data.artist) {
+                if (!artists[item.data.artist]) {
+                    artists[item.data.artist] = [];
+                }
+                artists[item.data.artist].push(item);
+            }
+        });
+
+        // Convert the authors object to an array with sorted posts
+        let artistArray = Object.keys(artists).map((artistName) => {
+            return {
+                name: artistName,
+                posts: artists[artistName].sort((a, b) => {
+                    const numA = Number(a.fileSlug);
+                    const numB = Number(b.fileSlug);
+                    return numA - numB;
+                })
+            };
+        });
+
+        return artistArray;
+    });
 };
 
 export const config = {

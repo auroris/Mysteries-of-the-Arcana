@@ -13,7 +13,7 @@ const eleventyPathPrefix = "/";
 
 (async () => {
     try {
-        const savePath = path.resolve(path.dirname(''), '../content/posts');
+        const savePath = path.resolve(path.dirname(''), './content/posts');
 
         if (!fs.existsSync(savePath)) {
             fs.mkdirSync(savePath, { recursive: true });
@@ -35,10 +35,12 @@ const eleventyPathPrefix = "/";
             cleanedText = cleanedText.replace(/Submitted.*/gi, '');
 
             // Remove errant BRs
-            cleanedText = cleanedText.replace(/^\s*(?:<br\s*\/?\s*>)+|(?:<br\s*\/?\s*>)+\s*$/gi, '');
+            cleanedText = cleanedText.replace(/^\s*(?:<br\s*\/\?\s*>)+|(?:<br\s*\/\?\s*>)+\s*$/gi, '');
 
             // Replace smilies path
             cleanedText = cleanedText.replace(/http:\/\/mysteriesofthearcana\.com\/smilies\//g, `${eleventyPathPrefix}/smilies/`);
+
+            cleanedText = cleanedText.replace(/\*\*/g, '\*\*');
 
             return cleanedText.trim();
         };
@@ -46,6 +48,21 @@ const eleventyPathPrefix = "/";
         // Function to fetch a specific blog post and extract comments
         const fetchBlogPost = async (blogURL, metadata) => {
             try {
+                // Extract the blog post ID from the URL
+                const blogIdMatch = blogURL.match(/\/blog\/(\d+)\//);
+                if (!blogIdMatch) {
+                    console.error(`Unable to extract blog ID from URL: ${blogURL}`);
+                    return;
+                }
+                const blogId = blogIdMatch[1];
+
+                // Check if the file already exists
+                const markdownFilePath = path.join(savePath, `${blogId}.md`);
+                if (fs.existsSync(markdownFilePath)) {
+                    console.log(`Post ${blogId} already exists. Skipping.`);
+                    return;
+                }
+
                 console.log(`Fetching blog post at ${blogURL}`);
                 const response = await axios.get(blogURL);
                 const $ = cheerio.load(response.data);
@@ -61,19 +78,11 @@ const eleventyPathPrefix = "/";
                 let postContentHtml = cleanText(postContentElement.html().trim());
 
                 const mainAuthor = metadata.author;
-                const mainDate = metadata.date;
+                const mainDate = moment(metadata.date, "MM-DD-YYYY").format("YYYY-MM-DD");
                 const blogTitle = metadata.title;
 
-                // Create JSON object for the main post
-                const postJson = {
-                    title: blogTitle,
-                    author: mainAuthor,
-                    date: mainDate,
-                    text: postContentHtml,
-                    replies: []
-                };
-
                 // Extract comments/replies
+                const replies = [];
                 $('.Comment_table .Comment').each((_, commentElement) => {
                     const commentAuthor = $(commentElement).find('.Comment_title center').first().text().trim();
 
@@ -90,35 +99,39 @@ const eleventyPathPrefix = "/";
 
                     const commentDateRaw = $(commentElement).find('.Comment_info').last().text().trim();
 
-                    // Convert date format from "Submitted February 16, 2016 at 10:56AM" to "MM-DD-YYYY"
+                    // Convert date format from "Submitted February 16, 2016 at 10:56AM" to "YYYY-MM-DD"
                     const commentDateMatch = commentDateRaw.match(/Submitted\s(\w+)\s(\d{1,2}),\s(\d{4})/);
                     let commentDate = null;
                     if (commentDateMatch) {
                         const month = commentDateMatch[1];
                         const day = commentDateMatch[2];
                         const year = commentDateMatch[3];
-                        commentDate = moment(`${month} ${day}, ${year}`, "MMMM DD, YYYY").format("MM-DD-YYYY");
+                        commentDate = moment(`${month} ${day}, ${year}`, "MMMM DD, YYYY").format("YYYY-MM-DD");
                     }
 
-                    postJson.replies.push({
+                    replies.push({
                         author: commentAuthor,
                         date: commentDate,
                         text: commentTextHtml
                     });
                 });
 
-                // Extract the blog post ID from the URL
-                const blogIdMatch = blogURL.match(/\/blog\/(\d+)\//);
-                if (!blogIdMatch) {
-                    console.error(`Unable to extract blog ID from URL: ${blogURL}`);
-                    return;
-                }
-                const blogId = blogIdMatch[1];
+                // Create Markdown content
+                let markdownContent = `---\n`;
+                markdownContent += `title: '${blogTitle.replace(/'/g, "''")}'\n`;
+                markdownContent += `date: '${mainDate}'\n`;
+                markdownContent += `author: '${mainAuthor.replace(/'/g, "''")}'\n`;
+                markdownContent += `---\n\n`;
+                markdownContent += `${postContentHtml}\n\n`;
+                replies.forEach(reply => {
+                    markdownContent += `---\n`;
+                    markdownContent += `**${reply.author}** (${reply.date})\n\n`;
+                    markdownContent += `${reply.text}\n\n`;
+                });
 
-                // Write JSON to file
-                const jsonFilePath = path.join(savePath, `${blogId}.json`);
-                fs.writeFileSync(jsonFilePath, JSON.stringify(postJson, null, 2));
-                console.log(`Saved post to ${jsonFilePath}`);
+                // Write Markdown to file
+                fs.writeFileSync(markdownFilePath, markdownContent);
+                console.log(`Saved post to ${markdownFilePath}`);
 
             } catch (error) {
                 console.error(`Error fetching blog post at ${blogURL}: ${error.message}`);
@@ -129,7 +142,7 @@ const eleventyPathPrefix = "/";
         /*fetchBlogPost("http://mysteriesofthearcana.com/blog/179/", {
             title: "RSS Feed",
             author: "JGray",
-            date: "05-06-2010"
+            date: "2010-05-06"
         });*/
 
         /* Uncomment to perform a full run when ready */

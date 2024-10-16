@@ -1,4 +1,5 @@
 ---
+layout: paper.njk
 title: 'Mysteries of the Arcana - Background'
 date: '2024-10-03'
 author: 'J Gray'

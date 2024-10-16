@@ -1,0 +1,28 @@
+---
+layout: paper.njk
+title: Posts by Author and Artist
+---
+
+<h1>Posts Grouped by Author</h1>
+
+{% for authorGroup in collections.groupedByAuthor %}
+  <h2>{{ authorGroup.name }}</h2>
+  <ul>
+    {% for post in authorGroup.posts %}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a> ({{ post.date | date('yyyy-MM-dd') }})</li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+<hr>
+
+<h1>Posts Grouped by Artist</h1>
+
+{% for artistGroup in collections.groupedByArtist %}
+  <h2>{{ artistGroup.name }}</h2>
+  <ul>
+    {% for post in artistGroup.posts %}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a> ({{ post.date | date('yyyy-MM-dd') }})</li>
+    {% endfor %}
+  </ul>
+{% endfor %}

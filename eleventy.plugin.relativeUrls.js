@@ -29,7 +29,7 @@ function eleventyPluginRelativeUrls({ assumeIndexHtml = true } = {}) {
                 if (
                   assumeIndexHtml &&
                   !url.endsWith("/") &&
-                  ![".html", ".jpg", ".png", ".xml", ".json", ".css"].includes(extname)
+                  ![".html", ".jpg", ".png", ".gif", ".xml", ".json", ".css"].includes(extname)
                 ) {
                   targetPath = path.join(targetPath + "/", "index.html");
                 }
