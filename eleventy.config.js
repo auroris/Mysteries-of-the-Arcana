@@ -6,12 +6,9 @@ import { DateTime } from "luxon";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
-import fs from 'fs/promises';
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
 import htmlmin from "html-minifier-terser";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import { promises as fs } from 'fs';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -106,12 +103,12 @@ export default async function(eleventyConfig) {
 
     eleventyConfig.addNunjucksAsyncShortcode("Image", async (src, alt, width = 650) => {
         const possibleExtensions = ["jpg", "png"];
-        const outputDir = './_site/img';
+        const outputDir = resolve(process.cwd(), './_site/img'); // Use process.cwd() to get the correct working directory
 
         let resolvedSrc;
         let fileExtension;
         for (const ext of possibleExtensions) {
-            const filePath = resolve(__dirname, `${src}.${ext}`);
+            const filePath = resolve(process.cwd(), `${src}.${ext}`); // Resolve based on current working directory
             if (existsSync(filePath)) {
                 resolvedSrc = filePath;
                 fileExtension = ext;
@@ -127,6 +124,9 @@ export default async function(eleventyConfig) {
 
         // Define the destination path inside the _site/img folder
         const outputFilePath = resolve(outputDir, `${baseFileName}.${fileExtension}`);
+
+        // Ensure the output directory exists
+        await fs.mkdir(outputDir, { recursive: true });
 
         // Copy the file to the _site/img folder
         await fs.copyFile(resolvedSrc, outputFilePath);
