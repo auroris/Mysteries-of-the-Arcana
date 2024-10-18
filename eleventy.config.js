@@ -106,11 +106,11 @@ export default async function(eleventyConfig) {
         const outputDir = resolve(process.cwd(), './_site/img'); // Use process.cwd() to get the working directory
 
         // Check if the expected file exists
-        const checkFilePath = resolve(outputDir, '_.txt');
+        /*const checkFilePath = resolve(outputDir, '_.txt');
         if (!existsSync(checkFilePath)) {
             console.log(`Expected output directory: ${outputDir}`);
             throw new Error(`Expected file ./_site/img/_.txt not found. Actual path: ${checkFilePath}`);
-        }
+        }*/
 
         let resolvedSrc;
         let fileExtension;
