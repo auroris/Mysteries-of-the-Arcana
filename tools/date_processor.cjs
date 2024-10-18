@@ -11,6 +11,16 @@ const tableSelectors = [
   '#text_body > div:nth-child(1) > table:nth-child(10) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(3)'
 ];
 
+// Function to validate date format (YYYY-MM-DD)
+const isValidDate = (dateString) => {
+  const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
+  if (!dateRegex.test(dateString)) {
+    return false;
+  }
+  const date = new Date(dateString);
+  return date instanceof Date && !isNaN(date);
+};
+
 // Function to read and parse HTML files
 const parseHtmlFiles = async () => {
   try {
@@ -47,15 +57,50 @@ const parseHtmlFiles = async () => {
           return;
         }
 
-        const rowData = {
-          id: parseInt($(cells[0]).text().trim(), 10),
-          filler: $(cells[1]).text().trim() === 'Y',
-          chapter: $(cells[2]).text().trim(),
-          title: $(cells[3]).html(),
-          date: $(cells[4]).text().trim(),
-          views: parseInt($(cells[5]).text().trim().replace(/,/g, ''), 10),
-          action: $(cells[6]).html(),
-        };
+        let rowData = {};
+        
+        if (cells.length === 7) {
+            const dateRaw = $(cells[4]).text().trim();
+            const formattedDate = `${dateRaw.slice(0, 4)}-${dateRaw.slice(4, 6)}-${dateRaw.slice(6, 8)}`;
+
+            if (!isValidDate(formattedDate)) {
+              console.error(`Invalid date format in file: ${file}, date: ${dateRaw}`);
+              return;
+            }
+        
+            rowData = {
+              id: parseInt($(cells[0]).text().trim(), 10),
+              filler: $(cells[1]).text().trim() === 'Y',
+              chapter: $(cells[2]).text().trim(),
+              title: $(cells[3]).html(),
+              date: formattedDate,
+              views: parseInt($(cells[5]).text().trim().replace(/,/g, ''), 10),
+              action: $(cells[6]).html(),
+            };
+        } else {
+            const dateRaw = $(cells[3]).text().trim();
+            const formattedDate = `${dateRaw.slice(0, 4)}-${dateRaw.slice(4, 6)}-${dateRaw.slice(6, 8)}`;
+
+            if (!isValidDate(formattedDate)) {
+              console.error(`Invalid date format in file: ${file}, date: ${dateRaw}`);
+              return;
+            }
+        
+            rowData = {
+              id: parseInt($(cells[0]).text().trim(), 10),
+              chapter: $(cells[1]).text().trim(),
+              title: $(cells[2]).html(),
+              date: formattedDate,
+              views: parseInt($(cells[4]).text().trim().replace(/,/g, ''), 10),
+              action: $(cells[5]).html(),
+            };
+        }
+
+        // If there is a filler column, extract it
+        if (cells.length === 7) {
+          rowData.filler = $(cells[1]).text().trim() === 'Y';
+        }
+
         results.push(rowData);
         fileResultsCount++;
       });
@@ -72,17 +117,20 @@ const parseHtmlFiles = async () => {
         // Update or add date field
         mdContent = mdContent.replace(/date: '.*?'/, `date: '${data.date}'`);
 
-        // Add Chapter and Filler metadata if not present
+        // Add Chapter metadata if not present
         if (!/chapter: /.test(mdContent)) {
           mdContent = mdContent.replace(/---\s*$/, `chapter: '${data.chapter}'\n---`);
         } else {
           mdContent = mdContent.replace(/chapter: '.*?'/, `chapter: '${data.chapter}'`);
         }
 
-        if (!/filler: /.test(mdContent)) {
-          mdContent = mdContent.replace(/---\s*$/, `filler: ${data.filler}\n---`);
-        } else {
-          mdContent = mdContent.replace(/filler: .*/, `filler: ${data.filler}`);
+        // Add Filler metadata if present and not already in the file
+        if (data.hasOwnProperty('filler')) {
+          if (!/filler: /.test(mdContent)) {
+            mdContent = mdContent.replace(/---\s*$/, `filler: ${data.filler}\n---`);
+          } else {
+            mdContent = mdContent.replace(/filler: .*/, `filler: ${data.filler}`);
+          }
         }
 
         // Write the updated content back to the markdown file
