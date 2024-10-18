@@ -2,7 +2,7 @@ import path from "path";
 import posthtml from "posthtml";
 import posthtmlUrls from "posthtml-urls";
 
-function eleventyPluginRelativeUrls({ assumeIndexHtml = true } = {}) {
+function eleventyPluginRelativeUrls({ assumeIndexHtml } = {}) {
   return {
     name: "eleventy-plugin-relative-urls",
     async html(htmlContent, { outputPath }) {
