@@ -2,6 +2,9 @@
 layout: base.njk
 ---
 
-<article class="post">
-    {{ content | safe }}
-</article>
+<div class="content-area">
+    {% include "site-nav.njk" %}
+    <article class="post">
+        {{ content | safe }}
+    </article>
+</div>

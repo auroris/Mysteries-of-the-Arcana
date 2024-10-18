@@ -40,7 +40,7 @@ const eleventyPathPrefix = "/";
             // Replace smilies path
             cleanedText = cleanedText.replace(/http:\/\/mysteriesofthearcana\.com\/smilies\//g, `${eleventyPathPrefix}/smilies/`);
 
-            cleanedText = cleanedText.replace(/\*\*/g, '\*\*');
+            cleanedText = cleanedText.replace(/\{/g, '\\{');
 
             return cleanedText.trim();
         };
@@ -79,7 +79,7 @@ const eleventyPathPrefix = "/";
 
                 const mainAuthor = metadata.author;
                 const mainDate = moment(metadata.date, "MM-DD-YYYY").format("YYYY-MM-DD");
-                const blogTitle = metadata.title;
+                const blogTitle = $('h1').first().text().trim();
 
                 // Extract comments/replies
                 const replies = [];

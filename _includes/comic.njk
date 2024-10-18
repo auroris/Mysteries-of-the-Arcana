@@ -2,6 +2,7 @@
 layout: base.njk
 ---
 {% set comics = collections.comics %}
+{% set posts = collections.posts %}
 
 {% if latestComic %}
     {% set currentIndex = comics.indexOf(latestComic) %}
@@ -19,13 +20,38 @@ layout: base.njk
   {% set next = comics[currentIndex + 1] %}
 {% endif %}
 
+{% set currentComic = comics[currentIndex] %}
+{% set currentComicDate = currentComic.data.date %}
+
+{% if next %}
+  {% set nextComicDate = next.data.date %}
+{% else %}
+  {% set nextComicDate = null %}
+{% endif %}
 
 {% include "comic-nav.njk" %}
 
-<article class="comic">
-    {% if next %}<a href="{{ next.url }}">{% endif %}
-    {% Image "comics/" + page.fileSlug, alt %}
-    {% if next %}</a>{% endif %}
-</article>
+<div class="content-area">
+    {% include "site-nav.njk" %}
+    <article class="comic">
+        {% if next %}<a href="{{ next.url }}">{% endif %}
+        {% Image "comics/" + page.fileSlug, alt %}
+        {% if next %}</a>{% endif %}
+    </article>
+</div>
 
 {% include "comic-nav.njk" %}
+
+<div class="content-area">
+    {% for post in posts %}
+        {% if post.data.date >= currentComicDate and (not nextComicDate or post.data.date < nextComicDate) %}
+            <article class="post" style="margin-left: 122px;">
+                <h1 class="posttitle">{{ post.data.title }}</h1>
+                <div class="postmeta">Published on: <span class="date">{{ post.date | date }}</span> | Author: <span class="author">{{ post.data.author }}</span></div>
+                <div class="post-content">
+                    {{ post.rawInput | safe }}
+                </div>
+            </article>
+        {% endif %}
+    {% endfor %}
+</div>

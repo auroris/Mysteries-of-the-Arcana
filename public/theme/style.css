@@ -1,8 +1,21 @@
-.comic-nav {
-  margin-left: -30px;
+/* General Styles */
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
 }
 
-.comic-nav ul {
+.content-area {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  margin-right: 123px;
+}
+
+/* Navigation Styles */
+.comic-nav ul, .site-nav ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
@@ -11,18 +24,15 @@
 }
 
 .site-nav ul {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.comic-nav ul li { 
+.comic-nav ul li {
   margin-right: 15px;
 }
 
+/* Navigation Links */
 .comic-nav a, .site-nav a {
   display: block;
   position: relative;
@@ -31,6 +41,11 @@
   white-space: nowrap;
 }
 
+.site-nav a {
+  margin-bottom: 3px;
+}
+
+/* Specific Navigation Buttons */
 a.navfirst {
   height: 99px;
   width: 138px;
@@ -88,13 +103,13 @@ a.navhome {
   background: url('home.png') no-repeat;
 }
 
-a.navabout {
-  background: url('about.png') no-repeat;
-}
-
 a.navabout, a.navcast, a.navforum, a.navart, a.navextras, a.navlinks, a.navstore {
   height: 96px;
   width: 82px;
+}
+
+a.navabout {
+  background: url('about.png') no-repeat;
 }
 
 a.navcast {
@@ -113,7 +128,7 @@ a.navextras {
   background: url('extras.png') no-repeat;
 }
 
-a.navlinks { 
+a.navlinks {
   background: url('links.png') no-repeat;
 }
 
@@ -131,76 +146,37 @@ a.navadmin {
   background: url('admin.png') no-repeat;
 }
 
+/* Comic and Content Area Styles */
 article.comic {
   background: url('comicbg.png') no-repeat;
   width: 650px;
   padding: 12px 17px;
 }
 
-body {
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  align-items: center;
-}
-
-.content-container {
-  display: flex;
-  max-width: 1200px;
-}
-
-.site-nav {
-  width: 123px;
-  flex-shrink: 0;
-  margin-top: 100px;
-}
-
-.site-nav a {
-  margin-bottom: 3px;
-}
-
-.content-area {
-  flex-grow: 1;
-  margin-right: 123px;
-}
-
-article.post
-{
+/* Post Styles */
+article.post {
   background: url('notebookwhole.png') repeat-y;
   width: 590px;
   padding: 5px 5px 10px 55px;
 }
 
-.postheader {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
-}
-
-.postheader h1 {
-  margin-top: 10px;
-}
-
 .posttitle {
-    font-size: 2em;
-    margin-bottom: 10px;
-    color: #333;
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;
 }
 
 .postmeta {
-    font-size: 0.9em;
-    color: #666;
-    margin-bottom: 20px;
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 20px;
 }
 
+/* Table Styles within Articles */
 article table {
   width: 100%;
   border-collapse: collapse;
-  font-family: Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin-top: 20px;
 }
 
@@ -219,6 +195,10 @@ article tr:hover {
   background-color: #f9f9f9;
 }
 
+article tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
 article td a {
   color: #3498db;
   text-decoration: none;
@@ -226,8 +206,4 @@ article td a {
 
 article td a:hover {
   text-decoration: underline;
-}
-
-article tr:nth-child(even) {
-  background-color: #f5f5f5;
 }
