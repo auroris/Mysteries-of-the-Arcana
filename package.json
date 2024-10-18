@@ -5,14 +5,17 @@
     "type": "module",
     "scripts": {
         "prebuild": "node ./tools/utf8-preprocessor.cjs",
-        "build": "npx @11ty/eleventy && npm run lint:css && npm run build:css && npm run lint:html",
+        "build": "npm run prebuild && npm run build:dev && npm run lint:css && npm run build:css && npm run lint:html",
         "start": "npm run prebuild && npx @11ty/eleventy --serve --quiet",
         "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
         "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
         "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
         "lint:html": "htmlhint ./_site/**/*.html",
         "build:css": "postcss public/theme/*.css -d _site/theme",
-        "lint:css": "stylelint public/theme/*.css --fix"
+        "lint:css": "stylelint public/theme/*.css --fix",
+        "build:production": "cross-env RELATIVE_URL_ENABLE=false RELATIVE_URL_HTML=false HTML_MINIFIER=true npx @11ty/eleventy",
+        "build:production2": "cross-env RELATIVE_URL_ENABLE=true RELATIVE_URL_HTML=false HTML_MINIFIER=true npx @11ty/eleventy",
+        "build:dev": "cross-env RELATIVE_URL_ENABLE=true RELATIVE_URL_HTML=true HTML_MINIFIER=false npx @11ty/eleventy"
     },
     "engines": {
         "node": ">=20"
@@ -24,7 +27,9 @@
         "autoprefixer": "^10.4.20",
         "axios": "^1.7.7",
         "cheerio": "^1.0.0",
+        "cross-env": "^7.0.3",
         "cssnano": "^7.0.6",
+        "html-minifier-terser": "^7.2.0",
         "htmlhint": "^1.1.4",
         "iconv-lite": "^0.6.3",
         "jschardet": "^3.0.0",

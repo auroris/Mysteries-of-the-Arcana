@@ -8,6 +8,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import fs from 'fs/promises';
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
+import htmlmin from "html-minifier-terser";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -21,6 +22,11 @@ export default async function(eleventyConfig) {
         }
     });
 
+    eleventyConfig.setNunjucksEnvironmentOptions({
+        trimBlocks: true,      // Automatically remove newlines between blocks
+        lstripBlocks: true     // Automatically remove leading whitespace
+    });
+
     eleventyConfig.addPassthroughCopy({ "./public/": "/" });
 
     // Add files to Eleventy watch target
@@ -32,13 +38,34 @@ export default async function(eleventyConfig) {
     eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
     eleventyConfig.addPlugin(IdAttributePlugin);
 
-    eleventyConfig.addPlugin(eleventyPluginRelativeUrls);
-    eleventyConfig.addTransform("relativeUrlsTransform", async function (content, outputPath) {
-        if (outputPath && outputPath.endsWith(".html")) {
-            return await eleventyPluginRelativeUrls().html(content, { outputPath });
-        }
-        return content;
-    });
+    const relativeURLsEnable = process.env.RELATIVE_URL_ENABLE === "true";
+    const relativeURLsAssumeHtml = process.env.RELATIVE_URL_HTML === "true";
+    const htmlMinifier = process.env.HTML_MINIFIER === "true";
+
+    if (relativeURLsEnable) {
+        eleventyConfig.addPlugin(eleventyPluginRelativeUrls, { assumeIndexHtml: relativeURLsAssumeHtml });
+        eleventyConfig.addTransform("relativeUrlsTransform", async function (content, outputPath) {
+            if (outputPath && outputPath.endsWith(".html")) {
+                return await eleventyPluginRelativeUrls().html(content, { outputPath });
+            }
+            return content;
+        });
+    }
+
+    if (htmlMinifier) {
+        eleventyConfig.addTransform("htmlmin", async function (content, outputPath) {
+            if (outputPath && outputPath.endsWith(".html")) {
+                return await htmlmin.minify(content, {
+                    collapseWhitespace: true,
+                    removeComments: true,
+                    minifyCSS: true,
+                    minifyJS: true,
+                    useShortDoctype: true,
+                });
+            }
+            return content;
+        });
+    }
 
     eleventyConfig.addFilter("getNewestCollectionItemDate", (collection, emptyFallbackDate) => {
         if (!collection || !collection.length) {
