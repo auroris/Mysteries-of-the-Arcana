@@ -7,9 +7,16 @@ body {
   align-items: center;
 }
 
-.content-area {
+.content-h {
   display: flex;
   flex-direction: row;
+  flex-grow: 1;
+  margin-right: 123px;
+}
+
+.content-v {
+  display: flex;
+  flex-direction: column;
   flex-grow: 1;
   margin-right: 123px;
 }
@@ -206,4 +213,8 @@ article td a {
 
 article td a:hover {
   text-decoration: underline;
+}
+
+footer {
+  color: white;
 }

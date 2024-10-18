@@ -120,34 +120,19 @@ export default async function(eleventyConfig) {
         })
     );
 
-    // Add a collection for grouping posts by author
-    eleventyConfig.addCollection("groupedByAuthor", (collectionApi) => {
-        let authors = {};
+  eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {
+    // Convert dates to Luxon DateTime objects
+    const currentDate = DateTime.fromISO(currentComicDate);
+    const nextDate = nextComicDate ? DateTime.fromISO(nextComicDate) : null;
 
-        // Group posts by author using an object
-        collectionApi.getFilteredByTag("posts").forEach((item) => {
-            if (item.data.author) {
-                if (!authors[item.data.author]) {
-                    authors[item.data.author] = [];
-                }
-                authors[item.data.author].push(item);
-            }
-        });
+    // Filter the posts by comparing their dates
+    return posts.filter(post => {
+      const postDate = DateTime.fromISO(post.data.date);
 
-        // Convert the authors object to an array with sorted posts
-        let authorArray = Object.keys(authors).map((authorName) => {
-            return {
-                name: authorName,
-                posts: authors[authorName].sort((a, b) => {
-                    const numA = Number(a.fileSlug);
-                    const numB = Number(b.fileSlug);
-                    return numA - numB;
-                })
-            };
-        });
-
-        return authorArray;
+      // Return true if the post date falls within the required range
+      return postDate >= currentDate && (!nextDate || postDate < nextDate);
     });
+  });
 };
 
 export const config = {
