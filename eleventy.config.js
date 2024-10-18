@@ -103,12 +103,19 @@ export default async function(eleventyConfig) {
 
     eleventyConfig.addNunjucksAsyncShortcode("Image", async (src, alt, width = 650) => {
         const possibleExtensions = ["jpg", "png"];
-        const outputDir = resolve(process.cwd(), './_site/img'); // Use process.cwd() to get the correct working directory
+        const outputDir = resolve(process.cwd(), './_site/img'); // Use process.cwd() to get the working directory
+
+        // Check if the expected file exists
+        const checkFilePath = resolve(outputDir, '_.txt');
+        if (!existsSync(checkFilePath)) {
+            console.log(`Expected output directory: ${outputDir}`);
+            throw new Error(`Expected file ./_site/img/_.txt not found. Actual path: ${checkFilePath}`);
+        }
 
         let resolvedSrc;
         let fileExtension;
         for (const ext of possibleExtensions) {
-            const filePath = resolve(process.cwd(), `${src}.${ext}`); // Resolve based on current working directory
+            const filePath = resolve(process.cwd(), `${src}.${ext}`); // Resolve the path based on current working directory
             if (existsSync(filePath)) {
                 resolvedSrc = filePath;
                 fileExtension = ext;
