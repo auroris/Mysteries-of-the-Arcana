@@ -1,7 +1,7 @@
-{% set Posts = collections.Posts %}
+{% set posts = collections.posts %}
 
 {% set currentIndex = -1 %}
-{% for post in Posts %}
+{% for post in posts %}
   {% if post.url === page.url %}
     {% set currentIndex = loop.index0 %}
   {% endif %}
@@ -11,15 +11,15 @@
 {% set next = null %}
 
 {% if currentIndex > 0 %}
-  {% set prev = Posts[currentIndex - 1] %}
+  {% set prev = posts[currentIndex - 1] %}
 {% endif %}
 
-{% if currentIndex < Posts.length - 1 %}
-  {% set next = Posts[currentIndex + 1] %}
+{% if currentIndex < posts.length - 1 %}
+  {% set next = posts[currentIndex + 1] %}
 {% endif %}
 
-{% set first = Posts[0] %}
-{% set last = Posts[Posts.length - 1] %}
+{% set first = posts[0] %}
+{% set last = posts[posts.length - 1] %}
 
 <nav class="comic-nav">
 <ul>
