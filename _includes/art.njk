@@ -2,14 +2,14 @@
 layout: base.njk
 ---
 
-{% include "posts-nav.njk" %}
 <div class="content-h">
     {% include "site-nav.njk" %}
     <article class="post">
         <h1 class="posttitle">{{ title }}</h1>
-        <div class="postmeta">Published on: <span class="date">{{ date }}</span> | Author: <span class="author">{{ author }}</span></div>
+        <div class="postmeta">Artist: <span class="author">{{ artist }}</span></div>
         <div class="post-content">
             {{ content | safe }}
         </div>
+        {% Image "content/" + page.filePathStem, '' %}
     </article>
 </div>

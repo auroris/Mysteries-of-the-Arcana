@@ -4,6 +4,7 @@ title: 'Mysteries of the Arcana - Links'
 date: '2024-10-03'
 author: 'J Gray'
 ---
+
 <div style="text-align: center;">Mysteries of the Arcana is a member of SpiderForest, an amazing collection of webcomics. I recommend visiting them to find amazing webcomics to read.</div>
 <div style="text-align: center;">
   <a href="http://spiderforest.net/" class="" classname="" target="_blank" name="">

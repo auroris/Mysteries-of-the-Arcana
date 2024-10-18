@@ -40,9 +40,6 @@ export default async function(eleventyConfig) {
         return content;
     });
 
-    // Filters for template usage
-    eleventyConfig.addFilter("strToDate", (str) => new Date(str));
-
     eleventyConfig.addFilter("getNewestCollectionItemDate", (collection, emptyFallbackDate) => {
         if (!collection || !collection.length) {
             return emptyFallbackDate || new Date();
@@ -51,21 +48,20 @@ export default async function(eleventyConfig) {
     });
 
     eleventyConfig.addFilter("date", (dateObj, options = {}) => {
-        const { format = "yyyy-MM-dd", zone = "system" } = options;
+        const { format = "yyyy-LL-dd", zone = "utc" } = options;
 
         // Format examples:
+        // Usage: date({ format: "yyyy-LL-dd", zone: "utc" })
         // "readableDate": "dd LLLL yyyy" (e.g., 12 June 2023)
         // "htmlDateString": "yyyy-LL-dd" (e.g., 2023-06-12)
         // RFC3339 format: "yyyy-MM-dd'T'HH:mm:ss'Z'"
         // RFC822 format: "EEE, dd LLL yyyy HH:mm:ss Z" (e.g., Mon, 12 Jun 2023 12:34:56 +0000)
 
         if (format === "rfc3339") {
-            // Convert to RFC3339 format (e.g., 2023-06-12T12:34:56Z)
             return dateObj.toISOString().split(".")[0] + "Z";
         }
 
         if (format === "rfc822") {
-            // Convert to RFC822 format (e.g., Mon, 12 Jun 2023 12:34:56 +0000)
             return DateTime.fromJSDate(dateObj, { zone }).toFormat("EEE, dd LLL yyyy HH:mm:ss Z");
         }
 
@@ -88,7 +84,7 @@ export default async function(eleventyConfig) {
         let resolvedSrc;
         let fileExtension;
         for (const ext of possibleExtensions) {
-            const filePath = resolve(__dirname, "content", `${src}.${ext}`);
+            const filePath = resolve(__dirname, `${src}.${ext}`);
             if (existsSync(filePath)) {
                 resolvedSrc = filePath;
                 fileExtension = ext;
@@ -112,27 +108,19 @@ export default async function(eleventyConfig) {
         return `<img src="/img/${baseFileName}.${fileExtension}" width="${width}" alt="${alt}">`;
     });
 
-    eleventyConfig.addCollection("comics", (collectionApi) =>
-        collectionApi.getFilteredByTag("comics").sort((a, b) => {
-            const numA = Number(a.fileSlug);
-            const numB = Number(b.fileSlug);
-            return numA - numB;
-        })
-    );
+    eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {
+        // Convert dates to Luxon DateTime objects
+        const currentDate = DateTime.fromISO(currentComicDate);
+        const nextDate = nextComicDate ? DateTime.fromISO(nextComicDate) : null;
 
-  eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {
-    // Convert dates to Luxon DateTime objects
-    const currentDate = DateTime.fromISO(currentComicDate);
-    const nextDate = nextComicDate ? DateTime.fromISO(nextComicDate) : null;
+        // Filter the posts by comparing their dates
+        return posts.filter(post => {
+            const postDate = DateTime.fromISO(post.data.date);
 
-    // Filter the posts by comparing their dates
-    return posts.filter(post => {
-      const postDate = DateTime.fromISO(post.data.date);
-
-      // Return true if the post date falls within the required range
-      return postDate >= currentDate && (!nextDate || postDate < nextDate);
+            // Return true if the post date falls within the required range
+            return postDate >= currentDate && (!nextDate || postDate < nextDate);
+        });
     });
-  });
 };
 
 export const config = {

@@ -8,19 +8,19 @@ permalink: index.html
 
 {% include "comic-nav.njk" %}
 
-<div class="content-area">
+<div class="content-h">
     {% include "site-nav.njk" %}
     <article class="comic">
-        {% Image "comics/" + latestComic.fileSlug, alt %}
+        {% Image "content/comics/" + latestComic.fileSlug, alt %}
     </article>
 </div>
 
 {% include "comic-nav.njk" %}
 
-<div class="content-area">
+<div class="content-v">
     <article class="post" style="margin-left: 122px;">
         <h1 class="posttitle">{{ latestPost.data.title }}</h1>
-        <div class="postmeta">Published on: <span class="date">{{ latestPost.date | date }}</span> | Author: <span class="author">{{ latestPost.data.author }}</span></div>
+        <div class="postmeta">Published on: <span class="date">{{ latestPost.date | date() }}</span> | Author: <span class="author">{{ latestPost.data.author }}</span></div>
         <div class="post-content">
             {{ latestPost.rawInput | safe }}
         </div>

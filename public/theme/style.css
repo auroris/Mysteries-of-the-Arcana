@@ -167,6 +167,10 @@ article.post {
   padding: 5px 5px 10px 55px;
 }
 
+article.post img {
+  max-width: 590px;
+}
+
 .posttitle {
   font-size: 2em;
   margin-bottom: 10px;
@@ -217,4 +221,43 @@ article td a:hover {
 
 footer {
   color: white;
+}
+
+.gallery {
+  max-width: 590px; /* Adjust as needed */
+  margin: 0 auto;
+}
+
+.gallery ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center content in each row */
+}
+
+.gallery li {
+  width: 33%; /* Adjust to 25% for 4 items per row, or 33.33% for 3 items */
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.gallery li a {
+  text-decoration: none;
+  display: block;
+  height: 100%;
+}
+
+.gallery ul img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.gallery span {
+  display: block;
+  margin-top: auto;
 }
