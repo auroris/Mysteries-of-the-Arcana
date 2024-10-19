@@ -315,9 +315,10 @@ article.comic img {
      article.comic, article.post {
          width: 100%;
          padding: 5px;
-
-        /* Reduce padding on mobile */
-         background-color: white;
+    }
+    
+    article.post {
+        background-color: white;
     }
 
      article.comic img {

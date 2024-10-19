@@ -6,7 +6,7 @@ author: 'J Gray'
 permalink: '/art/gift/'
 ---
 
-{% set art = collections.gift %}
+{% set art = collections.gift | natsort %}
 
 <div class="gallery">
 <h1>Gift Art</h1>

@@ -6,7 +6,7 @@ author: 'J Gray'
 permalink: '/art/women/'
 ---
 
-{% set art = collections.women %}
+{% set art = collections.women | natsort %}
 
 <div class="gallery">
 

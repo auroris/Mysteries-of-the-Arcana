@@ -156,6 +156,45 @@ export default async function(eleventyConfig) {
         this.page[name] = content;
         return '';
     });
+
+    eleventyConfig.addFilter("natsort", (arr) => {
+        return arr.map(v => {
+            // Extract the filePathStem (or any other property you'd like to sort by)
+            let str = v.filePathStem;
+
+            let processedName = [];
+            for (let i = 0; i < str.length; i++) {
+                let isNum = Number.isInteger(Number(str[i]));
+                let j;
+                for (j = i + 1; j < str.length; j++) {
+                    if (Number.isInteger(Number(str[j])) != isNum) {
+                        break;
+                    }
+                }
+                processedName.push(isNum ? Number(str.slice(i, j)) : str.slice(i, j));
+                i = j - 1;
+            }
+            return { original: v, processedName: processedName };
+        }).sort((a, b) => {
+            let len = Math.min(a.processedName.length, b.processedName.length);
+            for (let i = 0; i < len; i++) {
+                if (a.processedName[i] != b.processedName[i]) {
+                    let isNumA = Number.isInteger(a.processedName[i]);
+                    let isNumB = Number.isInteger(b.processedName[i]);
+                    if (isNumA && isNumB) {
+                        return a.processedName[i] - b.processedName[i];
+                    } else if (isNumA) {
+                        return -1;
+                    } else if (isNumB) {
+                        return 1;
+                    } else {
+                        return a.processedName[i] < b.processedName[i] ? -1 : 1;
+                    }
+                }
+            }
+            return a.processedName.length - b.processedName.length;
+        }).map(v => v.original);
+    });
 };
 
 export const config = {

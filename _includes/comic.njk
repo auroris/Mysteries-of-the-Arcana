@@ -26,7 +26,7 @@ layout: base.njk
 
 {% setPageVar 'nextUrl' %}{{ next.url }}{% endsetPageVar %}
 
-{% include "comic-nav.njk" %}
+<div class="hide-mobile">{% include "comic-nav.njk" %}</div>
 
 <div class="content-h">
     {% include "site-nav.njk" %}

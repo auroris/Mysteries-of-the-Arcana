@@ -6,7 +6,7 @@ author: 'J Gray'
 permalink: '/art/audition/'
 ---
 
-{% set art = collections.audition %}
+{% set art = collections.audition | natsort %}
 
 <div class="gallery">
 <h1>Audition Pages</h1>

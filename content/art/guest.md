@@ -6,7 +6,7 @@ author: 'J Gray'
 permalink: '/art/guest/'
 ---
 
-{% set art = collections.arcana %}
+{% set art = collections.arcana | natsort %}
 
 <div class="gallery">
 <h1>Guest Art</h1>
