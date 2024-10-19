@@ -6,11 +6,11 @@ title: Mysteries of the Arcana - Archive
 <h1>Comics</h1>
 
 <table>
-<tr><th>Title</th><th>Author</th><th>Artist</th><th>Date</th></tr>
+<tr><th>Title</th><th class="hide-mobile">Author</th><th class="hide-mobile">Artist</th><th>Date</th></tr>
 {% for comic in collections.comics %}
   <tr><td><a href="{{ comic.url }}">{{ comic.data.title }}</a></td>
-  <td>{{ comic.data.author }}</td><td>{{ comic.data.artist }}</td>
-  <td>{{ comic.data.date }}</td>
+  <td class="hide-mobile">{{ comic.data.author }}</td><td class="hide-mobile">{{ comic.data.artist }}</td>
+  <td >{{ comic.data.date }}</td>
   </tr>
 {% endfor %}
 </table>
@@ -18,10 +18,10 @@ title: Mysteries of the Arcana - Archive
 <h1>Blog Posts</h1>
 
 <table>
-<tr><th>Title</th><th>Author</th><th>Date</th></tr>
+<tr><th>Title</th><th class="hide-mobile">Author</th><th>Date</th></tr>
 {% for post in collections.posts %}
   <tr><td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
-  <td>{{ post.data.author }}</td><td>{{ post.data.date }}</td>
+  <td class="hide-mobile">{{ post.data.author }}</td><td>{{ post.data.date }}</td>
   </tr>
 {% endfor %}
 </table>

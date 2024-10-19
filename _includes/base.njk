@@ -7,13 +7,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{{ title or metadata.title }}</title>
         <meta name="description" content="{{ description or metadata.description }}" />
+        <link rel="stylesheet" href="/theme/style.css" rel="preload">
         <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/rss.xml" type="application/rss+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}" />
         {% if author %}<meta name="author" content="{{ author }}">{% endif %}
         {% if artist %}<meta name="artist" content="{{ artist }}">{% endif %}
         <meta name="date" content="{{ date or latestComic.data.date }}">
-        <link rel="stylesheet" href="/theme/style.css">
+        {% block headAppend %}{% endblock %}
     </head>
     <body bgcolor="#000">
         <header class="logo-container">

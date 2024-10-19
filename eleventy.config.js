@@ -105,13 +105,6 @@ export default async function(eleventyConfig) {
         const possibleExtensions = ["jpg", "png"];
         const outputDir = resolve(process.cwd(), './_site/img'); // Use process.cwd() to get the working directory
 
-        // Check if the expected file exists
-        /*const checkFilePath = resolve(outputDir, '_.txt');
-        if (!existsSync(checkFilePath)) {
-            console.log(`Expected output directory: ${outputDir}`);
-            throw new Error(`Expected file ./_site/img/_.txt not found. Actual path: ${checkFilePath}`);
-        }*/
-
         let resolvedSrc;
         let fileExtension;
         for (const ext of possibleExtensions) {
@@ -139,7 +132,7 @@ export default async function(eleventyConfig) {
         await fs.copyFile(resolvedSrc, outputFilePath);
 
         // Return the <img> tag with the correct reference
-        return `<img src="/img/${baseFileName}.${fileExtension}" width="${width}" alt="${alt}">`;
+        return `<img src="/img/${baseFileName}.${fileExtension}" alt="${alt}" class="comic">`;
     });
 
     eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {

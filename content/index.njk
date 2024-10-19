@@ -6,19 +6,19 @@ permalink: index.html
 {% set latestComic = collections.comics | reverse | first %}
 {% set latestPost = collections.posts | reverse | first %}
 
-{% include "comic-nav.njk" %}
+<div class="hide-mobile">{% include "comic-nav.njk" %}</div>
 
 <div class="content-h">
     {% include "site-nav.njk" %}
     <article class="comic">
-        {% Image "content/comics/" + latestComic.fileSlug, alt %}
+        {% Image "content/comics/" + latestComic.fileSlug, latestComic.data.alt %}
     </article>
 </div>
 
 {% include "comic-nav.njk" %}
 
 <div class="content-v">
-    <article class="post" style="margin-left: 122px;">
+    <article class="post frontpage">
         <h1 class="posttitle">{{ latestPost.data.title }}</h1>
         <div class="postmeta">Published on: <span class="date">{{ latestPost.date | date() }}</span> | Author: <span class="author">{{ latestPost.data.author }}</span></div>
         <div class="post-content">

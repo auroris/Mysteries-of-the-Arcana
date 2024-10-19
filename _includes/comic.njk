@@ -24,6 +24,12 @@ layout: base.njk
   {% set nextComicDate = null %}
 {% endif %}
 
+{% block headAppend %}
+    {% if next %}
+        <link rel="prefetch" href="{{ next.url }}" />
+    {% endif %}
+{% endblock %}
+
 {% include "comic-nav.njk" %}
 
 <div class="content-h">
@@ -41,7 +47,7 @@ layout: base.njk
 
 <div class="content-v">
     {% for post in filteredPosts %}
-        <article class="post" style="margin-left: 122px;">
+        <article class="post">
             <h1 class="posttitle">{{ post.data.title }}</h1>
             <div class="postmeta">
                 Published on: <span class="date">{{ post.date | date() }}</span> | 
