@@ -1,0 +1,11 @@
+# Set caching for .jpg files
+/*.jpg
+  Cache-Control: public, max-age=31536000
+
+# Set caching for .png files
+/*.png
+  Cache-Control: public, max-age=31536000
+
+# Set caching for .css files
+/*.css
+  Cache-Control: public, max-age=31536000
