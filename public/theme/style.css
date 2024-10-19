@@ -161,6 +161,10 @@
      padding: 12px 17px;
 }
 
+article.comic img {
+    width: 650px;
+}
+
 /* Post Styles */
  article.post {
      background: url('notebookwhole.png') repeat-y;
