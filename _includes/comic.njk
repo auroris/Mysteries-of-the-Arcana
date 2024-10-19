@@ -24,11 +24,7 @@ layout: base.njk
   {% set nextComicDate = null %}
 {% endif %}
 
-{% block headAppend %}
-    {% if next %}
-        <link rel="prefetch" href="{{ next.url }}" />
-    {% endif %}
-{% endblock %}
+{% setPageVar 'nextUrl' %}{{ next.url }}{% endsetPageVar %}
 
 {% include "comic-nav.njk" %}
 

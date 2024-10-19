@@ -14,7 +14,7 @@
         {% if author %}<meta name="author" content="{{ author }}">{% endif %}
         {% if artist %}<meta name="artist" content="{{ artist }}">{% endif %}
         <meta name="date" content="{{ date or latestComic.data.date }}">
-        {% block headAppend %}{% endblock %}
+        {% if page.nextUrl %} <link rel="prerender" href="{{ page.nextUrl }}" /> {% endif %}
     </head>
     <body bgcolor="#000">
         <header class="logo-container">

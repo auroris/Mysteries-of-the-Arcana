@@ -148,6 +148,14 @@ export default async function(eleventyConfig) {
             return postDate >= currentDate && (!nextDate || postDate < nextDate);
         });
     });
+
+    // Usage:
+    // {% setPageVar 'foo' %} some foo content {% endsetPageVar %}
+    // {% if page.foo %} {{ page.foo }} {% endif %}
+    eleventyConfig.addPairedShortcode("setPageVar", function(content, name) {
+        this.page[name] = content;
+        return '';
+    });
 };
 
 export const config = {
