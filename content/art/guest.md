@@ -11,7 +11,7 @@ permalink: '/art/guest/'
 <div class="gallery">
 <h1>Guest Art</h1>
 <hr />
-<ul>
+<ul class="gallery-images">
 {% for item in art %}
     <li><a href="{{ item.filePathStem }}">{% Image "content/" + item.filePathStem, '' %}<span>{{ item.data.title }}</span></a></li>
 {% endfor %}
