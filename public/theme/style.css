@@ -271,6 +271,13 @@ ul.gallery-images span {
      margin-left: 122px;
 }
 
+@media (width <= 900px) {
+    .content-h, .content-v {
+         margin-right: 0;
+         padding: 0 10px;
+    }
+}
+
 /* Mobile Styles */
  @media (width <= 768px) {
      * {
@@ -279,15 +286,6 @@ ul.gallery-images span {
 
      body {
          overflow-x: auto;
-    }
-
-     .content-h, .content-v {
-         margin-right: 0;
-
-        /* Remove right margin */
-         padding: 0 10px;
-
-        /* Add padding for better spacing */
     }
 
      .content-h {
@@ -326,8 +324,6 @@ ul.gallery-images span {
 
      .gallery li {
          width: 100%;
-
-        /* Full width on mobile */
     }
 
      .site-nav a {
@@ -350,8 +346,6 @@ ul.gallery-images span {
 
      a.navabout:hover, a.navcast:hover, a.navforum:hover, a.navart:hover, a.navextras:hover, a.navlinks:hover, a.navstore:hover {
          background-position: 0 0;
-
-        /* Reset hover background positioning to fit the new button size */
     }
 
      .comic-nav ul {
