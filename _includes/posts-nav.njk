@@ -23,10 +23,10 @@
 
 <nav class="comic-nav">
 <ul>
-    <li><a href="{{ first.url }}" class="navfirst {% if prev %}navhasfirst{% endif %}">First</a></li>
-    <li><a href="{{ prev.url }}" class="navprev {% if prev %}navhasprev{% endif %}">Previous</a></li>
-    <li><a href="/archive" class="navarchive">Archive</a></li>
-    <li><a href="{{ next.url }}" class="navnext {% if next %}navhasnext{% endif %}">Next</a></li>
-    <li><a href="{{ last.url }}" class="navlast {% if next %}navhaslast{% endif %}">Last</a></li>
+    <li><a href="{{ first.url }}" class="navfirst {% if prev %}navhasfirst{% endif %}" aria-label="First post">First</a></li>
+    <li><a href="{{ prev.url }}" class="navprev {% if prev %}navhasprev{% endif %}" aria-label="Previous post">Previous</a></li>
+    <li><a href="/archive" class="navarchive" aria-label="Archive">Archive</a></li>
+    <li><a href="{{ next.url }}" class="navnext {% if next %}navhasnext{% endif %}" aria-label="Next post">Next</a></li>
+    <li><a href="{{ last.url }}" class="navlast {% if next %}navhaslast{% endif %}" aria-label="Last post">Last</a></li>
 </ul>
 </nav>

@@ -27,10 +27,10 @@
 
 <nav class="comic-nav">
 <ul>
-    <li><a href="{{ first.url }}" class="navfirst {% if prev %}navhasfirst{% endif %}">First</a></li>
-    <li><a href="{% if prev %}{{ prev.url }}{% else %}{{ first.url }}{% endif %}" class="navprev {% if prev %}navhasprev{% endif %}">Previous</a></li>
-    <li><a href="/archive" class="navarchive">Archive</a></li>
-    <li><a href="{% if next %}{{ next.url }}{% else %}{{ last.url }}{% endif %}" class="navnext {% if next %}navhasnext{% endif %}">Next</a></li>
-    <li><a href="{{ last.url }}" class="navlast {% if next %}navhaslast{% endif %}">Last</a></li>
+    <li><a href="{{ first.url }}" class="navfirst {% if prev %}navhasfirst{% endif %}" aria-label="First comic">First</a></li>
+    <li><a href="{% if prev %}{{ prev.url }}{% else %}{{ first.url }}{% endif %}" class="navprev {% if prev %}navhasprev{% endif %}" aria-label="Previous comic">Previous</a></li>
+    <li><a href="/archive" class="navarchive" aria-label="Archive">Archive</a></li>
+    <li><a href="{% if next %}{{ next.url }}{% else %}{{ last.url }}{% endif %}" class="navnext {% if next %}navhasnext{% endif %}" aria-label="Next comic">Next</a></li>
+    <li><a href="{{ last.url }}" class="navlast {% if next %}navhaslast{% endif %}" aria-label="Last comic">Last</a></li>
 </ul>
 </nav>

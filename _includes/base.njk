@@ -16,10 +16,12 @@
         <meta name="date" content="{{ date or latestComic.data.date }}">
         {% if page.nextUrl %} <link rel="prefetch" href="{{ page.nextUrl }}" /> {% endif %}
         <meta property="og:site_name" content="{{ metadata.title }}" />
+        <meta property="og:description" content="A journey through the multiverse inspired by tarot cards.">
+        <meta property="og:image" content="/theme/motalogo.png">
     </head>
     <body bgcolor="#000">
         <header class="logo-container">
-            <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" />
+            <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" aria-label="Logo" />
         </header>
         {{ content | safe }}
         <footer>Copyright 2008 - 2014 by J Gray</footer>
