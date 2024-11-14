@@ -97,7 +97,7 @@ const downloadDir = path.resolve(__dirname, '../content/comics');
       if (pageNum >= 319 && pageNum <= 406) { artist = "Gennifer"; }
 
       let author = "J Gray";
-      if (pageNum >= 751) { author = "verias"; }
+      if (pageNum >= 751) { author = "Keira"; }
 
       // Create metadata file
       const metadataContent = `---
