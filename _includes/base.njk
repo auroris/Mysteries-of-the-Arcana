@@ -16,7 +16,7 @@
         <meta name="date" content="{{ date or latestComic.data.date }}">
         {% if page.nextUrl %} <link rel="prefetch" href="{{ page.nextUrl }}" /> {% endif %}
         <meta property="og:site_name" content="{{ metadata.title }}" />
-        <meta property="og:description" content="A journey through the multiverse inspired by tarot cards.">
+        <meta property="og:description" content="{{ description or metadata.description }}">
         <meta property="og:image" content="/theme/motalogo.png">
     </head>
     <body bgcolor="#000">
