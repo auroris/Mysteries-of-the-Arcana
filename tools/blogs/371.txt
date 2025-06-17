@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>A tender moment</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    What is Theresa saying 'whoa' about? You'll find out next page. It'll be a pretty, pretty page, I promise you. One of those big splash pages comic books are so fond of.<br><br>I admit, the last few pages have been a little fluffy. In a normal comic book, this wouldn't have been a big deal. In a comic that only updates twice a week, it adds a lot of wait to the pacing. Thank you for sticking through it. <br><br>The page about the security measures the Inn has is foreshadowing. It will become important in the next chapter. The page about translation was something I've been meaning to explain since day one. This page? I thought you guys deserved a little tenderness between our favorite elf and gun nut. This is the last major Chrys and Theresa moment you'll get this chapter. Starting next week, we'll be getting into the Telling.<br><br>Don't forget the contest! Submit any MotA-inspired creative work, be it recipe or drawing, cosplay photo or music video, poem or custom made LEGO minifigures, to mysteriesofthearcana@gmail.com by the 15th or so. The three entries that Genn and I judge to best contain the MotA spirit will win their creators a prototype Mysteries of the Arcana tarot card! Please enter and validate our existence! :)<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    What is Theresa saying 'whoa' about? You'll find out next page. It'll be a pretty, pretty page, I promise you. One of those big splash pages comic books are so fond of.<br><br>I admit, the last few pages have been a little fluffy. In a normal comic book, this wouldn't have been a big deal. In a comic that only updates twice a week, it adds a lot of wait to the pacing. Thank you for sticking through it. <br><br>The page about the security measures the Inn has is foreshadowing. It will become important in the next chapter. The page about translation was something I've been meaning to explain since day one. This page? I thought you guys deserved a little tenderness between our favorite elf and gun nut. This is the last major Chrys and Theresa moment you'll get this chapter. Starting next week, we'll be getting into the Telling.<br><br>Don't forget the contest! Submit any MotA-inspired creative work, be it recipe or drawing, cosplay photo or music video, poem or custom made LEGO minifigures, to mysteriesofthearcana@gmail.com by the 15th or so. The three entries that Genn and I judge to best contain the MotA spirit will win their creators a prototype Mysteries of the Arcana tarot card! Please enter and validate our existence! :)<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/370/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/371/?do=view#com" class="info">1 comments</a><br><a href="/blog/372/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://taiyoutenshi.wordpress.com" target="_blank">Ayshara</a><br><span class="Comment_info">*Guest*</span></center><a name="1016">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a92f2826c887981e6f7dff4046f541ea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=371&amp;q=1016"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=371&amp;reply=1016"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> This info is what you should use now for contacting me concerning anything blog related. I changed things after switching from blogger.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="371"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the elephant from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="elephant"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

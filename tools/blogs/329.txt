@@ -1,87 +1,79 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Woosh!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Now, here's an interesting question. Everything we know about William's sword comes from Chrys. She has shown that details aren't always her strong point. Nor is paying attention to the words of other's. Is it possible she was wrong? Could it be that using the sword on so massive a scale is a bad idea?<br><br>What do you think?<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Now, here's an interesting question. Everything we know about William's sword comes from Chrys. She has shown that details aren't always her strong point. Nor is paying attention to the words of other's. Is it possible she was wrong? Could it be that using the sword on so massive a scale is a bad idea?<br><br>What do you think?<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/328/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/329/?do=view#com" class="info">6 comments</a><br><a href="/blog/330/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gillsing<br><span class="Comment_info">*Guest*</span></center><a name="832">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c475a2e6c7a75f96e3059a819f5fd4d9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=832"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=832"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gillsing"</span><br> It's a weapon of mass desuction! I have no idea what the negative side effects might be, but I just don't see how it could be controlled on such a massive scale. I can understand how it could be controlled if it only sucks in someone who's being hit by the blade, but when it starts to suck in everyone around the sword, that ought to include the wielder. Physically speaking, at least. But was it a sentient black hole? Or did I just make that up in my head? It sounds kind of familiar...</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="833">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=833"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=833"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Personally, if it's that or get ripped apart slowly and painfully ... i'll use the damn thing, on the theory that it <i>might</i> kill me ... but the horrors <i>will</i>, for sure.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>James Smith<br><span class="Comment_info">*Guest*</span></center><a name="834">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=834"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=834"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James Smith"</span><br> Any weapon of mass destruction is a bad thing, even if you have to use. It's suppose to be something NEVER meant to be used.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="835">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=835"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=835"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> It doesn't stop anyone from using it, the Death Star for example... *runs before getting lynched*<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Johan<br><span class="Comment_info">*Guest*</span></center><a name="836">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=53e4e1e3a84f641ce65dbebe63d77097&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=836"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=836"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Johan"</span><br> Well if I remember correctly, William has to contain !Gnab by sheer willpower every time he uses that attack. So using it on so many opponents at the same time might prove too draining. But as Fairportfan said, it's a choice between possible death and certain death so ... I don't think he is risking somebody else's life though, especially if the mission if for his own benefit.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="837">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;q=837"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=329&amp;reply=837"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Guest:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
 <span class="Forum_info">Guest post by "Gillsing"</span><br> It's a weapon of mass desuction! I have no idea what the negative side effects might be, but I just don't see how it could be controlled on such a massive scale. I can understand how it could be controlled if it only sucks in someone who's being hit by the blade, but when it starts to suck in everyone around the sword, that ought to include the wielder. Physically speaking, at least. But was it a sentient black hole? Or did I just make that up in my head? It sounds kind of familiar...</div></div>
-<br><br>Yeah the black hole is sentient. The only other time we've seen it released I think it was already implanted in an enemy. (!Gnab book 1) This time the blade is completely bared so it's sucking in everything around it.<br><p></p>
- <p class="Comment_text"></p><p></p>
+<br><br>Yeah the black hole is sentient. The only other time we've seen it released I think it was already implanted in an enemy. (!Gnab book 1) This time the blade is completely bared so it's sucking in everything around it.<br>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="329"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Choose the button with the rainbow on it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="rainbow"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Happy New Year!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>And here we are on the 2nd day of 2017! The new page is up and we find out more about the curse. I think it is obvious our current storyline is inspired heavily by the story of Beauty and the Beast. However, unlike the animated objects in the Disney movie, here our animated objects were ALWAYS animated objects. Their curse isn't their state of being but being enslaved to serve the fuzzy bastard for life.</p><p>This is all taking place in the Eight of Swords, by the way, an arcana where everyone is cursed in some way.</p><p>What will Mandrake do?!?</p><p>See you Thursday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And here we are on the 2nd day of 2017! The new page is up and we find out more about the curse. I think it is obvious our current storyline is inspired heavily by the story of Beauty and the Beast. However, unlike the animated objects in the Disney movie, here our animated objects were ALWAYS animated objects. Their curse isn't their state of being but being enslaved to serve the fuzzy bastard for life.</p><p>This is all taking place in the Eight of Swords, by the way, an arcana where everyone is cursed in some way.</p><p>What will Mandrake do?!?</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/692/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/693/?do=view#com" class="info">1 comments</a><br><a href="/blog/694/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2913">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=693&amp;q=2913"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=693&amp;reply=2913"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> light... bulb!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="693"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Cat is among the images, check it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,85 +1,77 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>The Calm Between the Storms</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Keith and I had a lot of fun playing with the tarot iconography in this one. The Fool is traditionally depicted as standing on a cliff. The Hermit is traditionally on a mountain. So, I figured, why couldn't the Hermit be above the Fool, looking down?</p><p>So, think the Wanderer and the Transformer are going to hug this one out?</p><p>In the meanwhile, Mysteries of the Arcana has gotten some more press! We were featured this weekend on <a href="http://www.bleedingcool.com/2014/01/18/mysteries-of-the-arcana-heading-towards-chapter-5/" target="_blank">Bleeding Cool</a>, one of the big name geek news websites! To celebrate what is, quite frankly, our biggest exposure to the world to date Keith and I are running a challenge for the Mysteries of the Arcana <a href="http://www.kickstarter.com/projects/355389852/mysteries-of-the-arcana-chapter-5" target="_blank">chapter 5 Kickstarter</a>.</p><p>If we hit $3,250 pledged by the end of Monday the 20th (or, more realistically, Tuesday morning when I wake up and do my morning internet checkup) we will add a Moon tarot card, featuring everyone's favorite cyberpunk fairy Mandrake, to every reward from the $10 level up. </p><p>I'd really love to give everyone a Mandrake based Moon tarot card so please do what you can to support the Kickstarter.</p><p>Thanks and see you Thursday for the next part of the Telling!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Keith and I had a lot of fun playing with the tarot iconography in this one. The Fool is traditionally depicted as standing on a cliff. The Hermit is traditionally on a mountain. So, I figured, why couldn't the Hermit be above the Fool, looking down?</p><p>So, think the Wanderer and the Transformer are going to hug this one out?</p><p>In the meanwhile, Mysteries of the Arcana has gotten some more press! We were featured this weekend on <a href="http://www.bleedingcool.com/2014/01/18/mysteries-of-the-arcana-heading-towards-chapter-5/" target="_blank">Bleeding Cool</a>, one of the big name geek news websites! To celebrate what is, quite frankly, our biggest exposure to the world to date Keith and I are running a challenge for the Mysteries of the Arcana <a href="http://www.kickstarter.com/projects/355389852/mysteries-of-the-arcana-chapter-5" target="_blank">chapter 5 Kickstarter</a>.</p><p>If we hit $3,250 pledged by the end of Monday the 20th (or, more realistically, Tuesday morning when I wake up and do my morning internet checkup) we will add a Moon tarot card, featuring everyone's favorite cyberpunk fairy Mandrake, to every reward from the $10 level up. </p><p>I'd really love to give everyone a Mandrake based Moon tarot card so please do what you can to support the Kickstarter.</p><p>Thanks and see you Thursday for the next part of the Telling!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/405/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/406/?do=view#com" class="info">6 comments</a><br><a href="/blog/407/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1203">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1203"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1203"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hug? No. Grapple? Maybe. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>I suppose the real challenge is, how do you trap an immortal in the heart of his world when he can do the same to you, and you both have experience trapping immortals who can't really fight back?<br><br>Probably not a problem for the Corrupter though, as he can just use his ability to see weaknesses, right?<br><br>Congratulations on reaching 80% before the end of monday! <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hug? No. Grapple? Maybe. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>I suppose the real challenge is, how do you trap an immortal in the heart of his world when he can do the same to you, and you both have experience trapping immortals who can't really fight back?<br><br>Probably not a problem for the Corrupter though, as he can just use his ability to see weaknesses, right?<br><br>Congratulations on reaching 80% before the end of monday! <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1204">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1204"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1204"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Managed to get enough cash to put some in for ya. Sorry it couldn't be more dude. Admitedly it was the Nightshade Card that won me over! &lt;3<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1205">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1205"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1205"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> *Mandrake Card! Ugh I need more coffee.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1206">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c36877dca7f2a5669657cff6d47669c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1206"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1206"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> *pours Adamas some of Dr. Toons Nuclear Coffee*<br>Uh... you may want to wear gloves and goggles for that.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1208">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1208"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1208"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> *Glug glug glug* Thanks!<br><br>And it's kind of a running joke. I've been calling her Nightshade almost since this comic started. No clue why. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> *Glug glug glug* Thanks!<br><br>And it's kind of a running joke. I've been calling her Nightshade almost since this comic started. No clue why. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1207">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;q=1207"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=406&amp;reply=1207"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">Gunsolo, I noticed you promoting us on a few forums. Thank you!</p><div><br></div><div>Adamas, thank you, too! I'm excited about the Mandrake card myself.</div><p></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">Gunsolo, I noticed you promoting us on a few forums. Thank you!</p><div><br></div><div>Adamas, thank you, too! I'm excited about the Mandrake card myself.</div>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="406"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Check the pumpkin.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="pumpkin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

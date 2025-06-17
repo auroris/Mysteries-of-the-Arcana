@@ -1,19 +1,11 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Home Again?</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>Of all the fantastical places we've gone in MotA, one place we haven't seen much of at all since Chapter 1 (minus the short stories), is our Earth. After some thinking, I decided it might be kinda fun to see Theresa standing back on familiar home ground, even basking a bit in the rain as she casts a backward glance to someone.</p><p>So, while we're still battling life things, enjoy this little peek at Theresa, back home again, in far better spirits than the first time we saw her.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Of all the fantastical places we've gone in MotA, one place we haven't seen much of at all since Chapter 1 (minus the short stories), is our Earth. After some thinking, I decided it might be kinda fun to see Theresa standing back on familiar home ground, even basking a bit in the rain as she casts a backward glance to someone.</p><p>So, while we're still battling life things, enjoy this little peek at Theresa, back home again, in far better spirits than the first time we saw her.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/742/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/743/?do=view#com" class="info">0 comments</a><br><a href="/blog/744/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="743"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The cat is the one to choose.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

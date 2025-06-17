@@ -1,30 +1,29 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Sorry sorry</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Sorry, folks. One of the realities of running a webcomic is that the artist's job is never full time. There are often many things more pressing and, quite frankly, more important for the continued survival and happiness of the creative team. In other words, sometimes life gets in the way of the comic. This was one of those weeks. I'm sorry we're only doing one comic this week instead of two.<br><br>As today's page reveals, this chapter is going to give you guys a LOT of information. You'll learn about the origin of the arcana, why keys ARE keys, and a little bit more about who the dreamers are. In addition, you'll learn more about the Royal Road. <br><br>Don't forget, we're running a contest. The details are in the last journal entry but they basics are that we're asking for fan art (drawings, poetry, stories, animations, cosplay photos... whatever bit of creativity tickles your fancy) and the top three that capture the spirit of the comic, as judged by me and Genn, will get a special prototype Mysteries of the Arcana tarot card! So far, we have no entries. I hope to get at least three by the deadline, which is mid-May.<br><br>See you next week!<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Sorry, folks. One of the realities of running a webcomic is that the artist's job is never full time. There are often many things more pressing and, quite frankly, more important for the continued survival and happiness of the creative team. In other words, sometimes life gets in the way of the comic. This was one of those weeks. I'm sorry we're only doing one comic this week instead of two.<br><br>As today's page reveals, this chapter is going to give you guys a LOT of information. You'll learn about the origin of the arcana, why keys ARE keys, and a little bit more about who the dreamers are. In addition, you'll learn more about the Royal Road. <br><br>Don't forget, we're running a contest. The details are in the last journal entry but they basics are that we're asking for fan art (drawings, poetry, stories, animations, cosplay photos... whatever bit of creativity tickles your fancy) and the top three that capture the spirit of the comic, as judged by me and Genn, will get a special prototype Mysteries of the Arcana tarot card! So far, we have no entries. I hope to get at least three by the deadline, which is mid-May.<br><br>See you next week!<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/367/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/368/?do=view#com" class="info">3 comments</a><br><a href="/blog/369/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1001">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f229b3040ccf161e8dccde95a915c80c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;q=1001"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;reply=1001"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Panel 3 - just subtle enough on the blush.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://greenfrostfire.deviantart.com/" target="_blank">Jasae Bushae</a><br><span class="Comment_info">*Guest*</span></center><a name="1002">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;q=1002"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;reply=1002"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jasae Bushae"</span><br> The origin of the arcana: my theory
 <br>
 <br>Once upon a time there was a smorgasboard of delicous pastries from croisants to eclairs to cupcakes and so forth. Then they decided the multiverse needed to be more awesome so they invented keys using kiwi filling and the arcana were made with apricot and the royal road was actually made by a sentient vat of rocky road ice cream thus creating the multiverse~
@@ -33,27 +32,20 @@
 <br>-
 <br>and if even a tenth of that is accurate i shall be amazed XD 
 <br>but anyways, woo~ this soundss like it will be an informative chapter ^^</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://taiyoutenshi.blogspot.com" target="_blank">Ayshara</a><br><span class="Comment_info">*Guest*</span></center><a name="1003">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;q=1003"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=368&amp;reply=1003"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Bushae: XD</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="368"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The hummingbird is the one to choose.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="hummingbird"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

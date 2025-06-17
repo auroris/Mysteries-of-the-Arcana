@@ -1,63 +1,55 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Sorry!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>This page should have gone up last Thursday but Keith was very, very ill and it took him most of the rest of the week to recover. He's feeling better, though!</p><p>If you will recall, Quest is convinced that the Baleful Gaze, whatever that may be, is watching the Royal Road for signs of the Dreamers. We know, for sure, that it is watching Chrys's dreamwalking - as she experienced last chapter.</p><p>So, will this mask Chrys's "scent"? Or will it simply let her give Theresa a goose?</p><p>What do you think?</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>This page should have gone up last Thursday but Keith was very, very ill and it took him most of the rest of the week to recover. He's feeling better, though!</p><p>If you will recall, Quest is convinced that the Baleful Gaze, whatever that may be, is watching the Royal Road for signs of the Dreamers. We know, for sure, that it is watching Chrys's dreamwalking - as she experienced last chapter.</p><p>So, will this mask Chrys's "scent"? Or will it simply let her give Theresa a goose?</p><p>What do you think?</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/552/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/553/?do=view#com" class="info">4 comments</a><br><a href="/blog/554/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2071">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;q=2071"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;reply=2071"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Oh, come on, Theresa - you know it's gonna happen eventually ...</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="2072">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;q=2072"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;reply=2072"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> I think Chrys is trying to combine strategy with snuggling. It would be interesting (and a bit funny) if she pulled off the double, so to speak...<img src=" http://mysteriesofthearcana.com/smilies/thumbsup.gif " border="0" alt=" ThumbsUp " hspace="2" vspace="2"></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> I think Chrys is trying to combine strategy with snuggling. It would be interesting (and a bit funny) if she pulled off the double, so to speak...<img src="//smilies/thumbsup.gif" border="0" alt=" ThumbsUp " hspace="2" vspace="2"></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2073">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;q=2073"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;reply=2073"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> It is a perfectly logical strategy. That said I'd be quite surprised if a goose or a nibble doesn't also happen.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2074">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;q=2074"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=553&amp;reply=2074"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Worst case scenario: They get to snuggle.<br><br>That or they'll exchange tiny parts of dna and both end up pregnant with each other's child.<br><br>That or they end up as a horrible mutant combination of both their bodies.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="553"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The airplane is the right one.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="airplane"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

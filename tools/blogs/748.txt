@@ -1,19 +1,11 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Some More Fun</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>Holiday Season is a rough time for most everyone, all the shopping, planning, family visitation, etc., and we're no exception.</p><p>As I'm writing this, a friend is visiting from out of town, and lots of that stuff tends to take up tons of time.</p><p>At the same time, I had a fun idea, kind of postulating the future, and what might happen if some years from now, Theresa and Chrys wound up running the inn. So here we have tavern Theresa. I will follow this up with a piece involving Chrys for another filler in the future, but keep it in mind!</p><p>See you guys next time!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Holiday Season is a rough time for most everyone, all the shopping, planning, family visitation, etc., and we're no exception.</p><p>As I'm writing this, a friend is visiting from out of town, and lots of that stuff tends to take up tons of time.</p><p>At the same time, I had a fun idea, kind of postulating the future, and what might happen if some years from now, Theresa and Chrys wound up running the inn. So here we have tavern Theresa. I will follow this up with a piece involving Chrys for another filler in the future, but keep it in mind!</p><p>See you guys next time!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/747/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/748/?do=view#com" class="info">0 comments</a><br><a href="/blog/749/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="748"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a panda.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="panda"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,41 +1,33 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Technical Difficulties</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt="JD"><br><span class="desc"><center>JD </center></span></div>    <p><span style="font-family: Comic Sans MS;"></span><em><strong><span style="font-family: Comic Sans MS;">Sorry!</span></strong></em></p><p>This site and a couple others on the network were being attacked by Chinese hackers, and I've been working to stop that for the past several weeks now.  There have been a couple of times the site was unavailable, and at least once when it was replaced with a Chinese news page. </p><p>So, after doing a revamp of most of the system that makes these sites tick, I believe I've managed to close the loophole the attackers were exploiting.  I also managed to break J's ability to upload a new comic. Oops.  Please forgive me, I think it's been corrected now and you can return to your regularly scheduled programming.</p>
+   <div id="avatar"><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt="JD"><br></div>    <p><span style="font-family: Comic Sans MS;"></span><em><strong><span style="font-family: Comic Sans MS;">Sorry!</span></strong></em></p><p>This site and a couple others on the network were being attacked by Chinese hackers, and I've been working to stop that for the past several weeks now.  There have been a couple of times the site was unavailable, and at least once when it was replaced with a Chinese news page. </p><p>So, after doing a revamp of most of the system that makes these sites tick, I believe I've managed to close the loophole the attackers were exploiting.  I also managed to break J's ability to upload a new comic. Oops.  Please forgive me, I think it's been corrected now and you can return to your regularly scheduled programming.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/678/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/679/?do=view#com" class="info">2 comments</a><br><a href="/blog/680/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2864">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=679&amp;q=2864"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=679&amp;reply=2864"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> I'd love to do a code audit. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p><div><br></div><div>There's some free mitigations you can perform based on what I can observe directly.</div><div><br></div><div>Cloudflare offers a free tier; they're okay for <a href="https://www.cloudflare.com/ddos/" class="" classname="" target="" name="">DDOS protection</a> - though you have to protect the server's actual IP address like a national secret. DDOS protection can't help if attackers can still DDOS the origin server.</div><div><br></div><div>Your admin panel's login, at least for MotA, is still not HTTPS. You can get free SSL certs through <a href="https://letsencrypt.org/" class="" classname="" target="" name="">Let's Encrypt</a>. Moreover, Google is making a big HTTPS push by <a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" class="" classname="" target="" name="">de-ranking sites</a> that don't offer SSL and adjusting their browser to display <a href="http://www.pcworld.com/article/3118164/security/google-chrome-to-start-marking-http-connections-as-insecure.html" class="" classname="" target="" name="">big scary warnings</a>. It's a good bet that other browser vendors will follow.</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> I'd love to do a code audit. <img src="//smilies/smile.gif" alt="Smile" border="0"></p><div><br></div><div>There's some free mitigations you can perform based on what I can observe directly.</div><div><br></div><div>Cloudflare offers a free tier; they're okay for <a href="https://www.cloudflare.com/ddos/" class="" classname="" target="" name="">DDOS protection</a> - though you have to protect the server's actual IP address like a national secret. DDOS protection can't help if attackers can still DDOS the origin server.</div><div><br></div><div>Your admin panel's login, at least for MotA, is still not HTTPS. You can get free SSL certs through <a href="https://letsencrypt.org/" class="" classname="" target="" name="">Let's Encrypt</a>. Moreover, Google is making a big HTTPS push by <a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" class="" classname="" target="" name="">de-ranking sites</a> that don't offer SSL and adjusting their browser to display <a href="http://www.pcworld.com/article/3118164/security/google-chrome-to-start-marking-http-connections-as-insecure.html" class="" classname="" target="" name="">big scary warnings</a>. It's a good bet that other browser vendors will follow.</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2865">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=679&amp;q=2865"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=679&amp;reply=2865"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Hey - if even the owner can't access it, it must be secure against hackers, too, right?</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="679"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Deer needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="deer"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,19 +1,11 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Samhain Night</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>This is it! Come our next regular update day (that would be Monday the 24th) we'll be starting chapter 5! I am really looking forward to it.</p><p>In the meanwhile, I wonder, how have you enjoyed the webcomic trailers? I'm pondering adding this as a regular addition to the Mysteries of the Arcana site. Perhaps something akin to webcomic Wednesdays? Where each Wednesday I give a shout out to another webcomic. What do you think? Is that something that would interest you guys? It would not interrupt regular content, of course.</p><p>Today's comic, by the way, is <a href="https://www.comic-rocket.com/explore/samhain-night/" target="_blank">Samhain Night</a>. Not only is the creator an amazing lady but this is one of the best takes of classic Celtic mythology and modern fantasy I've ever ready. I really recommend it.</p><p>See you tomorrow!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>This is it! Come our next regular update day (that would be Monday the 24th) we'll be starting chapter 5! I am really looking forward to it.</p><p>In the meanwhile, I wonder, how have you enjoyed the webcomic trailers? I'm pondering adding this as a regular addition to the Mysteries of the Arcana site. Perhaps something akin to webcomic Wednesdays? Where each Wednesday I give a shout out to another webcomic. What do you think? Is that something that would interest you guys? It would not interrupt regular content, of course.</p><p>Today's comic, by the way, is <a href="https://www.comic-rocket.com/explore/samhain-night/" target="_blank">Samhain Night</a>. Not only is the creator an amazing lady but this is one of the best takes of classic Celtic mythology and modern fantasy I've ever ready. I really recommend it.</p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/434/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/435/?do=view#com" class="info">0 comments</a><br><a href="/blog/436/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="435"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a butterfly.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="butterfly"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Return of Bricks of the Arcana</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>So, some good news and some bad news.</p><p>The good news is we're planning on starting up Bricks of the Arcana again. We're in a comfortable place where we can do that.</p><p>The bad news is that, for now, Bricks of the Arcana will be a patreon exclusive. Which means that people who are donating to the Patreon, no matter at what level, will get to see Bricks of the Arcana four times a month. Regular visitors to the site won't. </p><p>I hate doing this but that is the way the webcomic economy works, currently. We survive on the Patreon and there needs to be something to reward those people who help keep the comic going.</p><p>---</p><p>In other news, the comic is going to get a whole lot more... interesting over the next couple of weeks.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>So, some good news and some bad news.</p><p>The good news is we're planning on starting up Bricks of the Arcana again. We're in a comfortable place where we can do that.</p><p>The bad news is that, for now, Bricks of the Arcana will be a patreon exclusive. Which means that people who are donating to the Patreon, no matter at what level, will get to see Bricks of the Arcana four times a month. Regular visitors to the site won't. </p><p>I hate doing this but that is the way the webcomic economy works, currently. We survive on the Patreon and there needs to be something to reward those people who help keep the comic going.</p><p>---</p><p>In other news, the comic is going to get a whole lot more... interesting over the next couple of weeks.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/562/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/563/?do=view#com" class="info">5 comments</a><br><a href="/blog/564/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2128">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;q=2128"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;reply=2128"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Damn, oh well I fear my discretionary funds are pretty much tapped for the forseeable future anyway (my comp just finished it's long,slow,lingering death and needed to be replaced).<br><br>As for the comic...yeah from snow to Venus's Garden of Love...something smells odd and I don't mean the pheromones the girls are giving off!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Peaches<br><span class="Comment_info">*Guest*</span></center><a name="2129">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=804a5ed926f21aa257aeecc4133cfd45&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;q=2129"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;reply=2129"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Peaches"</span><br> Theresa sure takes a lot of convincing. Just go with the flow, girl.</p><div><br></div><div>It is a strange situation though, for sure. Embracing bushes, bearing fruit along Theresa's alignment... a devil's head apple and a pistol pomegranate? I'd wonder what the crap too.&nbsp;</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Peaches"</span><br> Theresa sure takes a lot of convincing. Just go with the flow, girl.</p><div><br></div><div>It is a strange situation though, for sure. Embracing bushes, bearing fruit along Theresa's alignment... a devil's head apple and a pistol pomegranate? I'd wonder what the crap too.&nbsp;</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2130">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=eadfaff19262636d50b2afcca4ef4582&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;q=2130"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;reply=2130"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Or is that supposed to be Chrys's head - what looks like sidewhiskers being her hair?</p><p>Tempting fruits in the form of symbolic representations of each one's object of affection - the pistol representing Theresa for Chrys and the elf-head representing Chrys for Theresa?</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Or is that supposed to be Chrys's head - what looks like sidewhiskers being her hair?</p><p>Tempting fruits in the form of symbolic representations of each one's object of affection - the pistol representing Theresa for Chrys and the elf-head representing Chrys for Theresa?</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="2131">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;q=2131"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;reply=2131"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">I'm loving the speculation, everyone. Keep it up. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">I'm loving the speculation, everyone. Keep it up. <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2132">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;q=2132"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=563&amp;reply=2132"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> I'm quite with Theresa on this one, truth be told. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>Wait: Is that a gun on the left?!<br></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> I'm quite with Theresa on this one, truth be told. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>Wait: Is that a gun on the left?!<br></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="563"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the penguin.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="penguin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

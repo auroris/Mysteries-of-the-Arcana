@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Poll Results</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>You just know Chrys was using her little girl voice for that panel. The one with just a hint of lip tremble. </p><p>So, here are the poll results!</p><p>Mandrake: 10</p><p>Chrys and Theresa: 9</p><p>Surgeon and Blue: 5</p><p>Chrys: 3</p><p>William: 3</p><p>Melody: 2</p><p>Kludge: 2</p><p>Circe: 2</p><p>Someone Else: 2</p><p>Theresa: 0</p><p>Wow, folks! What's wrong with Theresa that you don't want her to have a solo story?</p><p>I'll be announcing what stories we will be featuring in chapter 7 next week, first on the Patreon and then here.</p><p>See you next Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>You just know Chrys was using her little girl voice for that panel. The one with just a hint of lip tremble. </p><p>So, here are the poll results!</p><p>Mandrake: 10</p><p>Chrys and Theresa: 9</p><p>Surgeon and Blue: 5</p><p>Chrys: 3</p><p>William: 3</p><p>Melody: 2</p><p>Kludge: 2</p><p>Circe: 2</p><p>Someone Else: 2</p><p>Theresa: 0</p><p>Wow, folks! What's wrong with Theresa that you don't want her to have a solo story?</p><p>I'll be announcing what stories we will be featuring in chapter 7 next week, first on the Patreon and then here.</p><p>See you next Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/644/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/645/?do=view#com" class="info">5 comments</a><br><a href="/blog/646/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>crowbar<br><span class="Comment_info">*Guest*</span></center><a name="2778">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c43d6187a525c7c55c7f35ad53f06b8c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;q=2778"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;reply=2778"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "crowbar"</span><br> I don't think it's that readers don't want a story with Theresa; it's that you just finished a Theresa &amp; Chrys chapter, and some readers probably want a story with some of the character(s) we haven't seen in a while.&nbsp;</p><div><br></div><div>(Also, I voted for a solo Mandrake story because I think her picture speech-bubbles are hilarious.)</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "crowbar"</span><br> I don't think it's that readers don't want a story with Theresa; it's that you just finished a Theresa &amp; Chrys chapter, and some readers probably want a story with some of the character(s) we haven't seen in a while.&nbsp;</p><div><br></div><div>(Also, I voted for a solo Mandrake story because I think her picture speech-bubbles are hilarious.)</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2779">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;q=2779"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;reply=2779"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>Theresa is best as the-person-things-get-explained to.</p><p>All the rest of the cast pretty much know what's going on - Theresa is the cute newbie.</p><p>Now, a solo-Theresa-in-the-Devil story, maybe.</p><p>===============</p><p>If i were Chrys' mom right now, i'd be torn between grounding her until she's twenty-five and telling her how proud of her i was.</p><p>Or, perhaps, both. &nbsp;Consecutively.</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>Theresa is best as the-person-things-get-explained to.</p><p>All the rest of the cast pretty much know what's going on - Theresa is the cute newbie.</p><p>Now, a solo-Theresa-in-the-Devil story, maybe.</p><p>===============</p><p>If i were Chrys' mom right now, i'd be torn between grounding her until she's twenty-five and telling her how proud of her i was.</p><p>Or, perhaps, both. &nbsp;Consecutively.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Sario<br><span class="Comment_info">*Guest*</span></center><a name="2780">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=262f57b58e9b3c31a00a0e0decc8f28d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;q=2780"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;reply=2780"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sario"</span><br> It's not that I don't want a solo Theresa story, it's that I want a Blue and Surgeon story more right now.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Blaydewind<br><span class="Comment_info">*Guest*</span></center><a name="2781">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=2e0de89faee89266e99f7d984d66440d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;q=2781"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;reply=2781"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Blaydewind"</span><br> Rebus speech for the win!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>NoRAd<br><span class="Comment_info">*Guest*</span></center><a name="2782">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f53dcd540760289c537f2d5abd2f2222&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;q=2782"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=645&amp;reply=2782"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "NoRAd"</span><br> At first I thought William had his hand on Theresa's butt.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="645"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">A fish is among the buttons, please select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

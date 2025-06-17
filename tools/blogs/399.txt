@@ -1,54 +1,46 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Happy Holidays!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Sure looks like Theresa, Chrys &amp; William are having fun! Theresa's even got her own ugly Christmas sweater. Of course, Chrys wouldn't be caught dead in anything less than fashionable and William apparently has his own idea of holiday clothing.<div><br></div><div>Keith and I want to wish every reader of Mysteries of the Arcana, if not a Merry Christmas, than a wonderful day filled with joy and love. Thank you for sticking with us. Thank you for coming back after our hiatus. Thank you SO MUCH for believing in Mysteries of the Arcana.&nbsp;</div><div><br></div><div>Just a reminder, we're running a contest! The first four people to send me an email telling us the title of the page each quote said by Theresa and Chrys in our Kickstarter teaser trailer comes from will receive a prototype Theresa Devil tarot card. The contest is open to international readers.</div><div><br></div><div>In case you didn't see it,&nbsp;<a href="http://www.youtube.com/watch?v=ryxdm3KEw7c" class="" classname="" target="_blank" name="">the video is here.</a></div><div><br></div><div><b>And the email address you send your entry to is mysteriesofthearcana (at) gmail (dot) com.</b></div><div><br></div><div>I've only received one entry so far so there's three cards left to give out!</div><div><br></div><div>See you next Monday!</div>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Sure looks like Theresa, Chrys &amp; William are having fun! Theresa's even got her own ugly Christmas sweater. Of course, Chrys wouldn't be caught dead in anything less than fashionable and William apparently has his own idea of holiday clothing.<div><br></div><div>Keith and I want to wish every reader of Mysteries of the Arcana, if not a Merry Christmas, than a wonderful day filled with joy and love. Thank you for sticking with us. Thank you for coming back after our hiatus. Thank you SO MUCH for believing in Mysteries of the Arcana.&nbsp;</div><div><br></div><div>Just a reminder, we're running a contest! The first four people to send me an email telling us the title of the page each quote said by Theresa and Chrys in our Kickstarter teaser trailer comes from will receive a prototype Theresa Devil tarot card. The contest is open to international readers.</div><div><br></div><div>In case you didn't see it,&nbsp;<a href="http://www.youtube.com/watch?v=ryxdm3KEw7c" class="" classname="" target="_blank" name="">the video is here.</a></div><div><br></div><div><b>And the email address you send your entry to is mysteriesofthearcana (at) gmail (dot) com.</b></div><div><br></div><div>I've only received one entry so far so there's three cards left to give out!</div><div><br></div><div>See you next Monday!</div>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/398/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/399/?do=view#com" class="info">3 comments</a><br><a href="/blog/401/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1173">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;q=1173"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;reply=1173"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Gunsolo, Adamas! Merry Christmas to you as well! 
 <br>
 <br>And thanks, Adamas! Thank you for coming back to read the comic.</p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1171">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;q=1171"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;reply=1171"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gunsolo"</span><br> Merry Christmas!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1172">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;q=1172"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=399&amp;reply=1172"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Adamas"</span><br> Merry Christmas, and a (belated) welcome back guys!<br><br>I can see William thinking "This "Stocking", it is to keep one's muzzle warm, yes?"<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="399"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The violin is the right one.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="violin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

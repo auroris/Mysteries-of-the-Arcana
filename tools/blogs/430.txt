@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Kyria</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>I have a special place in my heart for webcomics that follow the traditional "adventuring party fantasy" trope but still find a way to break the mold. <a href="https://www.comic-rocket.com/explore/kyria/" target="_blank">Kyria</a> is just such a comic. It satisfies the D&amp;D itch but in ways that are unpredictable and fun. Give it a try!</p><p>I've finished designing the four tarot cards we'll be sending out as part of our Kickstarter rewards. These cards will also be for sale via our soon to debut store. The store should be up and running by the end of spring. Here's a taste of two of the cards:</p><p style="text-align: center;"><img src="/pics/2deb41556a7fbdb736e6ba4b27574259.png" alt="" style="width: 181px;"> <img src="/pics/5104b9d31a4f0d42d8be6f2af0747ab3.png" alt="" style="width: 181px;"></p><p>See y'all tomorrow!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>I have a special place in my heart for webcomics that follow the traditional "adventuring party fantasy" trope but still find a way to break the mold. <a href="https://www.comic-rocket.com/explore/kyria/" target="_blank">Kyria</a> is just such a comic. It satisfies the D&amp;D itch but in ways that are unpredictable and fun. Give it a try!</p><p>I've finished designing the four tarot cards we'll be sending out as part of our Kickstarter rewards. These cards will also be for sale via our soon to debut store. The store should be up and running by the end of spring. Here's a taste of two of the cards:</p><p style="text-align: center;"><img src="/pics/2deb41556a7fbdb736e6ba4b27574259.png" alt="" style="width: 181px;"> <img src="/pics/5104b9d31a4f0d42d8be6f2af0747ab3.png" alt="" style="width: 181px;"></p><p>See y'all tomorrow!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/429/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/430/?do=view#com" class="info">1 comments</a><br><a href="/blog/431/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://zukahnaut.com/" target="_blank">Otty</a><br><span class="Comment_info">*Guest*</span></center><a name="1290">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=96803cd37431cbd526ee4e238b794a17&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=430&amp;q=1290"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=430&amp;reply=1290"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Otty"</span><br> I love Kyria! Great comic by a talented artist.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="430"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">A horse is among the buttons, please select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

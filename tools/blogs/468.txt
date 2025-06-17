@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>William Shirtless No More</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p><strong>Hidden Name</strong>: Coyotzin</p><hr><p>And now, William puts on his shirt. This chapter was an interesting writing experiment with me. Chapters 1 and 2 were told entirely from one point of view. The cameras never left Theresa. Chapter 3 was told from two points of view - Theresa and William and Chrys and Mandrake, switching back and forth between them. There were two wanderings; one to Melody and Kludge and one to Surgeon and Blue but both were brief larks. Chapter 4 was either Theresa's view point or the Telling itself. </p><p>But chapter 5? It switches scenes regularly and is more location based than character based. From the garage to the Inn's taproom and back again. Now we're changing the two locations a bit. Chrys and Theresa need to go to the taproom while Mandrake and William will be outside the Inn. Keith will like that - when our scenes are outside in the Fool there's no backgrounds to draw!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Name</strong>: Coyotzin</p><hr><p>And now, William puts on his shirt. This chapter was an interesting writing experiment with me. Chapters 1 and 2 were told entirely from one point of view. The cameras never left Theresa. Chapter 3 was told from two points of view - Theresa and William and Chrys and Mandrake, switching back and forth between them. There were two wanderings; one to Melody and Kludge and one to Surgeon and Blue but both were brief larks. Chapter 4 was either Theresa's view point or the Telling itself. </p><p>But chapter 5? It switches scenes regularly and is more location based than character based. From the garage to the Inn's taproom and back again. Now we're changing the two locations a bit. Chrys and Theresa need to go to the taproom while Mandrake and William will be outside the Inn. Keith will like that - when our scenes are outside in the Fool there's no backgrounds to draw!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/467/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/468/?do=view#com" class="info">1 comments</a><br><a href="/blog/469/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1484">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=468&amp;q=1484"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=468&amp;reply=1484"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Now now Mandrake, let's not start splitting hairs. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Now now Mandrake, let's not start splitting hairs. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="468"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You are looking for the heart from the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="heart"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

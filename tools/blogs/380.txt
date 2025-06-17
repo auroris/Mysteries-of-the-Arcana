@@ -1,52 +1,44 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Contest over</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    The contest is over and we had some very nice entries. I will be posting results soon. Thank you to everyone who entered!<br><br>I'm sorry about today's page being late. It should have gone up last Friday but there were email problems compounded by a very busy weekend. The next new page should come Thursday/Friday, putting us back on schedule.<br><br>In the meanwhile, I have a special favor to ask everyone. The truth is, Mysteries of the Arcana's numbers have fallen. Not as many people are reading the comic now as they were a year ago. Part of this is due to a lack of advertising and I need to firm that up on my end. However, the best advertising for a webcomic is word of mouth. If everyone recommends the comic to a friend or two, that would be great. Some posting on forums and blogs would also be fantastic. A real, fan driven rush of publicity for Mysteries of the Arcana would be goddess sent. So, please, help us out. Thank you very much.<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    The contest is over and we had some very nice entries. I will be posting results soon. Thank you to everyone who entered!<br><br>I'm sorry about today's page being late. It should have gone up last Friday but there were email problems compounded by a very busy weekend. The next new page should come Thursday/Friday, putting us back on schedule.<br><br>In the meanwhile, I have a special favor to ask everyone. The truth is, Mysteries of the Arcana's numbers have fallen. Not as many people are reading the comic now as they were a year ago. Part of this is due to a lack of advertising and I need to firm that up on my end. However, the best advertising for a webcomic is word of mouth. If everyone recommends the comic to a friend or two, that would be great. Some posting on forums and blogs would also be fantastic. A real, fan driven rush of publicity for Mysteries of the Arcana would be goddess sent. So, please, help us out. Thank you very much.<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/379/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/380/?do=view#com" class="info">3 comments</a><br><a href="/blog/381/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><span class="Comment_info">*Guest*</span></center><a name="1051">&nbsp;</a></span><br>
-<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;q=1051"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;reply=1051"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Anonymous"</span><br>   </p><p class="MsoNormal">I highly recommend linking/discussing MotA in comic/webcomic communities and stories/videos.<span style="mso-spacerun:yes">&nbsp; </span>A post flaunting MotA in a community blog may work wonders.</p><p class="MsoNormal">Also, I am very pleased with this latest story arc :-)<br></p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Anonymous"</span><br>   </p><p class="MsoNormal">I highly recommend linking/discussing MotA in comic/webcomic communities and stories/videos.<span style="mso-spacerun:yes">&nbsp; </span>A post flaunting MotA in a community blog may work wonders.</p><p class="MsoNormal">Also, I am very pleased with this latest story arc :-)<br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Looney<br><span class="Comment_info">*Guest*</span></center><a name="1056">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=366d703e2f254218c4f08bbc89455e06&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;q=1056"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;reply=1056"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Looney"</span><br> Another major problem is the random hiatuses. Yes, I know there's nothing you can do about artists quitting, getting sick, etc., but whenever a comic fails to maintain its announced update schedule, it turns away readership.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>smilr<br><span class="Comment_info">*Guest*</span></center><a name="1059">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=473bf2cda817168808fe98bbe34c711a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;q=1059"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=380&amp;reply=1059"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "smilr"</span><br> Someone linked an image tagged with the "mysteries of the arcana" name in the Misfile comic forums. I'm not sure if it was a commission, filler or fanart - it showed your protagonists in a dress and tux'. Inrigued, I googled for and found your comic! I've only gotten a little way into the archives, but I'm enjoying the comic already!</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="380"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the penguin from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="penguin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

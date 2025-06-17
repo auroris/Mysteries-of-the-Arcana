@@ -1,30 +1,29 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Well...</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Mandrake isn't magically changing sizes here. There's some forced perspective going on as she moves closer to and farther away from the "camera". :)<br><br>My rule of thumb with Mandrake's "picture speech" is to express the meaning, not the spelling. A thumbs up meaning yes. A sun meaning hello. A smiley face meaning happy. However, some words are incredibly hard to translate into images that can be quickly and easily understood by everyone. 'Well' and 'I dunno know' are a case in point. Thus, for this one time, in panel 2, I expressed the spelling of a word and not the meaning of the word. I hope you all can forgive me.<br><br>On another note, this is the last comic of 2011! We'll be continuing the story next year, of course. <br><br>With that in mind, I ask the readers an important question: What do you want from Mysteries of the Arcana next year? Something related to the story? A trade edition? A new website? Bonus features? Let us know what would help keep you here. The turmoil of artistic changes this year lost us quite a few readers. I don't intend to pander, of course, but I do need to start growing this comic again.<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Mandrake isn't magically changing sizes here. There's some forced perspective going on as she moves closer to and farther away from the "camera". :)<br><br>My rule of thumb with Mandrake's "picture speech" is to express the meaning, not the spelling. A thumbs up meaning yes. A sun meaning hello. A smiley face meaning happy. However, some words are incredibly hard to translate into images that can be quickly and easily understood by everyone. 'Well' and 'I dunno know' are a case in point. Thus, for this one time, in panel 2, I expressed the spelling of a word and not the meaning of the word. I hope you all can forgive me.<br><br>On another note, this is the last comic of 2011! We'll be continuing the story next year, of course. <br><br>With that in mind, I ask the readers an important question: What do you want from Mysteries of the Arcana next year? Something related to the story? A trade edition? A new website? Bonus features? Let us know what would help keep you here. The turmoil of artistic changes this year lost us quite a few readers. I don't intend to pander, of course, but I do need to start growing this comic again.<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/342/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/343/?do=view#com" class="info">6 comments</a><br><a href="/blog/344/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ketira<br><span class="Comment_info">*Guest*</span></center><a name="880">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=9cd07edfe0782d9dd7da5aadaca6da01&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=880"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=880"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ketira"</span><br> <font face="Verdana" size="2">Re: comic - Why belabor over one word if it's conveyed the way everyone will understand? &nbsp;I understood Mandrake just fine.... &nbsp;</font></p><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Re: Website as a whole - I'm not sure what others want, but here's my list:</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">* Create a buffer so that you have a consistent update to the comic no matter what. &nbsp;(This is what the pros do; if you want an example, talk to Howard Tayler of &nbsp;<i>Schlock Mercenary</i>.)</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">* More advertising of the site out on the Internet. &nbsp;I see ads for other sites I read out there, yet I haven't seen any ads for yours at all. &nbsp;How are you going to get readers if you don't get the word out?</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">*Incentives - voting: maybe some sketches of possible future ideas/storyline?</font></div><div><font face="Verdana" size="2">site: start small (i.e: mugs, buttons, etc.) and go from there.</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Mind you, these are only suggestions; &nbsp;<b>you</b> asked us for ideas, and I'm giving you mine.</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Happy New 2012!</font></div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ketira"</span><br> <font face="Verdana" size="2">Re: comic - Why belabor over one word if it's conveyed the way everyone will understand? &nbsp;I understood Mandrake just fine.... &nbsp;</font></p><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Re: Website as a whole - I'm not sure what others want, but here's my list:</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">* Create a buffer so that you have a consistent update to the comic no matter what. &nbsp;(This is what the pros do; if you want an example, talk to Howard Tayler of &nbsp;<i>Schlock Mercenary</i>.)</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">* More advertising of the site out on the Internet. &nbsp;I see ads for other sites I read out there, yet I haven't seen any ads for yours at all. &nbsp;How are you going to get readers if you don't get the word out?</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">*Incentives - voting: maybe some sketches of possible future ideas/storyline?</font></div><div><font face="Verdana" size="2">site: start small (i.e: mugs, buttons, etc.) and go from there.</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Mind you, these are only suggestions; &nbsp;<b>you</b> asked us for ideas, and I'm giving you mine.</font></div><div><font face="Verdana" size="2"><br></font></div><div><font face="Verdana" size="2">Happy New 2012!</font></div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://z15.invisionfree.com/Byako_City/" target="_blank">Jasae Bushae</a><br><span class="Comment_info">*Guest*</span></center><a name="881">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=881"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=881"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jasae Bushae"</span><br> Aaaah~ i confess i had been wondering about mandrake XD i was beginning to think she developed size changing powers ^_^
 <br>
 <br>
@@ -38,64 +37,57 @@
 <br>
 <br>Ketira has a good point though on one thing ^_^; your comic could be better advertised.
 <br>Perhaps you could try link exchanges with other webcomics in an effort to bring more people over here?</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Tyr<br><span class="Comment_info">*Guest*</span></center><a name="882">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fe04dd09f9a3a3677ee92db090e27ddb&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=882"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=882"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Tyr"</span><br> just from an art point of view, I like the coloring, but I think maybe before you draw the lineart, you might want to draw guides and rough it out first. but yeah. I understand that this is being put out under deadlines. It's just that I think it might help get more consistant results and eventually make it easier to draw more quickly.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JSmith<br><span class="Comment_info">*Guest*</span></center><a name="883">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=883"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=883"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JSmith"</span><br> "Well"-- clever.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="884">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=884"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=884"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Jasae: By Trade Edition J means a printed copy.<br><br>I agree with the link exchanges, another thing your readers can do as well is tweet your account as part of a #FF. (Yes, I will keep doing this, just let me know if it's helped you at all) Also, I wrote a short back before the truth about Debbie got revealed. Did you need it again so you can upload it to the site?<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://z15.invisionfree.com/Byako_City/" target="_blank">Jasae Bushae</a><br><span class="Comment_info">*Guest*</span></center><a name="887">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;q=887"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=343&amp;reply=887"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jasae Bushae"</span><br> ah i see, thanks ayshara for clearing that up ^^
 <br>hmm...to answer that question I think it would be awfully neat but it might be a bad idea at this time to have a trade edition. at least not until you have picked up the comics popularity a bit ^^;
 <br>
 <br>
 <br>wells i dont tweet but i can spread the word ^^</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="343"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The button to select is elephant.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="elephant"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,130 +1,122 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Windows 10</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Yesterday, I started my upgrade to Windows 10.</p><p>My laptop overheated and shut down.</p><p>I retried.</p><p>My laptop overheated and shut down.</p><p>On the third try I put my laptop on stilts so the vents weren't blocked and set two cold packs on it.</p><p>The third try worked. It took about three hours to fully update.</p><p>I'm enjoying Windows 10 so far. The interface is clean and stylish. It doesn't seem to move slower and Cortana is a blast to play with.</p><p>What about you? Are you upgrading? Assuming you have a Windows machine, of course.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Yesterday, I started my upgrade to Windows 10.</p><p>My laptop overheated and shut down.</p><p>I retried.</p><p>My laptop overheated and shut down.</p><p>On the third try I put my laptop on stilts so the vents weren't blocked and set two cold packs on it.</p><p>The third try worked. It took about three hours to fully update.</p><p>I'm enjoying Windows 10 so far. The interface is clean and stylish. It doesn't seem to move slower and Cortana is a blast to play with.</p><p>What about you? Are you upgrading? Assuming you have a Windows machine, of course.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/555/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/556/?do=view#com" class="info">19 comments</a><br><a href="/blog/557/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2080">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2080"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2080"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">I have two machines, a workstation and a gaming computer. Both are  registered for Windows 10. Both inform me that Windows 10 is being  rolled out in waves, and I'll be notified when my wave is ready... but  not yet.&nbsp; I'm sure I'll be notified at least a second before my wave  crushes me into Narn dung. I look forward to it <img alt=" ThumbsUp " src="http://mysteriesofthearcana.com/smilies/thumbsup.gif" hspace="2" border="0" vspace="2"><br><br>&nbsp; On a side note: Say J, have you explored your admin dashboard yet? Eh?</p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">I have two machines, a workstation and a gaming computer. Both are  registered for Windows 10. Both inform me that Windows 10 is being  rolled out in waves, and I'll be notified when my wave is ready... but  not yet.&nbsp; I'm sure I'll be notified at least a second before my wave  crushes me into Narn dung. I look forward to it <img alt=" ThumbsUp " src="//smilies/thumbsup.gif" hspace="2" border="0" vspace="2"><br><br>&nbsp; On a side note: Say J, have you explored your admin dashboard yet? Eh?</p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2081">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2081"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2081"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Unsure as of yet. If I'll update, it definitely won't be until near end of the year at the least though. That gives them some time to find and correct some more bugs.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Seth<br><span class="Comment_info">*Guest*</span></center><a name="2082">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0e040e0267f89dadad160beaa876a3d0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2082"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2082"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Seth"</span><br> I plan to install it on my desktop, try it out, and then maybe install it on my laptop (which would be more of a pain, because I'd need to expand the C drive first) if I like it or roll back to 7 if I decide it's a terrible OS.</p><div><br></div><div>By the way, anyone know why I keep getting redirected from this site to some gardening website? &nbsp;It's been happening for a few weeks now.</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Seth"</span><br> I plan to install it on my desktop, try it out, and then maybe install it on my laptop (which would be more of a pain, because I'd need to expand the C drive first) if I like it or roll back to 7 if I decide it's a terrible OS.</p><div><br></div><div>By the way, anyone know why I keep getting redirected from this site to some gardening website? &nbsp;It's been happening for a few weeks now.</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="2086">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2086"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2086"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">Seth, that is odd. I'll ask if anyone else is having that trouble.</p><div><br></div><div>JD, any ideas?</div><p></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">Seth, that is odd. I'll ask if anyone else is having that trouble.</p><div><br></div><div>JD, any ideas?</div>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2092">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2092"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> I just hit it coming to this page to read the comments, actually.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2087">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2087"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2087"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">MysteriesoftheOrganics?<br><br>Yeah, it sounds like an ad redirect, most likely from a toolbar or some addon. Ads are targeted to preferences and past activity, so somewhere along the line you must have had a passing interest in gardening... or you've got a bug. Possibly a worm.<br><br>You can try disabling redirects in your browser, which may have the effect of you having to approve any page redirect, like after posting a comment here. You could also uninstall toolbars and disable browser addons. Probably not a virus, unless the gardening site is trying to sow seeds of corruption in your computer. Disabling redirects and addons should be pretty simple in Chrome or Firefox. If you're using Internet Explorer, well, the dark lord already has its claws in your soul.<br><br>Hope this helps! <img alt=" Reading " src=" http://mysteriesofthearcana.com/smilies/read.gif " hspace="2" border="0" vspace="2"><br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">MysteriesoftheOrganics?<br><br>Yeah, it sounds like an ad redirect, most likely from a toolbar or some addon. Ads are targeted to preferences and past activity, so somewhere along the line you must have had a passing interest in gardening... or you've got a bug. Possibly a worm.<br><br>You can try disabling redirects in your browser, which may have the effect of you having to approve any page redirect, like after posting a comment here. You could also uninstall toolbars and disable browser addons. Probably not a virus, unless the gardening site is trying to sow seeds of corruption in your computer. Disabling redirects and addons should be pretty simple in Chrome or Firefox. If you're using Internet Explorer, well, the dark lord already has its claws in your soul.<br><br>Hope this helps! <img alt=" Reading " src="//smilies/read.gif" hspace="2" border="0" vspace="2"><br></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>verias</center><a name="2088">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e3c6cf33692a98b575c642080d14c26a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2088"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Actually, it's happened to me, also. Same site, same odd redirect, typically after clicking on some outgoing link and opening it in a new tab (like comments) the main tab redirects to the gardening site.</p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2089">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2089"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Really?&nbsp; Ok, strange. I'll go code diving then. <br><br>Possible it's a malware site infection, some unauthorized file was written to the site by a hacker... but a gardening site?&nbsp; And why so rare?<br><br>Specific instances of occurrence would be helpful, such as "after visiting Y page I clicked on X link and..."&nbsp; What you were wearing when it happened isn't needed, but pretty much everything else.<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Seth<br><span class="Comment_info">*Guest*</span></center><a name="2090">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0e040e0267f89dadad160beaa876a3d0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2090"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Seth"</span><br> I use an RSS aggregator that opens unread items in tabs, so every update, it opens one tab for the comic and one tab for the blog post. &nbsp;And every time recently, one of those goes to the right place, and the other gets redirected. &nbsp;I'll see what I can do about checking for problems on my end.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2091">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2091"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Thanks.<br><br>I've been over every file and redirect in the system, and can find nothing that would send someone to a gardening site.&nbsp; All redirects, except a couple aimed at spammers, go to another portion of this same site.&nbsp; The only thing I could think of that would cause a redirect intermittently would be an ad redirect, originating from one of the ad services on the site.&nbsp; No other site on the network is experiencing this, as far as I can tell. I also checked the files on the site, and don't see anything unexpected.<br><br>More and more ad servers are using pop-overs, slide outs and redirects to put ads in your face because people are ignoring the ads.&nbsp; I've noticed on a couple of other comic sites if I open the comments, especially in a new tab, I get a pop-under window with a survey, supposedly from my internet provider.<br><br>That's the only thing I can come up with, because in over a hundred thousand lines of code, that I personally wrote, there isn't anything that should send someone to a gardening site.<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="556"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">See pumpkin among the buttons?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="pumpkin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr><tr></tr></tbody></table>
 <!-- End main content -->
               </div>
 
@@ -132,114 +124,107 @@
 
 <div>
 <!-- Main content here -->
-<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2095">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2095"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Personally, i'm suspecting a DNS problem - i not only get it when going to the comments (occasionally) but i also get it when i click my MotA bookmark.</p><p>I'm using Opera 12.16 on 64-bit Windows 10 - was W7 when this started, and this is the only site i get this happening when i try to access it, and it's intermittent ... and always to the same site.</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Personally, i'm suspecting a DNS problem - i not only get it when going to the comments (occasionally) but i also get it when i click my MotA bookmark.</p><p>I'm using Opera 12.16 on 64-bit Windows 10 - was W7 when this started, and this is the only site i get this happening when i try to access it, and it's intermittent ... and always to the same site.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Marika Oniki<br><span class="Comment_info">*Guest*</span></center><a name="2098">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=9f09c19e9da0151434bef62217b084d9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2098"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2098"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Marika Oniki"</span><br> Dunno about the redirect, but a heads-up on installing 10 on any machine with a wi-fi card: Win10 has a "Wi-fi Share" program built in, and is (apparently) set to share with any of your contacts connected to your Windows account. It's relatively easy to disable if you know about it, but being as it's not exactly something people would normally think about, I thought I'd give a warning out.
 <br>
 <br>I'm enjoying Win10 myself, just thought it was something people should be informed about.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://towerofawesome.org" target="_blank">Forecaster</a><br><span class="Comment_info">*Guest*</span></center><a name="2083">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=2f8e5232e3d18b916400910caa3d7fe6&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2083"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2083"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Forecaster"</span><br> I've signed up of course, not my go yet though. I'll wait before updating my main computer until a couple of weeks have passed, but I will update by laptop just to try it!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2084">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2084"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2084"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I updated but quite a few of my programs weren't wanting to play nice with it, (Including my Antivirus and Firewall) so I rolled back to 8.1 until my other programs update then I'll try it again.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2093">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2093"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2093"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>The only programs that have failed to play nice with my Insider Preview W10 builds were ThreatFire (behaviour-based malware protection) and the ZoneAlarm and Comodo firewalls. &nbsp;</p><p>Haven't checked ZA and Comodo since the official rollout; i need to do that. &nbsp;Don't trust the Windows FIrewall.</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>The only programs that have failed to play nice with my Insider Preview W10 builds were ThreatFire (behaviour-based malware protection) and the ZoneAlarm and Comodo firewalls. &nbsp;</p><p>Haven't checked ZA and Comodo since the official rollout; i need to do that. &nbsp;Don't trust the Windows FIrewall.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2094">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2094"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I use AVG and not only did Win10 and AVG not even recognize each other but I couldn't even access my AVG account with Edge and Firefox basically told me to go screw myself to boot. Hence the waiting for a couple weeks.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2096">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6fe3bbb670f9cc25162a0a68e963dc53&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2096"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I'm using AVG Free on W10 Home (or whatever it's called now) 64-bit.</p><p>The only problem i had with AVG was that i after each of the first two preview builds i installed, i had to do a repair install to get it going again.</p><p>No problem with Firefox (though Opera 12.16 is my primary browser as long as it keeps working).</p><p>Also i haven't even looked at Edge (or Cortana) and i have no intention to get involved with OneDrive, so i don't know if they're working, and don't care.</p><p>=====</p><p>And i just tried Comodo and ZoneAlarm and it sai "Nope" to both.</p><p></p><br><p class="Comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I'm using AVG Free on W10 Home (or whatever it's called now) 64-bit.</p><p>The only problem i had with AVG was that i after each of the first two preview builds i installed, i had to do a repair install to get it going again.</p><p>No problem with Firefox (though Opera 12.16 is my primary browser as long as it keeps working).</p><p>Also i haven't even looked at Edge (or Cortana) and i have no intention to get involved with OneDrive, so i don't know if they're working, and don't care.</p><p>=====</p><p>And i just tried Comodo and ZoneAlarm and it sai "Nope" to both.</p><br><p class="Comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2097">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=640ecee85efb1da2817ecf0e4fea165e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2097"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>ZoneAlarm has got a beta of ZoneAlarm 2016 that's supposed to work - download it at http://tinyurl.com/qd3aapa</p><p>I'm gonna give it a try. &nbsp;I prefer Comodo, but they apparently haven't dedigitated yet.</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>ZoneAlarm has got a beta of ZoneAlarm 2016 that's supposed to work - download it at http://tinyurl.com/qd3aapa</p><p>I'm gonna give it a try. &nbsp;I prefer Comodo, but they apparently haven't dedigitated yet.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="2085">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;q=2085"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=556&amp;reply=2085"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">I've updated and, so far, only a few odd bugs. Like Edge refuses to close at times. Nothing serious. I rather like it thus far.</p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="556"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The panda is the one to choose.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="panda"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr><tr></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

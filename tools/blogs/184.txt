@@ -1,63 +1,55 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Homage!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <img alt="" src="/pics/aodarcana.jpg" vspace="" border="0" hspace=""><style type="text/css"> 	 	</style> <p style="margin-bottom: 0in;">Look who's the star of today's installment of <a name="" target="_blank" classname="" class="" href="http://www.theappleofdiscord.com/">Apple of Discord</a>! Go over there and check out the bit of fun Adam Smithee has at our expense. While you're there, subscribe to Apple of Discord's RSS feed and peruse the archives. Trust me, you won't be sorry. Apple of Discord combines a solid plot with some wonderful geek culture parody.</p>  <p style="margin-bottom: 0in;">Speaking of parodies, tributes, and easter eggs... well, it segues right into today's commentary. The inspirations for Mysteries of the Arcana are many. In a way, you can say anything I've ever seen, read, or played has been an inspiration. Some, of course, are larger than others. The DC comics mini-series, �Crisis on Infinite Earths�, for example, introduced me to the concept of multiverses. The writings of Tamora Pierce, Douglas Hill, and the comic series, �Amethyst, Princess of Gemworld� helped develop my thoughts on strong, female protagonists. The Prydian Chronicles by Lloyd Alexander made me fall in love with fantasy. And, of course, Robin Wood's tarot deck helped create my love for the tarot.</p>  <p style="margin-bottom: 0in;">Occasionally, we try to pay homage to these influences and sneak things into the comic. For example, did you know that <a name="" target="_blank" classname="" class="" href="http://mysteriesofthearcana.com/index.php?action=comics&amp;cid=20">the cat-girl hologram</a> Theresa shoved Chrys into is actually a stylized portrait of Keith's lady love? Or that the appearance of BbuzZ's <a name="" target="_blank" classname="" class="" href="http://mysteriesofthearcana.com/index.php?action=comics&amp;cid=74">plant servant</a> was modeled after Audrey II from �Little Shop of Horrors�?</p>  <p style="margin-bottom: 0in;">Anyone who is a fan of the �Ace Attorney� series of games for the Nintendo DS (and now the Wii!) should recognize Chrys's pose in the last panel of today's page. It is one of my favorite Miles Edgeworth poses.</p>  <p style="margin-bottom: 0in;">And Chry's line, �In this way, I will become unique to it, and it to me� was inspired by one of my favorite children's stories, the �Little Prince�. Here's the exact scene I mean, from the 1974, musical film based on the book. The Little Prince is played by Steven Warner. The fox is played by the amazing Gene Wilder, easily one of the best actors ever. The �unique� line happens pretty early on but watch the whole video through. You won't be sorry, I promise.</p><p style="margin-bottom: 0in;"><br></p><span><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/dOgN2M2Jqqk&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/dOgN2M2Jqqk&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></object></span>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <img alt="" src="/pics/aodarcana.jpg" vspace="" border="0" hspace=""><style type="text/css"> 	 	</style> <p style="margin-bottom: 0in;">Look who's the star of today's installment of <a name="" target="_blank" classname="" class="" href="http://www.theappleofdiscord.com/">Apple of Discord</a>! Go over there and check out the bit of fun Adam Smithee has at our expense. While you're there, subscribe to Apple of Discord's RSS feed and peruse the archives. Trust me, you won't be sorry. Apple of Discord combines a solid plot with some wonderful geek culture parody.</p>  <p style="margin-bottom: 0in;">Speaking of parodies, tributes, and easter eggs... well, it segues right into today's commentary. The inspirations for Mysteries of the Arcana are many. In a way, you can say anything I've ever seen, read, or played has been an inspiration. Some, of course, are larger than others. The DC comics mini-series, �Crisis on Infinite Earths�, for example, introduced me to the concept of multiverses. The writings of Tamora Pierce, Douglas Hill, and the comic series, �Amethyst, Princess of Gemworld� helped develop my thoughts on strong, female protagonists. The Prydian Chronicles by Lloyd Alexander made me fall in love with fantasy. And, of course, Robin Wood's tarot deck helped create my love for the tarot.</p>  <p style="margin-bottom: 0in;">Occasionally, we try to pay homage to these influences and sneak things into the comic. For example, did you know that <a name="" target="_blank" classname="" class="" href="//index.php?action=comics&amp;cid=20">the cat-girl hologram</a> Theresa shoved Chrys into is actually a stylized portrait of Keith's lady love? Or that the appearance of BbuzZ's <a name="" target="_blank" classname="" class="" href="//index.php?action=comics&amp;cid=74">plant servant</a> was modeled after Audrey II from �Little Shop of Horrors�?</p>  <p style="margin-bottom: 0in;">Anyone who is a fan of the �Ace Attorney� series of games for the Nintendo DS (and now the Wii!) should recognize Chrys's pose in the last panel of today's page. It is one of my favorite Miles Edgeworth poses.</p>  <p style="margin-bottom: 0in;">And Chry's line, �In this way, I will become unique to it, and it to me� was inspired by one of my favorite children's stories, the �Little Prince�. Here's the exact scene I mean, from the 1974, musical film based on the book. The Little Prince is played by Steven Warner. The fox is played by the amazing Gene Wilder, easily one of the best actors ever. The �unique� line happens pretty early on but watch the whole video through. You won't be sorry, I promise.</p><span><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/dOgN2M2Jqqk&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/dOgN2M2Jqqk&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></object></span>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/183/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/184/?do=view#com" class="info">4 comments</a><br><a href="/blog/185/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="63">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;q=63"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;reply=63"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Nice one at the apple of discord! laughted very hard when i saw it!</p> <p>and nice comic! lets see what Teresa has to say in the next page, or if she just will try to ignore it again.</p> <p>&nbsp;</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Nice one at the apple of discord! laughted very hard when i saw it!</p> <p>and nice comic! lets see what Teresa has to say in the next page, or if she just will try to ignore it again.</p> <p>&nbsp;</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="64">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;q=64"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;reply=64"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> The Little Prince and the Fox video, along with the original prose linked to previously, are just awesome. Always been a fan of Gene Wilder.<br><br>I love how reading comments can sometimes raise my cultural awareness.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="65">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;q=65"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;reply=65"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Apple of Discord's an amazing comic and always worth reading.<br><br>JD, glad you learned something new. Gene Wilder is, indeed, awesome.<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.theappleofdiscord.com" target="_blank">Adam Smithee</a><br><span class="Comment_info">*Guest*</span></center><a name="66">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=29cd88bbf95f48df3b951b8bb42ca4f8&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;q=66"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=184&amp;reply=66"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Adam Smithee"</span><br> That "apple of dischord" site is terrible - you should really avoid assosciating with them entirely.&nbsp; I heard that the guy who makes that comic is insane and once killed a hobo for not having one of those little pouches with all his worldly posessions on the end of a stick.&nbsp; True story.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="184"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The button to select is pumpkin.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="pumpkin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

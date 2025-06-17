@@ -1,52 +1,44 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Flashback!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Before I say anything, wanted to give fair warning. My wife is undergoing surgery for her breast cancer tomorrow. I don't believe it will interfere with the posting of the next page of this story but I wanted to say something, just in case.</p><p>This particular short story takes place in the <strong>Four of Coins</strong>, an arcana which is heavily based on a blend of 1950s science fiction, the Space Quest computer game series, and capitalism gone wild (they celebrate an annual holiday called Consumas). It first appeared back in <a href="http://mysteriesofthearcana.com/comics/242/" target="_blank">Chapter 3: Two by Two</a>. Back then, Mandrake and Chrys had to go shopping for supplies for Circe - which every permanent resident of the Inn has to do every once and a while to pay for their room and board.</p><p>We've only seen two locations in the Four of Coins. First, the Galaxria, a space station/mall. Among the goods you can buy there? Fusion powered e-readers, dehydrated water canisters, soylant protein shake mix, pureed slan brain, ears of triffid, and spools of dragon thread. Second, <a href="http://mysteriesofthearcana.com/comics/271/" target="_blank">Uncle Mork's Trading Post and Fine Used Spacecraft</a>, a store located on the surface of the planet the Galaxria orbits. Finally, the Golden Parachute, which happens to be the ship Hacker and Sniper are currently shooting pirates on.</p><p>There are what we in RPG circles would call three intelligent races native to the Four of Coins. The first are the Greys. These look quite similar to the famous grey aliens often talked about in UFO circles. They come in both tall and short (mini-Grey) varieties. Second, we have the Bems. These bear a striking resemblance to various "Bug Eyed Martians" of 50's science fiction. Finally, you have the Modifieds. These are Greys and Bems who have undergone a combination of cosmetic, cybernetic, and genetic alteration in order to achieve a specific "look". Captain Featherbeard's one of the more extreme examples of a Modified. You can see examples of all three species (please the very first appearance of Hacker) <a href="http://mysteriesofthearcana.com/comics/247/" target="_blank">here</a>.</p><p>@Fairportfan: As Aleena noted, this story takes place concurrently with the first act of Chapter Six. So, more or less as Kludge and Theresa are doing a survey of the area around the Inn.</p><p>See everyone on Thursday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Before I say anything, wanted to give fair warning. My wife is undergoing surgery for her breast cancer tomorrow. I don't believe it will interfere with the posting of the next page of this story but I wanted to say something, just in case.</p><p>This particular short story takes place in the <strong>Four of Coins</strong>, an arcana which is heavily based on a blend of 1950s science fiction, the Space Quest computer game series, and capitalism gone wild (they celebrate an annual holiday called Consumas). It first appeared back in <a href="//comics/242/" target="_blank">Chapter 3: Two by Two</a>. Back then, Mandrake and Chrys had to go shopping for supplies for Circe - which every permanent resident of the Inn has to do every once and a while to pay for their room and board.</p><p>We've only seen two locations in the Four of Coins. First, the Galaxria, a space station/mall. Among the goods you can buy there? Fusion powered e-readers, dehydrated water canisters, soylant protein shake mix, pureed slan brain, ears of triffid, and spools of dragon thread. Second, <a href="//comics/271/" target="_blank">Uncle Mork's Trading Post and Fine Used Spacecraft</a>, a store located on the surface of the planet the Galaxria orbits. Finally, the Golden Parachute, which happens to be the ship Hacker and Sniper are currently shooting pirates on.</p><p>There are what we in RPG circles would call three intelligent races native to the Four of Coins. The first are the Greys. These look quite similar to the famous grey aliens often talked about in UFO circles. They come in both tall and short (mini-Grey) varieties. Second, we have the Bems. These bear a striking resemblance to various "Bug Eyed Martians" of 50's science fiction. Finally, you have the Modifieds. These are Greys and Bems who have undergone a combination of cosmetic, cybernetic, and genetic alteration in order to achieve a specific "look". Captain Featherbeard's one of the more extreme examples of a Modified. You can see examples of all three species (please the very first appearance of Hacker) <a href="//comics/247/" target="_blank">here</a>.</p><p>@Fairportfan: As Aleena noted, this story takes place concurrently with the first act of Chapter Six. So, more or less as Kludge and Theresa are doing a survey of the area around the Inn.</p><p>See everyone on Thursday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/667/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/668/?do=view#com" class="info">3 comments</a><br><a href="/blog/669/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>louisxiv<br><span class="Comment_info">*Guest*</span></center><a name="2838">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e4b632a0081864cf102b6a4d4ee1987c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;q=2838"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;reply=2838"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "louisxiv"</span><br> �for the cancer surgery. Particularly for good surgeons, though good luck doesn�t go amiss.<br><br>(M'Lady went through the mill in '13-�14: mastectomy, reconstruction <i>etc. </i>All fine now.)<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>louisxiv<br><span class="Comment_info">*Guest*</span></center><a name="2839">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e4b632a0081864cf102b6a4d4ee1987c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;q=2839"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;reply=2839"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "louisxiv"</span><br> Well that was supposed to say �Best Wishes��, dunno where that went�<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2840">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;q=2840"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=668&amp;reply=2840"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> The 'Best Wishes' went where they were supposed to, along with my own and everyone who follows your great work, J.&nbsp; <br>Praying and sending strength to your wife so she may come through this with the least pain and greatest success, and your love may continue to grow.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="668"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Flower resides among the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="flower"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

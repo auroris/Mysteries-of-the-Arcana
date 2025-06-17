@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Last Day!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Those are some very pretty bubbles. Notice the color? Red. Blue. Yellow. Green. We've seen them before. More than once, in fact. Of course, the bubbles Melody has presented to the audience aren't real bits and pieces of the major and minor arcana. They're just storytelling props.</p><p>This is is, folks! As I write this<a href="https://www.kickstarter.com/projects/355389852/mysteries-of-the-arcana-chapter-5" target="_blank"> the Mysteries of the Arcana chapter 5 Kickstarter</a> has 21 hours left until it is over! Our current pledge total stands at $4,696. That's well ahead of our goal of $4,100. Enough so that I'm writing two brand new Mysteries of the Arcana stories to include in the digital trade editions of chapters 1 and 2. </p><p>In other words, if you were thinking about backing the Kickstarter but wanted to wait, dramatically, until the last moment now is the time! Seriously, every dollar helps Mysteries of the Arcana continue. Also, if you've pledged at the $10 level I recommend increasing it to $15 if you can. At $15 you'll get the digital trade editions of both chapter 1 AND chapter 2. That means you'll get both new Mysteries of the Arcana short comics: Narrow, which tells the story of what happens when Theresa returns to her own world and Fly Away Home, the tale of how Mandrake came to live at the Inn.</p><p>Whatever happens, thank you for supporting the comic and reading it. You're an amazing readership.</p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Those are some very pretty bubbles. Notice the color? Red. Blue. Yellow. Green. We've seen them before. More than once, in fact. Of course, the bubbles Melody has presented to the audience aren't real bits and pieces of the major and minor arcana. They're just storytelling props.</p><p>This is is, folks! As I write this<a href="https://www.kickstarter.com/projects/355389852/mysteries-of-the-arcana-chapter-5" target="_blank"> the Mysteries of the Arcana chapter 5 Kickstarter</a> has 21 hours left until it is over! Our current pledge total stands at $4,696. That's well ahead of our goal of $4,100. Enough so that I'm writing two brand new Mysteries of the Arcana stories to include in the digital trade editions of chapters 1 and 2. </p><p>In other words, if you were thinking about backing the Kickstarter but wanted to wait, dramatically, until the last moment now is the time! Seriously, every dollar helps Mysteries of the Arcana continue. Also, if you've pledged at the $10 level I recommend increasing it to $15 if you can. At $15 you'll get the digital trade editions of both chapter 1 AND chapter 2. That means you'll get both new Mysteries of the Arcana short comics: Narrow, which tells the story of what happens when Theresa returns to her own world and Fly Away Home, the tale of how Mandrake came to live at the Inn.</p><p>Whatever happens, thank you for supporting the comic and reading it. You're an amazing readership.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/411/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/412/?do=view#com" class="info">5 comments</a><br><a href="/blog/413/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1230">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;q=1230"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;reply=1230"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hmmm, do they regenerate or recover those "bits of essence", or are they slowly eroding away into nothingness?<br><br>*Lobbyist voice*<br>"The gods are a valuable non-renewable resource that must be used responsibly!" <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hmmm, do they regenerate or recover those "bits of essence", or are they slowly eroding away into nothingness?<br><br>*Lobbyist voice*<br>"The gods are a valuable non-renewable resource that must be used responsibly!" <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1231">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;q=1231"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;reply=1231"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> She's talking about how the Key's come about.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1232">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;q=1232"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;reply=1232"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> Yes, also each 'key' corresponds with an element. Red for fire and so on.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1233">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;q=1233"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;reply=1233"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Congratulations on a successful Kickstarter!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1235">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;q=1235"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=412&amp;reply=1235"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">Gunsolo, thank you!</p><div><br></div><div>And yes, Melody is speaking about keys. How well each key correspond to elements (fire, water, earth &amp; air) depends on your philosophy on tarot symbolism.</div><p></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">Gunsolo, thank you!</p><div><br></div><div>And yes, Melody is speaking about keys. How well each key correspond to elements (fire, water, earth &amp; air) depends on your philosophy on tarot symbolism.</div>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="412"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You are looking for the turtle from the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="turtle"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

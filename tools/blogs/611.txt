@@ -1,134 +1,126 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Your Favorite MotA?</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Hello! So, here I am, starting to work on chapter seven of Mysteries of the Arcana. Seven! My goodness. And I decided to ask a question I hope y'all will answer. Well, four questions really.</p><p>What's your favorite chapter of Mysteries of the Arcana?</p><p>And why?</p><p>What's your least favorite?</p><p>And why?</p><p>As a reminder, here are the chapters.</p><p>Chapter 1: More Heavens and Earths - Theresa meets Chrys and they end up having an adventure in the Devil where they rescue Chrys's mom. </p><p>Chapter 2: All the Way Down - Chrys and Theresa travel to an arcana of giant turtles, where truths are revealed.</p><p>Chapter 3: Two by Two - Everyone has to "pay their rent" by going supply shopping. William and Theresa visit his home arcana while Chrys and Mandrake end up chasing a little thief in a 1950-ish science fiction setting.</p><p>Chapter 4: In the Beginnings - Chrys and Theresa have their first "date", listening to Melody tell the origin story of the arcana.</p><p>Chapter 5: Inn Trouble - Baron Sir and a band of mercs invade the Inn. </p><p>Chapter 6: Void in the Road - This chapter!</p><p>I would really appreciate it if everyone who reads the comic took the time to answer these questions. Your thoughts will be a great help in writing the next chapter.</p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hello! So, here I am, starting to work on chapter seven of Mysteries of the Arcana. Seven! My goodness. And I decided to ask a question I hope y'all will answer. Well, four questions really.</p><p>What's your favorite chapter of Mysteries of the Arcana?</p><p>And why?</p><p>What's your least favorite?</p><p>And why?</p><p>As a reminder, here are the chapters.</p><p>Chapter 1: More Heavens and Earths - Theresa meets Chrys and they end up having an adventure in the Devil where they rescue Chrys's mom. </p><p>Chapter 2: All the Way Down - Chrys and Theresa travel to an arcana of giant turtles, where truths are revealed.</p><p>Chapter 3: Two by Two - Everyone has to "pay their rent" by going supply shopping. William and Theresa visit his home arcana while Chrys and Mandrake end up chasing a little thief in a 1950-ish science fiction setting.</p><p>Chapter 4: In the Beginnings - Chrys and Theresa have their first "date", listening to Melody tell the origin story of the arcana.</p><p>Chapter 5: Inn Trouble - Baron Sir and a band of mercs invade the Inn. </p><p>Chapter 6: Void in the Road - This chapter!</p><p>I would really appreciate it if everyone who reads the comic took the time to answer these questions. Your thoughts will be a great help in writing the next chapter.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/610/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/611/?do=view#com" class="info">15 comments</a><br><a href="/blog/613/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2323">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2323"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2323"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><font size="2">Chapter 4 is my favorite. It brought forward pretty essential information about what the multitude arcana actually is. I like the world building aspects of the comic in general, and I like the progression of Chrys and Theresa's relationship in specific.</font></p><div><font size="2"><br></font></div><div><font size="2">Chapter 6 is my least favorite so far. It starts off well, but got dragged down by the Hanged Man adventure. The twist to their mission to find Quest's Cache is an interesting twist, but the solution seems to be too easy. It was unknowingly collected by an outsider from a place the squirrels know about and has magic powers enough to solve all their problems. I'm hoping for some denouement.</font></div><p></p><br><p class="Comment_info">Last edited by Guest<br>Edited 8 time(s).</p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><font size="2">Chapter 4 is my favorite. It brought forward pretty essential information about what the multitude arcana actually is. I like the world building aspects of the comic in general, and I like the progression of Chrys and Theresa's relationship in specific.</font></p><div><font size="2"><br></font></div><div><font size="2">Chapter 6 is my least favorite so far. It starts off well, but got dragged down by the Hanged Man adventure. The twist to their mission to find Quest's Cache is an interesting twist, but the solution seems to be too easy. It was unknowingly collected by an outsider from a place the squirrels know about and has magic powers enough to solve all their problems. I'm hoping for some denouement.</font></div><br><p class="Comment_info">Last edited by Guest<br>Edited 8 time(s).</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Laura<br><span class="Comment_info">*Guest*</span></center><a name="2324">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=76360c448566499e454cc39f2486d733&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2324"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2324"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Laura"</span><br> Heyoh,</p><div><br><div>I think my favorite chapter has to be 6, this chapter. Chrys and T are finally accepting each other as girlfriends! The story has come so far and has so much more to explore. I think T is mostly over her stigma and is trying to focus more on her feeling for Chrys, hence the hedges damn near boning one another. Shes gotta be thinking about her and Chrys, and not the stigmas her religion has placed on her sexuality. &nbsp;Also i love the art. It got wonky a few chapters ago with Chrys' dad, but this is excellent. Good job. &nbsp;Also, the writing is in such a great place. Pace is good, story is well done, and it flows from idea to action perfectly.&nbsp;</div><div><br></div>My least favorite is 5. &nbsp;I think was OOC at the end there. &nbsp; After fighting alongside one another from day one, (cause idk how much time has passed since chap1) and growing closer to Will, and MUCH closer to Chrys, T was still hesitant about taking down Ruby, the traitorous, two-timing, double-crossing, robot. &nbsp;Ruby was an outsider, and was revealed to be a pawn of the bad guys, and here's where it gets weird. If T thought Ruby was sentient, i understand the hesitation, but that means ruby was CHOOSING to attack, then continue attacking T and Chrys. &nbsp;So &nbsp;for T to see the choice to attack, and still hesitate? Odd. Gotta protect that lesbian elf gf of yours T. On the other hand if T thought that Ruby was just a robot pawn, incapable of choice, Why hesitate at all? Its attacking you, and your hot lesbian elf gf. Shoot it and move on. &nbsp;Either way T was seriously bent about killing the robot and i couldn't figure out why, &nbsp;It was either a pawn, or CHOSE to hurt her, and it made me re read it over a bunch to see if i missed anything because both reasons are not worth her time or compassion. &nbsp;It was just this whole big awesome setup and fight scene that had such a cruddy ending because the main character who is usually badass, was like oh your a traitor robot? Oh your hurting me and my gf? Hurting us worse now? oh ok. Oh even worse now? hmm ok. &nbsp;Your choosing to do this to us? alrighty. &nbsp; Meanwhile &nbsp;poor Chrys is writhing in pain on the floor. &nbsp;and what felt like an eternity later, T takes the robot out. &nbsp; &nbsp; It was just the first really odd bit of writing/pacing/character inaction i think we've witnessed to date.</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Laura"</span><br> Heyoh,</p><div><br><div>I think my favorite chapter has to be 6, this chapter. Chrys and T are finally accepting each other as girlfriends! The story has come so far and has so much more to explore. I think T is mostly over her stigma and is trying to focus more on her feeling for Chrys, hence the hedges damn near boning one another. Shes gotta be thinking about her and Chrys, and not the stigmas her religion has placed on her sexuality. &nbsp;Also i love the art. It got wonky a few chapters ago with Chrys' dad, but this is excellent. Good job. &nbsp;Also, the writing is in such a great place. Pace is good, story is well done, and it flows from idea to action perfectly.&nbsp;</div><div><br></div>My least favorite is 5. &nbsp;I think was OOC at the end there. &nbsp; After fighting alongside one another from day one, (cause idk how much time has passed since chap1) and growing closer to Will, and MUCH closer to Chrys, T was still hesitant about taking down Ruby, the traitorous, two-timing, double-crossing, robot. &nbsp;Ruby was an outsider, and was revealed to be a pawn of the bad guys, and here's where it gets weird. If T thought Ruby was sentient, i understand the hesitation, but that means ruby was CHOOSING to attack, then continue attacking T and Chrys. &nbsp;So &nbsp;for T to see the choice to attack, and still hesitate? Odd. Gotta protect that lesbian elf gf of yours T. On the other hand if T thought that Ruby was just a robot pawn, incapable of choice, Why hesitate at all? Its attacking you, and your hot lesbian elf gf. Shoot it and move on. &nbsp;Either way T was seriously bent about killing the robot and i couldn't figure out why, &nbsp;It was either a pawn, or CHOSE to hurt her, and it made me re read it over a bunch to see if i missed anything because both reasons are not worth her time or compassion. &nbsp;It was just this whole big awesome setup and fight scene that had such a cruddy ending because the main character who is usually badass, was like oh your a traitor robot? Oh your hurting me and my gf? Hurting us worse now? oh ok. Oh even worse now? hmm ok. &nbsp;Your choosing to do this to us? alrighty. &nbsp; Meanwhile &nbsp;poor Chrys is writhing in pain on the floor. &nbsp;and what felt like an eternity later, T takes the robot out. &nbsp; &nbsp; It was just the first really odd bit of writing/pacing/character inaction i think we've witnessed to date.</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2325">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2325"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2325"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><font size="2"></font></p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><font size="2"><span style="font-size:10px; font-weight:bold;">Quote from Laura:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
 Chrys and T are finally accepting each other as girlfriends!</div></font></div><font size="2">
 </font><div><font size="2"><br></font></div><div><font size="2">I feel this is awesome too. I'm not sure how I overlooked that.</font></div><div><font size="2"><br></font><div><div><div><font size="2"><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Laura:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
 T was still hesitant about taking down Ruby</div></div>
-</font></div></div></div><div><font size="2"><br></font></div><div><font size="2">From J: "<span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;">Remember, up until this point, Theresa has "killed" two robots and a couple of yuppie zombies. She's never had to shoot someone who is both intelligent and to whom she's had a conversation with before. I think that sort of thing would haunt most people."</span></font></div></div><div><font size="2"><span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;"><br></span></font></div><div><font size="2"><span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;">I feel that were I in Theresa's place, I'd have made the same choices, so to me, it's not out of character. Thou shalt not kill, after all.</span></font></div><p></p><br><p class="Comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
- <p class="Comment_text"></p><p></p>
+</font></div></div></div><div><font size="2"><br></font></div><div><font size="2">From J: "<span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;">Remember, up until this point, Theresa has "killed" two robots and a couple of yuppie zombies. She's never had to shoot someone who is both intelligent and to whom she's had a conversation with before. I think that sort of thing would haunt most people."</span></font></div></div><div><font size="2"><span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;"><br></span></font></div><div><font size="2"><span style="font-family: Arial, Verdana, sans-serif; background-color: #FFFFFF;">I feel that were I in Theresa's place, I'd have made the same choices, so to me, it's not out of character. Thou shalt not kill, after all.</span></font></div><br><p class="Comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>KFox<br><span class="Comment_info">*Guest*</span></center><a name="2326">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a0440f3af814cef353d87f76b2b65682&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2326"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2326"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "KFox"</span><br> My least favourite is chapter 4. I still like it, but up until then, MotA was much more action-orientated, and was so for the other two chapters. I felt it broke the flow of the story.<br><br>My favourite is a toss-up between chapters 1, 5, and 6. I really like buff guys like William and Eke, so any chapter which features them prominently will rank high for me. Story-wise, chapter 1 gets everything rolling and is easy to understand, chapter 5 shows just how much the keys work as a team and form a strong bond, and 6 focuses a lot more on the relationships between the keys and their friends.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2327">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2327"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2327"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>I suppose my favourite chapter is Chapter 2 - which explains why a Catholic girl like Theresa had no hesitation about suicide, even though suicide automatically damns your soul. &nbsp;She was sure she was already damned.</p><p>Chapter 5 is my least favourite - i felt as if it was dragged out too long and was a little too plot- rather than chatacter-driven.</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>I suppose my favourite chapter is Chapter 2 - which explains why a Catholic girl like Theresa had no hesitation about suicide, even though suicide automatically damns your soul. &nbsp;She was sure she was already damned.</p><p>Chapter 5 is my least favourite - i felt as if it was dragged out too long and was a little too plot- rather than chatacter-driven.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Dave Robinson<br><span class="Comment_info">*Guest*</span></center><a name="2328">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6aeccd82658982ec16d3fe2beffa2bb4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2328"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2328"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Dave Robinson"</span><br> My least favorite was Chapter 4. It broke up the story too much for me, and I found it difficult to follow because I had no real character investment in it.<br><br>My favorite is Chapter 1. It introduced the characters in a way that made me care about them and their relationship.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2329">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2329"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2329"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> I don't know, I've enjoyed them all pretty much. If I have to choose a favorite, I guess chapter 3 due to the varied action (if I recall correctly, my mind wanders a bit). Least favorite? Meh, not a chapter at all, just that time when you were on hiatus.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2330">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2330"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2330"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Chapter 3 is my favorite for the simple reason that Chrys finally figured out that she was doing the exact same thing that her father did and almost lost her oldest friend in the process. That and Mandrake's my favorite character (She's just so SQUEEE!)<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>six<br><span class="Comment_info">*Guest*</span></center><a name="2331">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fba2eeb04631c3f4446a0ea2beca76ea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2331"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2331"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "six"</span><br> </p><p>Sorry but I just can't manage to decide a favorite and least favorite chapter.</p><p>What makes one good is linked to what happens in previous and sometimes future chapters.&nbsp;</p><p>Love the comic so just keep doing what you are doing!</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "six"</span><br> </p><p>Sorry but I just can't manage to decide a favorite and least favorite chapter.</p><p>What makes one good is linked to what happens in previous and sometimes future chapters.&nbsp;</p><p>Love the comic so just keep doing what you are doing!</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Peaches<br><span class="Comment_info">*Guest*</span></center><a name="2334">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=804a5ed926f21aa257aeecc4133cfd45&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2334"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2334"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Peaches"</span><br> <img alt=" ThumbsUp " src=" http://mysteriesofthearcana.com/smilies/thumbsup.gif " border="0" vspace="2" hspace="2">&nbsp;Seconded! <img alt=" ThumbsUp " src=" http://mysteriesofthearcana.com/smilies/thumbsup.gif " border="0" vspace="2" hspace="2"></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Peaches"</span><br> <img alt=" ThumbsUp " src="//smilies/thumbsup.gif" border="0" vspace="2" hspace="2">&nbsp;Seconded! <img alt=" ThumbsUp " src="//smilies/thumbsup.gif" border="0" vspace="2" hspace="2"></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="611"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Fish needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr><tr></tr></tbody></table>
 <!-- End main content -->
               </div>
 
@@ -136,68 +128,61 @@ T was still hesitant about taking down Ruby</div></div>
 
 <div>
 <!-- Main content here -->
-<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>mythtress<br><span class="Comment_info">*Guest*</span></center><a name="2332">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=2a63658976acc8ead3ab49ea63dc3a02&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2332"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2332"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "mythtress"</span><br> Whew.&nbsp; Favorite is hard-- I fell in love with the story and the unfolding world.&nbsp; The first is a great introduction, to the characters, the world, the whimsy and the magic...&nbsp; The second must be loved for being turtles "all the way down", and an amazingly powerful catharsis, despite being both abrupt and brief.&nbsp; The art and the writing worked well together in getting that through.&nbsp; The third is just delightful, with great character development and some piquant satire.&nbsp; The fourth, well, I do love a good creation story.&nbsp; The fifth had lots of great opportunities for everyone to do what they do best, and its always fun to see a crew in action.&nbsp; The bad guys' crew seemed like interesting characters in their own right, and the smooth accomplishment of the adventure ( if that's not an antiphrasis) was surprisingly well counterpointed by the rough emotional difficulty.&nbsp; This was almost my pick for favorite for that reason.&nbsp; I'm going to pick the sixth as my favorite, though, because even though this chapter's been a little focused on Chrys and Theresa, it feels like the story is really getting traction.&nbsp; I love the exploration of the Fool, the sense of the card's meaning in the structure of the place.&nbsp; I love the way Theresa very matter-of-factly sets Chrys up for doing what she wants.&nbsp; I think that sense of traction is from a good balance of the whimsical with the creepy or powerful.&nbsp; Yes.&nbsp; That balance is at the root (ha ha) of everything I love about this chapter: the exploration with the "best equipment", Theresa's maneuver, the signpost, the poetry, the squirrel war... I honestly expected Mr. Myst and Mr. Eerie (mystery or eerie mist?) to be the same entity.&nbsp; Still not sure they're not, somehow.<br>My least favorite was Chapter 4, in minor part 'cause i can't see Theresa choosing a strappy little dress for any reason -- where's she gonna put the gun?&nbsp; But mostly because I love a good creation story and this one felt... incomplete.&nbsp; Maybe it *is* incomplete and she's still gathering stories, but the presentation made it seem as though it were full and final...&nbsp; Aspects of it I really liked, e.g. the Major Arcana being born from the dreams of the living (!); and others just didn't seem to click together, or click into place, or something...&nbsp; I could go into length about the questions the story raised for me, but that might be better done in another comment, or an email... this seems to have run rather long already. <br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Seth<br><span class="Comment_info">*Guest*</span></center><a name="2333">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0e040e0267f89dadad160beaa876a3d0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2333"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2333"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Seth"</span><br> My memory of most of the chapters is hazy or worse, so take this with a grain of salt. &nbsp;I agree with KFox that chapter 4 was the low point, on the general principle that narratives beat infodumps. &nbsp;My favorite is harder to choose, but I'm leaning toward 3, because the detailed sci-fi setting sticks out in my mind, and because I liked seeing Mandrake take a bigger role.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2335">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2335"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2335"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> My favorites are chapters one and four. <br>I like world building and origin stories, as well as rescues, heists and other fun action stories. I also liked the Terminator-style robots in the Devil arcana. <br>Oh, and discovery of superpowers, those are always nice too. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>I think my least favorite is chapter five.<br>I thought the pacing was off somehow, and I really didn't connect with the intruders. Not knowing anything about who they were, why they were attacking and what they were after didn't help either.<br>After all, heroes are only as good/interesting as the villains that they face, and Baron Sir an his lackeys (and that one glimpse of his boss) were not up to par with the other antagonists in my opinion.<br>I did like my cameo though. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>I wouldn't call chapter five bad though, mind you. I just think it's not as good as the other ones.<br><br>I reserve judgement of chapter six until it's actually finished and can be seen as a whole.<br><br>I agree with JD that the hiatus was not fun.</p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> My favorites are chapters one and four. <br>I like world building and origin stories, as well as rescues, heists and other fun action stories. I also liked the Terminator-style robots in the Devil arcana. <br>Oh, and discovery of superpowers, those are always nice too. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>I think my least favorite is chapter five.<br>I thought the pacing was off somehow, and I really didn't connect with the intruders. Not knowing anything about who they were, why they were attacking and what they were after didn't help either.<br>After all, heroes are only as good/interesting as the villains that they face, and Baron Sir an his lackeys (and that one glimpse of his boss) were not up to par with the other antagonists in my opinion.<br>I did like my cameo though. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>I wouldn't call chapter five bad though, mind you. I just think it's not as good as the other ones.<br><br>I reserve judgement of chapter six until it's actually finished and can be seen as a whole.<br><br>I agree with JD that the hiatus was not fun.</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>SelenticSurface<br><span class="Comment_info">*Guest*</span></center><a name="2336">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=7a783217581f3e4911bdd1e69c54ea96&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2336"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2336"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "SelenticSurface"</span><br> Chapter 5 is my favorite thanks to emotionally complicated heroics and epic foreshadowing...</p><div><br></div><div>Chapter 4 was probably my least favorite due to the (so-far!) unneeded origin story explication/exposition that seemed to go on forever... and the ~year long hiatus! But hiatuses happen, so I cannot really fault that... <img src="http://mysteriesofthearcana.com/smilies/wink1.gif" alt="Wink" border="0"></div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "SelenticSurface"</span><br> Chapter 5 is my favorite thanks to emotionally complicated heroics and epic foreshadowing...</p><div><br></div><div>Chapter 4 was probably my least favorite due to the (so-far!) unneeded origin story explication/exposition that seemed to go on forever... and the ~year long hiatus! But hiatuses happen, so I cannot really fault that... <img src="//smilies/wink1.gif" alt="Wink" border="0"></div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2337">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;q=2337"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=611&amp;reply=2337"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> I'm having a real hard time choosing here...<br><br>I think that, if at all, chapter 5 will come out slightly on top. With chapter 2 being a close contender. Mostly for the character development visible in both. (Not that there was none in the other chapters. Those were just the two where it struck me the most.)<br>Can't really name a least favourite one.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="611"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Panda<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="panda"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr><tr></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

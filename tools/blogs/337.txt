@@ -1,52 +1,44 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Some Background</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    It has been a while, so here's some background info.<br><br>Most people who travel between the arcana are keys. That means they have the ability to "unlock" the Royal Road and use it to travel between arcana. <a name="" target="_blank" classname="" class="" href="http://mysteriesofthearcana.com/index.php?action=comics&amp;cid=52">This is explained here</a>. There are some limitations, of course. First, you can't travel directly from one arcana to another. You get from the Moon to the Three of Cups, for example, you have to first travel from the Moon to the Fool and then from the Fool to the Three of Cups. The Fool is always a destination point. Second, the Royal Road only connects to one specific location in each arcana. You have to be in that location to activate the Road.<br><br>Keys may bring others with them through the Royal Road.<br><br>Chrys and her father, on the other hand, are not keys. They are members of a long lost, semi-mythical race called the Dreamers. <a name="" target="_blank" classname="" class="" href="http://mysteriesofthearcana.com/index.php?action=comics&amp;cid=186">They are first mentioned here.</a><br><br>As Dreamers, Chrys and her dad have the ability to dreamwalk. That means they can travel from arcana to arcana directly, without using the Royal Road. There'll be a more indepth explanation on how that works towards the end of this chapter. However, <a name="" target="_blank" classname="" class="" href="http://mysteriesofthearcana.com/index.php?action=comics&amp;cid=10">Chrys has already dreamwalked more than once</a>. <br><br>Dreamers can also bring others with them when they dreamwalk, though the sensation is unsettling (and explains why Theresa passed out the first time she experienced it).<br><br>I hope this helps clear things up. I know with a long term webcomic that doesn't update every day, it can be hard to follow continuity. Things are very spread out.<br><br>Any other questions?<br><br><br><br><br><br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    It has been a while, so here's some background info.<br><br>Most people who travel between the arcana are keys. That means they have the ability to "unlock" the Royal Road and use it to travel between arcana. <a name="" target="_blank" classname="" class="" href="//index.php?action=comics&amp;cid=52">This is explained here</a>. There are some limitations, of course. First, you can't travel directly from one arcana to another. You get from the Moon to the Three of Cups, for example, you have to first travel from the Moon to the Fool and then from the Fool to the Three of Cups. The Fool is always a destination point. Second, the Royal Road only connects to one specific location in each arcana. You have to be in that location to activate the Road.<br><br>Keys may bring others with them through the Royal Road.<br><br>Chrys and her father, on the other hand, are not keys. They are members of a long lost, semi-mythical race called the Dreamers. <a name="" target="_blank" classname="" class="" href="//index.php?action=comics&amp;cid=186">They are first mentioned here.</a><br><br>As Dreamers, Chrys and her dad have the ability to dreamwalk. That means they can travel from arcana to arcana directly, without using the Royal Road. There'll be a more indepth explanation on how that works towards the end of this chapter. However, <a name="" target="_blank" classname="" class="" href="//index.php?action=comics&amp;cid=10">Chrys has already dreamwalked more than once</a>. <br><br>Dreamers can also bring others with them when they dreamwalk, though the sensation is unsettling (and explains why Theresa passed out the first time she experienced it).<br><br>I hope this helps clear things up. I know with a long term webcomic that doesn't update every day, it can be hard to follow continuity. Things are very spread out.<br><br>Any other questions?<br><br><br><br><br><br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/336/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/337/?do=view#com" class="info">3 comments</a><br><a href="/blog/338/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gillsing<br><span class="Comment_info">*Guest*</span></center><a name="855">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c475a2e6c7a75f96e3059a819f5fd4d9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;q=855"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;reply=855"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gillsing"</span><br> So once you get rid of all those pesky Dreamers, you could just have your army control the location that connects to the Royal Road, and no one would be able to travel to or from that arcana unless you let them? And maybe you wouldn't settle for controlling just a single arcana? Maybe your goal is to control the travel between all of them? I can see why someone might want to get rid of those Dreamers. They're like mobile holes than need to be patched.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>KIndle<br><span class="Comment_info">*Guest*</span></center><a name="856">&nbsp;</a></span><br>
-<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;q=856"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;reply=856"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "KIndle"</span><br> Just saying, viewing this on my Kindle Fire and your site looks awesome. The comic is beautiful.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="857">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;q=857"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=337&amp;reply=857"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> I have one: When's the grey scale pages going to be colored?</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="337"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Look for fish and select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

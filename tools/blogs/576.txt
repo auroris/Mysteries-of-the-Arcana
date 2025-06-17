@@ -1,63 +1,55 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>LEGO Dimensions</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>My family was kind enough to pre-order LEGO Dimensions for me for my birthday. Last weekend I picked up the starter set, the Back to the Future level expansion, and the Portal 2 level expansion. I've also got the Doctor Who level expansion on pre-order but that doesn't come out until November.</p><p>So, far, I'm having a blast. Building the portal (you physically build a LEGO model to go on the toy reception pad) was fantastic. It is easily one of my favorite builds ever. It looks great! Gandalf, Wildstyle, Batman, Chell from Portal, and Marty McFly are all excellent minifigures. And they are actual minifigures that will work with any LEGO set. The each come with a stand that transmits data to the reception pad, letting the game know which minifigures are present.</p><p>I was surprised to find out that the starter set didn't come with paper instructions for building the Batmobile (the game uses vehicles as well). Instead, you build the Batmobile when Batman builds the Batmobile in-game, with the instructions up on the screen.</p><p>The attention to detail is amazing! For example, Gandalf and Batman bend their arms at the elbows and legs at the knees, just like they do in their own games. Wildstyle, on the other hand, only moves like an actual minifigure would because that's how all the characters in the LEGO Movie move (remember the scene with Emmet doing "jumping jacks"?). The soundtrack and visuals change from level to level. In the Simpsons level, for example, the colors are all bright and there's no much in the way of shading - just like in the show.</p><p>And the voice acting? First rate. They took pains to bring in original actors whenever possible, even for smaller roles. Robin, for instance, is voiced by Scott Menville from the Teen Titans animated show. Doc Brown and Marty McFly from Back to the Future are voiced by Christopher Lloyd and Michael J. Fox, respectively. The amazing Clancy Brown is Lex Luthor. Peter Capaldi plays the 12th Doctor. I'm pretty sure they got the current voice cast for Scooby Doo and for the LEGO Movie to all reprise their roles. In some cases, they use archive audio for actors, such as in the case of the Simpsons and Doctors 1 through 11 (yes, you can play EVERY Doctor in the game - except the War Doctor).</p><p>J.K Simmons plays Cave Johnson. Ellen McClain plays GladOS. I'm told GladOS sings a new song for LEGO Dimensions.</p><p>All in all, despite being a money suck (it is a collectible game after all) it is a gorgeous and fun game and I can't recommend it enough. Think about this...</p><p>You can have the Doctor and Doc Brown travel around together.</p><p>Is your mind blown?</p><p>Oh! Hey, look. There's a new comic up today. How about that? Hope you like it! </p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>My family was kind enough to pre-order LEGO Dimensions for me for my birthday. Last weekend I picked up the starter set, the Back to the Future level expansion, and the Portal 2 level expansion. I've also got the Doctor Who level expansion on pre-order but that doesn't come out until November.</p><p>So, far, I'm having a blast. Building the portal (you physically build a LEGO model to go on the toy reception pad) was fantastic. It is easily one of my favorite builds ever. It looks great! Gandalf, Wildstyle, Batman, Chell from Portal, and Marty McFly are all excellent minifigures. And they are actual minifigures that will work with any LEGO set. The each come with a stand that transmits data to the reception pad, letting the game know which minifigures are present.</p><p>I was surprised to find out that the starter set didn't come with paper instructions for building the Batmobile (the game uses vehicles as well). Instead, you build the Batmobile when Batman builds the Batmobile in-game, with the instructions up on the screen.</p><p>The attention to detail is amazing! For example, Gandalf and Batman bend their arms at the elbows and legs at the knees, just like they do in their own games. Wildstyle, on the other hand, only moves like an actual minifigure would because that's how all the characters in the LEGO Movie move (remember the scene with Emmet doing "jumping jacks"?). The soundtrack and visuals change from level to level. In the Simpsons level, for example, the colors are all bright and there's no much in the way of shading - just like in the show.</p><p>And the voice acting? First rate. They took pains to bring in original actors whenever possible, even for smaller roles. Robin, for instance, is voiced by Scott Menville from the Teen Titans animated show. Doc Brown and Marty McFly from Back to the Future are voiced by Christopher Lloyd and Michael J. Fox, respectively. The amazing Clancy Brown is Lex Luthor. Peter Capaldi plays the 12th Doctor. I'm pretty sure they got the current voice cast for Scooby Doo and for the LEGO Movie to all reprise their roles. In some cases, they use archive audio for actors, such as in the case of the Simpsons and Doctors 1 through 11 (yes, you can play EVERY Doctor in the game - except the War Doctor).</p><p>J.K Simmons plays Cave Johnson. Ellen McClain plays GladOS. I'm told GladOS sings a new song for LEGO Dimensions.</p><p>All in all, despite being a money suck (it is a collectible game after all) it is a gorgeous and fun game and I can't recommend it enough. Think about this...</p><p>You can have the Doctor and Doc Brown travel around together.</p><p>Is your mind blown?</p><p>Oh! Hey, look. There's a new comic up today. How about that? Hope you like it! </p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/574/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/576/?do=view#com" class="info">4 comments</a><br><a href="/blog/577/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2194">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;q=2194"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;reply=2194"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> The Doctor and Doc Brown time traveling together!?<br>Great Scott, that's heavy! <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> The Doctor and Doc Brown time traveling together!?<br>Great Scott, that's heavy! <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2195">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;q=2195"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;reply=2195"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Also, now I'm thinking of GLaDOS inside the Tardis. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Also, now I'm thinking of GLaDOS inside the Tardis. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2196">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;q=2196"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Not sure that would be a good idea. Remember how the TARDIS reacted to some of the recent companions. How would she react to an omnicidal AI in her body?<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="2197">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;q=2197"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=576&amp;reply=2197"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> I want this for that reason.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="576"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the rainbow.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="rainbow"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

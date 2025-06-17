@@ -1,19 +1,11 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Discord Huzzah!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>I went ahead and put together a rather simple discord server for people looking to hang out, and get a bit of a front row seat to things, and a hand in how our social aspects develop.</p><p>You guys are awesome, and I appreciate each of you, so make sure to drop on by, grab some roles, and popcorn, and don’t be afraid to talk to me over there!</p><p>Legacy of The Fool Discord: <a href="https://discord.gg/eEhX57MatG" target="_blank">https://discord.gg/eEhX57MatG</a></p><p>#discord #social #mota #legacyofthefool #motalotf</p><p>See you next post!</p><p>Keira</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>I went ahead and put together a rather simple discord server for people looking to hang out, and get a bit of a front row seat to things, and a hand in how our social aspects develop.</p><p>You guys are awesome, and I appreciate each of you, so make sure to drop on by, grab some roles, and popcorn, and don’t be afraid to talk to me over there!</p><p>Legacy of The Fool Discord: <a href="https://discord.gg/eEhX57MatG" target="_blank">https://discord.gg/eEhX57MatG</a></p><p>#discord #social #mota #legacyofthefool #motalotf</p><p>See you next post!</p><p>Keira</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/790/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/791/?do=view#com" class="info">0 comments</a><br><a href="/blog/792/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="791"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Do you see butterfly?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="butterfly"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Religion</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Considering Theresa's on crutches, wearing a jacket too big for her (which has been laying on the ground in an old, abandoned subway station for weeks), and in just about the worst part of town it isn't surprising the priest thinks she needs a place to stay.</p><p>I wrote Narrow because I felt the need to explore Theresa's faith quietly. Not so much off to the side, away from the main story, but in a place where the pressures of the plotline weren't shoving it into a corner. Faith and religion are nuanced, which can be lost when you're fighting button headed men or running away from plastic yuppie zombies.</p><p>Remember, this takes place shortly after chapter 1 ended. Which means not so long ago Theresa kissed her female best friend, took her off life support, and nearly attempted suicide. All of which her religion tells her are sins. Now, she's in a place where God seems to have no place and she finds herself attracted to another woman. </p><p>And so here she is. In a church and praying, trying to understand who she is and where she is and what part she plays in the much, much wider multiverse she finds herself in. I think that's something many of us can relate to.</p><p>See you Monday.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Considering Theresa's on crutches, wearing a jacket too big for her (which has been laying on the ground in an old, abandoned subway station for weeks), and in just about the worst part of town it isn't surprising the priest thinks she needs a place to stay.</p><p>I wrote Narrow because I felt the need to explore Theresa's faith quietly. Not so much off to the side, away from the main story, but in a place where the pressures of the plotline weren't shoving it into a corner. Faith and religion are nuanced, which can be lost when you're fighting button headed men or running away from plastic yuppie zombies.</p><p>Remember, this takes place shortly after chapter 1 ended. Which means not so long ago Theresa kissed her female best friend, took her off life support, and nearly attempted suicide. All of which her religion tells her are sins. Now, she's in a place where God seems to have no place and she finds herself attracted to another woman. </p><p>And so here she is. In a church and praying, trying to understand who she is and where she is and what part she plays in the much, much wider multiverse she finds herself in. I think that's something many of us can relate to.</p><p>See you Monday.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/651/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/652/?do=view#com" class="info">1 comments</a><br><a href="/blog/653/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fafhred<br><span class="Comment_info">*Guest*</span></center><a name="2799">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f1a90be21b6f7a3989f9681e76fe8a49&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=652&amp;q=2799"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=652&amp;reply=2799"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fafhred"</span><br> You got a typo in 'poisoning' <br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="652"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Look for rainbow and select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="rainbow"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

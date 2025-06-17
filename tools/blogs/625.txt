@@ -1,41 +1,33 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Finally!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Sorry about that folks. Keith and I both had some stuff happen in our lives. That slowed things down. Then when I went to post yesterday there was this technical glitch involving the amount of files that could be hosted on the server and... anyway, JD fixed that.</p><p>So, here we are!</p><p>Shall I tell you about our new sponsor? YES! YES I shall! Because it is pretty darn exciting!</p><p>Do you know who <a href="http://www.imdb.com/name/nm2403468/?ref_=fn_al_nm_1" target="_blank">Chance Raspberry</a> is? Chances are you've seen his work. He's worked animation on both the Simpsons and Foster's Home for Imaginary Friends. And now he's producing an animated series called Little Billy, based on his own childhood, about a young boy with special needs (tourette's syndrome and what I suspect is a fictionalized version of that nebulous ADHD/low level autism diagnosis that befuddle so many parents). The first volume has already been funded <a href="https://www.kickstarter.com/projects/chanceraspberry/little-billy-special-edition-dvd-blu-ray/" target="_blank">via a Kickstarter</a> (which raised over $30,000!) and the <a href="https://www.patreon.com/littlebilly?ty=h" target="_blank">Patreon in the add above</a> (top of the page) will help further fund the series. </p><p>Please consider funding the artist and show. The more he gets, the less time he has to work on the Simpsons and other projects and the more time he can spend on Little Billy. If it helps convince you, take a gander at the trailer below. It is loaded with some series 80s nostalgia. Watch it to the very end. You will get yourself the feels.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/o1EDp2MHzlk" frameborder="0" allowfullscreen=""></iframe><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Sorry about that folks. Keith and I both had some stuff happen in our lives. That slowed things down. Then when I went to post yesterday there was this technical glitch involving the amount of files that could be hosted on the server and... anyway, JD fixed that.</p><p>So, here we are!</p><p>Shall I tell you about our new sponsor? YES! YES I shall! Because it is pretty darn exciting!</p><p>Do you know who <a href="http://www.imdb.com/name/nm2403468/?ref_=fn_al_nm_1" target="_blank">Chance Raspberry</a> is? Chances are you've seen his work. He's worked animation on both the Simpsons and Foster's Home for Imaginary Friends. And now he's producing an animated series called Little Billy, based on his own childhood, about a young boy with special needs (tourette's syndrome and what I suspect is a fictionalized version of that nebulous ADHD/low level autism diagnosis that befuddle so many parents). The first volume has already been funded <a href="https://www.kickstarter.com/projects/chanceraspberry/little-billy-special-edition-dvd-blu-ray/" target="_blank">via a Kickstarter</a> (which raised over $30,000!) and the <a href="https://www.patreon.com/littlebilly?ty=h" target="_blank">Patreon in the add above</a> (top of the page) will help further fund the series. </p><p>Please consider funding the artist and show. The more he gets, the less time he has to work on the Simpsons and other projects and the more time he can spend on Little Billy. If it helps convince you, take a gander at the trailer below. It is loaded with some series 80s nostalgia. Watch it to the very end. You will get yourself the feels.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/o1EDp2MHzlk" frameborder="0" allowfullscreen=""></iframe><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/624/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/625/?do=view#com" class="info">2 comments</a><br><a href="/blog/626/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2504">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=625&amp;q=2504"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=625&amp;reply=2504"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> That's a useful trick.<br><br>This cache of his is bigger than I expected. By a lot.<br>It looks like it's of comparable size to the Room of Requirement. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>Congrats on the new sponsor!<br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> That's a useful trick.<br><br>This cache of his is bigger than I expected. By a lot.<br>It looks like it's of comparable size to the Room of Requirement. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>Congrats on the new sponsor!<br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2506">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=625&amp;q=2506"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=625&amp;reply=2506"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>What can she do if she's been eating a lot of beans lately?</p><p>{Sorry. &nbsp;Not very, though}</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>What can she do if she's been eating a lot of beans lately?</p><p>{Sorry. &nbsp;Not very, though}</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="625"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a rainbow.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="rainbow"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

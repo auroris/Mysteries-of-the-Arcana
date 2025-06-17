@@ -1,63 +1,55 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Chapter 6 Begin Date</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Hello! Just letting you know we have a firm launch window for chapter 6. It will be launching the first week of February.</p><p>As of right now, we're going to be posting one page per week. Chapter 6 is shaping up to be around 120 pages long. That means we should finish posting chapter 6 sometime in March of 2017.</p><p>Think about that for a moment.</p><p>Here's the truth, everyone. Mysteries of the Arcana occupies this strange place between professional enterprise and hobby. That's not surprising. A lot of webcomics do. And I feel like a heel for shilling and asking for money but there are some facts I need to look at, too.</p><p>Fact 1: Keith is a professional artist. That's how he makes his living. He deserves to be compensated for the hours he puts into MotA every week. Penciling, inking, coloring and lettering take a lot of time on a comic of MotA's quality.</p><p>Fact 2: I deserve to be able to pay for Keith and MotA's other expenses without digging into my saving's account. I maybe even deserve to make a bit of money for the work I put into the comic myself.</p><p>Which means, for Mysteries of the Arcana to continue we need your help. Right now, we have the support we need to post MotA once a week. I'd love to get the support needed to return to twice a week updates.</p><p>How you can support Mysteries of the Arcana</p><p>A few hundred people read MotA regularly, according to the numbers. That makes us a niche comic with a limited audience. I can happily accept that because I believe our audience is awesome. You appreciate the comic and I appreciate you. A few hundred people dedicated to a comic's survival can make it thrive. </p><p>The primary way you can support Mysteries of the Arcana is <a href="https://www.patreon.com/user?u=452395" target="_blank">through our Patreon</a>. For those who don't know, Patreon is a monthly patron system. You pledge to donate X dollars per month and you get some small rewards in return. Right now, we're $73/month away from being able to boost MotA from a once per week update schedule to a twice per week schedule. If 73 people reading this comic were each to commit to donate $1/month we'd make that goal!</p><p>Another way you can support Mysteries of the Arcana is by buying our ebooks. Chapters 1 and 2 have been compiled into digital trade editions. You'll get the comic in an electronically portable format that you can read on your ereader, smartphone or tablet anywhere you go! There's even a bonus story with each book that isn't available (and probably never will be) on this website!</p><p>Chapter 1 is <a href="http://amzn.com/B00S7LB620" target="_blank">available from Amazon</a> for Kindle and in <a href="http://comics.drivethrustuff.com/product/142753/Mysteries-of-the-Arcana-Chapter-1-More-Heavens-and-Earths" target="_blank">PDF format at DriveThruComic</a>.</p><p>Likewise, Chapter 2 is <a href="http://amzn.com/B00S6ZTYDA" target="_blank">available from Amazon</a> for Kindle and in <a href="http://comics.drivethrustuff.com/product/142754/Mysteries-of-the-Arcana-Chapter-2-All-the-Way-Down" target="_blank">PDF format at DriveThruComic</a>.</p><p>If you do buy the book (or already have a copy) please give us a review on either site. Reviews attract potential buyers. </p><p>Thanks for listening to my sales pitch.</p><p>Thank you for supporting Mysteries of the Arcana.</p><p>See you Thursday.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hello! Just letting you know we have a firm launch window for chapter 6. It will be launching the first week of February.</p><p>As of right now, we're going to be posting one page per week. Chapter 6 is shaping up to be around 120 pages long. That means we should finish posting chapter 6 sometime in March of 2017.</p><p>Think about that for a moment.</p><p>Here's the truth, everyone. Mysteries of the Arcana occupies this strange place between professional enterprise and hobby. That's not surprising. A lot of webcomics do. And I feel like a heel for shilling and asking for money but there are some facts I need to look at, too.</p><p>Fact 1: Keith is a professional artist. That's how he makes his living. He deserves to be compensated for the hours he puts into MotA every week. Penciling, inking, coloring and lettering take a lot of time on a comic of MotA's quality.</p><p>Fact 2: I deserve to be able to pay for Keith and MotA's other expenses without digging into my saving's account. I maybe even deserve to make a bit of money for the work I put into the comic myself.</p><p>Which means, for Mysteries of the Arcana to continue we need your help. Right now, we have the support we need to post MotA once a week. I'd love to get the support needed to return to twice a week updates.</p><p>How you can support Mysteries of the Arcana</p><p>A few hundred people read MotA regularly, according to the numbers. That makes us a niche comic with a limited audience. I can happily accept that because I believe our audience is awesome. You appreciate the comic and I appreciate you. A few hundred people dedicated to a comic's survival can make it thrive. </p><p>The primary way you can support Mysteries of the Arcana is <a href="https://www.patreon.com/user?u=452395" target="_blank">through our Patreon</a>. For those who don't know, Patreon is a monthly patron system. You pledge to donate X dollars per month and you get some small rewards in return. Right now, we're $73/month away from being able to boost MotA from a once per week update schedule to a twice per week schedule. If 73 people reading this comic were each to commit to donate $1/month we'd make that goal!</p><p>Another way you can support Mysteries of the Arcana is by buying our ebooks. Chapters 1 and 2 have been compiled into digital trade editions. You'll get the comic in an electronically portable format that you can read on your ereader, smartphone or tablet anywhere you go! There's even a bonus story with each book that isn't available (and probably never will be) on this website!</p><p>Chapter 1 is <a href="http://amzn.com/B00S7LB620" target="_blank">available from Amazon</a> for Kindle and in <a href="http://comics.drivethrustuff.com/product/142753/Mysteries-of-the-Arcana-Chapter-1-More-Heavens-and-Earths" target="_blank">PDF format at DriveThruComic</a>.</p><p>Likewise, Chapter 2 is <a href="http://amzn.com/B00S6ZTYDA" target="_blank">available from Amazon</a> for Kindle and in <a href="http://comics.drivethrustuff.com/product/142754/Mysteries-of-the-Arcana-Chapter-2-All-the-Way-Down" target="_blank">PDF format at DriveThruComic</a>.</p><p>If you do buy the book (or already have a copy) please give us a review on either site. Reviews attract potential buyers. </p><p>Thanks for listening to my sales pitch.</p><p>Thank you for supporting Mysteries of the Arcana.</p><p>See you Thursday.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/521/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/522/?do=view#com" class="info">4 comments</a><br><a href="/blog/523/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Graham<br><span class="Comment_info">*Guest*</span></center><a name="1938">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=4f30849c0c14ec9b4398301f002a28db&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;q=1938"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;reply=1938"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Graham"</span><br> So, the Tarots are named after Arcana, which is itself named after Tarots...<br><br>Um...<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1940">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;q=1940"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;reply=1940"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">Melody would argue that the tarot (in various forms in various arcana) are essentially universal memories expressing themselves in a consistent set of archetypal images. Very Campbell-y stuff.&nbsp;</p><div><br></div><div>But, yeah.</div><div><br></div><div>The arcana are named after tarot cards which are named after the arcana. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></div><p></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">Melody would argue that the tarot (in various forms in various arcana) are essentially universal memories expressing themselves in a consistent set of archetypal images. Very Campbell-y stuff.&nbsp;</p><div><br></div><div>But, yeah.</div><div><br></div><div>The arcana are named after tarot cards which are named after the arcana. <img src="//smilies/smile.gif" alt="Smile" border="0"></div>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Kietra61871</center><a name="1939">&nbsp;</a></span><br>
-<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;q=1939"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;reply=1939"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Reviews are posted on Amazon... Hope they help! Can't wait for the new Chapter to start. Also will be posting about the Patreon on Facebook for you!</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1941">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;q=1941"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=522&amp;reply=1941"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">You are adorably wonderful. Thank you!</p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="522"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Horse resides among the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

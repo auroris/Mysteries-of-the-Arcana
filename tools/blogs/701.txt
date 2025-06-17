@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>All Better!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Thanks for the all the well-wishes, everyone! And thank you, Keith, for redoing the entire page after I remembered I had forgotten to tell him, 'Do this one in color'.</p><p>And so we learn the Arcana of the animated objects and Mr. Fuzzy is, in fact, in permanent black and white and the coloration was not the result of a flash back.</p><p>Next page is the last page of this storyline and then we move onto, "Birthday", the last short story of this chapter.</p><p>See you Thursday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Thanks for the all the well-wishes, everyone! And thank you, Keith, for redoing the entire page after I remembered I had forgotten to tell him, 'Do this one in color'.</p><p>And so we learn the Arcana of the animated objects and Mr. Fuzzy is, in fact, in permanent black and white and the coloration was not the result of a flash back.</p><p>Next page is the last page of this storyline and then we move onto, "Birthday", the last short story of this chapter.</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/700/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/701/?do=view#com" class="info">1 comments</a><br><a href="/blog/702/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>steveha<br><span class="Comment_info">*Guest*</span></center><a name="2932">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=5983c8378b7b667b2841b61b1c1799a9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=701&amp;q=2932"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=701&amp;reply=2932"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "steveha"</span><br> There is a web comic called "Unicorn Jelly" about people in a different universe than our own.&nbsp; That universe (its name is "Tryslmaistan") has&nbsp; different physical laws; things aren't made out of atoms, they are made out of "tratons"; there is no gravity, but there is a force called "linovection" that pulls things down (there is in fact an absolute "up" and absolute "down" in Tryslmaistan); etc.&nbsp; And the creator of the comic pointed out that to visit such a universe you need to become part of it... your body will now be made of tratons, and so on.&nbsp; (It's highly improbable that anyone would survive this!&nbsp; How can the chemical reactions in a human body work the same way when the chemistry is different due to different physical laws... heck, the equivalent of electricity in Tryslmaistan has *three* different charge states, positive, negative, and some third thing.)<br><br>The above was a slightly mind-bending thought when I first encountered it.&nbsp; But it makes total sense, and I buy it completely.&nbsp; To visit a different universe with different physical laws, you either need to be wrapped in some sort of protection that stubbornly holds a pocket of the laws of your own universe, or else you need to be "converted" somehow into the kind of matter that exists in that universe.<br><br>I'm going to guess that the inter-universe travel in Mysteries of the Arcana converts the travelers if need be.&nbsp; So these guys never had colors before, and now they do!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="701"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">If you wanted to choose cat which of these buttons would you pick?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

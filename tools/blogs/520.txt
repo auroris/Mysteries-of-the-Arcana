@@ -1,41 +1,33 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Uh-oh...</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>It sounds as if Kludge doesn't place much faith in Melody's mythology for the arcana, does it? I wonder what kind of fights that causes them...</p><p>Speaking of nothing involving LEGO Kludge! By now, hopefully all eligible Kickstarters have received their PDFs of Mysteries of the Arcana chapters 1 and 2. What did you think of the bonus stories? With chapter 1, we had Narrow, a story that takes place between chapters 1 and 2. With chapter 2, we had Fly Away Home, a prequel that tells the story of how Mandrake came to live at the Inn. I'd love to hear your impressions of those two stories. Drop us a comment and let us know, please! Like all creators, I thrive on feedback.</p><p>And don't forget, <a href="http://www.patreon.com/user?u=452395" target="_blank">Mysteries of the Arcana is now a Patreon supported webcomic</a>! Our goal right now is to raise $320 a month so we can bring you MotA twice a week. At present, we are at $247 a month with 10 patrons. That's enough to allow MotA to be posted once a week. Please consider being our patron, even if for only $1 a month. 20 people pledging $1 a month is just as good as 1 person pledging $20 a month. Every little bit counts to help pay for the comic.</p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>It sounds as if Kludge doesn't place much faith in Melody's mythology for the arcana, does it? I wonder what kind of fights that causes them...</p><p>Speaking of nothing involving LEGO Kludge! By now, hopefully all eligible Kickstarters have received their PDFs of Mysteries of the Arcana chapters 1 and 2. What did you think of the bonus stories? With chapter 1, we had Narrow, a story that takes place between chapters 1 and 2. With chapter 2, we had Fly Away Home, a prequel that tells the story of how Mandrake came to live at the Inn. I'd love to hear your impressions of those two stories. Drop us a comment and let us know, please! Like all creators, I thrive on feedback.</p><p>And don't forget, <a href="http://www.patreon.com/user?u=452395" target="_blank">Mysteries of the Arcana is now a Patreon supported webcomic</a>! Our goal right now is to raise $320 a month so we can bring you MotA twice a week. At present, we are at $247 a month with 10 patrons. That's enough to allow MotA to be posted once a week. Please consider being our patron, even if for only $1 a month. 20 people pledging $1 a month is just as good as 1 person pledging $20 a month. Every little bit counts to help pay for the comic.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/519/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/520/?do=view#com" class="info">2 comments</a><br><a href="/blog/521/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1921">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=520&amp;q=1921"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=520&amp;reply=1921"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> I think this is a case where, in the absence of any evidence either supporting or to the contrary, that he had to grudgingly admit that Melody's Story is at least as plausible as any theory he could have.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1926">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=520&amp;q=1926"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=520&amp;reply=1926"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> I liked the bonus stories, especially Fly Away Home. It was very funny.<br>None can deny the power of chocolate!</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="520"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The airplane is the one to choose.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="airplane"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

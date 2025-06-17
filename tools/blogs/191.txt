@@ -1,41 +1,33 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Origins of a character</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <style type="text/css"> 	 	</style> <p style="margin-bottom: 0in;">The origins of Chrystalline's father reach back to my teen years. Back then, he was my alter ego. I could use my imagination to project him into any story. He could go gallivanting with Taran the Assistant Pig-Keeper in the Prydian Chronicles, cross the a galaxy far, far away with Luke Skywalker, or wander the mean streets of Boston with Spenser and Hawk. I'll admit, he was a total Mary Sue.</p>  <p style="margin-bottom: 0in;">As time went on and I matured my mental stories about Chrys' father wandered away from taking part in other people's adventures. He began to have adventures of his own. I'm not sure when he had a daughter but he did and at some point, I realized my imagination plays were staring her more and more and him less and less. By the time I began developing Mysteries of the Arcana as a webcomic there was no question that she would take center stage.</p><p style="margin-bottom: 0in;">By the way, in case there was any question, Chrys' dad is the guy who looks like her. The other two? Kludge and Melody.<br></p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <style type="text/css"> 	 	</style> <p style="margin-bottom: 0in;">The origins of Chrystalline's father reach back to my teen years. Back then, he was my alter ego. I could use my imagination to project him into any story. He could go gallivanting with Taran the Assistant Pig-Keeper in the Prydian Chronicles, cross the a galaxy far, far away with Luke Skywalker, or wander the mean streets of Boston with Spenser and Hawk. I'll admit, he was a total Mary Sue.</p>  <p style="margin-bottom: 0in;">As time went on and I matured my mental stories about Chrys' father wandered away from taking part in other people's adventures. He began to have adventures of his own. I'm not sure when he had a daughter but he did and at some point, I realized my imagination plays were staring her more and more and him less and less. By the time I began developing Mysteries of the Arcana as a webcomic there was no question that she would take center stage.</p><p style="margin-bottom: 0in;">By the way, in case there was any question, Chrys' dad is the guy who looks like her. The other two? Kludge and Melody.<br></p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/190/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/191/?do=view#com" class="info">2 comments</a><br><a href="/blog/192/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="75">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=191&amp;q=75"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=191&amp;reply=75"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>U know, after having a nice look at the page of today i suddenly got nostalgic to those old 80-90's tv series and some of those NES games i played in those days(Castlevania,Wizards&amp;Warriors ect) and ofc the first Baldurs's Gate.</p> <p>Sigh, i miss those times..</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>U know, after having a nice look at the page of today i suddenly got nostalgic to those old 80-90's tv series and some of those NES games i played in those days(Castlevania,Wizards&amp;Warriors ect) and ofc the first Baldurs's Gate.</p> <p>Sigh, i miss those times..</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="76">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=191&amp;q=76"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=191&amp;reply=76"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Chrys's dad was born (in my head) in the late 80s/early 90s so that makes a sort of sense. <br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="191"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Elephant resides among the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="elephant"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

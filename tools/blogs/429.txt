@@ -1,19 +1,11 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Sombulus</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>How do you know the webcomic we're promoting today is awesome? I backed it via Kickstarter. And if you can't take my willingness to give money to someone as a recommendation, what can you take? </p><p>Seriously, <a href="https://www.comic-rocket.com/explore/sombulus/" target="_blank">Sombulus</a> is one of the few webcomics out there besides MotA with a multidimensional theme. What happens when a paladin, a sort of demon, and an inventor roam the dimensions using a vehicle that runs on nonsense? AWESOME! That's what happens. Give it a try!</p><p>Also, I'm playing Pokemon X. There's no real reason for me to tell you that except I'm enjoying it a great deal. My current line-up is Florges, Mawile and Vivillon. I have a feeling I'll be adding to that once I start being able to catch Ghost types. </p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>How do you know the webcomic we're promoting today is awesome? I backed it via Kickstarter. And if you can't take my willingness to give money to someone as a recommendation, what can you take? </p><p>Seriously, <a href="https://www.comic-rocket.com/explore/sombulus/" target="_blank">Sombulus</a> is one of the few webcomics out there besides MotA with a multidimensional theme. What happens when a paladin, a sort of demon, and an inventor roam the dimensions using a vehicle that runs on nonsense? AWESOME! That's what happens. Give it a try!</p><p>Also, I'm playing Pokemon X. There's no real reason for me to tell you that except I'm enjoying it a great deal. My current line-up is Florges, Mawile and Vivillon. I have a feeling I'll be adding to that once I start being able to catch Ghost types. </p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/428/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/429/?do=view#com" class="info">0 comments</a><br><a href="/blog/430/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="429"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Look for heart and select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="heart"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

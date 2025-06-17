@@ -1,122 +1,114 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Feedback</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    I just wanted to say a brief word about feedback. Here's the truth. Webcomic folk are a whiny, needy, greedy bunch of feedback whores and I'm not different. <br><br>Seriously, we aren't making this comic in a vacuum. If all we wanted to do was satisfy the creative urge, Keith and I would never put the comic out on the web. We choose to share the comic because we desire to show our work to the world and to interact with the readers as part of a community.<br><br>For those of you who comment, thank you. Those of you who comment regularly? Bless you. Those of you who haven't commented, please feel free to. I try to respond to every comment that comes across the screen, either here or at our forums.<br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I just wanted to say a brief word about feedback. Here's the truth. Webcomic folk are a whiny, needy, greedy bunch of feedback whores and I'm not different. <br><br>Seriously, we aren't making this comic in a vacuum. If all we wanted to do was satisfy the creative urge, Keith and I would never put the comic out on the web. We choose to share the comic because we desire to show our work to the world and to interact with the readers as part of a community.<br><br>For those of you who comment, thank you. Those of you who comment regularly? Bless you. Those of you who haven't commented, please feel free to. I try to respond to every comment that comes across the screen, either here or at our forums.<br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/195/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/196/?do=view#com" class="info">9 comments</a><br><a href="/blog/197/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://katya-s69.livejournal.com/" target="_blank">Katy</a><br><span class="Comment_info">*Guest*</span></center><a name="87">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b7d33aed217fbd6aa0920639efbb18f2&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=87"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=87"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Katy"</span><br> <font class="Apple-style-span" face="'Comic Sans MS'"><font class="Apple-style-span" color="#339966">Ah, so here is the home of the wild cloaks, eh? &nbsp;And do I see a tentacle sticking out of the water down there? &nbsp;INNNNNNNteresting ... But what I do NOT see are any cloaks flapping around ... they must be shy. &nbsp;Or maybe they are crepuscular, or nocturnal even, and hiding from the sun somewhere ... &nbsp;</font></font></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>uhl<br><span class="Comment_info">*Guest*</span></center><a name="88">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=88"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=88"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "uhl"</span><br> Maybe those "rocks" are the cloaks, curled up?<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunndalf<br><span class="Comment_info">*Guest*</span></center><a name="89">&nbsp;</a></span><br>
-<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=89"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=89"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gunndalf"</span><br> Oh my god, she broke her thumb. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gunndalf"</span><br> Oh my god, she broke her thumb. <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Jeyl<br><span class="Comment_info">*Guest*</span></center><a name="90">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=7779b6602e407995035d1fa4f40f7502&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=90"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=90"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jeyl"</span><br> Seems that Surgeon doesn't want me to comment here after asking for my gold back since he keeps popping up saying "The editor does not support your browser". I think he's prejudiced against Macs.
 <br>
 <br>Also, tell him he should pick a better disguise than a simple pop-up window.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="91">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=91"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=91"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Well,&nbsp; i don't know if any of u guys have seen it but those peddles there seem to be arranged like something dragonlike, just have a good look, head points towards the water, might be just me, but might also be a sly hint!</p> <p>And Jgray, your welcome, i always love it when ppl comment on my own comments <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"> </p> <p>and i ofc love the comic big time as well <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p> <p>PS: did u see my comment 2 posts back? about the Bag of holding type of thingy?</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Well,&nbsp; i don't know if any of u guys have seen it but those peddles there seem to be arranged like something dragonlike, just have a good look, head points towards the water, might be just me, but might also be a sly hint!</p> <p>And Jgray, your welcome, i always love it when ppl comment on my own comments <img src="//smilies/smile.gif" alt="Smile" border="0"> </p> <p>and i ofc love the comic big time as well <img src="//smilies/smile.gif" alt="Smile" border="0"></p> <p>PS: did u see my comment 2 posts back? about the Bag of holding type of thingy?</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.drunkduck.com/Eternity_Dreams/index.php" target="_blank">Mitaukano</a><br><span class="Comment_info">*Guest*</span></center><a name="92">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e8d71a9f718d40ed451abe062a409664&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=92"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=92"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mitaukano"</span><br> </p><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height: normal"><span style="font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family: " arial","sans-serif";mso-fareast-font-family:"times="" new="" roman";color:black"="">I know what you guys mean. Believe me. However, Arcana posts are usually so good I am generally holding my breath in anticipation of the next page.&nbsp;</span><span style="font-size:13.5pt;font-family:" arial","sans-serif";mso-fareast-font-family:="" "times="" new="" roman";color:black"=""></span></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height: normal"><span style="font-size:13.5pt;font-family:" arial","sans-serif";="" mso-fareast-font-family:"times="" new="" roman";color:black"="">I was curious though if you two are fans of Avatar the last Airbender, the super wise giant turtle reminded me so much of the Lion Turtle in the show.&nbsp;</span><span style="font-size:12.0pt;font-family:" times="" new="" roman","serif";mso-fareast-font-family:="" "times="" roman""=""></span></p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mitaukano"</span><br> </p><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height: normal"><span style="font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family: " arial","sans-serif";mso-fareast-font-family:"times="" new="" roman";color:black"="">I know what you guys mean. Believe me. However, Arcana posts are usually so good I am generally holding my breath in anticipation of the next page.&nbsp;</span><span style="font-size:13.5pt;font-family:" arial","sans-serif";mso-fareast-font-family:="" "times="" new="" roman";color:black"=""></span></p>  <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height: normal"><span style="font-size:13.5pt;font-family:" arial","sans-serif";="" mso-fareast-font-family:"times="" new="" roman";color:black"="">I was curious though if you two are fans of Avatar the last Airbender, the super wise giant turtle reminded me so much of the Lion Turtle in the show.&nbsp;</span><span style="font-size:12.0pt;font-family:" times="" new="" roman","serif";mso-fareast-font-family:="" "times="" roman""=""></span></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="93">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=93"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=93"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">Katy, that isn't a tentacle. They're at the rear end of the turtle. That's a tail.<br><br>Uhl, those are rocks. I think. Which is funny because Keith hates drawing rocks and I didn't tell him to draw those. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br><br>Gundalf, she's just double jointed!<br><br>Weert, I saw the comment. I haven't seen Ultra-Violet but the concept of extradimensional storage has been explored by a lot of different movies and books and games over time. I still think Felix the Cat and his magical bag was one of the first though.<br><br>Mitaukano, I'm always pleased to see another page of Eternity Dreams, too! Believe it or not, I haven't seen Avatar, the Last Airbender (though I know it is a good show). Like extradimensional space, the concept of a wise turtle is an old one. I think Finding Nemo did the wise turtle bit quite effectively!<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">Katy, that isn't a tentacle. They're at the rear end of the turtle. That's a tail.<br><br>Uhl, those are rocks. I think. Which is funny because Keith hates drawing rocks and I didn't tell him to draw those. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>Gundalf, she's just double jointed!<br><br>Weert, I saw the comment. I haven't seen Ultra-Violet but the concept of extradimensional storage has been explored by a lot of different movies and books and games over time. I still think Felix the Cat and his magical bag was one of the first though.<br><br>Mitaukano, I'm always pleased to see another page of Eternity Dreams, too! Believe it or not, I haven't seen Avatar, the Last Airbender (though I know it is a good show). Like extradimensional space, the concept of a wise turtle is an old one. I think Finding Nemo did the wise turtle bit quite effectively!<br></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Jeyl<br><span class="Comment_info">*Guest*</span></center><a name="94">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=7779b6602e407995035d1fa4f40f7502&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=94"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=94"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jeyl"</span><br> Somewhere out there, a goddess took pity on my unhappy soul. Out of sheer disappointment of not seeing a baby Chrys, today I received a gift, and that gift came in the form of baby Winter from Girly's most recent update. And to finish it off like adding a small cherry into a Virgin Strawberry Daiquiri, she was being cradled by her two happy mommas. 
 <br>
 <br>This is not the last you'll hear from me JGray. I know where you post and I can read what you type. I will have my gold back and that surgeon won't be able to do a darn thing about it. It takes more to fool me than to constantly have him say that my browser isn't supported by your website.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="95">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;q=95"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=196&amp;reply=95"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text">Jeyl, I hope we make it up to you. Because I've already handed your money over to Keith and he spends it all on crazy old man juice.<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="196"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You need to select the house.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="house"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

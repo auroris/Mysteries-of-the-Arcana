@@ -1,52 +1,44 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>People Are Gonna Die</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Uh-oh. Something bad's gonna happen. There's a plan. There's capable mercs ready to implement the plan. There's wacky murdering hijinks about to ensue. Also some chibi going on. Because every good plan about taking out an entire ship full of space pirates needs chibi awesome.</p><p>Fairpointfan mentioned not remembering Sniper and Hacker, so I'll throw up some links to remind people who they are. They were part of Baron Sir's team back in chapter 5 and a vital part of his plan to retrieve... something... from Circe's vault for a mysterious patron.</p><p>Here's <a href="http://mysteriesofthearcana.com/comics/487/" target="_blank">Sniper's first appearance</a>, dressed a bit more paramilitary.</p><p>And here's <a href="http://mysteriesofthearcana.com/comics/515/" target="_blank">Hacker's first appearance</a>. Well, her avatar anyway, since this particular scene is in cyberspace.</p><p>Finally, for fun, here's <a href="http://mysteriesofthearcana.com/comics/310/" target="_blank">Captain Featherbeard of the Golden Parachute</a> and his crew of <a href="http://mysteriesofthearcana.com/comics/309/" target="_blank">alien grey space pirates</a>. </p><p>Gunsolo asked if this story takes place before or after chapter 5. The answer is after. Here's the placement of the stories from chapter 7 thus far.</p><p><strong>Narrow</strong>: Takes place between chapter 1 and chapter 2.</p><p><strong>Fly Away Home</strong>: Takes places several years before chapter 1.</p><p><strong>Jailbreak</strong>: Takes place roughly at the same time as the beginning of chapter 6.</p><p>Also, my publishers at Fat Goblin Games, Flaming Crab Games, and Playground Adventures have <a href="http://www.rpgnow.com/product/191897/Gray-Family-Support-BUNDLE" target="_blank">put together a charity bundle</a> to raise money to help pay medical bills for my wife's cancer treatment. It contains nearly every Pathfinder thing I've ever written, including several kid friendly adventures I'm particularly proud of. Sorry to self-promote like this.</p><p>See everyone Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Uh-oh. Something bad's gonna happen. There's a plan. There's capable mercs ready to implement the plan. There's wacky murdering hijinks about to ensue. Also some chibi going on. Because every good plan about taking out an entire ship full of space pirates needs chibi awesome.</p><p>Fairpointfan mentioned not remembering Sniper and Hacker, so I'll throw up some links to remind people who they are. They were part of Baron Sir's team back in chapter 5 and a vital part of his plan to retrieve... something... from Circe's vault for a mysterious patron.</p><p>Here's <a href="//comics/487/" target="_blank">Sniper's first appearance</a>, dressed a bit more paramilitary.</p><p>And here's <a href="//comics/515/" target="_blank">Hacker's first appearance</a>. Well, her avatar anyway, since this particular scene is in cyberspace.</p><p>Finally, for fun, here's <a href="//comics/310/" target="_blank">Captain Featherbeard of the Golden Parachute</a> and his crew of <a href="//comics/309/" target="_blank">alien grey space pirates</a>. </p><p>Gunsolo asked if this story takes place before or after chapter 5. The answer is after. Here's the placement of the stories from chapter 7 thus far.</p><p><strong>Narrow</strong>: Takes place between chapter 1 and chapter 2.</p><p><strong>Fly Away Home</strong>: Takes places several years before chapter 1.</p><p><strong>Jailbreak</strong>: Takes place roughly at the same time as the beginning of chapter 6.</p><p>Also, my publishers at Fat Goblin Games, Flaming Crab Games, and Playground Adventures have <a href="http://www.rpgnow.com/product/191897/Gray-Family-Support-BUNDLE" target="_blank">put together a charity bundle</a> to raise money to help pay medical bills for my wife's cancer treatment. It contains nearly every Pathfinder thing I've ever written, including several kid friendly adventures I'm particularly proud of. Sorry to self-promote like this.</p><p>See everyone Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/664/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/665/?do=view#com" class="info">3 comments</a><br><a href="/blog/666/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2828">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=eadfaff19262636d50b2afcca4ef4582&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;q=2828"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;reply=2828"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I suspected they were part of that crew.</p><p>This is such a wonderful, perfect plan - a plan with which nothing could possibly go worng (sic)</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I suspected they were part of that crew.</p><p>This is such a wonderful, perfect plan - a plan with which nothing could possibly go worng (sic)</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2829">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;q=2829"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;reply=2829"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> I hope to see Quest again this chapter.&nbsp;</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Dilandu<br><span class="Comment_info">*Guest*</span></center><a name="2830">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=2ea0a8a1487a7a5edbba01ff787ae21e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;q=2830"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=665&amp;reply=2830"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Dilandu"</span><br> Question: we have target standing behind the transparent glass.<br><br>Why "capable" mecrs couldn't just use optic-wavelenght laser to shot the captain dead from, like, 100000 km away? They have spaceship with some weird atmosphere-control field. The laser cannon is a child toy comparable to that.<br><br>Also, the "let's just shove the barrel outside" is a Very Bad Idea. Outside is vacuum, direct sunlight (a lot of direct sunlight), radiation... Basically, the different parts of the weapon is in completely differen environment. Most probable outcome - BOOM in hands of the sniper.<br><br>With all respect,<br><br>Dilandu, hard sci-fi fan from Russia)<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="665"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Flower needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="flower"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

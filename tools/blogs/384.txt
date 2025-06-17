@@ -1,76 +1,68 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Status Update</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    I just wanted to drop a note and let everyone know our status.<div><br></div><div>I've finished the scripts for the second part of chapter 4. We'll be picking up right where we left off, just after the creation of the first arcana. The scripts have been written, proofed, and edited. They are now in Keith's hands. He's in the middle of reading through the scripts and making his own notes before he starts in on the art. I've also started plotting out chapter 5 with new character profiles and plot trees.</div><div><br></div><div>We're not going to begin posting right away. Rather, we're going to try to build up a buffer so there's less pressure on Keith. Right now we don't have an exact timeline on when the comic will start posting again but my hope is it will be within the month. There are 25 pages left in the chapter. With two updates a week, that's three months of comics. We'll be putting up a few updates, previews of the pages to come as Keith works on them.&nbsp;</div><div><br></div><div>Once we've got chapter 4 posting again, we'll set up a Kickstarter to fund chapter 5. Unfortunately, finances don't allow me to fund the comic myself and I can't ask any artist to work for how much I was paying before. It was just too little for quality art. I'll be posting more information on that when I have it.</div><div><br></div><div>Today's update piece was done by Jesse Justice. An awesome picture of Theresa and the Beast. Thank you, Jesse!</div>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I just wanted to drop a note and let everyone know our status.<div><br></div><div>I've finished the scripts for the second part of chapter 4. We'll be picking up right where we left off, just after the creation of the first arcana. The scripts have been written, proofed, and edited. They are now in Keith's hands. He's in the middle of reading through the scripts and making his own notes before he starts in on the art. I've also started plotting out chapter 5 with new character profiles and plot trees.</div><div><br></div><div>We're not going to begin posting right away. Rather, we're going to try to build up a buffer so there's less pressure on Keith. Right now we don't have an exact timeline on when the comic will start posting again but my hope is it will be within the month. There are 25 pages left in the chapter. With two updates a week, that's three months of comics. We'll be putting up a few updates, previews of the pages to come as Keith works on them.&nbsp;</div><div><br></div><div>Once we've got chapter 4 posting again, we'll set up a Kickstarter to fund chapter 5. Unfortunately, finances don't allow me to fund the comic myself and I can't ask any artist to work for how much I was paying before. It was just too little for quality art. I'll be posting more information on that when I have it.</div><div><br></div><div>Today's update piece was done by Jesse Justice. An awesome picture of Theresa and the Beast. Thank you, Jesse!</div>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/383/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/384/?do=view#com" class="info">5 comments</a><br><a href="/blog/385/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Haruko<br><span class="Comment_info">*Guest*</span></center><a name="1111">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=4f4766ffc601495069bfe2c5adcdc742&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;q=1111"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;reply=1111"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Haruko"</span><br> <font face="Courier New">Yay ^^ happyface more comics. glad to hear you're doing better J &lt;3&nbsp;</font></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1112">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;q=1112"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;reply=1112"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Adamas"</span><br> Great! Can't wait to see what's gonna happen!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="1113">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;q=1113"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;reply=1113"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "David"</span><br> I'm just glad to see the resurrection of both yourself, J, and Mysteries of the Arcana! We'll happily help out any way we can.<br><br>Seriously, though, the lack of communication is what lost most dedicated fans. I myself had you in the "Almost Dead" folder of webcomic bookmarks (the only other occupant of which has disappeared into the voids of the Internet completely, sadly). You got some work to get back to where you were, but I trust you will get there.<br><br>Talking does help when shit goes down. Trolls notwithstanding, you will find a bunch of support from your followers, <i>if you just say what is going on</i>. Keith's last post confirmed you were at least alive, which relieved us during that time. That is sometimes all we need to hear, and (regardless of what most media tells you) people are actually supportive, even online. Particularly if they are active, loyal followers.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1114">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;q=1114"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;reply=1114"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> </p><p>Darn. &nbsp;I hoped that was by the new artist...</p><p>Waiting eagerly.</p><p>Now if only "Cheer", "Venus Envy" and "Evil Diva" were showing such signs of life.</p><p>(Well, "Diva" may be...)</p><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> </p><p>Darn. &nbsp;I hoped that was by the new artist...</p><p>Waiting eagerly.</p><p>Now if only "Cheer", "Venus Envy" and "Evil Diva" were showing such signs of life.</p><p>(Well, "Diva" may be...)</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fay<br><span class="Comment_info">*Guest*</span></center><a name="1118">&nbsp;</a></span><br>
-<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;q=1118"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=384&amp;reply=1118"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fay"</span><br> Glad to see life coming back! I'll start checking back more frequently. This is a great comic and I'm sure people will start finding their way back again.
 <br>
 <br>I second what Guest David said.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="384"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Turtle needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="turtle"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

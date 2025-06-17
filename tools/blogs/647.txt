@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>OMG!!!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>BIG NEWS FOR J A LITTLE FURTHER DOWN! But first, about today's comic.</p><p>DUN DUN DUN! To remind everyone, Melody's a Key of the High Priestess. Like Theresa, William, Mandrake, and most of the residents of the Inn she has a Key power. In her case, she can sort through an assembly of facts or stories and learn which among them feels "most true". This has allowed her to assemble what she believes to be the correct origin story for the arcana (by pulling the pieces that feel "most true" from all the tales she's collected). In this case, she sorted through the possibilities and felt, "the enemy IS the void" to be the "most true".</p><p>Something to keep in mind? Some tarot decks come with a blank card...</p><p>I believe I've mentioned my wife is undergoing chemo for breast cancer. We're several weeks in now. It hasn't been the easiest thing we've ever done but support from friends, family, and community has meant it isn't as hard as it could be either. She has her good days and her bad ones but I think there has been more good than bad and she's even been able to do a few hours back at work recently.</p><p>As for the big news! <a href="https://fatgoblingames.com/blogs/news/the-return-of-castle-falkenstein" target="_blank">LOOK LOOK LOOK</a>!</p><p>Fat Goblin Games, a publisher I've done work for, has gotten the license to produce new books for the <strong>Castle Falkenstein</strong> RPG! A classic steam age adventure game and two time Origin award winner, <strong>Castle Falkenstein</strong> mixes fantasy, steampunk, and Victorian literature to create what I believe to be one of the greatest RPGs ever written.</p><p>AND NOW I'M IN CHARGE OF IT! Sort of. I'm the developer of the line and writing the books but WOW!</p><p>I'm pretty psyched!</p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>BIG NEWS FOR J A LITTLE FURTHER DOWN! But first, about today's comic.</p><p>DUN DUN DUN! To remind everyone, Melody's a Key of the High Priestess. Like Theresa, William, Mandrake, and most of the residents of the Inn she has a Key power. In her case, she can sort through an assembly of facts or stories and learn which among them feels "most true". This has allowed her to assemble what she believes to be the correct origin story for the arcana (by pulling the pieces that feel "most true" from all the tales she's collected). In this case, she sorted through the possibilities and felt, "the enemy IS the void" to be the "most true".</p><p>Something to keep in mind? Some tarot decks come with a blank card...</p><p>I believe I've mentioned my wife is undergoing chemo for breast cancer. We're several weeks in now. It hasn't been the easiest thing we've ever done but support from friends, family, and community has meant it isn't as hard as it could be either. She has her good days and her bad ones but I think there has been more good than bad and she's even been able to do a few hours back at work recently.</p><p>As for the big news! <a href="https://fatgoblingames.com/blogs/news/the-return-of-castle-falkenstein" target="_blank">LOOK LOOK LOOK</a>!</p><p>Fat Goblin Games, a publisher I've done work for, has gotten the license to produce new books for the <strong>Castle Falkenstein</strong> RPG! A classic steam age adventure game and two time Origin award winner, <strong>Castle Falkenstein</strong> mixes fantasy, steampunk, and Victorian literature to create what I believe to be one of the greatest RPGs ever written.</p><p>AND NOW I'M IN CHARGE OF IT! Sort of. I'm the developer of the line and writing the books but WOW!</p><p>I'm pretty psyched!</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/646/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/647/?do=view#com" class="info">5 comments</a><br><a href="/blog/648/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ie Yamaf Ool<br><span class="Comment_info">*Guest*</span></center><a name="2785">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6874db9864a25102d0b82e619648627e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;q=2785"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;reply=2785"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Ie Yamaf Ool"</span><br> Every time I get an RSS feed for a comic with a&nbsp;comment, I also get a second feed for the comment WITHOUT the comic. Since my reader can't distinguish between them I get both pages loaded into my browser. I would like for you to send the 'comments only' entries to a separate feed, so people can choose if they want to get it.</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2786">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;q=2786"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;reply=2786"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> Hey wow, congratulations on Castle Falkenstein! <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> Hey wow, congratulations on Castle Falkenstein! <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2787">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;q=2787"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;reply=2787"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> Firstly, grats J on having some good coming into your life. You deserve some happiness, and doing what you love certainly qualifies.&nbsp; Also glad your wife is getting stronger, my prayers go out to her. Medical science is advancing rapidly and they're doing some great things. Stay strong, my friend.<br><br>Secondly, le Yamaf Ool, the RSS feed on this site lists the two most commonly used posting methods in the network, Comics and the Blog. It just so happens J utilizes both, so both the new comic and the new blog are linked.&nbsp; I don't know what kind of RSS reader automatically opens everything in a feed, most give the option of choosing what you want to look at. So perhaps you could just click the new comic link?<br><br>But hey, we appreciate the suggestion, and will look at the possibility of separating the feeds. I'm going to need to add a News feed anyway.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Musicalife<br><span class="Comment_info">*Guest*</span></center><a name="2788">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;q=2788"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;reply=2788"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musicalife"</span><br> Will I require the base game and if so, how easy will it be to obtain it?</p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2789">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;q=2789"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=647&amp;reply=2789"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Congratulations on Castle Falkenstein!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="647"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You are looking for the pumpkin from the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="pumpkin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

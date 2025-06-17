@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Agent P!</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Some people guessed this a few pages back, but the speech patterns of the Horrors are heavily inspired by those of Norm, the mechanical man, from Phineas and Ferb. For those of you not familiar, Phineas and Ferb is an Emmy winning musical, animated show that can be seen on the Disney and Disney XD channels. The creators of the show, Dan Povenmire and Jeff "Swampy" Marsh worked on series like the Simpsons, Rocko's Modern Life, and Family Guy before this and their rather biting sense of humor shines through, though the show itself remains family friendly. <br><br>The show's about two young boys, Phineas and Ferb, who are determined to squeeze the most fun they can out of every single day of summer. They do this by embarking on wild projects that range from building a roller coast across town to fixing a time machine to becoming one hit wonders. Though the boys don't know it, their pet platypus, Perry, is also Agent P. Agent P works for the O.W.C.A. (Organization Without a Cool Acronym), an agency dedicated to battling evil. His nemesis is Dr. Doofenshmirtz, an evil scientist who loves his daughter and seeks to conquer the Tri-State area. Norm is Doofenshmirtz's assistant, a robot that tends to speak in suburbia cliches.<br><br>Anyway, the show is brilliant and you should watch it. Don't believe me? Check out this clip. In it, Phineas and Ferb decide to help their friend Baljeet build a portal to Mars, Bollywood style.<br><br><span><iframe title="YouTube video player" src="http://www.youtube.com/embed/RO5mSAXIzKQ" allowfullscreen="" width="480" frameborder="0" height="390"></iframe></span><br><br><br>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Some people guessed this a few pages back, but the speech patterns of the Horrors are heavily inspired by those of Norm, the mechanical man, from Phineas and Ferb. For those of you not familiar, Phineas and Ferb is an Emmy winning musical, animated show that can be seen on the Disney and Disney XD channels. The creators of the show, Dan Povenmire and Jeff "Swampy" Marsh worked on series like the Simpsons, Rocko's Modern Life, and Family Guy before this and their rather biting sense of humor shines through, though the show itself remains family friendly. <br><br>The show's about two young boys, Phineas and Ferb, who are determined to squeeze the most fun they can out of every single day of summer. They do this by embarking on wild projects that range from building a roller coast across town to fixing a time machine to becoming one hit wonders. Though the boys don't know it, their pet platypus, Perry, is also Agent P. Agent P works for the O.W.C.A. (Organization Without a Cool Acronym), an agency dedicated to battling evil. His nemesis is Dr. Doofenshmirtz, an evil scientist who loves his daughter and seeks to conquer the Tri-State area. Norm is Doofenshmirtz's assistant, a robot that tends to speak in suburbia cliches.<br><br>Anyway, the show is brilliant and you should watch it. Don't believe me? Check out this clip. In it, Phineas and Ferb decide to help their friend Baljeet build a portal to Mars, Bollywood style.<br><br><span><iframe title="YouTube video player" src="http://www.youtube.com/embed/RO5mSAXIzKQ" allowfullscreen="" width="480" frameborder="0" height="390"></iframe></span><br><br><br>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/276/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/277/?do=view#com" class="info">5 comments</a><br><a href="/blog/278/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="492">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;q=492"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;reply=492"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> I actually enjoy that show quite a bit when I'm able to catch it.<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Mei<br><span class="Comment_info">*Guest*</span></center><a name="493">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b2a8fec80c326e8f4eeb42cbf601d536&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;q=493"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;reply=493"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> I was thinking of Phineas and Ferb when i read what the Horrors were saying, but&nbsp;i thought, "No,&nbsp;webcomic producers probably don't watch some silly kids show (which i love)." I'm glad I was wrong <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0">&nbsp;</p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> I was thinking of Phineas and Ferb when i read what the Horrors were saying, but&nbsp;i thought, "No,&nbsp;webcomic producers probably don't watch some silly kids show (which i love)." I'm glad I was wrong <img src="//smilies/smile.gif" alt="Smile" border="0">&nbsp;</p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://angel-of-frantic.deviantart.com" target="_blank">Sewko</a><br><span class="Comment_info">*Guest*</span></center><a name="494">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=99c86c8979e3ea5cb1df3dd403e789ea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;q=494"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;reply=494"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Sewko"</span><br> You may not be aware of this, but "O.W.C.A." in Polish (language spoken in Poland, feom whence I am) is an achronym for the word "owca" which means "sheep". Bet you didn't know that! ;p<br><br>Also, keep up the good work, polish your skills and continue the epic journey of your charas in the comic! :D<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://angel-of-frantic.deviantart.com" target="_blank">Sewko</a><br><span class="Comment_info">*Guest*</span></center><a name="495">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=99c86c8979e3ea5cb1df3dd403e789ea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;q=495"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;reply=495"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Sewko"</span><br> Also, Phineas &amp; Ferb kicks ass. The Disney XD's translations are of high quality - I for example watched the whole show in Polish, English and Spanish cause of little differences, like the songs that are sometimes quite different, but still superb! <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Sewko"</span><br> Also, Phineas &amp; Ferb kicks ass. The Disney XD's translations are of high quality - I for example watched the whole show in Polish, English and Spanish cause of little differences, like the songs that are sometimes quite different, but still superb! <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>the leaking pen<br><span class="Comment_info">*Guest*</span></center><a name="1238">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0df4db50cce8898bb79ff0c42b2e7a56&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;q=1238"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=277&amp;reply=1238"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "the leaking pen"</span><br> I love P and F. I've thrown a few refs into a comic I write for as well. <br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="277"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The house is the one to choose.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="house"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

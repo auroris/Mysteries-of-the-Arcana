@@ -1,30 +1,22 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Good Stuff</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Hidden Name: John Bintz</p><hr><p>I have to say, this has been a good week for stuff!</p><p>First, Persona 4 Arena Ultimax has come out and, thus far, it has been a great addition to the Persona series. It continue the storyline of Persona 4 Arena which is a canonical sequel to both Persona 3 and Persona 4. Rumor has it, this game even sets up Persona 5. Psyched! The game came with ten tarot cards, too! How neat is that?</p><p>Second, Gotham Academy came out. I cannot tell you how excited I was for this comic. I haven't bought a DC book in years but this? This I went out and got day one. It is about a group of kids going to the exclusive Gotham Academy, Bruce Wayne's alma-mater. The designs are gorgeous, the writing happily geeky, and the first book set the pace perfectly. I can't remember the last time I thought a 22 page comic book was actually long enough to tell an effective story. </p><p>Seriously. Buy it. Support this book, please. I want more.</p><p>See you Monday!</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hidden Name: John Bintz</p><hr><p>I have to say, this has been a good week for stuff!</p><p>First, Persona 4 Arena Ultimax has come out and, thus far, it has been a great addition to the Persona series. It continue the storyline of Persona 4 Arena which is a canonical sequel to both Persona 3 and Persona 4. Rumor has it, this game even sets up Persona 5. Psyched! The game came with ten tarot cards, too! How neat is that?</p><p>Second, Gotham Academy came out. I cannot tell you how excited I was for this comic. I haven't bought a DC book in years but this? This I went out and got day one. It is about a group of kids going to the exclusive Gotham Academy, Bruce Wayne's alma-mater. The designs are gorgeous, the writing happily geeky, and the first book set the pace perfectly. I can't remember the last time I thought a 22 page comic book was actually long enough to tell an effective story. </p><p>Seriously. Buy it. Support this book, please. I want more.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/495/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/496/?do=view#com" class="info">1 comments</a><br><a href="/blog/497/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Graham<br><span class="Comment_info">*Guest*</span></center><a name="1725">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=4f30849c0c14ec9b4398301f002a28db&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=496&amp;q=1725"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=496&amp;reply=1725"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Graham"</span><br> Can you maybe provide a link for anyone who might have forgotten Ruby?<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="496"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the fish from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>

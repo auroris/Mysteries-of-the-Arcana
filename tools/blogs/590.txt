@@ -1,74 +1,66 @@
-<div>
+<html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
    <h1>Christmas is Coming</h1>
    <div class="post_body">
-   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Christmas is coming but the squirrels aren't getting fat...</p><p>SO THEY ARE AT WAR!</p><p>War.</p><p>War never changes.</p><p>Ahem! Well, that was certainly random.</p><p>Speaking of Christmas, there are two ways you can give a Christmas present to the team behind your favorite webcomic (no, not that one. Mysteries of the Arcana, silly!)</p><p>First, up until the end of the month, for every commission Keith gets from a Mysteries of the Arcana reader, I will be paying him an additional $1. So, feel free to go to <a href="http://mysteriesofthearcana.com/index.php?action=page&amp;page=16" target="_blank">Keith's commission page</a> and find out his very reasonable rates!</p><p>And, of course, you can <a href="https://www.patreon.com/user?u=452395" target="_blank">support our Patreon</a>. The Patreon pays for the comic. Without it, the comic wouldn't be here. I mean this quite sincerely. We are currently $31 away from our next milestone, at which point I start paying myself a whole $5 per page! We're $61 away from the milestone after that, where Keith gets a raise!  So, please consider supporting us!</p><p>Thank you and see you Monday.</p>
+   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Christmas is coming but the squirrels aren't getting fat...</p><p>SO THEY ARE AT WAR!</p><p>War.</p><p>War never changes.</p><p>Ahem! Well, that was certainly random.</p><p>Speaking of Christmas, there are two ways you can give a Christmas present to the team behind your favorite webcomic (no, not that one. Mysteries of the Arcana, silly!)</p><p>First, up until the end of the month, for every commission Keith gets from a Mysteries of the Arcana reader, I will be paying him an additional $1. So, feel free to go to <a href="//index.php?action=page&amp;page=16" target="_blank">Keith's commission page</a> and find out his very reasonable rates!</p><p>And, of course, you can <a href="https://www.patreon.com/user?u=452395" target="_blank">support our Patreon</a>. The Patreon pays for the comic. Without it, the comic wouldn't be here. I mean this quite sincerely. We are currently $31 away from our next milestone, at which point I start paying myself a whole $5 per page! We're $61 away from the milestone after that, where Keith gets a raise!  So, please consider supporting us!</p><p>Thank you and see you Monday.</p>
    </div>
    </td></tr>
-   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/589/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/590/?do=view#com" class="info">5 comments</a><br><a href="/blog/591/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2251">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;q=2251"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;reply=2251"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Aaand caught up again after my holiday. Nice work!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2252">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;q=2252"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;reply=2252"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> It's not an 80's show Theresa, it's a 90's tv show! get the dacde right! <img src="http://mysteriesofthearcana.com/smilies/razz.gif" alt="Razz" border="0"><br></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> It's not an 80's show Theresa, it's a 90's tv show! get the dacde right! <img src="//smilies/razz.gif" alt="Razz" border="0"><br></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>TheDerangedOne<br><span class="Comment_info">*Guest*</span></center><a name="2253">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ec485dab6df0975a539ef4e654772b1c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;q=2253"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;reply=2253"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "TheDerangedOne"</span><br> All I see are two armies of puppets dancing on strings.</p><div>Are there mirrors that only reflect black and white? I feel like some of those are needed here.... hmmm wait no, the squirrels would probably think it was something it's not and shoot it at this point.</div><p></p>
- <p class="Comment_text"></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "TheDerangedOne"</span><br> All I see are two armies of puppets dancing on strings.</p><div>Are there mirrors that only reflect black and white? I feel like some of those are needed here.... hmmm wait no, the squirrels would probably think it was something it's not and shoot it at this point.</div>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2254">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;q=2254"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;reply=2254"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
-<p class="Comment_text"> </p><p class="Comment_text">*ugh* <img alt=" Bite " src=" http://mysteriesofthearcana.com/smilies/bite.gif " border="0" hspace="2" vspace="2"><br>For those that visited and found the site totally wiped out, and for those just interested anyway, here's what happened:<br>A file injection attack was initiated on this site at 5:34pm from Paris, France with ip address 195.154.217.123 . 82 html files were dumped into the site, containing hundreds of links to a Chinese news site, and a default page was added to link to those.<br>Why?&nbsp; Who the heck knows. People have a knack for being rotten.<br>How?&nbsp; A php vulnerability on the host server. This is being patched.<br><br>So... there ya go.<br></p>
- <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+
+<p class="Comment_text"> </p><p class="Comment_text">*ugh* <img alt=" Bite " src="//smilies/bite.gif" border="0" hspace="2" vspace="2"><br>For those that visited and found the site totally wiped out, and for those just interested anyway, here's what happened:<br>A file injection attack was initiated on this site at 5:34pm from Paris, France with ip address 195.154.217.123 . 82 html files were dumped into the site, containing hundreds of links to a Chinese news site, and a default page was added to link to those.<br>Why?&nbsp; Who the heck knows. People have a knack for being rotten.<br>How?&nbsp; A php vulnerability on the host server. This is being patched.<br><br>So... there ya go.<br></p>
+ <hr width="70%">
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2255">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
-<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;q=2255"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=590&amp;reply=2255"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<hr>
+
+
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Huh. Completely missed that. Fixed that rather quickly then, I guess. Good work.<br><br>And yeah, where there's enough of people, there will be rotten ones.<br>And there are a lot of people on the internet. And by that I mean a <i><b>lot</b></i>!<br></p>
- <p class="Comment_text"></p><p></p>
+ 
 
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-	 <tbody><tr>
-     <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"></td></tr>
-	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="590"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The button to select is flower.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="flower"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
-	  </tr>
-	  </tbody></table></td></tr></tbody></table>
+<hr></div></td></tr></tbody></table>
 <!-- End main content -->
-              </div>
+              </div></body></html>
