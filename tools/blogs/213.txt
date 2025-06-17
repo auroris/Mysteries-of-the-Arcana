@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Spider Forest and Lavenders</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Theresa's ability to come up with strategy on the fly is one of her greatest skills but this time, it won't do her much good...<br><br>Mysteries of the Arcana has been invited into the <a name="" target="_blank" classname="" class="" href="http://spiderforest.com/">SpiderForest</a> collective. It has no effect on the comic for most readers, except that there's now a neat little header up above that advertises some pretty nifty comics!<br><br>In other news, Keith is drawing a new comic called the <a name="" target="_blank" classname="" class="" href="http://www.drunkduck.com/The_Lavenders/index.php?p=733533">Lavenders</a>. I highly recommend you check it out!<br>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/212/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/213/?do=view#com" class="info">0 comments</a><br><a href="/blog/214/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

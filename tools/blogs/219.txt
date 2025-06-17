@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Another Thursday...</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Theresa's quest is over. The challenge... her's and Chrys's? That's just begun. There are consequences for any action taken, even those done for the right reasons.<br>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/218/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/219/?do=view#com" class="info">0 comments</a><br><a href="/blog/220/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

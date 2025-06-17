@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Demon Archives</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Good, solid science fiction webcomics are relatively rare. It seems fantasy webcomics are more the norm. That means the few SF webcomics out there should be read and treasured. A good example is <a href="https://www.comic-rocket.com/explore/the-demon-archives/" target="_blank">the Demon Archives</a>, a post-apocalyptic tale that tells the story of a group trying to rebuild their desolate world. Give it a try!</p><p>Have I mentioned the Golden Dames Project? It is a webcomic I'll be presenting soon that takes the best examples of female characters from the golden age of comics (at least, those comics that have fallen into the public domain) and presents them to you with facts about the characters, creators, comics, and publishers behind them. I'm hoping to debut the Golden Dames Project very soon.</p><p><img src="/pics/c682b66cb81ef65a10cd49cd91e75f98.png"></p><p>See you tomorrow!</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/430/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/431/?do=view#com" class="info">0 comments</a><br><a href="/blog/432/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

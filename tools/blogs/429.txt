@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Sombulus</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>How do you know the webcomic we're promoting today is awesome? I backed it via Kickstarter. And if you can't take my willingness to give money to someone as a recommendation, what can you take? </p><p>Seriously, <a href="https://www.comic-rocket.com/explore/sombulus/" target="_blank">Sombulus</a> is one of the few webcomics out there besides MotA with a multidimensional theme. What happens when a paladin, a sort of demon, and an inventor roam the dimensions using a vehicle that runs on nonsense? AWESOME! That's what happens. Give it a try!</p><p>Also, I'm playing Pokemon X. There's no real reason for me to tell you that except I'm enjoying it a great deal. My current line-up is Florges, Mawile and Vivillon. I have a feeling I'll be adding to that once I start being able to catch Ghost types. </p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/428/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/429/?do=view#com" class="info">0 comments</a><br><a href="/blog/430/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

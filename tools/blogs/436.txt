@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>BrickBunny Designs</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Why, yes! That are custom designed LEGO minifigures of Chrystalline, Theresa, and William up there. They were created by Wendy Heather Wood of <a href="http://brickbunny.co.uk/" target="_blank">BrickBunny Designs</a>. Wendy is not only a fun comic creator but a professional custom minifig designer! Interested in having her do a minifigure for your comic characters? Or any characters? Give her a shout either via her site, <a href="http://brickbunny.tumblr.com/" target="_blank">tumblr</a> or via <a href="https://twitter.com/gilbertandgrim" target="_blank">her twitter feed</a>!</p><p>Only a few more days and chapter 5 begins! The action starts Monday! I'm excited! Are you excited?</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/435/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/436/?do=view#com" class="info">0 comments</a><br><a href="/blog/437/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Suggestions are Fun!</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>So, someone suggested a swap of outfits from Theresa and Chrys' original and very first kiss.</p><p>Granted! It's not quite the exact outfit, because i thought maybe Chrys has a little different taste in undies, but all in all, this was rather fun to do. I still have the Mandrake idea percolating, but I'm still taking suggestions and ideas for more inbetween stuff.</p><p>J's prepping for GenCon and he's working on recharging his batteries so he can get back to writing. I'm glad you guys are sticking it out with us!</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/715/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/716/?do=view#com" class="info">0 comments</a><br><a href="/blog/717/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

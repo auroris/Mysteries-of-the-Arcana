@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Awww!</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    I cannot get over how adorable Mandrake is on this page! Gennifer did a fantastic job with her! The outfit is somewhat 80s inspired, I admit. <br><br>In the extras section you can now find a link to Mysteries of the Arcana's first fanfiction! A while back Ayshara was kind enough to write a MotA inspired drabble. It took me a while but I finally linked to it. It is front and center, first thing, when you click on the extras button.<br><br>See you at the end of the week!<br>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/361/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/362/?do=view#com" class="info">0 comments</a><br><a href="/blog/363/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

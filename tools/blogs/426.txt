@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Chirault</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>Day five of webcomic trailers and today we're looking at <a href="https://www.comic-rocket.com/explore/chirault/" target="_blank">Chirault</a>! Look at that poster. It is like Darth Maul and Chrys have a love child who likes to hang out with very tiny women! How can you not go and give her a try? Be warned, though. Chirault has quite the archive to read through. Over seven hundred pages. Be prepared to be entertained for quite a while.</p><p>I'm in the middle of preparing the four tarot cards people will be receiving as rewards for the Kickstarter. It isn't quite as easy as I had hoped it would be because of an error in judgement I made. Word to the wise - if you intend to offer something printed as a reward for a Kickstarter make sure you work out the printing dimensions ahead of time. </p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/425/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/426/?do=view#com" class="info">0 comments</a><br><a href="/blog/427/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

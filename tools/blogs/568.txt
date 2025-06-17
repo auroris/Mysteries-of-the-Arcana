@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Wednesday Update!</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    <p>As promised, here's an update on Wednesday! We'll also have one on Friday since y'all are such good haiku writers.</p><p>Did you know that Keith is the part-time colorist over at <a href="http://grrlpowercomic.com/" target="_blank">GrrlPower</a>? He doesn't color every page but he does color some of them, allowing Dave B more time to work on pencils, inks, lettering, and the rest of the gig. Play a game! Try to figure out which pages Keith colored and which Dave colored! It can be fun!</p><p>See you Friday!</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/567/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/568/?do=view#com" class="info">0 comments</a><br><a href="/blog/569/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

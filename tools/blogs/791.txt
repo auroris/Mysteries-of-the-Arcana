@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Discord Huzzah!</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>I went ahead and put together a rather simple discord server for people looking to hang out, and get a bit of a front row seat to things, and a hand in how our social aspects develop.</p><p>You guys are awesome, and I appreciate each of you, so make sure to drop on by, grab some roles, and popcorn, and don’t be afraid to talk to me over there!</p><p>Legacy of The Fool Discord: <a href="https://discord.gg/eEhX57MatG" target="_blank">https://discord.gg/eEhX57MatG</a></p><p>#discord #social #mota #legacyofthefool #motalotf</p><p>See you next post!</p><p>Keira</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/790/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/791/?do=view#com" class="info">0 comments</a><br><a href="/blog/792/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

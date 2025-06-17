@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Labor Day</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="JGray"><br><span class="desc"><center>JGray </center></span></div>    Sorry this is late, folks. Labor Day got in the way. For those of you who live outside the United States, that's another of our ill-defined holidays that mostly exist as an excuse for stores to have sales.<br><br>For those of you having issues with the RSS feed, we seem to have defined the problem. Sort of. In one of the posts there was an invisible character that some RSS readers consider illegal. The RSS reader detects it and then shuts down the entire feed. <br><br>Of course, knowing the problem and finding that character? Two different things. We're working on it but invisible characters are hard to find. We'll announce it when the problem is resolved.<br>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/315/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/316/?do=view#com" class="info">0 comments</a><br><a href="/blog/317/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

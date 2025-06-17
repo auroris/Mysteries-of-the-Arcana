@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Remembering</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>You know, sometimes it's easy to forget about things, both real and fictional. This April was my 13th year outside of the service, and sometimes it feels almost like it was just a dream, something that was so long ago that it just kind of fades into the background. When this weekend came around, I had a lot of things dancing in my head, and one that, surprisingly had never entered my mind before, was to do something for Memorial Day, because it's both relevant to the real world, and to the MotA world as well. Theresa's father is largely responsible for a lot of her character development, both in how he raised her, and in how he passed. So, I wanted to do something to show not only that she remembers, but that we do too. The comic shall resume on Thursday. </p><p>Never Forget Those Who Went Before.</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/641/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/642/?do=view#com" class="info">0 comments</a><br><a href="/blog/643/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

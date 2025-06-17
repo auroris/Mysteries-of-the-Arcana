@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Tomorrow!</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>Alright. The time has arrived! Make sure to hop over onto the new site. <a href="https://legacyofthefool.com"> https://legacyofthefool.com</a></p><p><a href="https://legacyofthefool.com"></a>The comic finally starts updating midnight EST! For now, we'll be updating every Monday, and we have some extra goodies heading to Patreon ( https://patreon.com/legacyofthefool ), and some vote incentives on the Legacy of The Fool site if you vote for the comic!<br><br>Patrons get the comic a week early, and there are some other fun little tidbits we're working on to add more value to the Patreon as well.<br><br>Stop on by, join us, and join the Discord as well! <a href="https://discord.gg/eEhX57MatG"> https://discord.gg/eEhX57MatG</a></p><p>Keira W.</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/794/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/795/?do=view#com" class="info">0 comments</a><br></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>

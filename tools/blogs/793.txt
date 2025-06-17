@@ -1,0 +1,12 @@
+<div>
+<!-- Main content here -->
+<table border="0" class="post"><tbody><tr><td>
+   <h1>Archive Site</h1>
+   <div class="post_body">
+   <div id="avatar"><img src="http://mysteriesofthearcana.com/images/spacer.gif" border="0" alt="verias"><br><span class="desc"><center>verias </center></span></div>    <p>Since it's likely this site will be going down in the very near future, I wanted to take a moment to direct everyone to the archive site, that way you can still access the old comic.</p><p><a href="https://mysteriesofthearcana.pages.dev/">https://mysteriesofthearcana.pages.dev/</a></p><p>Thank you very much to the wonderful Aleena for getting this situated.</p><p>Meanwhile, don't forget to head on over to the new comic site! <a href="https://legacyofthefool.com"> https://legacyofthefool.com </a> and sign up, drop a comment, bookmark the place, or join our discord!</p><p>Thinks are trucking along at a decent pace, and I look forward to January's launch!</p><p>Keira</p>
+   </div>
+   </td></tr>
+   <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/792/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/793/?do=view#com" class="info">0 comments</a><br><a href="/blog/794/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
+</td></tr></tbody></table>
+<!-- End main content -->
+              </div>
