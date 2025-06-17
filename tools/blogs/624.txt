@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/623/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/624/?do=view#com" class="info">5 comments</a><br><a href="/blog/625/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/624/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="2495">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> Spoiler alert: Then it turned out that Mister MistEerie was really Jay in a disguise, and the void monster was a splotch of liquid paper (white-out for you US folks) that was spilled on the page... :P<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 25, 2016 at 1:18AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2496">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I am shocked and dismayed! I have not felt this way since idjits were trying to spoil Fallout 4! <img src="http://mysteriesofthearcana.com/smilies/razz.gif" alt="Razz" border="0"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 25, 2016 at 10:39PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="2497">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> Can't fault me. I did say "spoiler alert" <img alt=" Smile " src=" http://mysteriesofthearcana.com/smilies/smile.gif " border="0" hspace="2" vspace="2"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 26, 2016 at 9:17AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2498">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> "Liquid Paper" is, in fact, the original US trademark for the stuff that made Mike Nesmith's mother (and Nez) rich.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 28, 2016 at 12:36AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Bob!<br><span class="Comment_info">*Guest*</span></center><a name="2499">&nbsp;</a></span><br>
@@ -60,20 +60,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Bob!"</span><br> Waited for the lights to come on Monday,and it's still dark in the tree on Thursday!</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2016 at 8:17AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="624"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a penguin.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="penguin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="624"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Guitar is among the images, check it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="guitar"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

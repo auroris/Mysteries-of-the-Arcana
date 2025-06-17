@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/569/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/570/?do=view#com" class="info">7 comments</a><br><a href="/blog/571/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/570/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2173">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> I understand why Theresa wears a glove that leaves her trigger finger free - but why does Chrys?</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 14, 2015 at 2:28PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>verias</center><a name="2174">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Actually, Fairportfan, Chrys' gloves have always been fingerless, so all of her fingers are exposed. I just kind of went for the more stoic posing this go round, and it only made sense in how I drew the hand that one finger was seen enough to notice the lack of glovetip.</p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted September 14, 2015 at 3:08PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://kessy-athena.deviantart.com/" target="_blank">Kessy Athena</a><br><span class="Comment_info">*Guest*</span></center><a name="2175">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Kessy Athena"</span><br> The tools of war may change, but war itself really doesn't.&nbsp; A generation of young men hacked to death by swords is not fundamentally different from a generation blown apart by roadside bombs.&nbsp; War is and always has been among the most terrible and traumatic things in human experience.&nbsp; The only thing that's really changed is scale.&nbsp; Our ability to wage war has become great enough to destroy our entire world.&nbsp; Which is why we can't keep doing it anymore.<br><br>Incidentally, insurgencies are really one of the oldest forms of warfare.&nbsp; What the US faced in Iraq is very similar to what it faced in Vietnam a generation ago.&nbsp; Or, for that matter, what the Romans faced in conquering Britain two millennia ago.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 16, 2015 at 7:16AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2176">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Asymmetric Warfare.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 16, 2015 at 10:47AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2177">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>"The tools of war may change, but war itself really doesn't."</p><p>==================</p><p>Two vultures were sitting in a tree, waiting for something to die, when they suddenly saw a whole host of animals running toward them - big animals, small animals, predators and prey, all running in a panic and not paying any attention to each other.</p><p>Finally one of them called down to a bear who was passing a little more slowly than the rest, looking back over his shoulder occasionally.</p><p>"Hey, man - what's going on? &nbsp;It looks like you're all running from a fire, but I don't see any fire..."</p><p>"No," the bear said. &nbsp;"The humans are having another war, and everybody's scared, so we're all running away until it's over."&nbsp;</p><p>"Huh," the other vulture said, "for hundreds of thousands of years, we vultures have been doing quite well for ourselves out of the human wars. &nbsp;All sorts of goodies lying around, you know."</p><p>"Well, good luck, then," the bear said and trotted off.</p><p>The vultures nodded to one another, took wing, and flew back in the direction the animals had been coming from ... and were vapourised in a twenty megaton nuclear blast.</p><p>And the moral is, things can change in a hundred thousand years.</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 17, 2015 at 3:44AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://kessy-athena.deviantart.com/" target="_blank">Kessy Athena</a><br><span class="Comment_info">*Guest*</span></center><a name="2178">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Kessy Athena"</span><br> If your family is killed in a war, does it really matter if they were killed with spears or with a nuclear bomb?&nbsp; If your town is destroyed, does it really matter if it was burned by Mongol raiders or flattened by supersonic bombers?<br><br>War is death.&nbsp; War is destruction.&nbsp; War is loss and suffering and pain.&nbsp; War is severed dreams and the work of generations laid waste in an instant.&nbsp; that is as true today as it was the first time two bands of hunter gatherers came to blows over a hunting kill.<br><br>Like I said, the difference is the scale.&nbsp; At the Battle of Agincourt in 1415, 6,000 - 9,000 English troops met 12,000 - 36,000 French and 7,000 - 10,000 died.&nbsp; At the Battle of Kursk in 1943, 940,900 Germans faced 2,500,000 Soviets, and something like 450,000 died.&nbsp; Even nuclear weapons (although admittedly they suck for the vultures) are mainly a question of scale.&nbsp; A thousand conventional bombs can destroy a city.&nbsp; A thousand fusion bombs can destroy the world.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 17, 2015 at 9:19AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2181">&nbsp;</a></span><br>
@@ -82,20 +82,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I guess i wasn't clear - that story (which is not my original work, though the format and words of that version are) is an allegory of those who support or profit from war because they think they'll profit off others' blood and suffering while they're safe at home. - what are known as "chickenhawks" in today's political parlance, or the high brass, or the Military-Industrial Complex in general. <a href="https://youtu.be/-7Y0ekr-3So">The people Country Joe was referring to when he sang "Come on generals, let's move fast - your big chance is come at last..."</a></p><p>They prosper and live the good life off of others' pain and loss ... but someday, they will realise that things can change in a long-enough time ... and that <a htrf="https://youtu.be/xx8WVA1Jfws"></a><a href="https://youtu.be/xx8WVA1Jfws">there are, indeed, no pockets in a shroud</a></p><p></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 17, 2015 at 5:50PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="570"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You need to select the airplane.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="airplane"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="570"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">See fish among the buttons?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

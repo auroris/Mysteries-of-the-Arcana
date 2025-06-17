@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/602/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/603/?do=view#com" class="info">8 comments</a><br><a href="/blog/604/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/603/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><span class="Comment_info">*Guest*</span></center><a name="2293">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Anonymous"</span><br> But they'll all die before we do, and then we win!</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 11, 2016 at 6:48PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2294">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I'm STILL on Fallout 4. And while it's possible it is VERY hard to play a minmaxed charecter. The random spawns can catch ya in some bad spots. Just got killed because I Fast Traveled to the Super Duper Mart and got caught litterally between a Behemoth and that !^^$#*!^(*%^#**&amp;^ing raider behind the billboard with a Fat Man (And by between I mean the area loads, the behemoth hits me half a second before the mini-nuke does. I HATE Lexington!) <img src="http://mysteriesofthearcana.com/smilies/razz.gif" alt="Razz" border="0"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 12, 2016 at 1:41AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGrayTesting<br><span class="Comment_info">*Guest*</span></center><a name="2296">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JGrayTesting"</span><br> Hah! Yeah. I passed through Lexington on my way to the nearby factory for mission reasons. So, hey, why not explore I thought? I got to the Super Duper Mart and looked around a bit. Then there was a flashing light. Then another flashing light.&nbsp;</p><div><br></div><div>Fallout 4 includes some pretty interesting weather so I thought, maybe a storm's rolling in. Nope. That guy with his fat boy just kept reeling off one mini-nuke after another. Luckily, no where near me. I guess he was potshotting feral ghouls with a bunker buster or something.</div><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 12, 2016 at 6:37PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2295">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> I've been playing a bit of StarCraft and Hearthstone recently, and I'm really looking forward to XCOM 2. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 12, 2016 at 1:08PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray<br><span class="Comment_info">*Guest*</span></center><a name="2299">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JGray"</span><br> How is Hearthstone? I'm generally not fond of CCG video games but if there's actually a strong storyline I might be interested.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 13, 2016 at 12:14PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2300">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hearthstone is OK but not great. It's relatively fast paced and the matches can be fun, but it can be a bit of a grind to get to the good cards if you're not willing to spend money on it (I have not paid anything). There is no story to speak of in the game, except for a few characters that appear and say a couple of lines when you're selecting matches in the expansions.<br><br>The "Tavern brawl" mode is the most fun in the game in my opinion. It changes every week, and more often than not you are given either random cards or a preconstructed deck, so it doesn't matter if you don't own the good cards yourself.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted January 13, 2016 at 1:13PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>verias</center><a name="2297">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Skyrim, here. Finally got it on the Steam Winter Sale and it's been fun thus far.</p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted January 12, 2016 at 6:47PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2298">&nbsp;</a></span><br>
@@ -93,20 +93,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">World of Warcraft.&nbsp; It's my addiction, because I can choose the content that doesn't overload my aspie mind like pretty much every shooter does. Plus it's constantly evolving... and gnomes rock.<br><br>Oh, and sometimes tanks. WoT is just cool. <img alt=" Snoopy " src=" http://mysteriesofthearcana.com/smilies/snoopy.gif " border="0" hspace="2" vspace="2"><br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted January 13, 2016 at 9:56AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="603"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the pumpkin from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="pumpkin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="603"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the turtle from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="turtle"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

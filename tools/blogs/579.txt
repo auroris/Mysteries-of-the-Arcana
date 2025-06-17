@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/578/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/579/?do=view#com" class="info">6 comments</a><br><a href="/blog/580/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/579/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2207">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Is it bad, that I'm actually rooting for the Old Ones in that case?<br><br><br>Anyway: Theresa! That is NOT how you hold a loaded gu... Is that thing even loaded? Actually, is there <i>anything</i> like a magazin on that thing?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 12, 2015 at 9:25PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2209">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> That's my question. Bloody thing looks like it's made of a steel pipe, a piece of plywood, a rubber band and a 10 penny nail.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2015 at 1:09AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2208">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>I suspect that Theresa is of the opinion that There's Something Funny about that thing.</p><p>BTW: Any progress on the weird URL error? &nbsp;I went to the garden site the first time i tried to access here tonight...</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2015 at 12:53AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD</center><a name="2210">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">It's a squirrel gun, kinda like a BB gun or something like it I am supposing.<br><br>The error mentioned, as far as I can discover, is an intermittent redirect from one of the advertisers on this site. It is not something specific to the Network.<br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2015 at 11:17AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="2211">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> Am I wrong in thinking that what Theresa is looking through is a scope?</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2015 at 3:14PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Zixinus<br><span class="Comment_info">*Guest*</span></center><a name="2212">&nbsp;</a></span><br>
@@ -71,20 +71,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Zixinus"</span><br> Theresa may be examaning whether the weapon's barrel is rifled or not. Likely it is not, considering the comment. <br><br>For those who don't know, an unrifled barrel's inside is a smooth pipe. They have the advantage of being more tolerant of what kind of things you shoot out of it. For this reason they still use them in shotguns where you can fire different kind of ammunitions from it (a packet of metal balls of various sizes to a one-piece slug to exotic stuff like flares and grenades). This also makes producing them simpler. Militaries still use them for special situations.<br>&nbsp;<br>Rifled barrels have a spiral pattern on the inside that encourages the bullet to spin and thus become more stable in its flight, thus much more accurate than a smooth bore. They are more difficult to make and the ammunition you fire must be optimized to the barrel's spiral pattern, thus you can't vary to much in the ammunition's design. They require more work than smooth barrels but the increase in accuracy is worth it. Almost all military guns are rifled, from pistols trough rifles to machine guns (and more). <br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2015 at 4:44PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="579"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Do you see house?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="house"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="579"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Butterfly needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="butterfly"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/264/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/265/?do=view#com" class="info">5 comments</a><br><a href="/blog/266/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/265/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="394">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> Hmmm. Perhaps the vocal center of her brain is used to transmit the pictographic images instead. <br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 14, 2011 at 2:21AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="395">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> So why is Willy looking away from her when he says 'aye'?&nbsp; Can he not stand the sight of her himself or is he just embarrassed? <br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 16, 2011 at 12:17AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="396">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> I'd say embarrasment. Living at the Inn will have showed him that not all arcana's humans are that shagnasty.<br>&nbsp;Imagine telling a friend that in your culture they are considered a monster that eats children's hearts and has unnatural intercourse with plant-life.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 16, 2011 at 10:22AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="397">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Also, he's keeping his eyes on the road. He is riding, after all.<br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted March 16, 2011 at 11:45AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="398">&nbsp;</a></span><br>
@@ -60,20 +60,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Yeah, don't text and drive...<br><br>I think I'll go with Adamas' theory, because I doubt the ant he's riding is going to run into a telephone pole.<br><br>I hit you with a brick because, even though you're a pretty good kid, here you're considered a monster.&nbsp; Dogs may be man's best friend, but around these parts man is dog's worst enemy...<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 16, 2011 at 3:11PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="265"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Choose the button with the cat on it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="265"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Horse needs to be checked.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

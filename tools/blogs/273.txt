@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/272/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/273/?do=view#com" class="info">14 comments</a><br><a href="/blog/274/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/273/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><p class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=273#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=273#com"> Next</a></p><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="449">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Theresa.  Looking forward to watching her start to figure out who she is <i>now</i>.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 12:39AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.drunkduck.com/Eternity_Dreams/index.php" target="_blank">Mitaukano</a><br><span class="Comment_info">*Guest*</span></center><a name="450">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mitaukano"</span><br> Oh man such a hard choice! I love Chrys, Theresa, Mandrake and William so much.&nbsp;</p><div>If I have to choose though it's Theresa, if she were real I'd go out for drinks and Karaoke with her. XD</div><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 1:06AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Bunneh<br><span class="Comment_info">*Guest*</span></center><a name="451">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Bunneh"</span><br> Theresa. Gotta be Theresa. :3</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 1:18AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.eldlor.com" target="_blank">Nightlyre</a><br><span class="Comment_info">*Guest*</span></center><a name="452">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Nightlyre"</span><br> </p><p>William.</p> <p>C'mon, he defeated a freakin' sentient black hole. He rules.</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 1:36AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Pseudo<br><span class="Comment_info">*Guest*</span></center><a name="453">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Pseudo"</span><br> <span style="font-family: Arial;">I would like to see more of the surgeon.&nbsp; It seems such a sad little machine intelligence; scheduled for destruction despite performing so well, betraying it's larger self and reaching out to desperate enemies, and now untrusted and disliked by everyone.&nbsp; It deserves a few pages of plot and a chance to further redeem itself.</span><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 3:22AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="454">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> Mandrake. I have a weakness for purple-skinned image-speaking faerie type folk....That and she's just so CUTE!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 10:36AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Mei<br><span class="Comment_info">*Guest*</span></center><a name="456">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> Mandrake. can't beat floating picture messages. plus, she flies. can william to that? hm?</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 5:47PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>salaheg<br><span class="Comment_info">*Guest*</span></center><a name="457">&nbsp;</a></span><br>
@@ -93,7 +93,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "salaheg"</span><br> My Favorite is Theresa she's the most realistic character.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 6:26PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>TC<br><span class="Comment_info">*Guest*</span></center><a name="458">&nbsp;</a></span><br>
@@ -104,7 +104,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "TC"</span><br> I think the title needed a few more Y's, to give it that George Takei-esque style of awesome.<br><br>And I love how the rainbow was the confirmation pic.<br><br>Now I wonder about the male horror.&nbsp; rofl<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 7:14PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="459">&nbsp;</a></span><br>
@@ -115,20 +115,73 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> TC , I can just see his reaction. "I must do WHAT?!" :D<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 11, 2011 at 10:13PM</p>
+
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=273#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=273#com"> Next</a></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="273"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">See panda among the buttons?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="panda"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="273"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Horse resides among the buttons.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  </tr>
+	  </tbody></table></td></tr></tbody></table>
+<!-- End main content -->
+              </div>
+
+<!-- Page 2 Comments -->
+
+<div>
+<!-- Main content here -->
+<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="460">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;q=460"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;reply=460"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> I'd have to vote for Mandrake, because she's a wild child... and a fairy... and still disciplined enough to hold down a paying gig and keep her sh** together.&nbsp; Could easily have a comic just about her.<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Pashakitty<br><span class="Comment_info">*Guest*</span></center><a name="461">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=bb1cedb2fb5420c1c1f2dc798740e107&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;q=461"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;reply=461"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Pashakitty"</span><br> I personally love the little sprite like character, talking in pictograms is so cool!</p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="462">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;q=462"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;reply=462"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Chrys is my favorite, she's happy, bisexual and knows magic, what more does a guy want??</p> <p>&nbsp;</p> <p>&nbsp;</p><p></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Ultra-Guy<br><span class="Comment_info">*Guest*</span></center><a name="463">&nbsp;</a></span><br>
+<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;q=463"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=273&amp;reply=463"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ultra-Guy"</span><br> I'd say Theresa as been my favourite since the begining.<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+	 <tbody><tr>
+     <td valign="top" class="Forum_title">Quick Reply</td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
+	  <tr>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="273"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a horse.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

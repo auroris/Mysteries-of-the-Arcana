@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/273/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/274/?do=view#com" class="info">14 comments</a><br><a href="/blog/275/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/274/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><p class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=274#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=274#com"> Next</a></p><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.drunkduck.com/Eternity_Dreams/index.php" target="_blank">Mitaukano</a><br><span class="Comment_info">*Guest*</span></center><a name="464">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e8d71a9f718d40ed451abe062a409664&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mitaukano"</span><br> Why don't live in Hudson??</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 12:35AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Erika<br><span class="Comment_info">*Guest*</span></center><a name="465">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Erika"</span><br> I'm nowhere near the hudson valley, but OldWOD ftw!</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 2:27AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Pseudo<br><span class="Comment_info">*Guest*</span></center><a name="466">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Pseudo"</span><br> ...the hell???&nbsp; Why is the horror melting; did I miss a page somewhere?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 5:20AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Azure<br><span class="Comment_info">*Guest*</span></center><a name="467">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Azure"</span><br> @Psuedo, it's because the "horror's" weak point was being kissed, apparently by another girl, and 50s sitcoms didn't have gay/lesbian lovers. <img alt=" Wink " src="http://mysteriesofthearcana.com/smilies/wink1.gif" border="0" hspace="2" vspace="2"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 8:29AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="468">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> I still want to hear her tell dog-boy he's gotta kiss HIS horror.<img alt=" LOL " src="http://mysteriesofthearcana.com/smilies/laugh.gif" border="0" hspace="2" vspace="2"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 9:10AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="469">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Mitaukano, the real question is, why aren't you moving here to game with me? <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 11:02AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="470">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>How did Theresa suddenly get williams sword? she did't have it with her in the last 2 shots..</p> <p>Or did she also tame a black hole?</p> <p>Anyway, love the page! Explains why Williams race never wiped them out! i mean, not even in our military can convince ppl to kiss their enemies to kill them!!</p> <p>&nbsp;</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 1:16PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Mei<br><span class="Comment_info">*Guest*</span></center><a name="471">&nbsp;</a></span><br>
@@ -93,7 +93,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> i agree with weertangel. how the heck did theresa get william's sword? did he throw it to her? cause last i checked <em>he</em> was using it, u know, fighting mr. ken?</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 4:58PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gillsing<br><span class="Comment_info">*Guest*</span></center><a name="472">&nbsp;</a></span><br>
@@ -104,7 +104,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gillsing"</span><br> Last time we saw William he got hit by Ken's racket and dropped his sword. Next panel the hilt is next to a human-looking hand, and in the first panel of the next page Theresa is sitting on the ground, holding the hilt in her left hand. Don't ask me how the sword/hilt flew all the way to her, but apparently that's what happened.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 5:01PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Drasihl<br><span class="Comment_info">*Guest*</span></center><a name="473">&nbsp;</a></span><br>
@@ -115,20 +115,73 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Drasihl"</span><br> Aww, I live pretty close to Hudson Valley, but am in college now, and thus too far away.&nbsp; I has the sads.&nbsp; :'(<br><br>I'm just curious as to how Theresa is able to wield the black-hole sword without it going berserk.&nbsp; Doesn't William have to work really hard to keep it under control?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 14, 2011 at 6:26PM</p>
+
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=274#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=274#com"> Next</a></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="274"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">A butterfly is among the buttons, please select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="butterfly"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="274"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a cat.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  </tr>
+	  </tbody></table></td></tr></tbody></table>
+<!-- End main content -->
+              </div>
+
+<!-- Page 2 Comments -->
+
+<div>
+<!-- Main content here -->
+<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Pseudo<br><span class="Comment_info">*Guest*</span></center><a name="474">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=dd9ba46d5fcb24b99c2c992691b110a7&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;q=474"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;reply=474"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Pseudo"</span><br> He only has to work really hard if he releases the black hole from it's containment field by pushing a button in the hilt.&nbsp; Otherwise it would eat the planet.&nbsp; It seems Theresa is using it in 'normal mode' where it works basically like a light-saber.<br>Or something like that.<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Weertangel<br><span class="Comment_info">*Guest*</span></center><a name="475">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;q=475"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;reply=475"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Weertangel"</span><br> </p><p>Ok... i have to say Jgray, u really know how to give VERY vague hints!(and confuse the heck out of us!)</p><p></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="476">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;q=476"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;reply=476"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> *looks over at her unloved copy of the Old VTM* I wish I was anywhere near you, J...<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center><br><a href="https://thebsdude.deviantart.com" target="_blank">Thebes</a><br><span class="Comment_info">*Guest*</span></center><a name="478">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e6d0c78213ce974516c62d6968cecc24&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;q=478"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=274&amp;reply=478"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Thebes"</span><br> Saliva meets circuitry?</p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+	 <tbody><tr>
+     <td valign="top" class="Forum_title">Quick Reply</td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
+	  <tr>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="274"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">If you wanted to choose bat which of these buttons would you pick?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="bat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

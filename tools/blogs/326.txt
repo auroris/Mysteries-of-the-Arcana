@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/325/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/326/?do=view#com" class="info">10 comments</a><br><a href="/blog/327/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/326/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Mei<br><span class="Comment_info">*Guest*</span></center><a name="802">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b2a8fec80c326e8f4eeb42cbf601d536&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> </p><p>"The recycling trucks don't come untill Sunday!"</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 13, 2011 at 8:38PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gennifer Bone<br><span class="Comment_info">*Guest*</span></center><a name="803">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gennifer Bone"</span><br> "You'll put your eye out!"</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 14, 2011 at 1:27AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Tyr<br><span class="Comment_info">*Guest*</span></center><a name="804">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Tyr"</span><br> "Popcorn has empty calories! You don't want that!" "daily moisturizing prevents frown lines!" "I camped outside the apple store last night!" "daddy says never to apply at a state school. It's private school or nothing" "you should tuck your pinky for a better golf grip!" " I live how you've color-coordinated your shoes with your yoga pants!" "I loved that new glee episode!" "that's just way too mainstream."</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 14, 2011 at 2:57AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>James Smith<br><span class="Comment_info">*Guest*</span></center><a name="805">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James Smith"</span><br> It's like being attacked by housemaid/nun robots. Or those religious nuts in Airplane. Or the wierdos in that one Chowder episode.<br><br>"I like pirates about movies and movies about pirates." "Draw INSIDE the lines." "Who wants ice cream?!" "50% off, what a bargain!" "Don't run with scissors." "Whites go in the white pile, blue's go in the blue pile." "Starch your shorts." "What's the buzz?" "I love Lost!" "Don't let the bed bugs bite." "Poland is country in Europe." "Buy bonds." "Family Guy is funny!" "Who has money?"<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 14, 2011 at 4:45PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>TC<br><span class="Comment_info">*Guest*</span></center><a name="807">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "TC"</span><br> =o&nbsp; Actually, I use those shoes you speak of. (Well a cheap version, but still!)<br><br>Those are actually the only shoes that get rid of my back and foot pain.&nbsp; And, as far as I can tell, there has been a little firming in the backside.&nbsp; Of course, that's not why I bought them, so it's a nice bonus.&nbsp; It's not incredibly noticeable, though.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 15, 2011 at 2:43AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>olsh<br><span class="Comment_info">*Guest*</span></center><a name="808">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "olsh"</span><br> </p><p>well theres always the stand by from&nbsp;Airplane&nbsp;"There's a sale at Penny's!"</p><p>Other good brainless statements could "Have you tried the new restaurant in the mall?""You should work on that report for Wednesday!""Have you seen my new Prius?""Liz wants you to stop by for Racquetball!"</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 15, 2011 at 4:37AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="809">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> You'll LOVE my wife's potato salad!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 16, 2011 at 10:05PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>windserpent<br><span class="Comment_info">*Guest*</span></center><a name="816">&nbsp;</a></span><br>
@@ -93,7 +93,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "windserpent"</span><br> </p><p>"My new window treatments are to die for."</p> <p>"Is that a wrinkle?"</p> <p>"I got a birdie on the nine yesterday."</p> <p>"Whitening strips are the best."</p> <p>"I need to make an appointment&nbsp;for the&nbsp;tanning booth."</p> <p>"Check out my new TV!"</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 18, 2011 at 8:23PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fazzey<br><span class="Comment_info">*Guest*</span></center><a name="824">&nbsp;</a></span><br>
@@ -104,7 +104,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fazzey"</span><br> ....Why are the cast of Archie horrors?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted October 21, 2011 at 11:28PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="825">&nbsp;</a></span><br>
@@ -115,20 +115,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">The Tower's visual style is based very much on a 1950s art deco style. I thought the Archie cast would make good horrors based on this.<br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted October 22, 2011 at 7:36PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="326"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Find a panda.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="panda"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="326"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Choose the button with the elephant on it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="elephant"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

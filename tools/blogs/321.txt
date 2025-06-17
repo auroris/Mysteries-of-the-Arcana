@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/320/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/321/?do=view#com" class="info">11 comments</a><br><a href="/blog/322/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/321/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><p class="Comment_info" align="right">11 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=321#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=321#com"> Next</a></p><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="779">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -32,7 +32,7 @@
 <br>
 <br>English play on words - made by someone who could not possibly be speaking English.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 22, 2011 at 6:38PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="780">&nbsp;</a></span><br>
@@ -43,7 +43,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> According to the rules of the Stargate universe, everyone on every planet everywhere speaks English, along with a sprinkling of their own native language for spice.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 23, 2011 at 4:24PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gillsing<br><span class="Comment_info">*Guest*</span></center><a name="781">&nbsp;</a></span><br>
@@ -54,7 +54,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gillsing"</span><br> </p><p>If this comic had been hard sci-fi with no mysticism or such, I would have agreed with Fairportfan. But as it seems to be a lot more 'playful', I don't really see a point in getting upset or annoyed at such things. Granted, there are some facets of the comic that are a lot more serious, such as Theresa's background, but that doesn't mean that every story has to be dead serious.</p><p>I'm sure that there might be some kind of explanation for all the similarities between the horrors-to-be and an American 50s society, such as horrors copying humans or the other way around. But I don't really need one.</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 24, 2011 at 1:38PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="782">&nbsp;</a></span><br>
@@ -65,7 +65,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> And at the end Theresa drops to her knees in the sand and utters "no".&nbsp; Then pan and we see a broken and tilted Statue of Liberty...<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 24, 2011 at 2:09PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="783">&nbsp;</a></span><br>
@@ -76,7 +76,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Important points were made. From a metatextual sense, the truth is having the truck be something Theresa can drive is just easier. It makes for good story. Moreover, they are presented to people from this universe, specifically to people from a mostly western society. The symbolism of the tarot makes more sense when given context. The Tower is about tearing down the old to build the new. The transition from the 50s to the 60s was, in my mind, a perfect "Tower" moment. <br><br>The whole 'everyone speaks English' thing always bugs me, too. So, let me say this. While it hasn't been explained yet, only two of the characters that have been introduced in Mysteries of the Arcana have actually been speaking English: Kludge and Theresa. Everyone else is speaking their native language. Chrys? She doesn't actually HAVE a native language. <br></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted September 24, 2011 at 4:52PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>James Smith<br><span class="Comment_info">*Guest*</span></center><a name="784">&nbsp;</a></span><br>
@@ -87,7 +87,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James Smith"</span><br> It's a very common plot device in many media, that everyone speaks the same language despite being an alien creature. Doctor Who's excuse is the Tardis translates for them.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 25, 2011 at 11:37PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="785">&nbsp;</a></span><br>
@@ -98,7 +98,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> So how does she make herself understood to Theresa? Her language would be a mixture of other languages and even with magic, that's not easy to use a blanket translator spell on (even if there is such a thing).<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 25, 2011 at 11:39PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="786">&nbsp;</a></span><br>
@@ -115,7 +115,7 @@
 <br>
 <br>Her ship is named "Firecat".</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 26, 2011 at 3:12AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>James Smith<br><span class="Comment_info">*Guest*</span></center><a name="787">&nbsp;</a></span><br>
@@ -126,7 +126,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James Smith"</span><br> I just have to say this about the current page.<br><br>Skeleton: "Geez, lady, you thrown me down like I some kinda 'dead beat'."<br><br>(If anyone laughs, there might be something wrong with both you and me.)<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 27, 2011 at 2:00AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="788">&nbsp;</a></span><br>
@@ -137,20 +137,40 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> Teresa, for crying out loud, did you think a truck abandoned for years if not decades would still run? Granted the "horrors" may have once been human, but none of them actually maintain anything anymore. They just run around quoting "yuppie" phrases while attacking anything that moves.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 27, 2011 at 10:04AM</p>
+
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td class="Comment_info" align="right">11 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=321#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=321#com"> Next</a></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="321"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">If you wanted to choose violin which of these buttons would you pick?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="violin"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="321"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Do you see deer?<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="deer"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  </tr>
+	  </tbody></table></td></tr></tbody></table>
+<!-- End main content -->
+              </div>
+
+<!-- Page 2 Comments -->
+
+<div>
+<!-- Main content here -->
+<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>JGray</center><a name="789">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=321&amp;q=789"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=321&amp;reply=789"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text">I'm not saying how at the moment, but Chrys doesn't do anything to make herself understood by Theresa. No one does, in fact. It has nothing to do with them specifically but, rather, is a function of the setting.<br></p>
+ <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+	 <tbody><tr>
+     <td valign="top" class="Forum_title">Quick Reply</td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
+	  <tr>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="321"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">A cat is among the buttons, please select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="cat"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

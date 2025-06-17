@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/490/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/491/?do=view#com" class="info">13 comments</a><br><a href="/blog/492/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/491/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><p class="Comment_info" align="right">13 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=491#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=491#com"> Next</a></p><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1681">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Called it. <img alt=" Smile " src=" http://mysteriesofthearcana.com/smilies/smile.gif " border="0" hspace="2" vspace="2"><br>It's about time that happened. <br>Real-world time that is, not neccesarily comic-time. :p <br><br>I wonder why it's so common for this to happen in stories at critical times, as if the protagonist didn't have enough on his/her mind what with being in mortal danger, now you dump all those romantic feelings and thoughts on top of it as well.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 10, 2014 at 8:11PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2057">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 4, 2015 at 11:15PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfanj<br><span class="Comment_info">*Guest*</span></center><a name="1682">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfanj"</span><br> Isn't that pretty much the same pose/expressions as when Krys kissed Theresa, all those comics ago?</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 12:46AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1683">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> I can't believe i typo'd my own name.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 12:47AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>verias</center><a name="1685">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">It is, actually, deliberately similar to the pose from chapter one! glad you noticed!</p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 2:28PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1684">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> "We're bout to enter a Forbidden Zone, to possibly engage in Mortal Combat with an Evil Mastermind...LEMME GIVE YAS A KISS!!!"<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 8:57AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1690">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Hey, if you were about to go into a battle to the death, wouldn't you want to at least try to resolve some of your unresolved romantic tension? <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted September 13, 2014 at 1:53PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1686">&nbsp;</a></span><br>
@@ -93,7 +93,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> I see this certainly being an RPG or a VN.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 5:40PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1687">&nbsp;</a></span><br>
@@ -104,7 +104,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">A Mysteries of the Arcana visual novel would be awesome!</p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted September 11, 2014 at 7:04PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Kietra61871</center><a name="1688">&nbsp;</a></span><br>
@@ -115,20 +115,65 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">It was bound to happen... just took forever to finally get around to it!</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted September 12, 2014 at 10:01PM</p>
+
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td class="Comment_info" align="right">13 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=491#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=491#com"> Next</a></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="491"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The button to select is house.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="house"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="pumpkin"><br><img src="/snaps/pumpkin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="bat"><br><img src="/snaps/bat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="491"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the horse from the button row.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="horse"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="horse"><br><img src="/snaps/horse.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  </tr>
+	  </tbody></table></td></tr></tbody></table>
+<!-- End main content -->
+              </div>
+
+<!-- Page 2 Comments -->
+
+<div>
+<!-- Main content here -->
+<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>toloc<br><span class="Comment_info">*Guest*</span></center><a name="1689">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f5317a64ca6f8277b434a14a70b38a19&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;q=1689"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;reply=1689"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "toloc"</span><br> Been around since page 12. Checking back more or less regularly even when there was a hiatus.
+<br>Great to see you always coming back to this. I've seen too many great projects wither away when the artists lost interest or had to stop working on it temporarily for other reasons.</p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>JGray</center><a name="1691">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;q=1691"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;reply=1691"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text">Glad to hear from you Toloc! Glad you're reading Mysteries of the Arcana. Thank you. We have every intention of going onto chapter 6!</p>
+ <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2058">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b314cea1885ccda4fe3cbbf87eec38c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;q=2058"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=491&amp;reply=2058"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Tsuki_Ouji:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></div></div>
+ <br>.<br><br>EDIT~ Ah, crap. It seems I hit the wrong "reply" button. I *meant* to reply to Gunsolo's comment. Whoops.<br><p></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+	 <tbody><tr>
+     <td valign="top" class="Forum_title">Quick Reply</td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
+	  <tr>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="491"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please select the airplane.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="airplane"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="deer"><br><img src="/snaps/deer.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

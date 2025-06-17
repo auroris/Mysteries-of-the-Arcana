@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/269/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/270/?do=view#com" class="info">14 comments</a><br><a href="/blog/271/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/270/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><p class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=270#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=270#com"> Next</a></p><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>TC<br><span class="Comment_info">*Guest*</span></center><a name="413">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c7a049759cbd52f6f8e72a079a0747dc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "TC"</span><br> Maybe I shoulda have stuck to tennis team in middle school.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 4:43AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="414">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> Oooookaaaayyyy... Can I carpet bomb them NOW?!?!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 10:03AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="415">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Thats just freaky... so this is the plane&nbsp;where all the real "life size" barbie dolls end up en become sentient(in a way) ?</p> <p>I'm sure she's wishing she had a sword with her, couse bullets don't save ya always..</p> <p>Btw, is it me or did u do your drawing a little different?(more shading?)</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 11:50AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Telvae<br><span class="Comment_info">*Guest*</span></center><a name="416">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Telvae"</span><br> When the first bullet bounces off Superman-style, stop shooting.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 12:47PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Durid the Druid<br><span class="Comment_info">*Guest*</span></center><a name="417">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Durid the Druid"</span><br> </p><p>... Ok, the yuppies are bulletproff. What is their weakness? Let me guess, static cling, or a court order from their former mates to back-pay alimony?</p><p></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 7:00PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="http://www.eldlor.com" target="_blank">Nightlyre</a><br><span class="Comment_info">*Guest*</span></center><a name="418">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Nightlyre"</span><br> @weertangel - The art's a bit different at the moment&nbsp;because I'm filling in for the usual artist, Keith.&nbsp; Hope you don't mind the temporary change!&nbsp; <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted March 31, 2011 at 8:25PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Shikome Kido MI<br><span class="Comment_info">*Guest*</span></center><a name="419">&nbsp;</a></span><br>
@@ -83,7 +83,7 @@
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Shikome Kido MI"</span><br> When I first saw them, their outfits and plastic look made me think department store mannequins (the creepily realistic ones you sometimes see), but Barbie and Ken works, too.
 <br>I do find myself wondering how anyone captures one of these nightmares.  That and where they come from, are they born, summoned, manufactured?  They don't seem natural but other dimensions can be weird.  The thing is if they were natural I'd expect the other life here to also be made of plastic and/or nightmare reflections of earth.</p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 1, 2011 at 12:39AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>vombalk<br><span class="Comment_info">*Guest*</span></center><a name="420">&nbsp;</a></span><br>
@@ -94,7 +94,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "vombalk"</span><br> Now we know what happens when corporations become weaponized! pray god they don't come across Disney or Warner Brothers merchandise! Even one of those can level a city!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 1, 2011 at 5:23AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="421">&nbsp;</a></span><br>
@@ -105,7 +105,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Hit them with a brick and stake them to the ground.&nbsp; It's a proven method!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 1, 2011 at 4:30PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Azure<br><span class="Comment_info">*Guest*</span></center><a name="422">&nbsp;</a></span><br>
@@ -116,20 +116,73 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Azure"</span><br> They're "plastic" people from Hollywood! AIIIEEEEE!!!! Those are some serious implants if they're bulletproof!<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted April 1, 2011 at 6:18PM</p>
+
 </td></tr></tbody></table>
-<hr><br></div></td></tr><tr><td class="Comment_info" align="right">14 comments. Showing 1 to 10. &nbsp;&nbsp;&nbsp;&nbsp; Goto page  1,<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=270#com"> 2</a> &nbsp;&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=view&amp;show=10&amp;tid=270#com"> Next</a></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="270"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Choose the button with the fish on it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="fish"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="270"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">Please check guitar.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="guitar"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="penguin"><br><img src="/snaps/penguin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="hummingbird"><br><img src="/snaps/hummingbird.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="guitar"><br><img src="/snaps/guitar.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  </tr>
+	  </tbody></table></td></tr></tbody></table>
+<!-- End main content -->
+              </div>
+
+<!-- Page 2 Comments -->
+
+<div>
+<!-- Main content here -->
+<hr><hr><p></p><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center><br><a href="http://katya-s69.livejournal.com/" target="_blank">Katy</a><br><span class="Comment_info">*Guest*</span></center><a name="431">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b7d33aed217fbd6aa0920639efbb18f2&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;q=431"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;reply=431"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Katy"</span><br> Heh - Theresa is too fond of her gun - she needs to stop shooting if the bullets bounce off! &nbsp;These guys are freaky-deaky, seriously ... anyone who smiles that much has to have something seriously wrong with them!</p><div><br></div><div>And now I'm all caught up - and have to wait like everyone else ... *sigh*</div><p></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>JGray</center><a name="432">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;q=432"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;reply=432"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text">Katy, welcome to Mysteries of the Arcana! I hope you continue to enjoy the comic. <br><br>Everyone, I promise more information on what the horrors are and how they came to be this way is coming. <br></p>
+ <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="433">&nbsp;</a></span><br>
+<center><img src="http://mysteriesofthearcana.com/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;q=433"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;reply=433"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Either a flame thrower or the black hole in the sword will work :P<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="Comment_title"><center>Chaotic_Blues<br><span class="Comment_info">*Guest*</span></center><a name="434">&nbsp;</a></span><br>
+<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=21dac85b15438285d30a9f774b78271d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
+</td>
+<td valign="top">
+<div align="right">&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;q=434"><img src="http://mysteriesofthearcana.com/images/note.gif" border="0" alt="Quote" title="Quote"></a>&nbsp;&nbsp;<a href="http://mysteriesofthearcana.com/blog/?do=addpost&amp;tid=270&amp;reply=434"><img src="http://mysteriesofthearcana.com/images/arrowr.gif" border="0" alt="Reply" title="Reply"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<hr>
+<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Chaotic_Blues"</span><br> To quote Egon - "I'm terrified beyond the capacity for rational though Peter."<br></p>
+ <p class="Comment_text"></p><p></p>
+
+</td></tr></tbody></table>
+<hr><br></div></td></tr><tr></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+	 <tbody><tr>
+     <td valign="top" class="Forum_title">Quick Reply</td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
+	  <tr>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="270"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">A butterfly is among the buttons, please select it.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="butterfly"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="cat"><br><img src="/snaps/cat.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="heart"><br><img src="/snaps/heart.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="butterfly"><br><img src="/snaps/butterfly.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->

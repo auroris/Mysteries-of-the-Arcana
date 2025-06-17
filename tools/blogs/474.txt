@@ -7,7 +7,7 @@
    </div>
    </td></tr>
    <tr><td class="post_info"><div class="arch"><a href="http://mysteriesofthearcana.com/blog/?view=archive&amp;memid=0" class="info">Archive</a><br><a href="/blog/473/"><img src="http://mysteriesofthearcana.com/templates/main/images/previous.gif" border="0"></a></div><div class="coms"><a href="http://mysteriesofthearcana.com/blog/474/?do=view#com" class="info">8 comments</a><br><a href="/blog/475/"><img src="http://mysteriesofthearcana.com/templates/main/images/next.gif" border="0"></a></div>
-</td></tr></tbody></table><p class="Forum_title" align="right"><a href="/blog/474/?do=addpost"><img src="http://mysteriesofthearcana.com/images/note.gif" alt="" border="0">Add Comment</a></p><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+</td></tr></tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Kessy Athena<br><span class="Comment_info">*Guest*</span></center><a name="1568">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=315e90e9736ef1c9b4fbbb03c7a4ebc7&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
@@ -16,7 +16,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Kessy Athena"</span><br> I hate to be a killjoy, but Newton's third law?&nbsp; Sorry, but that last panel just makes me go, "Huh?"<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 17, 2014 at 8:54AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1569">&nbsp;</a></span><br>
@@ -27,7 +27,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> It's the gum, it makes things very bouncy! <img src="http://mysteriesofthearcana.com/smilies/wink1.gif" alt="Wink" border="0"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 17, 2014 at 8:56AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JGray</center><a name="1573">&nbsp;</a></span><br>
@@ -38,7 +38,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text">Adamas is correct. The gum is magic - enchanted. A bit like Harry's force rings in the Dresden Files.&nbsp;</p>
  <p class="Comment_text"><br><br></p><hr width="70%"><br><br><p></p><p></p>
-<p align="right" class="Comment_info">Submitted July 17, 2014 at 10:16AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1575">&nbsp;</a></span><br>
@@ -49,7 +49,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> Hmm, alright, let's look at this gum scientifically then. <img alt=" Wink " src=" http://www.mysteriesofthearcana.com/smilies/wink1.gif " border="0" hspace="2" vspace="2"><br>You're citing Newton's third law of motion: every action has an opposite and equal reaction. Good point. How could Chrys deliver such a powerful whallop?<br><br>Following Newton's findings, we could say that the gum works by shifting the center of mass between two objects. Place gum, tap right (shift), tap right (shift again), then press, delivering exponentially accelerated power. <br>Think of a teeter-totter with a 10 pound weight on one end, and a 15 pound weight on the other. Obviously the 15 pound side will be the "down" side. Now say the board between the two is 5 foot long. By shifting the fulcrum point - the center of mass - over one half foot toward the 15 lb side, both sides become equal in gravitation and balance (3 ft. of board toward the 10lb, 2 ft toward the 15 lb). Now shift the fulcrum point again by another foot and that 10 lb side is now equal to 40 pounds versus the 15 lb.&nbsp; <br><br>The gum is 'magically' shifting the center of mass two units toward the object it is placed upon. (We'll use the word magic here due to our ignorance of the actual scientific rule which allows the gum to work.)<br><br>Make sense?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 18, 2014 at 1:33AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Kessy Athena<br><span class="Comment_info">*Guest*</span></center><a name="1581">&nbsp;</a></span><br>
@@ -60,7 +60,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Kessy Athena"</span><br> LOL&nbsp; Not really.&nbsp; Newton's 3rd says that whenever one body exerts a force on another, an equal and opposite force is exerted on it.&nbsp; Conservation of momentum, basically.&nbsp; So the gum can exert a huge force on the Gruh and send it flying, but an equal and opposite force should be exerted on Chrys, sending her flying in the other direction.&nbsp; Invoking magic physics, you may as well say that the gum magically exerts a reactionless force on the Gruh as that it increases Chrys's effective mass.<br><br>It didn't look odd when they were using it to jump because the reaction force was being exerted on the ground - the planet they're standing on.&nbsp; A planet has such an enormous mass that it is essentially unaffected.<br><br>I think I've just been watching too much Mythbusters.&nbsp; These days my usual reaction to action sequences in TV and movies is to burst out laughing.&nbsp; <img src="http://mysteriesofthearcana.com/smilies/wink1.gif" alt="Wink" border="0"><br><br>One thing that doesn't quite make sense though: how do you give the gum directionality?&nbsp; When you tap it, as far as the gum is concerned it's just being squeezed between two surfaces.&nbsp; How do you tell the gum which one to exert the force on?<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 19, 2014 at 5:55AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1574">&nbsp;</a></span><br>
@@ -71,7 +71,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Whoa, strong stuff. Makes me wonder what other applications the gum might have.<br>You could attach it to a throwable object to make a directional grenade, or stick it on a wheel of a car to flip it once it starts moving. Or put it at the end of a baseball bat for a supercharged strike.The possibilities are endless...<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 17, 2014 at 12:32PM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1576">&nbsp;</a></span><br>
@@ -82,7 +82,7 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> I'm not too sure any of those would work out too well. Think about how the gum is activated: tap right - tap right - deliver left (with the gum). The gum is placed on the object being affected.&nbsp; So, how would you activate the gum on a thrown object? And if you were lucky enough to hit your target with the gum side, it would be the object which was affected, not the target, so your grenade may come hurtling back at you much faster than you tossed it.<br>Sticking it to a wheel would press the gum each turn as well as any wheel on the right side, so by logic it would never activate.<br>Sticking it on a baseball bat, if it could be activated in some way, would result in the bat rebounding from the ball rather than the ball flying off into space, since the gum affects the object it's attached to.&nbsp; Notice Chrys didn't put the gum on her fist.<br><br>But yes, I could see some wonderful possibilities. Just theorizing, of course. Feel free to shoot me. In fact, you could try sticking some gum to one end of a rod, tapping it twice with your right hand then, using your left hand, slam the gummed end against a wall with the other end angled toward me.<br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 18, 2014 at 1:55AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
 <span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1577">&nbsp;</a></span><br>
@@ -93,20 +93,14 @@
 <hr>
 <p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> If the gum only affects what it is attached to but not what strikes it, what would happen if you put it on the ground and activated it, and then jumped on top of it? Would there be an earthquake or would it launch you?<br><br>As far as the wheel is concerned, I expect you could activate the gum when you place it and then the car would either flip as soon as the gum touches the ground or at the first bump in the road.<br>I guess it would be the same with the object; tap the gum twice then throw, and when it lands it will be launched in a random direction (probably not very useful, but still fun).<br><br>And the rod, why bother with a wall? Just tap it twice, then point it in the direction you want it to go and slap the gum with your hand. Should do the same thing right?<br>If you held the rod inside a tube of some sort, this contraption would look and behave similarly to a bazooka. <img src="http://mysteriesofthearcana.com/smilies/smile.gif" alt="Smile" border="0"><br></p>
  <p class="Comment_text"></p><p></p>
-<p align="right" class="Comment_info">Submitted July 18, 2014 at 9:13AM</p>
+
 </td></tr></tbody></table>
 <hr><br></div></td></tr><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	 <tbody><tr>
      <td valign="top" class="Forum_title">Quick Reply</td></tr>
-	   <tr><td valign="middle" align="center"><form action="/blog/" name="post" method="post"><p class="TopNav" align="left"><input type="text" name="guestname" size="35" maxlength="35" class="input_box" value=""> Name <a href="https://www.gravatar.com" target="_blank" class="info">*Get an Avatar*</a><br>
-		<input type="text" name="guestemail" size="35" maxlength="50" class="input_box" value=""> Email <span class="info"> *Will not be displayed.</span><br>
-		<input type="text" name="guestweb" size="35" maxlength="90" class="input_box" value=""> Website <span class="info"> *Optional - May cause your post to be moderated.</span></p>
-		<input type="text" name="website" size="35" class="ddvh">
-		<textarea name="comments" class="ddvh"></textarea>
-		<textarea rows="8" name="message" id="textarea1" class="input_box" tabindex="4" style="width:100%;height:150px"></textarea>
-	   </form></td></tr>
+	   <tr><td valign="middle" align="center"></td></tr>
 	  <tr>
-	  <td align="center" height="28"><input type="hidden" name="topic" value="474"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">The flower is the right one.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="flower"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="violin"><br><img src="/snaps/violin.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="fish"><br><img src="/snaps/fish.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="house"><br><img src="/snaps/house.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
+	  <td align="center" height="28"><input type="hidden" name="topic" value="474"><input type="hidden" name="do" value="addpost"><input type="hidden" name="posttype" value="1">You need to select the elephant.<br><span style="font-size:xx-small">Please check the proper button (from the phrase above) before submitting.</span><br><input type="hidden" name="keycode" value="elephant"><div align="center"><table border="0" align="center"><tbody><tr><td align="center"><input type="radio" name="imagecode" value="panda"><br><img src="/snaps/panda.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="flower"><br><img src="/snaps/flower.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="turtle"><br><img src="/snaps/turtle.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="elephant"><br><img src="/snaps/elephant.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="airplane"><br><img src="/snaps/airplane.jpg" border="0" alt="Image"></td><td align="center"><input type="radio" name="imagecode" value="rainbow"><br><img src="/snaps/rainbow.jpg" border="0" alt="Image"></td></tr></tbody></table></div><br><input type="submit" tabindex="6" name="submit" value="Submit"></td>
 	  </tr>
 	  </tbody></table></td></tr></tbody></table>
 <!-- End main content -->
