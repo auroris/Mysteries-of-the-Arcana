@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sorry sorry</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Sorry, folks. One of the realities of running a webcomic is that the artist's job is never full time. There are often many things more pressing and, quite frankly, more important for the continued survival and happiness of the creative team. In other words, sometimes life gets in the way of the comic. This was one of those weeks. I'm sorry we're only doing one comic this week instead of two.<br><br>As today's page reveals, this chapter is going to give you guys a LOT of information. You'll learn about the origin of the arcana, why keys ARE keys, and a little bit more about who the dreamers are. In addition, you'll learn more about the Royal Road. <br><br>Don't forget, we're running a contest. The details are in the last journal entry but they basics are that we're asking for fan art (drawings, poetry, stories, animations, cosplay photos... whatever bit of creativity tickles your fancy) and the top three that capture the spirit of the comic, as judged by me and Genn, will get a special prototype Mysteries of the Arcana tarot card! So far, we have no entries. I hope to get at least three by the deadline, which is mid-May.<br><br>See you next week!<br>
+       Sorry, folks. One of the realities of running a webcomic is that the artist's job is never full time. There are often many things more pressing and, quite frankly, more important for the continued survival and happiness of the creative team. In other words, sometimes life gets in the way of the comic. This was one of those weeks. I'm sorry we're only doing one comic this week instead of two.<br><br>As today's page reveals, this chapter is going to give you guys a LOT of information. You'll learn about the origin of the arcana, why keys ARE keys, and a little bit more about who the dreamers are. In addition, you'll learn more about the Royal Road. <br><br>Don't forget, we're running a contest. The details are in the last journal entry but they basics are that we're asking for fan art (drawings, poetry, stories, animations, cosplay photos... whatever bit of creativity tickles your fancy) and the top three that capture the spirit of the comic, as judged by me and Genn, will get a special prototype Mysteries of the Arcana tarot card! So far, we have no entries. I hope to get at least three by the deadline, which is mid-May.<br><br>See you next week!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1001">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="1001">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f229b3040ccf161e8dccde95a915c80c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Panel 3 - just subtle enough on the blush.</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Fairportfan"</span><br> Panel 3 - just subtle enough on the blush.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://greenfrostfire.deviantart.com/" target="_blank">Jasae Bushae</a><br><span class="Comment_info">*Guest*</span></center><a name="1002">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://greenfrostfire.deviantart.com/" target="_blank">Jasae Bushae</a><br></center><a name="1002">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jasae Bushae"</span><br> The origin of the arcana: my theory
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Jasae Bushae"</span><br> The origin of the arcana: my theory
 <br>
 <br>Once upon a time there was a smorgasboard of delicous pastries from croisants to eclairs to cupcakes and so forth. Then they decided the multiverse needed to be more awesome so they invented keys using kiwi filling and the arcana were made with apricot and the royal road was actually made by a sentient vat of rocky road ice cream thus creating the multiverse~
 <br>oh and dreamers are all elves that live inside an oak tree baking cookies thus making them awesome ^^ however they were driven to near extinction when kellogg company captured em all so the cookies could be mass produced for a larger market~
@@ -35,14 +35,14 @@
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://taiyoutenshi.blogspot.com" target="_blank">Ayshara</a><br><span class="Comment_info">*Guest*</span></center><a name="1003">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://taiyoutenshi.blogspot.com" target="_blank">Ayshara</a><br></center><a name="1003">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Bushae: XD</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayshara"</span><br> Bushae: XD</p>
  
 
 </td></tr></tbody></table>

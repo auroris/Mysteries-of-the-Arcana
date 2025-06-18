@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sad News</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Had a death this weekend, so things are hectic and a bit delayed. Hope you guys enjoy the above. Chrys and Theresa both cosplaying Carol Danvers as Ms Marvel and Captain Marvel respectively.</p>
+       <p>Had a death this weekend, so things are hectic and a bit delayed. Hope you guys enjoy the above. Chrys and Theresa both cosplaying Carol Danvers as Ms Marvel and Captain Marvel respectively.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="1365">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>David<br></center><a name="1365">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> Understood, Keith. Take what time you need, mate <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Understood, Keith. Take what time you need, mate <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="1366">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>David<br></center><a name="1366">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> And now I feel like a dick for what was supposed to be a smiley face :(<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> And now I feel like a dick for what was supposed to be a smiley face :(<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1367">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1367">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Sorry to hear it man. Our wishes are with ya.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Sorry to hear it man. Our wishes are with ya.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1368">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1368">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Sorry for your loss.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Sorry for your loss.<br></p>
  
 
 </td></tr></tbody></table>

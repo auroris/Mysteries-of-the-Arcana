@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Tomorrow!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Alright. The time has arrived! Make sure to hop over onto the new site. <a href="https://legacyofthefool.com"> https://legacyofthefool.com</a></p><p><a href="https://legacyofthefool.com"></a>The comic finally starts updating midnight EST! For now, we'll be updating every Monday, and we have some extra goodies heading to Patreon ( https://patreon.com/legacyofthefool ), and some vote incentives on the Legacy of The Fool site if you vote for the comic!<br><br>Patrons get the comic a week early, and there are some other fun little tidbits we're working on to add more value to the Patreon as well.<br><br>Stop on by, join us, and join the Discord as well! <a href="https://discord.gg/eEhX57MatG"> https://discord.gg/eEhX57MatG</a></p><p>Keira W.</p>
+       <p>Alright. The time has arrived! Make sure to hop over onto the new site. <a href="https://legacyofthefool.com"> https://legacyofthefool.com</a></p><p><a href="https://legacyofthefool.com"></a>The comic finally starts updating midnight EST! For now, we'll be updating every Monday, and we have some extra goodies heading to Patreon ( https://patreon.com/legacyofthefool ), and some vote incentives on the Legacy of The Fool site if you vote for the comic!<br><br>Patrons get the comic a week early, and there are some other fun little tidbits we're working on to add more value to the Patreon as well.<br><br>Stop on by, join us, and join the Discord as well! <a href="https://discord.gg/eEhX57MatG"> https://discord.gg/eEhX57MatG</a></p><p>Keira W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

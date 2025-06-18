@@ -1,15 +1,15 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Remember!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hidden Name: Twoflower
+       Hidden Name: Twoflower
 
 Remember, up until this point, Theresa has "killed" two robots and a couple of yuppie zombies. She's never had to shoot someone who is both intelligent and to whom she's had a conversation with before. I think that sort of thing would haunt most people.
 
 See you Thursday!
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

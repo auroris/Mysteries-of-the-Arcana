@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Another Update</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hello everyone!<br><br>Just a note to keep everyone up to date. I'm waiting on one more audition page. One way or the other, I'll be making a decision Friday. After that comes discussion with the artist I've chosen. Hopefully, we'll be up and running again soon after that.<br><br>I did not get any auditions that looked like Keith or Sarrah's work. Whoever fills the shoes, their style will be different from the majority of MotA thus far. I am trying hard to pick an artistic style that works well for the story.<br>
+       Hello everyone!<br><br>Just a note to keep everyone up to date. I'm waiting on one more audition page. One way or the other, I'll be making a decision Friday. After that comes discussion with the artist I've chosen. Hopefully, we'll be up and running again soon after that.<br><br>I did not get any auditions that looked like Keith or Sarrah's work. Whoever fills the shoes, their style will be different from the majority of MotA thus far. I am trying hard to pick an artistic style that works well for the story.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="706">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="706">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> After seeing just a teeny tiny sampling of what may come, I think you all are going to be very happy upon Arcana's return.<br><br>I know I'm impressed.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> After seeing just a teeny tiny sampling of what may come, I think you all are going to be very happy upon Arcana's return.<br><br>I know I'm impressed.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="707">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="707">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=eadfaff19262636d50b2afcca4ef4582&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> <i>Evil Diva</i> has weathered two artist changes - i actually like the current better than the original, by a small amount.
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Fairportfan"</span><br> <i>Evil Diva</i> has weathered two artist changes - i actually like the current better than the original, by a small amount.
 <br>
 <br>After almost two years - or was it three - <i>The Wotch</i> is coming back with a new artist and a different style - though it's one we've seen before and i like.
 <br>
@@ -34,25 +34,25 @@
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>James<br><span class="Comment_info">*Guest*</span></center><a name="708">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>James<br></center><a name="708">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James"</span><br> Believe it or not, I once helped with the editing for Exiern. They didn't pay me, but I was happy with the job for about a month, before the artist change and then I stopped receiving the pages that needed the spell corrections (that was my job). The texts suffers for it even more then usual.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "James"</span><br> Believe it or not, I once helped with the editing for Exiern. They didn't pay me, but I was happy with the job for about a month, before the artist change and then I stopped receiving the pages that needed the spell corrections (that was my job). The texts suffers for it even more then usual.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>James<br><span class="Comment_info">*Guest*</span></center><a name="709">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>James<br></center><a name="709">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James"</span><br> Had this as a last minute thought (you don't seem to have an "edit post" option here):<br><br>Even if I don't get the part of artist for MotA, I at least am pleased to get my artwork out into the world, and to hopefully improve my style and form in my pla, no, personal quest to make a webcomic (and by that I mean my very OWN, not someone elses. I'm no fink.)<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "James"</span><br> Had this as a last minute thought (you don't seem to have an "edit post" option here):<br><br>Even if I don't get the part of artist for MotA, I at least am pleased to get my artwork out into the world, and to hopefully improve my style and form in my pla, no, personal quest to make a webcomic (and by that I mean my very OWN, not someone elses. I'm no fink.)<br></p>
  
 
 </td></tr></tbody></table>

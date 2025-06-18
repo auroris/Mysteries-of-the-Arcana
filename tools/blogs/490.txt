@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Message Says It All</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Name</strong>: Spacey</p><p><strong>Cameo</strong>: John Bryant</p><hr><p>I have nothing much to say here except... </p><p>Be here Thursday. It is the moment many of you have been waiting for.</p><p>That is all.</p><p>See you Thursday!</p>
+       <p><strong>Hidden Name</strong>: Spacey</p><p><strong>Cameo</strong>: John Bryant</p><hr><p>I have nothing much to say here except... </p><p>Be here Thursday. It is the moment many of you have been waiting for.</p><p>That is all.</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1677">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1677">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I iz in your hallz!</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I iz in your hallz!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="1678">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="1678">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> So that's what that weird image is. Graffiti of you. <img src="//smilies/smile.gif" alt="Smile" border="0"></p><div><br></div><div>Do you have a clarified version?</div>
+<p class="comment_text"> </p><p class="comment_text"><br> So that's what that weird image is. Graffiti of you. <img src="/smilies/smile.gif" alt="Smile" border="0"></p><div><br></div><div>Do you have a clarified version?</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1679">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1679">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Not me, last time I had a an actual commission of Adamas made the guy decided to go all Artistic License and make a guy who is supposed to look like he MIGHT weigh 160lb suddenly made Liefield's Captain America look like a Girly-man. :(<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Not me, last time I had a an actual commission of Adamas made the guy decided to go all Artistic License and make a guy who is supposed to look like he MIGHT weigh 160lb suddenly made Liefield's Captain America look like a Girly-man. :(<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1680">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1680">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> A moment we've been waiting for? <br>Hmm, I'm guessing it's either Aleena's cameo or "more lesbian elf kisses". <img alt=" Smile " src="//smilies/smile.gif" border="0" hspace="2" vspace="2"><br><br>Looking forward to finding out on, well, probably monday. <br>Traveling. Intermittent internet. <img alt=" Cry " src="//smilies/sad5.gif" border="0" hspace="2" vspace="2"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> A moment we've been waiting for? <br>Hmm, I'm guessing it's either Aleena's cameo or "more lesbian elf kisses". <img alt=" Smile " src="/smilies/smile.gif" border="0" hspace="2" vspace="2"><br><br>Looking forward to finding out on, well, probably monday. <br>Traveling. Intermittent internet. <img alt=" Cry " src="/smilies/sad5.gif" border="0" hspace="2" vspace="2"><br></p>
  
 
 </td></tr></tbody></table>

@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Musical Reference</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    For those of you who aren't familiar with the amazing Simon and Garfunkle, today's title is a reference to one of the folk duo's best songs. I highly recommend you go give them a listen if you've never heard them before.<br><br>Also, can Keith paint a pretty sunset or what?<br>
+       For those of you who aren't familiar with the amazing Simon and Garfunkle, today's title is a reference to one of the folk duo's best songs. I highly recommend you go give them a listen if you've never heard them before.<br><br>Also, can Keith paint a pretty sunset or what?<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>J<br><span class="Comment_info">*Guest*</span></center><a name="229">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>J<br></center><a name="229">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=607831e12b0faf35dee4481f6d497c10&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "J"</span><br> It is a great song.<br>Yes he does paint a pretty sunset<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "J"</span><br> It is a great song.<br>Yes he does paint a pretty sunset<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayra<br><span class="Comment_info">*Guest*</span></center><a name="230">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayra<br></center><a name="230">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=92987eee74834fecd463429085c378ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayra"</span><br> </p><p>I can't say I know that song (or group), but yes it is a beautiful sunset <img src="//smilies/smile.gif" alt="Smile" border="0"> </p> <p>I did notice it in the previous page, but I kinda forgot to mention it in my comment, sorry!</p> <p>Well, this ended up as good as it could logically get... Theresa is probably going to stay bitter at Chrys for quite some time, but at least she's not going to do anything irreversible.&nbsp; So hopefully all she'll need is a bit of time and they'll be able to be friends (or more) again <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayra"</span><br> </p><p>I can't say I know that song (or group), but yes it is a beautiful sunset <img src="/smilies/smile.gif" alt="Smile" border="0"> </p> <p>I did notice it in the previous page, but I kinda forgot to mention it in my comment, sorry!</p> <p>Well, this ended up as good as it could logically get... Theresa is probably going to stay bitter at Chrys for quite some time, but at least she's not going to do anything irreversible.&nbsp; So hopefully all she'll need is a bit of time and they'll be able to be friends (or more) again <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="231">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Uhl<br></center><a name="231">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> So good, that I'm not going to shoot you, or throw you off a cliff.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Uhl"</span><br> So good, that I'm not going to shoot you, or throw you off a cliff.<br></p>
  
 
 </td></tr></tbody></table>

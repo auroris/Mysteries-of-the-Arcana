@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Mass Effect!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I am currently playing around with the multiplayer demo for Mass Effect 3. I'm enjoying it a lot more than I thought I would. That is a pleasant surprise. Still, it is no substitute for the real thing and I'll be pleased as punch when the full game comes out on March 6th.<br><br>No deep thoughts today, folks. Enjoy the page. Next week, the story ends! This chapter, anyway.<br>
+       I am currently playing around with the multiplayer demo for Mass Effect 3. I'm enjoying it a lot more than I thought I would. That is a pleasant surprise. Still, it is no substitute for the real thing and I'll be pleased as punch when the full game comes out on March 6th.<br><br>No deep thoughts today, folks. Enjoy the page. Next week, the story ends! This chapter, anyway.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://felix.plesoianu.ro/" target="_blank">Felix Pleșoianu</a><br><span class="Comment_info">*Guest*</span></center><a name="933">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://felix.plesoianu.ro/" target="_blank">Felix Pleșoianu</a><br></center><a name="933">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e0ad94a966cfab0b02d938e4bf9cd1c1&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Felix Pleșoianu"</span><br> Wow. I didn't realize until this page, but Theresa looks especially attractive with the new art.</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Felix Pleșoianu"</span><br> Wow. I didn't realize until this page, but Theresa looks especially attractive with the new art.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="934">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Uhl<br></center><a name="934">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> Wait, ME3 coming out Mar 6!?<br><br>(Squee's like a rabid fangirl.) SQUUUUUEEEEEE!!!!!!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Uhl"</span><br> Wait, ME3 coming out Mar 6!?<br><br>(Squee's like a rabid fangirl.) SQUUUUUEEEEEE!!!!!!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gennifer<br><span class="Comment_info">*Guest*</span></center><a name="935">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gennifer<br></center><a name="935">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gennifer"</span><br> @Felix-&nbsp; thank you.&nbsp; I've been working at binging out the fact that Teresa is quite beautiful, and is really not aware of it at all.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Gennifer"</span><br> @Felix-&nbsp; thank you.&nbsp; I've been working at binging out the fact that Teresa is quite beautiful, and is really not aware of it at all.<br></p>
  
 
 </td></tr></tbody></table>

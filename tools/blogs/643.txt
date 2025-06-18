@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Tabletoppers</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, on Monday, I got to go spend time with a friend I hadn't seen in a while, and meet his new lady. One thing that he and I tend to get all side-tracked on is RPG talk, and we wound up once again, wilding our ways off into discussions of the various game systems and their mechanics.</p><p>Personally, I'm a fan of D&amp;D 3.5 and Pathfinder, and he's a hardcore Rolemaster buff.</p><p>What game systems do you guys enjoy?</p>
+       <p>So, on Monday, I got to go spend time with a friend I hadn't seen in a while, and meet his new lady. One thing that he and I tend to get all side-tracked on is RPG talk, and we wound up once again, wilding our ways off into discussions of the various game systems and their mechanics.</p><p>Personally, I'm a fan of D&amp;D 3.5 and Pathfinder, and he's a hardcore Rolemaster buff.</p><p>What game systems do you guys enjoy?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>louisxiv<br><span class="Comment_info">*Guest*</span></center><a name="2773">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>louisxiv<br></center><a name="2773">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e4b632a0081864cf102b6a4d4ee1987c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "louisxiv"</span><br> Running systems straight has <i>not</i> been a thing in my extended group over the years, so since starting days of D&amp;D Greyhawk, <i>etc</i>, I've run games with versions of :<br><br>- Runequest 2<br>- Fudge,<br>- Risus,<br>- Fate<br><br>all variously customised, and some pure homebrews now long lost<br><br><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Running systems straight has <i>not</i> been a thing in my extended group over the years, so since starting days of D&amp;D Greyhawk, <i>etc</i>, I've run games with versions of :<br><br>- Runequest 2<br>- Fudge,<br>- Risus,<br>- Fate<br><br>all variously customised, and some pure homebrews now long lost<br><br><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Golnor<br><span class="Comment_info">*Guest*</span></center><a name="2774">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Golnor<br></center><a name="2774">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=74c039b3c501acc27fcb4cbc4904ceea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Golnor"</span><br> I'm a pathfinder mostly guy myself. Although I do want to try GURPS or Warhammer 40k rp.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I'm a pathfinder mostly guy myself. Although I do want to try GURPS or Warhammer 40k rp.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2775">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>fairportfan<br></center><a name="2775">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> </p><p>I LIKE Chrys's new look.</p><p>Looks like something that would be simple to slide into or out of ... or off.</p><p>"What a lovely new outfit. &nbsp;I'd love to help you put it back on."</p>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><p>I LIKE Chrys's new look.</p><p>Looks like something that would be simple to slide into or out of ... or off.</p><p>"What a lovely new outfit. &nbsp;I'd love to help you put it back on."</p>
  
 
 </td></tr></tbody></table>

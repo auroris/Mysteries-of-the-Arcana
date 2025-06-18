@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Spider Forest and Lavenders</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Theresa's ability to come up with strategy on the fly is one of her greatest skills but this time, it won't do her much good...<br><br>Mysteries of the Arcana has been invited into the <a name="" target="_blank" classname="" class="" href="http://spiderforest.com/">SpiderForest</a> collective. It has no effect on the comic for most readers, except that there's now a neat little header up above that advertises some pretty nifty comics!<br><br>In other news, Keith is drawing a new comic called the <a name="" target="_blank" classname="" class="" href="http://www.drunkduck.com/The_Lavenders/index.php?p=733533">Lavenders</a>. I highly recommend you check it out!<br>
+       Theresa's ability to come up with strategy on the fly is one of her greatest skills but this time, it won't do her much good...<br><br>Mysteries of the Arcana has been invited into the <a name="" target="_blank" classname="" class="" href="http://spiderforest.com/">SpiderForest</a> collective. It has no effect on the comic for most readers, except that there's now a neat little header up above that advertises some pretty nifty comics!<br><br>In other news, Keith is drawing a new comic called the <a name="" target="_blank" classname="" class="" href="http://www.drunkduck.com/The_Lavenders/index.php?p=733533">Lavenders</a>. I highly recommend you check it out!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

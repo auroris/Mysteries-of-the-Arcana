@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Update and Things</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>After all the fun and cutesy things, I thought it might be fun to see Chrys and Theresa in a more badass state, ready to take on anything.</p><p>On a separate note, things are well. The other half is recuperating, we've had the surgery and first post-op follow-up, and it all looks to be good. I'll keep you guys posted, and hope everyone has an epic holiday.</p>
+       <p>After all the fun and cutesy things, I thought it might be fun to see Chrys and Theresa in a more badass state, ready to take on anything.</p><p>On a separate note, things are well. The other half is recuperating, we've had the surgery and first post-op follow-up, and it all looks to be good. I'll keep you guys posted, and hope everyone has an epic holiday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="3065">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="3065">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> This is a pretty great art &lt;3<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> This is a pretty great art &lt;3<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adam<br><span class="Comment_info">*Guest*</span></center><a name="3066">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adam<br></center><a name="3066">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=df850b5930f4a91ad461913b160d1f3c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adam"</span><br> Best wishes for your other half's recovery!<br><br>The picture is pretty cool. <br><br>I do also have to leave a bit of criticism: you can't really use an SMG one-handed. Well, you might if you are doing individual shots but for their intended function of providing bursts, you need to brace them against your shoulder like a rifle. If you look up this, you fill find that even deliberately very small SMGs like the micro-uzi have foldable or collapsable/extendable/etc stock (or just plain stocks). Or something to hold it two-handed. Not a problem of course if she doesn't need to hit anything (suppressing fire).<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Best wishes for your other half's recovery!<br><br>The picture is pretty cool. <br><br>I do also have to leave a bit of criticism: you can't really use an SMG one-handed. Well, you might if you are doing individual shots but for their intended function of providing bursts, you need to brace them against your shoulder like a rifle. If you look up this, you fill find that even deliberately very small SMGs like the micro-uzi have foldable or collapsable/extendable/etc stock (or just plain stocks). Or something to hold it two-handed. Not a problem of course if she doesn't need to hit anything (suppressing fire).<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>verias</center><a name="3067">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>verias</center><a name="3067">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e3c6cf33692a98b575c642080d14c26a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Aaaaaaaaactually, not all micro uzis have stocks. When I was growing up, my dad's best friend was a gunsmith, and we had an interesting day test firing guns (I wasn't allowed to touch the uzi, but he did demonstrate it). The issue is less about ability, and more about accuracy. The gun kicks such that after the first shot in full auto, you won't be able to hit anything.</p><div><br></div><div>The pose and idea was more for "cool factor" than actually being practical.</div>
+<p class="comment_text"> </p><p class="comment_text">Aaaaaaaaactually, not all micro uzis have stocks. When I was growing up, my dad's best friend was a gunsmith, and we had an interesting day test firing guns (I wasn't allowed to touch the uzi, but he did demonstrate it). The issue is less about ability, and more about accuracy. The gun kicks such that after the first shot in full auto, you won't be able to hit anything.</p><div><br></div><div>The pose and idea was more for "cool factor" than actually being practical.</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adam<br><span class="Comment_info">*Guest*</span></center><a name="3068">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adam<br></center><a name="3068">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=df850b5930f4a91ad461913b160d1f3c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adam"</span><br> I know, it's just something that strikes me when I look at this. <br><br>As for Micro-Uzis not having shoulder stocks, they are removable and there are identical-looking Uzi pistols that lack them (as they don't have burst fire, ergo don't necessarily have them). I've also seen mentions and pictures where the stock is detachable, so you might see an uzi whose stock is just off-picture. <br><br>Also, pretty much all full-auto guns kick too much that control is lost, or so I read. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I know, it's just something that strikes me when I look at this. <br><br>As for Micro-Uzis not having shoulder stocks, they are removable and there are identical-looking Uzi pistols that lack them (as they don't have burst fire, ergo don't necessarily have them). I've also seen mentions and pictures where the stock is detachable, so you might see an uzi whose stock is just off-picture. <br><br>Also, pretty much all full-auto guns kick too much that control is lost, or so I read. <br></p>
  
 
 </td></tr></tbody></table>

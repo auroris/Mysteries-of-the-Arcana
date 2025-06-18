@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Depression vs Anger</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    When I wrote this scene, I had to think to myself - what could make Theresa get off her knees and DO something? Was the danger to Chrys enough? Or did she need some other, internal motivation as well? I decided that she needed a bit of anger to help combat the sheer crushing depression of her memories.<br>
+       When I wrote this scene, I had to think to myself - what could make Theresa get off her knees and DO something? Was the danger to Chrys enough? Or did she need some other, internal motivation as well? I decided that she needed a bit of anger to help combat the sheer crushing depression of her memories.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

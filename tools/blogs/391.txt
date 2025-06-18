@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Last Update!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Today's our last status update before our return! Why? Because our first full, new page of Mysteries of the Arcana in over a year will be posted next Monday! We'll be following a Monday-Thursday schedule after that until the middle of February, when chapter 4 will be finished. By that point we'll have run the Kickstarter and we'll know if we have the funds to run chapter 5.<div><br></div><div>In celebration, here's the first new, full color panel of Mysteries of the Arcana finished in over a year! Its stretched out a bit but up above, please get a nice glimpse of the four Minor Arcana queens holding their very own universes!</div><div><br></div><div>See you next Monday!</div>
+       Today's our last status update before our return! Why? Because our first full, new page of Mysteries of the Arcana in over a year will be posted next Monday! We'll be following a Monday-Thursday schedule after that until the middle of February, when chapter 4 will be finished. By that point we'll have run the Kickstarter and we'll know if we have the funds to run chapter 5.<div><br></div><div>In celebration, here's the first new, full color panel of Mysteries of the Arcana finished in over a year! Its stretched out a bit but up above, please get a nice glimpse of the four Minor Arcana queens holding their very own universes!</div><div><br></div><div>See you next Monday!</div>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Beekay006</center><a name="1137">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Beekay006</center><a name="1137">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Looking forward for it all Jay and Keith! Thank you for the preview!</p>
+<p class="comment_text"> </p><p class="comment_text">Looking forward for it all Jay and Keith! Thank you for the preview!</p>
  
 
 </td></tr></tbody></table>

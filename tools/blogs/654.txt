@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Late. :(</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>My apologies, one and all, for the comic being late. Final page of this storyline will be up on Thursday. I emphatically deny Pokemon Go had anything to do with it...</p><p>To give everyone an update on the family situation. My wife's now midway through her chemo. She has her good days and her bad but, thankfully, the good days outnumber the bad and we haven't had any scares and hospital stays like at the beginning of the process. I want to thank everyone for their well wishes. They mean a lot.</p><p>See everyone on Thursday.</p>
+       <p>My apologies, one and all, for the comic being late. Final page of this storyline will be up on Thursday. I emphatically deny Pokemon Go had anything to do with it...</p><p>To give everyone an update on the family situation. My wife's now midway through her chemo. She has her good days and her bad but, thankfully, the good days outnumber the bad and we haven't had any scares and hospital stays like at the beginning of the process. I want to thank everyone for their well wishes. They mean a lot.</p><p>See everyone on Thursday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2798">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="2798">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Give the wife a big hug and "CONTINUE TO GET BETTER!!!" kiss from all of us.<br><br>I like this priest. He's a good head on his shoulders.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Give the wife a big hug and "CONTINUE TO GET BETTER!!!" kiss from all of us.<br><br>I like this priest. He's a good head on his shoulders.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2800">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="2800">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> Thinking of you, J, and offering a prayer for your wife. Wishing the best for your family.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Thinking of you, J, and offering a prayer for your wife. Wishing the best for your family.<br></p>
  
 
 </td></tr></tbody></table>

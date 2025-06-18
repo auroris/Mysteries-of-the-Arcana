@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Identity Crisis</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, it seems our mysterious proprietor has a few tricks of his own up his sleeve, and is definitely more than just a pawn shop owner, since he can see William's true form.</p><p>As for questions, if you recall, anyone has the potential to be a Key, so perhaps that's what's going on here? Time will tell!</p>
+       <p>So, it seems our mysterious proprietor has a few tricks of his own up his sleeve, and is definitely more than just a pawn shop owner, since he can see William's true form.</p><p>As for questions, if you recall, anyone has the potential to be a Key, so perhaps that's what's going on here? Time will tell!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="3124">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="3124">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> the loupe he's using is an illusion-piercing artifact!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> the loupe he's using is an illusion-piercing artifact!<br></p>
  
 
 </td></tr></tbody></table>

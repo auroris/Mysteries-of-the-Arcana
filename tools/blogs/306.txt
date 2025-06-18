@@ -1,120 +1,120 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Just an update</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I wanted to let everyone know what's going on. I've had several queries for the position of artist over here on MotA and, so far, a few audition pages. I'm waiting for a few more and then I'll make my decision. My hope is to be up and running again before the end of the summer if not sooner.<br><br>Thank you for your patience and your belief in Mysteries of the Arcana.<br>
+       I wanted to let everyone know what's going on. I've had several queries for the position of artist over here on MotA and, so far, a few audition pages. I'm waiting for a few more and then I'll make my decision. My hope is to be up and running again before the end of the summer if not sooner.<br><br>Thank you for your patience and your belief in Mysteries of the Arcana.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="694">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="694">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Silly thought... maybe post up the samples one at a time and have us vote?<br><br>Just a thought.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Silly thought... maybe post up the samples one at a time and have us vote?<br><br>Just a thought.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="695">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="695">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">I had considered that, actually, but thought it unfair. First, art style is only one consideration. I also need to take into account dedication and compatibility. Second, some artists might not be, as they say, ready for prime time and are being brave in putting themselves out there. I don't want to expose them to the crowd, especially after what happened with Jessica.<br><br>Also, I'm not sure art should be something that's subjected to a reality-show like environment, even a little.<br></p>
+<p class="comment_text"> </p><p class="comment_text">I had considered that, actually, but thought it unfair. First, art style is only one consideration. I also need to take into account dedication and compatibility. Second, some artists might not be, as they say, ready for prime time and are being brave in putting themselves out there. I don't want to expose them to the crowd, especially after what happened with Jessica.<br><br>Also, I'm not sure art should be something that's subjected to a reality-show like environment, even a little.<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Eddie<br><span class="Comment_info">*Guest*</span></center><a name="696">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Eddie<br></center><a name="696">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Eddie"</span><br> Well said sir! ^_^ Although it would be interesting to see the audition pages after someone was chosen if the other artists were ok with it <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Eddie"</span><br> Well said sir! ^_^ Although it would be interesting to see the audition pages after someone was chosen if the other artists were ok with it <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Greg<br><span class="Comment_info">*Guest*</span></center><a name="697">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Greg<br></center><a name="697">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Greg"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from JGray:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Greg"</span><br> </p><div class="quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from JGray:</span><div class="quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
 I had considered that, actually, but thought it unfair. First, art style is only one consideration. I also need to take into account dedication and compatibility. Second, some artists might not be, as they say, ready for prime time and are being brave in putting themselves out there. <span style="font-weight: bold; font-style: italic;">I don't want to expose them to the crowd, especially after what happened with Jessica.</span><br><br>Also, I'm not sure art should be something that's subjected to a reality-show like environment, even a little.<br></div></div>
 <br><br>Erm, if you're talking of everyone saying how bitchy she was, well, that's sorta because the belated April Fools joke wasn't understood as such so everyone, including Sarrah, took it at face value. And people aren't nice to people they perceive as not very nice people and nicer to people who seem nice...it feels like your blaming your readers for coming to your defense and trashing her and/or her art in ways they really wouldn't have if you hadn't started a joke that made the whole world cry (BeeGees)...<br>That might not be your intention, I dunno, but it sorta feels that way...<br>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>James<br><span class="Comment_info">*Guest*</span></center><a name="698">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>James<br></center><a name="698">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James"</span><br> I for one would at least like to see who I was up against after you make your decision. It's okay to make bad decision, just as long as you learned from them so if you want to try it again, you'd know how to do it better, without hurting your friends.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "James"</span><br> I for one would at least like to see who I was up against after you make your decision. It's okay to make bad decision, just as long as you learned from them so if you want to try it again, you'd know how to do it better, without hurting your friends.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="699">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="699">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Greg, I don't mean the April Fool's joke but, rather, how much of a thrashing her art got. Yes, artists often need thick skins. However, most of the people auditioning aren't professionals and don't have a lot of experience. I think the "American Idol" process is destructive and would prefer to nurture young talent, not crush it.<br><br>James, after I've made my decision I'll ask all the artists involved if I can post their audition pages in the gallery. I do want to share them, just not as part of a 'vote on your favorite' process.<br></p>
+<p class="comment_text"> </p><p class="comment_text">Greg, I don't mean the April Fool's joke but, rather, how much of a thrashing her art got. Yes, artists often need thick skins. However, most of the people auditioning aren't professionals and don't have a lot of experience. I think the "American Idol" process is destructive and would prefer to nurture young talent, not crush it.<br><br>James, after I've made my decision I'll ask all the artists involved if I can post their audition pages in the gallery. I do want to share them, just not as part of a 'vote on your favorite' process.<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>James<br><span class="Comment_info">*Guest*</span></center><a name="700">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>James<br></center><a name="700">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James"</span><br> I wasn't thinking of it as a voting thing, just a showcasing of the cannidates regardless of who was picked. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "James"</span><br> I wasn't thinking of it as a voting thing, just a showcasing of the cannidates regardless of who was picked. <br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="701">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="701">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> While Jessica's art was not what i'd really want to see for <i>mysteries of the Arcana</i>, there's nothing wrong with is as webcomic art <i>per se</i>.</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Fairportfan"</span><br> While Jessica's art was not what i'd really want to see for <i>mysteries of the Arcana</i>, there's nothing wrong with is as webcomic art <i>per se</i>.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Magic_luver101<br><span class="Comment_info">*Guest*</span></center><a name="702">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Magic_luver101<br></center><a name="702">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Magic_luver101"</span><br> Why dont you just do the art yourself?&nbsp;</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Magic_luver101"</span><br> Why dont you just do the art yourself?&nbsp;</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="703">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="703">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">You don't want that.<br><br>Trust me. You really don't.<br></p>
+<p class="comment_text"> </p><p class="comment_text">You don't want that.<br><br>Trust me. You really don't.<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
@@ -126,14 +126,14 @@ I had considered that, actually, but thought it unfair. First, art style is only
 
 <div>
 <!-- Main content here -->
-<hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="705">&nbsp;</a></span><br>
+<hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="705">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">I have great respect for Jeph Jacques and for Dan Shive, for that matter. Both started out with so-so art and improved considerably over the years. That said, the vision I have for MotA is fairly complex, detailed, and action oriented. The art has to be able to convey my writing. MY art would not. Maybe it might after years of constant work but in the meanwhile, readers would have to deal with a story that was often confusing because the art couldn't keep up with the writing... and since we've already had two years of fairly solid art, it would be a let down for the readers who have grown used to a certain level of quality from MotA in all departments.<br></p>
+<p class="comment_text"> </p><p class="comment_text">I have great respect for Jeph Jacques and for Dan Shive, for that matter. Both started out with so-so art and improved considerably over the years. That said, the vision I have for MotA is fairly complex, detailed, and action oriented. The art has to be able to convey my writing. MY art would not. Maybe it might after years of constant work but in the meanwhile, readers would have to deal with a story that was often confusing because the art couldn't keep up with the writing... and since we've already had two years of fairly solid art, it would be a let down for the readers who have grown used to a certain level of quality from MotA in all departments.<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>

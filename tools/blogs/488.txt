@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Dead Guest Star!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Name</strong>: L.F. Meeks</p><hr><p>And that's the last we'll see of Kietra.</p><p>Or issssss it?</p><p>And to think, the real life Kietra was worried that her avatar had killed off Mandrake. When, all this time, it was the other way around!</p><p>Mwaahahahahahaaha!</p><p>See you Thursday!</p>
+       <p><strong>Hidden Name</strong>: L.F. Meeks</p><hr><p>And that's the last we'll see of Kietra.</p><p>Or issssss it?</p><p>And to think, the real life Kietra was worried that her avatar had killed off Mandrake. When, all this time, it was the other way around!</p><p>Mwaahahahahahaaha!</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1669">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1669">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Sorry Kietra, but I did love her Picto for "SURPRISE!"<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Sorry Kietra, but I did love her Picto for "SURPRISE!"<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1670">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1670">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Haha, awesome. I love the "surprise!" pictogram.<br><br>Hang on, how did Mandrake startle Kietra? Does she make a sound along with the pictograms?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Haha, awesome. I love the "surprise!" pictogram.<br><br>Hang on, how did Mandrake startle Kietra? Does she make a sound along with the pictograms?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1671">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1671">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I would say the whole "stabbing the illusion"would be it.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I would say the whole "stabbing the illusion"would be it.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1672">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1672">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> Awesome page! I'm not going to be around for the next update (on my birthday no less) because I'll be traveling and spending my birthday money at a casino!</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Awesome page! I'm not going to be around for the next update (on my birthday no less) because I'll be traveling and spending my birthday money at a casino!</p>
  
 
 </td></tr></tbody></table>

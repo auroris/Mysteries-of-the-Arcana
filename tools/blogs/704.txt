@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Blizzard!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, sorry for the delay, guys. J's been prepping for, and now snow attacked by this blizzard that's swept its way across Canada and the New England states of the US.</p><p>Hopefully we'll be able to stay up and on schedule during all this, but here's wishing J good luck with the shoveling and not throwing out his shoulders, lol.</p><p>Of note on the page: We get to see more of Chrys' robe from a couple of chapters ago, and also, seriously, who buys porn in this day and age?</p>
+       <p>So, sorry for the delay, guys. J's been prepping for, and now snow attacked by this blizzard that's swept its way across Canada and the New England states of the US.</p><p>Hopefully we'll be able to stay up and on schedule during all this, but here's wishing J good luck with the shoveling and not throwing out his shoulders, lol.</p><p>Of note on the page: We get to see more of Chrys' robe from a couple of chapters ago, and also, seriously, who buys porn in this day and age?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2942">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="2942">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=92ca96edcf2d4cc9e9b913368037be46&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Are they sharing quarters now?</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Are they sharing quarters now?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2943">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="2943">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Are they sharing quarters now?</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Are they sharing quarters now?</p>
  
 
 </td></tr></tbody></table>

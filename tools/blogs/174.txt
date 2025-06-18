@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>RSS Problems</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    We seem to be experiencing some problems with the RSS feed and Google Reader. We're unsure of what the problem is and working hard to fix it. Hopefully, we'll have a solution in place by Monday's update. In the meanwhile, I apologize for any inconvenience.<br><br>Also, HAPPY BIRTHDAY LIV!!!<br>
+       We seem to be experiencing some problems with the RSS feed and Google Reader. We're unsure of what the problem is and working hard to fix it. Hopefully, we'll have a solution in place by Monday's update. In the meanwhile, I apologize for any inconvenience.<br><br>Also, HAPPY BIRTHDAY LIV!!!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

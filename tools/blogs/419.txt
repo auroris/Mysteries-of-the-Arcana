@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Coming Up on the End</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And with today's page we're just one away from the end of chapter 4. Ironically, it is the shortest chapter we've told in terms of page count but it has taken the longest to tell due to the hiatus.</p><p>Since we're close to the end of chapter 4, this seems as good a time as any to tell you about an upcoming project I hope to debut starting in April: Golden Dames. There's a lot of great comics out there in the public domain. Mostly stuff from the golden age of comics (the 30s, 40s, and 50s) and from publishers who didn't survive to the modern day (either the way Marvel and DC did or through being gobbled up by one of the big two). As a result, the stories of a lot of amazing female characters have been lost to the edges of geekdom. I plan on changing that. Golden Dames will come at you three days a week, digitally printing female positive, public domain comic stories in webcomic form. In other words, Golden Dames will operate just like any other webcomic only with previously created material instead of new stuff. In addition, I'll be providing commentary on the titles, characters, creators, and companies that produced the stories. Sort of like bonus features on a DVD. My hope is by sharing my love of comic history with you folks I'll inspire a few minds and bring some worthy ladies back into the spotlight.</p><p>Don't worry, though. We're still hard at work on chapter 5 of Mysteries of the Arcana. We've set a date of March 24th for that. </p><p>See you on Thursday for the finale of chapter 4!</p>
+       <p>And with today's page we're just one away from the end of chapter 4. Ironically, it is the shortest chapter we've told in terms of page count but it has taken the longest to tell due to the hiatus.</p><p>Since we're close to the end of chapter 4, this seems as good a time as any to tell you about an upcoming project I hope to debut starting in April: Golden Dames. There's a lot of great comics out there in the public domain. Mostly stuff from the golden age of comics (the 30s, 40s, and 50s) and from publishers who didn't survive to the modern day (either the way Marvel and DC did or through being gobbled up by one of the big two). As a result, the stories of a lot of amazing female characters have been lost to the edges of geekdom. I plan on changing that. Golden Dames will come at you three days a week, digitally printing female positive, public domain comic stories in webcomic form. In other words, Golden Dames will operate just like any other webcomic only with previously created material instead of new stuff. In addition, I'll be providing commentary on the titles, characters, creators, and companies that produced the stories. Sort of like bonus features on a DVD. My hope is by sharing my love of comic history with you folks I'll inspire a few minds and bring some worthy ladies back into the spotlight.</p><p>Don't worry, though. We're still hard at work on chapter 5 of Mysteries of the Arcana. We've set a date of March 24th for that. </p><p>See you on Thursday for the finale of chapter 4!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1272">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1272">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I might try the food if it doesn't do like Wonka's Meal in a Gum.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I might try the food if it doesn't do like Wonka's Meal in a Gum.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1274">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1274">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Liquid meals... so it's a bar? <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Liquid meals... so it's a bar? <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1275">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1275">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> Gunsolo, it wouldn't surprise me if that was the case. I prefer a liquid meal on top of solid ones now and again. :D Though, I've been having more liquid then normal because of hard times.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Gunsolo, it wouldn't surprise me if that was the case. I prefer a liquid meal on top of solid ones now and again. :D Though, I've been having more liquid then normal because of hard times.</p>
  
 
 </td></tr></tbody></table>

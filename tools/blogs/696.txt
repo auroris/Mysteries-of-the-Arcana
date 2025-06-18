@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Death Trap!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Have we veered from Beauty and the Beast to Hansel and Gretel?</p><p>Or has Mandrake simply decided to make a Rube Goldberg out of animated kitchen objects?</p><p>Is this the end of our furred antagonist?</p><p>Find out next Thursday as we near the end of...</p><p>DINNER!</p><p>Seriously, all, sorry for the delay. I promise the next story line is filled with sexy.</p><p>See you Thursday.</p>
+       <p>Have we veered from Beauty and the Beast to Hansel and Gretel?</p><p>Or has Mandrake simply decided to make a Rube Goldberg out of animated kitchen objects?</p><p>Is this the end of our furred antagonist?</p><p>Find out next Thursday as we near the end of...</p><p>DINNER!</p><p>Seriously, all, sorry for the delay. I promise the next story line is filled with sexy.</p><p>See you Thursday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sario528<br><span class="Comment_info">*Guest*</span></center><a name="2919">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sario528<br></center><a name="2919">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=262f57b58e9b3c31a00a0e0decc8f28d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sario528"</span><br> "Filled with sexy"</p><div><br></div><div>That's a very interesting promise. I look forward to it, as always.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> "Filled with sexy"</p><div><br></div><div>That's a very interesting promise. I look forward to it, as always.</div>
  
 
 </td></tr></tbody></table>

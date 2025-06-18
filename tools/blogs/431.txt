@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Demon Archives</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Good, solid science fiction webcomics are relatively rare. It seems fantasy webcomics are more the norm. That means the few SF webcomics out there should be read and treasured. A good example is <a href="https://www.comic-rocket.com/explore/the-demon-archives/" target="_blank">the Demon Archives</a>, a post-apocalyptic tale that tells the story of a group trying to rebuild their desolate world. Give it a try!</p><p>Have I mentioned the Golden Dames Project? It is a webcomic I'll be presenting soon that takes the best examples of female characters from the golden age of comics (at least, those comics that have fallen into the public domain) and presents them to you with facts about the characters, creators, comics, and publishers behind them. I'm hoping to debut the Golden Dames Project very soon.</p><p><img src="/pics/c682b66cb81ef65a10cd49cd91e75f98.png"></p><p>See you tomorrow!</p>
+       <p>Good, solid science fiction webcomics are relatively rare. It seems fantasy webcomics are more the norm. That means the few SF webcomics out there should be read and treasured. A good example is <a href="https://www.comic-rocket.com/explore/the-demon-archives/" target="_blank">the Demon Archives</a>, a post-apocalyptic tale that tells the story of a group trying to rebuild their desolate world. Give it a try!</p><p>Have I mentioned the Golden Dames Project? It is a webcomic I'll be presenting soon that takes the best examples of female characters from the golden age of comics (at least, those comics that have fallen into the public domain) and presents them to you with facts about the characters, creators, comics, and publishers behind them. I'm hoping to debut the Golden Dames Project very soon.</p><p><img src="/pics/c682b66cb81ef65a10cd49cd91e75f98.png"></p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

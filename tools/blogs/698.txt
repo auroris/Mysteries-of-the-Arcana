@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy Weekend!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hello all! Sorry about the lateness of this page. All my fault, I assure you, and nothing to do with Keith.</p><p>So, the Beast is dead.</p><p>What will happen now?</p><p>We've got two more pages to go in this story and its on to the final short story of this chapter!</p><p>By the way, is anyone going to GenCon? I'll be going this year.</p><p>See you Monday!</p>
+       <p>Hello all! Sorry about the lateness of this page. All my fault, I assure you, and nothing to do with Keith.</p><p>So, the Beast is dead.</p><p>What will happen now?</p><p>We've got two more pages to go in this story and its on to the final short story of this chapter!</p><p>By the way, is anyone going to GenCon? I'll be going this year.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2920">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="2920">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> So they're having roast beast?<br>Probably a bit tough. <img src="//smilies/tsktsk.gif" alt=" Tsktsk " hspace="2" border="0" vspace="2"></p>
+<p class="comment_text"> </p><p class="comment_text"><br> So they're having roast beast?<br>Probably a bit tough. <img src="/smilies/tsktsk.gif" alt=" Tsktsk " hspace="2" border="0" vspace="2"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>musicalife<br><span class="Comment_info">*Guest*</span></center><a name="2921">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>musicalife<br></center><a name="2921">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "musicalife"</span><br> I'm not planning on returning to Indiana anytime soon, so...</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I'm not planning on returning to Indiana anytime soon, so...</p>
  
 
 </td></tr></tbody></table>

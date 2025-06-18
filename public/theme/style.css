@@ -405,3 +405,13 @@ ul.gallery-images span {
          display: none;
     }
 }
+
+.comment2 {
+    float: right;
+    background-color: #fc9;
+}
+
+.comment3 {
+    float: right;
+    background-color: #F90;
+}

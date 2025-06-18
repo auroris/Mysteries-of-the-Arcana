@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>William!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    William isn't an easy character to portray. You've got a jackal anthromorph with digitigrade legs in high tech space armor with a fair amount of detail. You've somehow got to give that character expression on a face lacking typical human features. Fortunately, Gennifer did a fantastic job with William. She even managed to give him a very inscrutable, samurai warrior vibe.<br><br>I'm hoping to get one more portrait up this weekend and then we'll become publishing pages again come Monday!<br>
+       William isn't an easy character to portray. You've got a jackal anthromorph with digitigrade legs in high tech space armor with a fair amount of detail. You've somehow got to give that character expression on a face lacking typical human features. Fortunately, Gennifer did a fantastic job with William. She even managed to give him a very inscrutable, samurai warrior vibe.<br><br>I'm hoping to get one more portrait up this weekend and then we'll become publishing pages again come Monday!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://felix.plesoianu.ro/" target="_blank">Felix Pleșoianu</a><br><span class="Comment_info">*Guest*</span></center><a name="720">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://felix.plesoianu.ro/" target="_blank">Felix Pleșoianu</a><br></center><a name="720">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e0ad94a966cfab0b02d938e4bf9cd1c1&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Felix Pleșoianu"</span><br> Indeed, William looks the best so far. Yay for Gennifer!</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Felix Pleșoianu"</span><br> Indeed, William looks the best so far. Yay for Gennifer!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="721">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="721">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Chrys next?</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Fairportfan"</span><br> Chrys next?</p>
  
 
 </td></tr></tbody></table>

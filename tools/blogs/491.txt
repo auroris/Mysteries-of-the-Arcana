@@ -1,118 +1,118 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Finally!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hidden Name: Roxie Silver</p><hr><p>It only took five years but, finally... well, here ya go. :)</p><p>I expect comments! Many comments! Let's see if we can hit 20!</p><p>See you Monday.</p>
+       <p>Hidden Name: Roxie Silver</p><hr><p>It only took five years but, finally... well, here ya go. :)</p><p>I expect comments! Many comments! Let's see if we can hit 20!</p><p>See you Monday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1681">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1681">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Called it. <img alt=" Smile " src="//smilies/smile.gif" border="0" hspace="2" vspace="2"><br>It's about time that happened. <br>Real-world time that is, not neccesarily comic-time. :p <br><br>I wonder why it's so common for this to happen in stories at critical times, as if the protagonist didn't have enough on his/her mind what with being in mortal danger, now you dump all those romantic feelings and thoughts on top of it as well.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Called it. <img alt=" Smile " src="/smilies/smile.gif" border="0" hspace="2" vspace="2"><br>It's about time that happened. <br>Real-world time that is, not neccesarily comic-time. :p <br><br>I wonder why it's so common for this to happen in stories at critical times, as if the protagonist didn't have enough on his/her mind what with being in mortal danger, now you dump all those romantic feelings and thoughts on top of it as well.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2057">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Tsuki_Ouji<br></center><a name="2057">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b314cea1885ccda4fe3cbbf87eec38c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfanj<br><span class="Comment_info">*Guest*</span></center><a name="1682">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfanj<br></center><a name="1682">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f229b3040ccf161e8dccde95a915c80c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfanj"</span><br> Isn't that pretty much the same pose/expressions as when Krys kissed Theresa, all those comics ago?</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Isn't that pretty much the same pose/expressions as when Krys kissed Theresa, all those comics ago?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1683">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="1683">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=640ecee85efb1da2817ecf0e4fea165e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> I can't believe i typo'd my own name.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I can't believe i typo'd my own name.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>verias</center><a name="1685">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>verias</center><a name="1685">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e3c6cf33692a98b575c642080d14c26a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">It is, actually, deliberately similar to the pose from chapter one! glad you noticed!</p>
+<p class="comment_text"> </p><p class="comment_text">It is, actually, deliberately similar to the pose from chapter one! glad you noticed!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1684">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1684">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> "We're bout to enter a Forbidden Zone, to possibly engage in Mortal Combat with an Evil Mastermind...LEMME GIVE YAS A KISS!!!"<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> "We're bout to enter a Forbidden Zone, to possibly engage in Mortal Combat with an Evil Mastermind...LEMME GIVE YAS A KISS!!!"<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1690">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1690">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Hey, if you were about to go into a battle to the death, wouldn't you want to at least try to resolve some of your unresolved romantic tension? <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text">Hey, if you were about to go into a battle to the death, wouldn't you want to at least try to resolve some of your unresolved romantic tension? <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1686">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1686">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> I see this certainly being an RPG or a VN.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I see this certainly being an RPG or a VN.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1687">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1687">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">A Mysteries of the Arcana visual novel would be awesome!</p>
+<p class="comment_text"> </p><p class="comment_text">A Mysteries of the Arcana visual novel would be awesome!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Kietra61871</center><a name="1688">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Kietra61871</center><a name="1688">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">It was bound to happen... just took forever to finally get around to it!</p>
+<p class="comment_text"> </p><p class="comment_text">It was bound to happen... just took forever to finally get around to it!</p>
  
 
 </td></tr></tbody></table>
@@ -124,38 +124,38 @@
 
 <div>
 <!-- Main content here -->
-<hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>toloc<br><span class="Comment_info">*Guest*</span></center><a name="1689">&nbsp;</a></span><br>
+<hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>toloc<br></center><a name="1689">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f5317a64ca6f8277b434a14a70b38a19&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "toloc"</span><br> Been around since page 12. Checking back more or less regularly even when there was a hiatus.
+<p class="comment_text"> </p><p class="comment_text"><br> Been around since page 12. Checking back more or less regularly even when there was a hiatus.
 <br>Great to see you always coming back to this. I've seen too many great projects wither away when the artists lost interest or had to stop working on it temporarily for other reasons.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1691">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1691">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Glad to hear from you Toloc! Glad you're reading Mysteries of the Arcana. Thank you. We have every intention of going onto chapter 6!</p>
+<p class="comment_text"> </p><p class="comment_text">Glad to hear from you Toloc! Glad you're reading Mysteries of the Arcana. Thank you. We have every intention of going onto chapter 6!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2058">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Tsuki_Ouji<br></center><a name="2058">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b314cea1885ccda4fe3cbbf87eec38c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Tsuki_Ouji:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
-<span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></div></div>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><div class="quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Tsuki_Ouji:</span><div class="quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<br> Actually, it makes complete sense. In a high-stress situation like that, many of your body's chemicals are getting pumped into you, double-time. The big ones are, of course, adrenaline and various hormones. Thus, the big damn kiss either before or after a climactic battle. Alternatively, they beat the BBEG and run for a shag as fast as their legs (or other analogous body parts) can carry them.<br></div></div>
  <br>.<br><br>EDIT~ Ah, crap. It seems I hit the wrong "reply" button. I *meant* to reply to Gunsolo's comment. Whoops.<br>
  
 

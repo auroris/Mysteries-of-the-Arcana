@@ -1,74 +1,74 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Would You Like to Take a Survey?</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>It looks like the Royal Road is a bit broken. What does this mean? What will happen? How will anyone survive? Or is this just a flesh wound?</p><p>Keep in mind, this was no small explosion. The shockwave was enough to smash the Beast's windshield which is a decent distance away from the Royal Road. </p><p>Now, I want to ask a question. I'd like it if as many people could comment on it as possible. A while back, I had the idea of using the vs. M RPG engine to create a <strong>Mysteries of the Arcana</strong> roleplaying game. It would be official, using art from the comic, and act not only as a game but as a lore guide for the multiverse presented in MotA.</p><p>Is this something you, as a regular reader of the comic would be interested in? Is it something you'd be interested in helping fund? RPGs based on small properties like this generally don't do well so I'd want to to be sure the desire for it to be out in the world was there.</p><p>Please let me know what you think.</p><p>See you Monday!</p>
+       <p>It looks like the Royal Road is a bit broken. What does this mean? What will happen? How will anyone survive? Or is this just a flesh wound?</p><p>Keep in mind, this was no small explosion. The shockwave was enough to smash the Beast's windshield which is a decent distance away from the Royal Road. </p><p>Now, I want to ask a question. I'd like it if as many people could comment on it as possible. A while back, I had the idea of using the vs. M RPG engine to create a <strong>Mysteries of the Arcana</strong> roleplaying game. It would be official, using art from the comic, and act not only as a game but as a lore guide for the multiverse presented in MotA.</p><p>Is this something you, as a regular reader of the comic would be interested in? Is it something you'd be interested in helping fund? RPGs based on small properties like this generally don't do well so I'd want to to be sure the desire for it to be out in the world was there.</p><p>Please let me know what you think.</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sario<br><span class="Comment_info">*Guest*</span></center><a name="3048">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sario<br></center><a name="3048">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=262f57b58e9b3c31a00a0e0decc8f28d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sario"</span><br> A MotA rpg could be really cool. While you would have my absolute moral support, my financial would likely be minimal.&nbsp;</p>
+<p class="comment_text"> </p><p class="comment_text"><br> A MotA rpg could be really cool. While you would have my absolute moral support, my financial would likely be minimal.&nbsp;</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musicalife<br><span class="Comment_info">*Guest*</span></center><a name="3049">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musicalife<br></center><a name="3049">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musicalife"</span><br> I'd love to chip in if I could, but I'm already funding a few things right now myself.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I'd love to chip in if I could, but I'm already funding a few things right now myself.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="3050">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>David<br></center><a name="3050">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> I would be down for a MotA RPG, for sure! This might have to come down to a Kickstarter project, I reckon.<br><br>But, as you said, it relies on being able to get a solid foundation before launching. Probably ask over the rest of the month, see if you can get the numbers up.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I would be down for a MotA RPG, for sure! This might have to come down to a Kickstarter project, I reckon.<br><br>But, as you said, it relies on being able to get a solid foundation before launching. Probably ask over the rest of the month, see if you can get the numbers up.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://thecityinthesky.webcomic.ws/" target="_blank">Francisco</a><br><span class="Comment_info">*Guest*</span></center><a name="3051">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://thecityinthesky.webcomic.ws/" target="_blank">Francisco</a><br></center><a name="3051">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=7283bea40dd0d8eda3f65b7032da5144&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Francisco"</span><br> I can't help but wonder where the tentacle things come in.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I can't help but wonder where the tentacle things come in.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="3053">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="3053">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Wherever they can? <img src="//smilies/smile.gif" alt=" Smile " vspace="2" hspace="2" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Wherever they can? <img src="/smilies/smile.gif" alt=" Smile " vspace="2" hspace="2" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="3052">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="3052">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> A MotA RPG sounds quite interesting. I don't know if I'd buy it though, as I don't play many tabletop RPGs.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> A MotA RPG sounds quite interesting. I don't know if I'd buy it though, as I don't play many tabletop RPGs.<br></p>
  
 
 </td></tr></tbody></table>

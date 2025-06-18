@@ -1,74 +1,74 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Lateness</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Due to a medical emergency, the page is going to late. Keith and I are both fine but there are things that are distracting. Sorry, folks.<br>
+       Due to a medical emergency, the page is going to late. Keith and I are both fine but there are things that are distracting. Sorry, folks.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>J<br><span class="Comment_info">*Guest*</span></center><a name="286">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>J<br></center><a name="286">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=607831e12b0faf35dee4481f6d497c10&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "J"</span><br> Thanks for letting us know so we are not up all night waiting<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "J"</span><br> Thanks for letting us know so we are not up all night waiting<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayra<br><span class="Comment_info">*Guest*</span></center><a name="287">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayra<br></center><a name="287">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=92987eee74834fecd463429085c378ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayra"</span><br> Meep! Well, I hope whatever the medical urgency is, it ends up not being anything horrible after all...</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayra"</span><br> Meep! Well, I hope whatever the medical urgency is, it ends up not being anything horrible after all...</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ketira<br><span class="Comment_info">*Guest*</span></center><a name="288">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ketira<br></center><a name="288">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=9cd07edfe0782d9dd7da5aadaca6da01&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ketira"</span><br> <font class="Apple-style-span" face="Verdana">Did one (or both) of you two catch a cold? &nbsp;I hope it's nothing worse than that! &nbsp;(My Dad <i>did</i>&nbsp;that over the weekend, and he's having problems shaking it. &nbsp;But then, he's in his 70s.... &nbsp;<img src="//smilies/wink1.gif" alt="Wink" border="0"> &nbsp;)</font></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ketira"</span><br> <font class="apple-style-span" face="Verdana">Did one (or both) of you two catch a cold? &nbsp;I hope it's nothing worse than that! &nbsp;(My Dad <i>did</i>&nbsp;that over the weekend, and he's having problems shaking it. &nbsp;But then, he's in his 70s.... &nbsp;<img src="/smilies/wink1.gif" alt="Wink" border="0"> &nbsp;)</font></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>quarktime<br><span class="Comment_info">*Guest*</span></center><a name="289">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>quarktime<br></center><a name="289">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ff8171c0280557fddacb00a018f1fce0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "quarktime"</span><br> Dogboy smacked one of 'em on the head with a brick for drawing him in a French maid outfit.</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "quarktime"</span><br> Dogboy smacked one of 'em on the head with a brick for drawing him in a French maid outfit.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="290">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="290">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> <font size="2"><span style="font-style: italic;">*Dogboy smacked one of 'em on the head with a brick for drawing him in a French maid outfit.*</span></font><br><br>That is probably the most likely reason.&nbsp; Even fictitious characters have feelings, you know, so let's not insult the doggie with the brick.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> <font size="2"><span style="font-style: italic;">*Dogboy smacked one of 'em on the head with a brick for drawing him in a French maid outfit.*</span></font><br><br>That is probably the most likely reason.&nbsp; Even fictitious characters have feelings, you know, so let's not insult the doggie with the brick.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Elliotd<br><span class="Comment_info">*Guest*</span></center><a name="291">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Elliotd<br></center><a name="291">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=dc792eb6bf75f1141fd74f59eadaa105&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Elliotd"</span><br> Hope y'all are doing okay and noones in seriously sick/hurt. <br>Page looks great =] , yea I think Thera will forgive Chrys, but it was probably better for Thera to have faced her past now than later.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Elliotd"</span><br> Hope y'all are doing okay and noones in seriously sick/hurt. <br>Page looks great =] , yea I think Thera will forgive Chrys, but it was probably better for Thera to have faced her past now than later.<br></p>
  
 
 </td></tr></tbody></table>

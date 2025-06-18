@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Where the Tube Goes</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p><strong>Hidden Name: </strong>Wendy Heather Wood</p><hr><p>Okay, so the name's not-so-hidden. Sometimes it's hard to find a place to put them where they will a) be recognizeable, and b) be readable. So, sometimes I just have to wing it.</p><p>Also! Seems Mandrake has managed to find an exit! And who knew that the digital matter storage devices were capable of being so fickle?</p>
+       <p><strong>Hidden Name: </strong>Wendy Heather Wood</p><hr><p>Okay, so the name's not-so-hidden. Sometimes it's hard to find a place to put them where they will a) be recognizeable, and b) be readable. So, sometimes I just have to wing it.</p><p>Also! Seems Mandrake has managed to find an exit! And who knew that the digital matter storage devices were capable of being so fickle?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1386">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1386">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> It does make sense though. the DMSD translates Matter into Data. A bad sector on a Hard Drive would destroy , or at least make unretrievable the data stored on that sector. So it would make sense the DMSD might have similar limitations as a Magnetic Hard Drive.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> It does make sense though. the DMSD translates Matter into Data. A bad sector on a Hard Drive would destroy , or at least make unretrievable the data stored on that sector. So it would make sense the DMSD might have similar limitations as a Magnetic Hard Drive.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>verias</center><a name="1387">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>verias</center><a name="1387">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e3c6cf33692a98b575c642080d14c26a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Except that the drive's solid state, as Chrys mentions above. No moving parts, but still susceptible to damage, definitely.</p>
+<p class="comment_text"> </p><p class="comment_text">Except that the drive's solid state, as Chrys mentions above. No moving parts, but still susceptible to damage, definitely.</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1388">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1388">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> So more Flash drive than Hard Drive, <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> So more Flash drive than Hard Drive, <br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1389">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1389">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> They should have told her of the risks. Then again, she probably should have asked.<br><br>I wonder what pictograms Mandrake is going to use to indicate a break-in/takeover/invasion/whatever-this-is. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> They should have told her of the risks. Then again, she probably should have asked.<br><br>I wonder what pictograms Mandrake is going to use to indicate a break-in/takeover/invasion/whatever-this-is. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>

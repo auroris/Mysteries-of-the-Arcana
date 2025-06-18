@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy Monday!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Another Monday. Woo! How many more of those until Christmas? Too tired to bother to open the calendar and count.</p><p>Now we're getting to the heart of the gun issue and one I think some of you predicted before. Theresa's been mostly passive during this chapter, going along and letting things happen to her. Now the tables turn and we're at her field of expertise. Very exciting.</p><p>Speaking of exciting, my latest Pathfinder-compatible book has been released! <a href="http://drivethrurpg.com/product/168395/Letters-from-the-Flaming-Crab-Wheel-of-the-Year" target="_blank">Letters from the Flaming Crab: Wheel of the Year</a>, explores the holidays of the neo-pagan calendar from Yule to Samhain (including the full moon) from a fantasy perspective. There's information about festivals, deity types, and magical resonances (how the holiday changes magic on those days) as well as new spells unique to those holidays. At only $2.99 I think it is an excellent deal and, of course, buying it means you're supporting me. Thank you for your purchase if you make it!</p><p>See you Thursday!</p>
+       <p>Another Monday. Woo! How many more of those until Christmas? Too tired to bother to open the calendar and count.</p><p>Now we're getting to the heart of the gun issue and one I think some of you predicted before. Theresa's been mostly passive during this chapter, going along and letting things happen to her. Now the tables turn and we're at her field of expertise. Very exciting.</p><p>Speaking of exciting, my latest Pathfinder-compatible book has been released! <a href="http://drivethrurpg.com/product/168395/Letters-from-the-Flaming-Crab-Wheel-of-the-Year" target="_blank">Letters from the Flaming Crab: Wheel of the Year</a>, explores the holidays of the neo-pagan calendar from Yule to Samhain (including the full moon) from a fantasy perspective. There's information about festivals, deity types, and magical resonances (how the holiday changes magic on those days) as well as new spells unique to those holidays. At only $2.99 I think it is an excellent deal and, of course, buying it means you're supporting me. Thank you for your purchase if you make it!</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="2270">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="2270">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> After today? 1 more.and no page on Thursday.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> After today? 1 more.and no page on Thursday.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>TheDerangedOne<br><span class="Comment_info">*Guest*</span></center><a name="2271">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>TheDerangedOne<br></center><a name="2271">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ec485dab6df0975a539ef4e654772b1c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "TheDerangedOne"</span><br> Ah right those guns of theirs are based off of this one:&nbsp;https://www.youtube.com/watch?v=bCwP3Dm52Ls</p><div>knew I saw that design before but it just never clicked for some reason.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> Ah right those guns of theirs are based off of this one:&nbsp;https://www.youtube.com/watch?v=bCwP3Dm52Ls</p><div>knew I saw that design before but it just never clicked for some reason.</div>
  
 
 </td></tr></tbody></table>

@@ -1,86 +1,86 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Hacked!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>So, over the weekend we were hacked. I don't understand all the details but apparently someone in France took advantage of a weakness in the site's host to put in redirects and junk that led to a Chinese news site.</p><p>Why?</p><p>Couldn't tell you.</p><p>But JD got things working right away so let's hear it for the man of the hour! Hooray JD!</p><p>There will be no comic on Thursday since it is the American holiday we like to call...</p><p>... eat a lot day.</p>
+       <p>So, over the weekend we were hacked. I don't understand all the details but apparently someone in France took advantage of a weakness in the site's host to put in redirects and junk that led to a Chinese news site.</p><p>Why?</p><p>Couldn't tell you.</p><p>But JD got things working right away so let's hear it for the man of the hour! Hooray JD!</p><p>There will be no comic on Thursday since it is the American holiday we like to call...</p><p>... eat a lot day.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Pffft.<br><span class="Comment_info">*Guest*</span></center><a name="2256">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Pffft.<br></center><a name="2256">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=7d7a4f982162aeb8264ee044c8dff6ba&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Pffft."</span><br> "It wuz teh haxx0rz with teh hax in teh haxx0red interwebz!"</p><div><br></div><div>As long as you keep repeating "the bogeymen did it", you're never going to work out what really went down. And "hacker" is exactly modern-day code for "bogeyman". Even the "security industry" themselves talk like that. Do you want to feel powerless? Go right on, keep on talking with words that say "I don't know, I'm too feeble to know". Because fersure you will be exactly that.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> "It wuz teh haxx0rz with teh hax in teh haxx0red interwebz!"</p><div><br></div><div>As long as you keep repeating "the bogeymen did it", you're never going to work out what really went down. And "hacker" is exactly modern-day code for "bogeyman". Even the "security industry" themselves talk like that. Do you want to feel powerless? Go right on, keep on talking with words that say "I don't know, I'm too feeble to know". Because fersure you will be exactly that.</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="2257">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="2257">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">That's sort of like saying "don't call the people who rob banks bank robbers". The site was hacked. The people who hack sites are called hackers. Ergo, the site was hacked by hackers. JD knows how and why. The who we will probably never know because we don't have the resources to track them down. He is currently working on updates to close the door.</p><div><br></div><div>I really don't see the reason for the negativity. Especially on a site that provides free weekly entertainment.</div>
+<p class="comment_text"> </p><p class="comment_text">That's sort of like saying "don't call the people who rob banks bank robbers". The site was hacked. The people who hack sites are called hackers. Ergo, the site was hacked by hackers. JD knows how and why. The who we will probably never know because we don't have the resources to track them down. He is currently working on updates to close the door.</p><div><br></div><div>I really don't see the reason for the negativity. Especially on a site that provides free weekly entertainment.</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sario528<br><span class="Comment_info">*Guest*</span></center><a name="2258">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sario528<br></center><a name="2258">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=262f57b58e9b3c31a00a0e0decc8f28d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sario528"</span><br> Well, Mister Eerie lives up to his name. His head doesn't look too firmly attached to his body, I wonder what would happen if it got removed.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Well, Mister Eerie lives up to his name. His head doesn't look too firmly attached to his body, I wonder what would happen if it got removed.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>TheDerangedOne<br><span class="Comment_info">*Guest*</span></center><a name="2259">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>TheDerangedOne<br></center><a name="2259">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ec485dab6df0975a539ef4e654772b1c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "TheDerangedOne"</span><br> .... So Mr.Grumpy and Mr.Happy are using locals to settle a feud or are the two pin heads the same guy with different heads.</p><div>Either way I'm hearing more of what the grey's said earlier coming outta the red's mouth.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> .... So Mr.Grumpy and Mr.Happy are using locals to settle a feud or are the two pin heads the same guy with different heads.</p><div>Either way I'm hearing more of what the grey's said earlier coming outta the red's mouth.</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2260">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lukkai<br></center><a name="2260">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Or partners/brothers or the like. Working closely together.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Or partners/brothers or the like. Working closely together.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2261">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="2261">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Happy turkey day! <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>I wonder if Mr. Mist and Mr. Eerie are the same person with different pin-masks and bow-ties. <br>I'm thinking that mostly because they look so similar and because <a name="" target="" classname="" class="" href="//comics/590/">the triple signpost said</a> there <b>was an</b> outsider. Singular, not plural. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Happy turkey day! <img src="/smilies/smile.gif" alt="Smile" border="0"><br><br>I wonder if Mr. Mist and Mr. Eerie are the same person with different pin-masks and bow-ties. <br>I'm thinking that mostly because they look so similar and because <a name="" target="" classname="" class="" href="/comics/590/">the triple signpost said</a> there <b>was an</b> outsider. Singular, not plural. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>TheDerangedOne<br><span class="Comment_info">*Guest*</span></center><a name="2262">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>TheDerangedOne<br></center><a name="2262">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ec485dab6df0975a539ef4e654772b1c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "TheDerangedOne"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Gunsolo:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
-<span class="Comment_info">Guest post by "Gunsolo"</span><br> Happy turkey day! <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>I wonder if Mr. Mist and Mr. Eerie are the same person with different pin-masks and bow-ties. <br>I'm thinking that mostly because they look so similar and because <a name="" target="" classname="" class="" href="//comics/590/">the triple signpost said</a> there <b>was an</b> outsider. Singular, not plural. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></div></div>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><div class="quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Gunsolo:</span><div class="quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<br> Happy turkey day! <img src="/smilies/smile.gif" alt="Smile" border="0"><br><br>I wonder if Mr. Mist and Mr. Eerie are the same person with different pin-masks and bow-ties. <br>I'm thinking that mostly because they look so similar and because <a name="" target="" classname="" class="" href="/comics/590/">the triple signpost said</a> there <b>was an</b> outsider. Singular, not plural. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></div></div>
  <br>.Ah, that's right.<div>Wait a minute... Mist.... Eerie... Ah, Mystery. Clever.<div>&nbsp;Mysteries can not be known other than that they exist until they are uncovered and solved. Which would explain the signpost not having any answers.<div>Optionally they can just be eliminated and saves all that headache of mystery solving at the cost of not knowing the reasons behind it in full. Heh, an arms dealer mystery. so fitting for elimination.</div></div></div>
  
 

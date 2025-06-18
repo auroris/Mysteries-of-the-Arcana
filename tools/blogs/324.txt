@@ -1,32 +1,32 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Now in color!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Gennifer is moved in and unpacking. She sent along this full color version of the previous page, so we're moving along! Hopefully, next week, we'll be back to normal!<br><br>In the meanwhile, may I suggest a podcast? Gennifer appeared on <a name="" target="_blank" classname="" class="" href="http://urbanotakucleveland.blogspot.com/2011/09/urban-otaku-podcast-7-shit-list-with.html">Urban Otaku</a> as a guest. She talked about Mysteries of the Arcana, art, and anime. It was a fun time! Warning, though, there is some language so you probably don't want to listen to it outloud at work or around small children.<br><br>Lastly, I want to send a belated thanks to a special reader. Someone was very kind and, about a month ago, donated one hundred dollars to the comic. That helped pay for the art and kept us going. I won't say who because I don't know if that person wants the publicity but they know who they are. Thank you!<br>
+       Gennifer is moved in and unpacking. She sent along this full color version of the previous page, so we're moving along! Hopefully, next week, we'll be back to normal!<br><br>In the meanwhile, may I suggest a podcast? Gennifer appeared on <a name="" target="_blank" classname="" class="" href="http://urbanotakucleveland.blogspot.com/2011/09/urban-otaku-podcast-7-shit-list-with.html">Urban Otaku</a> as a guest. She talked about Mysteries of the Arcana, art, and anime. It was a fun time! Warning, though, there is some language so you probably don't want to listen to it outloud at work or around small children.<br><br>Lastly, I want to send a belated thanks to a special reader. Someone was very kind and, about a month ago, donated one hundred dollars to the comic. That helped pay for the art and kept us going. I won't say who because I don't know if that person wants the publicity but they know who they are. Thank you!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="797">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="797">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=eadfaff19262636d50b2afcca4ef4582&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Fairportfan"</span><br> Is that Vitamin X in the bottles?
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Fairportfan"</span><br> Is that Vitamin X in the bottles?
 <br>
 <br>Also: We know what they need the Vitamin X for.  What do they need the goat-frog's bezoar for?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="798">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Uhl<br></center><a name="798">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> Lunch?</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Uhl"</span><br> Lunch?</p>
  
 
 </td></tr></tbody></table>

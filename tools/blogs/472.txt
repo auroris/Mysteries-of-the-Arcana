@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>There Goes Mandrake</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hidden Name: Nate</p><hr><p><a href="//comics/308/" target="_blank">The first appearance of Mandrake's Z-snap invisibility spell.</a></p><p><a href="//comics/486/" target="_blank">Why William's arm is bandaged.</a></p><p>Ah, William. Only you could compliment Chrys, Mandrake and Theresa while at the same time insulting women everywhere. When will you ever learn?</p><p>One of the things I enjoyed most about writing this chapter is getting a chance to bring back previous bits of neatness. That includes Mandrake's z-snap invisibility spell. </p><p>I'm in the middle of putting together a Dresden Files RPG game set in Orlando, Florida for my online tabletop group. I've had fun delving into both the series (I have now read everything written for it except the new War Drums comics - those will have to wait until I have some spare change) and the background on Orlando. When I've got more done, I'll point to the wiki so people can enjoy it if they so choose.</p>
+       <p>Hidden Name: Nate</p><hr><p><a href="/comics/308/" target="_blank">The first appearance of Mandrake's Z-snap invisibility spell.</a></p><p><a href="/comics/486/" target="_blank">Why William's arm is bandaged.</a></p><p>Ah, William. Only you could compliment Chrys, Mandrake and Theresa while at the same time insulting women everywhere. When will you ever learn?</p><p>One of the things I enjoyed most about writing this chapter is getting a chance to bring back previous bits of neatness. That includes Mandrake's z-snap invisibility spell. </p><p>I'm in the middle of putting together a Dresden Files RPG game set in Orlando, Florida for my online tabletop group. I've had fun delving into both the series (I have now read everything written for it except the new War Drums comics - those will have to wait until I have some spare change) and the background on Orlando. When I've got more done, I'll point to the wiki so people can enjoy it if they so choose.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1544">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1544">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Ahhh Willy. Apparently your training never included not insulting the force that has you&nbsp; outnumbered 5-2<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Ahhh Willy. Apparently your training never included not insulting the force that has you&nbsp; outnumbered 5-2<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1545">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1545">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> He never learns, does he...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> He never learns, does he...<br></p>
  
 
 </td></tr></tbody></table>

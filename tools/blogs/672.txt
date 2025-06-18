@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sword Swinging Kabosh!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, now we get to see a little extra badassery from Aleena, and the aftermath of Kietra's slide into home plate there. Since they're now reaching the actual entrance of the pod bay, we're about to be sliding out of the heavy action ourselves. What do you guys think of how this has all played out so far?</p><p>Let us know in the comments and we'll see you on Monday!</p><p>Keith</p>
+       <p>So, now we get to see a little extra badassery from Aleena, and the aftermath of Kietra's slide into home plate there. Since they're now reaching the actual entrance of the pod bay, we're about to be sliding out of the heavy action ourselves. What do you guys think of how this has all played out so far?</p><p>Let us know in the comments and we'll see you on Monday!</p><p>Keith</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2850">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="2850">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> Congrats on 700 pages! <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Congrats on 700 pages! <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2851">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="2851">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> Lookin' good! Much excitement.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Lookin' good! Much excitement.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Kietra61871</center><a name="2854">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Kietra61871</center><a name="2854">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">I'm really enjoying the way Aleena and Kietra work together, these characters are competely badass! I do have to say, I'm a little jealous of the awesome sword Aleena has... but Kietra does have some pretty cool guns.<br><br>Thank you J and Keith for bringing them back for this short story, it's been fun!!</p>
+<p class="comment_text"> </p><p class="comment_text">I'm really enjoying the way Aleena and Kietra work together, these characters are competely badass! I do have to say, I'm a little jealous of the awesome sword Aleena has... but Kietra does have some pretty cool guns.<br><br>Thank you J and Keith for bringing them back for this short story, it's been fun!!</p>
  
 
 </td></tr></tbody></table>

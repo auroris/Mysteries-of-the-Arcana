@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>New comic!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And here's today's new page! I love the look on Chrys's face. Keith did such a good job at drawing her utter disgust with the situation in every panel.</p><p>At the suggestion of our amazing host, JD, we'll be moving Bricks of the Arcana to Sunday. JD is absolutely right. It makes sense to have our backup comic in the middle and not so close to the main comic.</p><p>I want to thank everyone for their well wishes. I really appreciate it. I'm pleased to announce I've begun work on a new short comic called "Birthdays" set in the MotA universe. Patreon supporters will get first crack at it, of course.</p><p>So, enough about me. What's up in your life?</p>
+       <p>And here's today's new page! I love the look on Chrys's face. Keith did such a good job at drawing her utter disgust with the situation in every panel.</p><p>At the suggestion of our amazing host, JD, we'll be moving Bricks of the Arcana to Sunday. JD is absolutely right. It makes sense to have our backup comic in the middle and not so close to the main comic.</p><p>I want to thank everyone for their well wishes. I really appreciate it. I'm pleased to announce I've begun work on a new short comic called "Birthdays" set in the MotA universe. Patreon supporters will get first crack at it, of course.</p><p>So, enough about me. What's up in your life?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Rysky<br><span class="Comment_info">*Guest*</span></center><a name="2012">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Rysky<br></center><a name="2012">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Rysky"</span><br> So are you feeling better? We miss you over on Paizo and Rpol.&nbsp;</p><div><br></div><div>*keeps sending positive feelings and hugs*</div>
+<p class="comment_text"> </p><p class="comment_text"><br> So are you feeling better? We miss you over on Paizo and Rpol.&nbsp;</p><div><br></div><div>*keeps sending positive feelings and hugs*</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2013">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lukkai<br></center><a name="2013">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> What's up in our life?<br><br>Well we're obviously rejoicing at getting our regular MotA fix! <img src="//smilies/wink1.gif" alt="Wink" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> What's up in our life?<br><br>Well we're obviously rejoicing at getting our regular MotA fix! <img src="/smilies/wink1.gif" alt="Wink" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2014">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="2014">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Welcome back dude! *starts dancing and throwing flowers Snoopy-style*<img alt=" LOL " src="//smilies/laugh.gif" border="0" hspace="2" vspace="2"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Welcome back dude! *starts dancing and throwing flowers Snoopy-style*<img alt=" LOL " src="/smilies/laugh.gif" border="0" hspace="2" vspace="2"><br></p>
  
 
 </td></tr></tbody></table>

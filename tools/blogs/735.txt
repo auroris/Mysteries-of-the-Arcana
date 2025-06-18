@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Distractions</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, seems life has been doing distraction type things to J and myself as of late. Here's hoping to get through it as fast as possible and keeping you guys elbow deep in Mysteries of the Arcana.</p><p>Speaking of distractions, it looks like Chrys and Theresa have found a bit of that themselves. Shame on them, whenever I had to work on a vehicle it was always elbow deep in grease and on my back.</p><p>Anyway, bad puns aside, we'll see you guys next week.</p><p>Keith W.</p>
+       <p>So, seems life has been doing distraction type things to J and myself as of late. Here's hoping to get through it as fast as possible and keeping you guys elbow deep in Mysteries of the Arcana.</p><p>Speaking of distractions, it looks like Chrys and Theresa have found a bit of that themselves. Shame on them, whenever I had to work on a vehicle it was always elbow deep in grease and on my back.</p><p>Anyway, bad puns aside, we'll see you guys next week.</p><p>Keith W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

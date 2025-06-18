@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>A Quick Revisit</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>I realized, in the midst of this hiatus/fillerfest, I have somewhat neglected seeing William as a fun source to work with, and as such, I decided I wanted to revisit the wedding gown idea for a moment.</p><p>Here we see William in a tux, and le gasp, smiling! </p><p>The question is, which side has the groomsmen? Chrys' or Theresa's? Anyway. Thank you guys for sticking with us, and we'll see you soon!</p>
+       <p>I realized, in the midst of this hiatus/fillerfest, I have somewhat neglected seeing William as a fun source to work with, and as such, I decided I wanted to revisit the wedding gown idea for a moment.</p><p>Here we see William in a tux, and le gasp, smiling! </p><p>The question is, which side has the groomsmen? Chrys' or Theresa's? Anyway. Thank you guys for sticking with us, and we'll see you soon!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="3069">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="3069">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Well, since an old wallpaper shows Theresa in the gown and Chrys in the tux...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Well, since an old wallpaper shows Theresa in the gown and Chrys in the tux...<br></p>
  
 
 </td></tr></tbody></table>

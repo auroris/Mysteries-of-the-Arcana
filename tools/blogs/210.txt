@@ -1,110 +1,287 @@
-<html><head></head><body><div>
-<!-- Main content here -->
-<table border="0" class="post"><tbody><tr><td>
-   <h1>Turtle Returns</h1>
-   <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hopefully, everyone recognizes that particular style of speech bubble as belonging to the turtle. Or, rather, the giant turtle's translator, the regular sized turtle. I felt it was time she showed up again.<br><br>I just finished rereading the first two books in the Beka Cooper series by Tamora Pierce. I highly recommend everything Ms. Pierce has ever written. She's one of my biggest inspirations as a writer.<br><br>What inspires you?<br>
-   </div>
-   </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://www.drunkduck.com/Eternity_Dreams/index.php" target="_blank">Mitaukano</a><br><span class="Comment_info">*Guest*</span></center><a name="189">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e8d71a9f718d40ed451abe062a409664&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
+<!DOCTYPE html><html><head>
+  <title></title>
+</head>
+<body>
+  <div>
+    <table border="0" class="post">
+      <tbody>
+        <tr>
+          <td>
+            
+            <div class="post_body">
+              Hopefully, everyone recognizes that particular style of speech bubble as belonging to the turtle. Or, rather, the giant turtle's translator, the regular sized turtle. I felt it was time she showed up again.<br>
+              <br>
+              I just finished rereading the first two books in the Beka Cooper series by Tamora Pierce. I highly recommend everything Ms. Pierce has ever written. She's one of my biggest inspirations as a writer.<br>
+              <br>
+              What inspires you?<br>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <table style="width:100%; border:0;" class="comment_table">
+      <tbody>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title"><br>
+                        <a href="http://www.drunkduck.com/Eternity_Dreams/index.php" target="_blank">Mitaukano</a><br>
+                        </span>
+                      </center><a name="189" class="189">&nbsp;</a><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=e8d71a9f718d40ed451abe062a409664&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "Mitaukano"</span><br></p>
+                      <p class="msonormal"><span class="apple-style-span"><span style="font-size:13.5pt; line-height:115%;font-family:">I have to say Tamora Pierce is one of my all time favorite authors and I probably draw a lot from her. My characters end up in their heads a lot ala Ms. Pierce. In addition, I find Mercedes Lackey, and Andre Norton huge inspirations for writing stable female main characters good and bad.&nbsp;</span></span></p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">LongshotLink<br>
+                        </span>
+                      </center><a name="190" class="190">&nbsp;</a><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=4ccbcaa4d3bf7e0e6aac5897307ac553&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "LongshotLink"</span><br>
+                      Did Tamora Pierce write the books with Death being a fairly main character? Because I remember a book like that, but am not sure.<br></p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">SoySauce<br>
+                        </span>
+                      </center><a name="191" class="191">&nbsp;</a><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=8d8e09efebbafa74944ccde87d7fc3da&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "SoySauce"</span><br>
+                      From fiction? Probably the Saw series inspires me (just went through a marathon ^_^). A plan complex in its conception, simple in its execution, and very nearly perfect in its design. Books with a similar background I'd say are the Ender books by Orson Scott Card and Name of the Wind, by Patrick Rothfuss.</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">Uhl<br>
+                        </span>
+                      </center><a name="192" class="192">&nbsp;</a><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "Uhl"</span><br>
+                      I thought that was a Narnia reference myself. Aslan is always saying "son of Adam" and "Daughter of Eve" when speaking to someone.<br></p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">JGray</span>
+                      </center><span class="comment_title"><a name="193" class="193">&nbsp;</a></span><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text">Mitaukano, I would have to name Beka Cooper and Keladry as my two favorite Pierce heroines. I'm also fond of all four Circle kids. I've never been able to fall into Mercedes Lackey quite so easily but love Diane Duane's Wizard books.<br>
+                      <br>
+                      Longshotlink, no. That's not a Pierce book. It could be one of Piers Anthony's Incarnations series (Riding a Pale Horse) or possibly Amber Benson's debut novel about the daughter of death?<br>
+                      <br>
+                      Soy, good, tight plots are important. Oddly, I found "Dude, Where's My Car" to have one. Also, any book by Robert Parker. The man knew how to do snappy dialogue while keeping his plots tight and noiry.<br>
+                      <br>
+                      Uhl, Daughter of Eve is a Narnia nod, absolutely. I was just mentioning Tamora Pierce because she's currently on my to-read list.<br></p>
+                      <hr width="70%">
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">JanaiOssum<br>
+                        </span>
+                      </center><a name="194" class="194">&nbsp;</a><br>
+                      <center>
+                        <img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt="image">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "JanaiOssum"</span><br>
+                      Tamora Pierce is definitely the person who inspires my writing the most. She has such a way with words, and people, and places. Beka is awesome, but Alanna and Daine were always my favorite heroines and Numair is my favorite guy. The circle kids rock too. Especially Tris.</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">Ysa</span>
+                      </center><span class="comment_title"><a name="195" class="195">&nbsp;</a></span><br>
+                      <center>
+                        <img src="/image.php?type=ava&amp;i=WillAv.jpg" border="0" alt="image">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text">I am first and will always be an Andre Norton fan, she is my inspiration to become a writer.&nbsp; But I also lean towards the darker desires of Anne Bishop.&nbsp; Bishop captures the true nature of the human animal and the depth of our darker nature.&nbsp; I also find it appealing that Satean is a bewildered old geezer.&nbsp;</p>
+                      <hr width="70%">
+                      All the evils of the world can not outwiegh one act of kindness.
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">weertangel<br>
+                        </span>
+                      </center><a name="196" class="196">&nbsp;</a><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text"><span class="forum_info">Guest post by "weertangel"</span><br></p>
+                      <p>I am not a writer, but i find the works of writers Ricard A. Knaak and&nbsp; R.A. Salvatore to belong to some of the best series of the last years <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
+                      <p>&nbsp;</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="100%">
+            <a name=""></a>
+            <div style="width:100%;" class="comment">
+              <table border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top" width="125">
+                      <center>
+                        <span class="comment_title">JGray</span>
+                      </center><span class="comment_title"><a name="197" class="197">&nbsp;</a></span><br>
+                      <center>
+                        <img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt="avatar">
+                      </center>
+                    </td>
+                    <td valign="top">
+                      
+                      <p class="comment_text">I'm glad to hear everyone has favorites and is willing to share. Thank you!<br></p>
+                      <hr width="70%">
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <hr>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mitaukano"</span><br> </p><p class="MsoNormal"><span class="apple-style-span"><span style="font-size:13.5pt; line-height:115%;font-family:" arial","sans-serif";color:black"="">I have to say Tamora Pierce is one of my all time favorite authors and I probably draw a lot from her. My characters end up in their heads a lot ala Ms. Pierce. In addition, I find Mercedes Lackey, and Andre Norton huge inspirations for writing stable female main characters good and bad.&nbsp;</span></span></p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>LongshotLink<br><span class="Comment_info">*Guest*</span></center><a name="190">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=4ccbcaa4d3bf7e0e6aac5897307ac553&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "LongshotLink"</span><br> Did Tamora Pierce write the books with Death being a fairly main character? Because I remember a book like that, but am not sure.<br></p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>SoySauce<br><span class="Comment_info">*Guest*</span></center><a name="191">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=8d8e09efebbafa74944ccde87d7fc3da&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "SoySauce"</span><br> From fiction? Probably the Saw series inspires me (just went through a marathon ^_^). A plan complex in its conception, simple in its execution, and very nearly perfect in its design. Books with a similar background I'd say are the Ender books by Orson Scott Card and Name of the Wind, by Patrick Rothfuss.</p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="192">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> I thought that was a Narnia reference myself. Aslan is always saying "son of Adam" and "Daughter of Eve" when speaking to someone.<br></p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="193">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text">Mitaukano, I would have to name Beka Cooper and Keladry as my two favorite Pierce heroines. I'm also fond of all four Circle kids. I've never been able to fall into Mercedes Lackey quite so easily but love Diane Duane's Wizard books.<br><br>Longshotlink, no. That's not a Pierce book. It could be one of Piers Anthony's Incarnations series (Riding a Pale Horse) or possibly Amber Benson's debut novel about the daughter of death?<br><br>Soy, good, tight plots are important. Oddly, I found "Dude, Where's My Car" to have one. Also, any book by Robert Parker. The man knew how to do snappy dialogue while keeping his plots tight and noiry.<br><br>Uhl, Daughter of Eve is a Narnia nod, absolutely. I was just mentioning Tamora Pierce because she's currently on my to-read list.<br></p>
- <hr width="70%">
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JanaiOssum<br><span class="Comment_info">*Guest*</span></center><a name="194">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JanaiOssum"</span><br> Tamora Pierce is definitely the person who inspires my writing the most. She has such a way with words, and people, and places. Beka is awesome, but Alanna and Daine were always my favorite heroines and Numair is my favorite guy. The circle kids rock too. Especially Tris.</p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ysa</center><a name="195">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text">I am first and will always be an Andre Norton fan, she is my inspiration to become a writer.&nbsp; But I also lean towards the darker desires of Anne Bishop.&nbsp; Bishop captures the true nature of the human animal and the depth of our darker nature.&nbsp; I also find it appealing that Satean is a bewildered old geezer.&nbsp;</p>
- <hr width="70%">All the evils of the world can not outwiegh one act of kindness.
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="196">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>I am not a writer, but i find the works of writers Ricard A. Knaak and&nbsp; R.A. Salvatore to belong to some of the best series of the last years <img src="//smilies/smile.gif" alt="Smile" border="0"></p> <p>&nbsp;</p>
- 
-
-</td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="197">&nbsp;</a></span><br>
-<center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
-</td>
-<td valign="top">
-
-
-<p class="Comment_text"> </p><p class="Comment_text">I'm glad to hear everyone has favorites and is willing to share. Thank you!<br></p>
- <hr width="70%">
-
-</td></tr></tbody></table>
-<hr></div></td></tr></tbody></table>
-<!-- End main content -->
-              </div></body></html>
+</body></html>

@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>So, I Got To Thinking</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>It's not often that we really see William, especially lately. I decided, ultimately, that we needed some beefcake.</p><p>So, here we see how William is able to maintain his crazy physique, and how, most likely, he spends all his spare time. So, drinks and weights. That's his big secret.</p><p>Still eager for more ideas. See you guys on Thursday.</p>
+       <p>It's not often that we really see William, especially lately. I decided, ultimately, that we needed some beefcake.</p><p>So, here we see how William is able to maintain his crazy physique, and how, most likely, he spends all his spare time. So, drinks and weights. That's his big secret.</p><p>Still eager for more ideas. See you guys on Thursday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2982">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="2982">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Kinda have this picture in my head of him with a dumbel in one hand and a mug in the other now.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Kinda have this picture in my head of him with a dumbel in one hand and a mug in the other now.<br></p>
  
 
 </td></tr></tbody></table>

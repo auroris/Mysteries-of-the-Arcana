@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Who lives here?</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    There are three types of beings who live in this particular Arcana (the Three of Pentacles/Coins). Humans (or human like beings), greys (aliens), and bug eyed monster humanoids. For the right price, however (and everything is for sale in the Three of Coins) someone can be biosculpted into almost anything they desire.<br><br>We'll see an example of that on Thursday!<br><br>By the way, folks, last Thursday's page has been fully colored and is posted.<br>
+       There are three types of beings who live in this particular Arcana (the Three of Pentacles/Coins). Humans (or human like beings), greys (aliens), and bug eyed monster humanoids. For the right price, however (and everything is for sale in the Three of Coins) someone can be biosculpted into almost anything they desire.<br><br>We'll see an example of that on Thursday!<br><br>By the way, folks, last Thursday's page has been fully colored and is posted.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gillsing<br><span class="Comment_info">*Guest*</span></center><a name="654">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gillsing<br></center><a name="654">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c475a2e6c7a75f96e3059a819f5fd4d9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gillsing"</span><br> Oh, look. They have both a captain <em>and</em> a pope!<img src="//smilies/smile.gif" border="0" alt=" Smile " hspace="2" vspace="2"></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Gillsing"</span><br> Oh, look. They have both a captain <em>and</em> a pope!<img src="/smilies/smile.gif" border="0" alt=" Smile " hspace="2" vspace="2"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="655">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayshara<br></center><a name="655">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Ninja aliens anyone? :P<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayshara"</span><br> Ninja aliens anyone? :P<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://www.theappleofdiscord.com" target="_blank">Adam</a><br><span class="Comment_info">*Guest*</span></center><a name="656">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://www.theappleofdiscord.com" target="_blank">Adam</a><br></center><a name="656">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=29cd88bbf95f48df3b951b8bb42ca4f8&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Adam"</span><br> Maybe that's how they say hello.</p><div><br></div><div>With probes.</div>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Adam"</span><br> Maybe that's how they say hello.</p><div><br></div><div>With probes.</div>
  
 
 </td></tr></tbody></table>

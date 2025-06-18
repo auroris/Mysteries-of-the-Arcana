@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>New donation wallpaper!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Yep. That turtle's sinister. Evil, I tell you!<br><br>On an unrelated note... well, maybe this is a little evil, too. I wanted to remind folks that Mysteries of the Arcana does accept donations. Any money you gift to us goes to helping maintain the comic. It pays Keith's rates (which he generously prices at far below what it should be) and helps keep our domain registered. If you donate, you get a gift of a neat wallpaper. This month is a very gorgeous rendering of Melody. Certainly, its Keith's most cheesecake heavy MotA related art. Don't believe me? Ask Kludge. Here's a snapshot of his expression when he saw it:<br><br><img alt="" src="/pics/aprilteaser.jpg" vspace="" border="0" hspace=""><br><br>You can donate by clicking on the "Please Donate" image of Mandrake to the left of the journal. Thank you!<br>
+       Yep. That turtle's sinister. Evil, I tell you!<br><br>On an unrelated note... well, maybe this is a little evil, too. I wanted to remind folks that Mysteries of the Arcana does accept donations. Any money you gift to us goes to helping maintain the comic. It pays Keith's rates (which he generously prices at far below what it should be) and helps keep our domain registered. If you donate, you get a gift of a neat wallpaper. This month is a very gorgeous rendering of Melody. Certainly, its Keith's most cheesecake heavy MotA related art. Don't believe me? Ask Kludge. Here's a snapshot of his expression when he saw it:<br><br><img alt="" src="/pics/aprilteaser.jpg" vspace="" border="0" hspace=""><br><br>You can donate by clicking on the "Please Donate" image of Mandrake to the left of the journal. Thank you!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="4">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>weertangel<br></center><a name="4">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Hi Jgray, i tried to click that link to tales of the arcana(on the right side)</p> <p>and it went completly crazy! like it was stuck between 2 sites couse it kept switching between them every micro-second!</p> <p>can u guys fix that? <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "weertangel"</span><br> </p><p>Hi Jgray, i tried to click that link to tales of the arcana(on the right side)</p> <p>and it went completly crazy! like it was stuck between 2 sites couse it kept switching between them every micro-second!</p> <p>can u guys fix that? <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="5">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="5">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> That's my fault, Weertangel.&nbsp; The site for Tales from the Arcana isn't quite ready yet, J is working out a new design for it and it will be it's own entity.&nbsp; The link provided on this page goes to where the site was supposed to be, but as it turns out we had to shift it a little.&nbsp; The link will work properly once the new website for Tales is ready to go.<br><br>Sorry!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> That's my fault, Weertangel.&nbsp; The site for Tales from the Arcana isn't quite ready yet, J is working out a new design for it and it will be it's own entity.&nbsp; The link provided on this page goes to where the site was supposed to be, but as it turns out we had to shift it a little.&nbsp; The link will work properly once the new website for Tales is ready to go.<br><br>Sorry!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="6">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>weertangel<br></center><a name="6">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>That wicked to hear! can't wait to see it!</p> <p>Maybe u can disable the link till then couse i don't think i'll be the last to click it...</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "weertangel"</span><br> </p><p>That wicked to hear! can't wait to see it!</p> <p>Maybe u can disable the link till then couse i don't think i'll be the last to click it...</p>
  
 
 </td></tr></tbody></table>

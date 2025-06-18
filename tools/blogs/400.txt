@@ -1,63 +1,63 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Back from ShadowCon!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, yeah, got back after playing daredevil with the weather. Apologies for the delay on the page. Hope you guys enjoy!</p><p>Also! Hopefully I'll have a convention plan/schedule together soon-ish to pass to J to throw up here on the site!</p><p>Enjoy!</p><p>Keith W.</p>
+       <p>So, yeah, got back after playing daredevil with the weather. Apologies for the delay on the page. Hope you guys enjoy!</p><p>Also! Hopefully I'll have a convention plan/schedule together soon-ish to pass to J to throw up here on the site!</p><p>Enjoy!</p><p>Keith W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1181">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1181">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Interesting. so the first Arcana created from the war was Death?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Interesting. so the first Arcana created from the war was Death?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Bruudwin<br><span class="Comment_info">*Guest*</span></center><a name="1182">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Bruudwin<br></center><a name="1182">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=5f80499284c0d75c307d968e8f1fe273&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Bruudwin"</span><br> helllllll yeah welcome back you dudes! these series are awesome as always!<br><br>just re checked after a helluva long duration of a blue moon and y'all are back! thought you fellers were dead!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> helllllll yeah welcome back you dudes! these series are awesome as always!<br><br>just re checked after a helluva long duration of a blue moon and y'all are back! thought you fellers were dead!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1183">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1183">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Wait, the Transformer died in part 16 didn't he? Is he immortal (makes sense I guess since he's Death), or are these sequences shown out of order?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Wait, the Transformer died in part 16 didn't he? Is he immortal (makes sense I guess since he's Death), or are these sequences shown out of order?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Beekay006</center><a name="1184">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Beekay006</center><a name="1184">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">G'day Keith!</p><div><br></div><div>I love the art of Death fighting, and infusing the essence into his scythe! J and yourself continue to be the masterful duo I've come to be very fond of!</div><div><br></div><div>I'm looking forward to this kickstarter, and it will be interesting to see how you go this year convention wise!</div>
+<p class="comment_text"> </p><p class="comment_text">G'day Keith!</p><div><br></div><div>I love the art of Death fighting, and infusing the essence into his scythe! J and yourself continue to be the masterful duo I've come to be very fond of!</div><div><br></div><div>I'm looking forward to this kickstarter, and it will be interesting to see how you go this year convention wise!</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1185">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1185">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Adamas: While the Fool is the first card of the Major Arcana it felt to me that the transformer should be the herald of a change in the status of existence.</p><div><br></div><div>Bruudwin: Welcome back! We are alive! Sorry for leaving you for so long.</div><div><br></div><div>Gunsolo: You are correct! We showed Death's 'death' in part sixteen. Timelines are always a strange issue when dealing with all-powerful entities but I can say for sure that the pages are happening in chronological order. The Transformer was dead then but is battling now. This point will become important in upcoming pages. Good eye!</div><div><br></div><div>Beekay: Always happy to see you &nbsp;happy! Thank you for reading. We're very glad to have you with us.</div>
+<p class="comment_text"> </p><p class="comment_text">Adamas: While the Fool is the first card of the Major Arcana it felt to me that the transformer should be the herald of a change in the status of existence.</p><div><br></div><div>Bruudwin: Welcome back! We are alive! Sorry for leaving you for so long.</div><div><br></div><div>Gunsolo: You are correct! We showed Death's 'death' in part sixteen. Timelines are always a strange issue when dealing with all-powerful entities but I can say for sure that the pages are happening in chronological order. The Transformer was dead then but is battling now. This point will become important in upcoming pages. Good eye!</div><div><br></div><div>Beekay: Always happy to see you &nbsp;happy! Thank you for reading. We're very glad to have you with us.</div>
  <hr width="70%">
 
 </td></tr></tbody></table>

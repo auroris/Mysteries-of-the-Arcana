@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Updated!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p><strong>Cameos: </strong>None</p><p><strong>Hidden Names: </strong>Craig Blackwood</p><p>---------------------------------------------------------------------------------</p><p>Whee!</p><p>Page shaded and up! You guys enjoy!</p>
+       <p><strong>Cameos: </strong>None</p><p><strong>Hidden Names: </strong>Craig Blackwood</p><p>---------------------------------------------------------------------------------</p><p>Whee!</p><p>Page shaded and up! You guys enjoy!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1318">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="1318">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c36877dca7f2a5669657cff6d47669c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> Couldn't find it, couldn't find it. Zoomed way in, looked at the doorpanel armrest, nope. All over the beast, little marks, but nope. Stain on the ceiling, just a stain. Argh, I give up... but wait, if you tilt your head just right that stain kinda looks like...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Couldn't find it, couldn't find it. Zoomed way in, looked at the doorpanel armrest, nope. All over the beast, little marks, but nope. Stain on the ceiling, just a stain. Argh, I give up... but wait, if you tilt your head just right that stain kinda looks like...<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1319">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1319">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> New and improved! Now with realistic shading! <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> New and improved! Now with realistic shading! <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>

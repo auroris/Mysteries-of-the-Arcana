@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Late!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Like the white rabbit, we are late. Unlike the white rabbit, we will apologize. Keith came down with a nasty something or another and I'm still getting the hang of this full time day job thingy. So, sorry for this. We should be on time come Thursday.</p><p>Dilandu asked why Sniper isn't using an optic-wavelength laser to assassinate Captain Featherbeard. They also noted pointing the barrel of a sniper rifle outside of a space ship and into a vacuum is probably a bad idea for all sorts of reasons.</p><p>The answer to the first question? Because it just isn't as cool and Sniper likes herself some bang bang! The second is actually probably true but we'll pretend the 50s era SF rules of this particular arcana allow it without any problems. Why? Because!</p><p>See you Thursday!</p>
+       <p>Like the white rabbit, we are late. Unlike the white rabbit, we will apologize. Keith came down with a nasty something or another and I'm still getting the hang of this full time day job thingy. So, sorry for this. We should be on time come Thursday.</p><p>Dilandu asked why Sniper isn't using an optic-wavelength laser to assassinate Captain Featherbeard. They also noted pointing the barrel of a sniper rifle outside of a space ship and into a vacuum is probably a bad idea for all sorts of reasons.</p><p>The answer to the first question? Because it just isn't as cool and Sniper likes herself some bang bang! The second is actually probably true but we'll pretend the 50s era SF rules of this particular arcana allow it without any problems. Why? Because!</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>ManoftheSea<br><span class="Comment_info">*Guest*</span></center><a name="2831">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>ManoftheSea<br></center><a name="2831">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e7c662b107f223b34973083a8137dae9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "ManoftheSea"</span><br> Way too much finger on that trigger.  For example:
+<p class="comment_text"> </p><p class="comment_text"><br> Way too much finger on that trigger.  For example:
 <br>https://thefiringline.com/forums/showthread.php?t=350995</p>
  
 

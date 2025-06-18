@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Bye Bye George</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    George, we hardly knew ye.<br><br>George is the name I gave our multi-species creation that sprung up from the blood of the King of Cups. Gennifer's bittersweet to see him go. Sure, George is awesome, but he was also a pain in the butt to draw and color!<br><br>Just a few more days for the contest! If you're going to submit an entry please do so now! <br>
+       George, we hardly knew ye.<br><br>George is the name I gave our multi-species creation that sprung up from the blood of the King of Cups. Gennifer's bittersweet to see him go. Sure, George is awesome, but he was also a pain in the butt to draw and color!<br><br>Just a few more days for the contest! If you're going to submit an entry please do so now! <br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><span class="Comment_info">*Guest*</span></center><a name="1048">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br></center><a name="1048">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Anonymous"</span><br> Oh George, I hardly knew ye :'(<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Anonymous"</span><br> Oh George, I hardly knew ye :'(<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JSmith<br><span class="Comment_info">*Guest*</span></center><a name="1049">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JSmith<br></center><a name="1049">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JSmith"</span><br> How do I submit again?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JSmith"</span><br> How do I submit again?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JSmith<br><span class="Comment_info">*Guest*</span></center><a name="1050">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JSmith<br></center><a name="1050">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JSmith"</span><br> Never mind, figured it out.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JSmith"</span><br> Never mind, figured it out.<br></p>
  
 
 </td></tr></tbody></table>

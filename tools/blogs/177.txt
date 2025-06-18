@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Welcome!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Thanks to some advertising, we had quite a few visitors yesterday. I want to say welcome to any new readers. We're glad to have you and hope you continue to read Mysteries of the Arcana. I'm J, the creator and writer. The art is done by Keith and has been since the comic first went live in 2009. This is our second storyline and we've no plans to stop at the moment. </p>
+       <p>Thanks to some advertising, we had quite a few visitors yesterday. I want to say welcome to any new readers. We're glad to have you and hope you continue to read Mysteries of the Arcana. I'm J, the creator and writer. The art is done by Keith and has been since the comic first went live in 2009. This is our second storyline and we've no plans to stop at the moment. </p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="24">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>weertangel<br></center><a name="24">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Hmm, "knower of truths?" this might get interesting... </p> <p>I was hoping for that big city in the turtle, but ah well....</p> <p>do wonder what quest they are on this time! </p> <p>and are these turtles somekind of hive mind?? like the Buzz?</p> <p>&nbsp;</p> <p>O! btw, tomorrow is Queens day here in the netherlands so ppl go sit out in the citys with all their old stuff(Imagine a nation-wide &nbsp;yard sale) and we are sweating our asses of couse its so hot outside! (20-27 degrees) and this is just after we had the coldest winter in nealry 40 years.... talk about messed up weather...</p> <p>Anyway i have the day off so i have an&nbsp;exstra long weekend ahead of me!!</p> <p>happy queens day u all over the world!!</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "weertangel"</span><br> </p><p>Hmm, "knower of truths?" this might get interesting... </p> <p>I was hoping for that big city in the turtle, but ah well....</p> <p>do wonder what quest they are on this time! </p> <p>and are these turtles somekind of hive mind?? like the Buzz?</p> <p>&nbsp;</p> <p>O! btw, tomorrow is Queens day here in the netherlands so ppl go sit out in the citys with all their old stuff(Imagine a nation-wide &nbsp;yard sale) and we are sweating our asses of couse its so hot outside! (20-27 degrees) and this is just after we had the coldest winter in nealry 40 years.... talk about messed up weather...</p> <p>Anyway i have the day off so i have an&nbsp;exstra long weekend ahead of me!!</p> <p>happy queens day u all over the world!!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Bronzey<br><span class="Comment_info">*Guest*</span></center><a name="25">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Bronzey<br></center><a name="25">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Bronzey"</span><br> I came here from an ad on Rosalarian.... And... Holy hell. I love this comic. I just read through the entire thing. O_O I have it bookmarked and will be waiting patiently for updates!!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Bronzey"</span><br> I came here from an ad on Rosalarian.... And... Holy hell. I love this comic. I just read through the entire thing. O_O I have it bookmarked and will be waiting patiently for updates!!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="26">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="26">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Weert - You'll find out more about the turtles and their communication methods soon. And happy Queen's day! I hope you had a good time!<br><br>Bronzey - Thank you! Welcome to Mysteries of the Arcana. Megan Gedris is one of my favorite webcomic writers so I'm pleased you came here from there. I hope you continue to enjoy!<br></p>
+<p class="comment_text"> </p><p class="comment_text">Weert - You'll find out more about the turtles and their communication methods soon. And happy Queen's day! I hope you had a good time!<br><br>Bronzey - Thank you! Welcome to Mysteries of the Arcana. Megan Gedris is one of my favorite webcomic writers so I'm pleased you came here from there. I hope you continue to enjoy!<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>

@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Discord Huzzah!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>I went ahead and put together a rather simple discord server for people looking to hang out, and get a bit of a front row seat to things, and a hand in how our social aspects develop.</p><p>You guys are awesome, and I appreciate each of you, so make sure to drop on by, grab some roles, and popcorn, and don’t be afraid to talk to me over there!</p><p>Legacy of The Fool Discord: <a href="https://discord.gg/eEhX57MatG" target="_blank">https://discord.gg/eEhX57MatG</a></p><p>#discord #social #mota #legacyofthefool #motalotf</p><p>See you next post!</p><p>Keira</p>
+       <p>I went ahead and put together a rather simple discord server for people looking to hang out, and get a bit of a front row seat to things, and a hand in how our social aspects develop.</p><p>You guys are awesome, and I appreciate each of you, so make sure to drop on by, grab some roles, and popcorn, and don’t be afraid to talk to me over there!</p><p>Legacy of The Fool Discord: <a href="https://discord.gg/eEhX57MatG" target="_blank">https://discord.gg/eEhX57MatG</a></p><p>#discord #social #mota #legacyofthefool #motalotf</p><p>See you next post!</p><p>Keira</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

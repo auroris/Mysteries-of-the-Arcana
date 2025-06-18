@@ -1,74 +1,74 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Technical Issues</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>We tried something fancy! Look at that! Animation! Well, for those of you with a Flash plugin. It now occurs to me that some of you might not be seeing this, especially if you are reading the comic on a mobile device.</p><p>Also, the page isn't centering right. I suspect we still have some bugs to work out. If you are having trouble with today's page please leave us a comment so we can figure out how to fix it. </p><p>This is what I get for thinking something Shotgun Shuffle did was neat...</p>
+       <p>We tried something fancy! Look at that! Animation! Well, for those of you with a Flash plugin. It now occurs to me that some of you might not be seeing this, especially if you are reading the comic on a mobile device.</p><p>Also, the page isn't centering right. I suspect we still have some bugs to work out. If you are having trouble with today's page please leave us a comment so we can figure out how to fix it. </p><p>This is what I get for thinking something Shotgun Shuffle did was neat...</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2897">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="2897">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> This page seems pretty ideal for an animated gif - limited colour palette; it could be expressed with few frames of animation. Fade-in probably wouldn't look as smooth though.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> This page seems pretty ideal for an animated gif - limited colour palette; it could be expressed with few frames of animation. Fade-in probably wouldn't look as smooth though.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="2898">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="2898">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> Works fine for me, and I'm suddenly hearing "Be our guest" in my head...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Works fine for me, and I'm suddenly hearing "Be our guest" in my head...<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2899">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="2899">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> And more along the Beauty and Beast theme. Nice.<br><br>I'm using Firefox and it is displaying perfectly.&nbsp; It's a rather cool effect.<br><br>*edit*<br>Brought the page up in Chrome. Little symbol says Adobe Flash is out of date. I choose run anyway, and it displays perfectly. I update the flash plugin in Chrome and reload the page: the alignment is off a bit to the left.&nbsp; Seems to me it's the plugin's fault, not yours.<br></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
+<p class="comment_text"> </p><p class="comment_text"><br> And more along the Beauty and Beast theme. Nice.<br><br>I'm using Firefox and it is displaying perfectly.&nbsp; It's a rather cool effect.<br><br>*edit*<br>Brought the page up in Chrome. Little symbol says Adobe Flash is out of date. I choose run anyway, and it displays perfectly. I update the flash plugin in Chrome and reload the page: the alignment is off a bit to the left.&nbsp; Seems to me it's the plugin's fault, not yours.<br></p><br><p class="comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="2900">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="2900">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "JD"</span><br> And now, of course, Firefox is also displaying it a bit to the left. Either way, still looks good.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> And now, of course, Firefox is also displaying it a bit to the left. Either way, still looks good.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lurker57<br><span class="Comment_info">*Guest*</span></center><a name="2901">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lurker57<br></center><a name="2901">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1db22fe8196ec6e974b8ca65529c1d81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lurker57"</span><br> Doesn't display at all on an iPad</p><div><br></div>
+<p class="comment_text"> </p><p class="comment_text"><br> Doesn't display at all on an iPad</p><div><br></div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>PhoenixCodes<br><span class="Comment_info">*Guest*</span></center><a name="2933">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>PhoenixCodes<br></center><a name="2933">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=70be80334df2ff2a39155fb907a2cb09&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "PhoenixCodes"</span><br> Yeah, I only ever read from my mobile... Wish you had added an alternate image, either static or otherwise animated, for those of us without flash.&nbsp;</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Yeah, I only ever read from my mobile... Wish you had added an alternate image, either static or otherwise animated, for those of us without flash.&nbsp;</p>
  
 
 </td></tr></tbody></table>

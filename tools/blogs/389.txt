@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Comic Creators for Freedom!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Its the 12th and we're moving closer to the return of Mysteries of the Arcana. Keith's working hard on the art. We'll be ready for the 2nd of December.<div><br></div><div>In the meanwhile, please consider<a href="https://twitter.com/JGrayWebcomic" class="" classname="" target="_blank" name=""> following me on twitter</a>. I'm fairly active there.</div><div><br></div><div>Mysteries of the Arcana will be participating in <a href="http://comiccreatorsforfreedom.com/" class="" classname="" target="_blank" name="">Comic Creators for Freedom</a>, a yearly charity project that raises funds to help fight human trafficking. Up above, you can see a piece of the wallpaper from the very first Comic Creators for Freedom, several years back. Chrys and Theresa have been circled so you can locate them.</div><div><br></div><div>Please check out the <a href="http://comiccreatorsforfreedom.com/" class="" classname="" target="_blank" name="">Comic Creators for Freedom</a> website to find out more about the project and how you can help!</div>
+       Its the 12th and we're moving closer to the return of Mysteries of the Arcana. Keith's working hard on the art. We'll be ready for the 2nd of December.<div><br></div><div>In the meanwhile, please consider<a href="https://twitter.com/JGrayWebcomic" class="" classname="" target="_blank" name=""> following me on twitter</a>. I'm fairly active there.</div><div><br></div><div>Mysteries of the Arcana will be participating in <a href="http://comiccreatorsforfreedom.com/" class="" classname="" target="_blank" name="">Comic Creators for Freedom</a>, a yearly charity project that raises funds to help fight human trafficking. Up above, you can see a piece of the wallpaper from the very first Comic Creators for Freedom, several years back. Chrys and Theresa have been circled so you can locate them.</div><div><br></div><div>Please check out the <a href="http://comiccreatorsforfreedom.com/" class="" classname="" target="_blank" name="">Comic Creators for Freedom</a> website to find out more about the project and how you can help!</div>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

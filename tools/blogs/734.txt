@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sticky situations</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Looks like this bomb is a bit on the manipulating side, attempting to move about do to what it's going to do.</p><p>Also, I know you guys tend to hang around here, but I do also do work on a few other webcomics, and actually, recently finished up the first episode of a motion comic along with Mike "Mac" Prokop.</p><p>You guys can check it out at this link. <iframe width="500" height="281" src="//www.youtube.com/embed/o4dTcTgPTBE" frameborder="0" allowfullscreen=""></iframe></p><p>And we'll see you guys next week!</p>
+       <p>Looks like this bomb is a bit on the manipulating side, attempting to move about do to what it's going to do.</p><p>Also, I know you guys tend to hang around here, but I do also do work on a few other webcomics, and actually, recently finished up the first episode of a motion comic along with Mike "Mac" Prokop.</p><p>You guys can check it out at this link. <iframe width="500" height="281" src="//www.youtube.com/embed/o4dTcTgPTBE" frameborder="0" allowfullscreen=""></iframe></p><p>And we'll see you guys next week!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sensei Le Roof<br><span class="Comment_info">*Guest*</span></center><a name="3039">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sensei Le Roof<br></center><a name="3039">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fe12ed5e46904c8618cefc2b6e99ea70&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sensei Le Roof"</span><br> As long as it doesn't turn into splodgy squelchy thing and squidge down a corridor...<br></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
+<p class="comment_text"> </p><p class="comment_text"><br> As long as it doesn't turn into splodgy squelchy thing and squidge down a corridor...<br></p><br><p class="comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
  
 
 </td></tr></tbody></table>

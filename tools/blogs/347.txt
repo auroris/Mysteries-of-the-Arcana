@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Webcomic recommendation</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I haven't recommended a fellow webcomic in a while. Of course, there's the great webcomics in the SpiderForest collective. Those are shown in the banner at the top of the comic. Those are all worth a read. <br><br>The comic I want to recommend today, however, is a fellow fantasy adventure called Shadowbinders. Its about 150 pages in, far enough that it has a strong plotline established. The writing is tight and art beautiful to look at. I highly recommend it.<br><br><a name="" target="_blank" classname="" class="" href="http://shadowbinders.com/"><img alt="" src="/pics/shadowbinders.jpg" border="0" hspace="" vspace=""></a><br>
+       I haven't recommended a fellow webcomic in a while. Of course, there's the great webcomics in the SpiderForest collective. Those are shown in the banner at the top of the comic. Those are all worth a read. <br><br>The comic I want to recommend today, however, is a fellow fantasy adventure called Shadowbinders. Its about 150 pages in, far enough that it has a strong plotline established. The writing is tight and art beautiful to look at. I highly recommend it.<br><br><a name="" target="_blank" classname="" class="" href="http://shadowbinders.com/"><img alt="" src="/pics/shadowbinders.jpg" border="0" hspace="" vspace=""></a><br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><span class="Comment_info">*Guest*</span></center><a name="897">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br></center><a name="897">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Anonymous"</span><br> Did Chrystalline bleach her hair before leaving the cell?</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Anonymous"</span><br> Did Chrystalline bleach her hair before leaving the cell?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Peaches<br><span class="Comment_info">*Guest*</span></center><a name="898">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Peaches<br></center><a name="898">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=804a5ed926f21aa257aeecc4133cfd45&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Peaches"</span><br> Purple streaks replaced by blonde highlights... hmm.&nbsp; Well, maybe it's just the lack of trust.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Peaches"</span><br> Purple streaks replaced by blonde highlights... hmm.&nbsp; Well, maybe it's just the lack of trust.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="899">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="899">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Gennifer quickly sent me a replacement with Chrys's hair properly stripped. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text">Gennifer quickly sent me a replacement with Chrys's hair properly stripped. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.shadowbinders.com" target="_blank">Kneon</a><br><span class="Comment_info">*Guest*</span></center><a name="900">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.shadowbinders.com" target="_blank">Kneon</a><br></center><a name="900">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0a6d40a5830ae11af2fb116181e4ea44&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Kneon"</span><br> Thanks for the shoutout, J!</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Kneon"</span><br> Thanks for the shoutout, J!</p>
  
 
 </td></tr></tbody></table>

@@ -1,56 +1,56 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sick Keith</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Keith has a touch of the plague (or, you know, the flu) so wasn't up for making today's page. Instead, we've got a bit of gift art from Peggy Wolohan von Burkleo. A special thanks to Peggy, who whipped this up at the last minute.
+       Keith has a touch of the plague (or, you know, the flu) so wasn't up for making today's page. Instead, we've got a bit of gift art from Peggy Wolohan von Burkleo. A special thanks to Peggy, who whipped this up at the last minute.
 
 If you're interested, you can go visit Peggy's webcomic, Samhain Night: A Dark Faerie Tale. It is one of the most gorgeous comics out there, I think. Beautiful textures and a wonderful understanding of celtic mythology.
 
 See you Monday!
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Kantr<br><span class="Comment_info">*Guest*</span></center><a name="1762">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Kantr<br></center><a name="1762">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f3e33f17261d022782c492af34c88274&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Kantr"</span><br> Test</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Test</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://Www.VanguardComic.com" target="_blank">Dan Vanguard Comic</a><br><span class="Comment_info">*Guest*</span></center><a name="1763">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://Www.VanguardComic.com" target="_blank">Dan Vanguard Comic</a><br></center><a name="1763">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ecff0702a35938b6a3b7f8088e00f9f6&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Dan Vanguard Comic"</span><br> Testing testing!</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Testing testing!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1764">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1764">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Get well soon!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Get well soon!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1766">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1766">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> *walks by with a bird mask and swinging a censer of smoldering herbs* BRING OUT YOUR GERMS! <img src="//smilies/wink1.gif" alt="Wink" border="0"><br><br>Get well dude.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> *walks by with a bird mask and swinging a censer of smoldering herbs* BRING OUT YOUR GERMS! <img src="/smilies/wink1.gif" alt="Wink" border="0"><br><br>Get well dude.<br></p>
  
 
 </td></tr></tbody></table>

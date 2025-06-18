@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Squishy Bomb</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Some bombs go *clink* *clink* *clink*. This one goes *squish* *squish* *squish*!</p><p>To answer some questions from comments on the last page:</p><p>BowentheKotoc: Yes, those are tentacles. Biobombs are neat!</p><p>Francisco: You asked an interesting question. Is Chrys's father on the side of the Void? Or is all not as it seems? I'm afraid I can't give any answers quite yet.</p><p>There's a number of natural disasters in the US as of lately. I hope any MotA fans out there in Houston dodged the first hurricane and fans in Florida and beyond dodge the current one. I also hope readers in the Northwest are safe from the fires.</p><p>Mostly, I hope you're all safe.</p><p>See you next week!</p>
+       <p>Some bombs go *clink* *clink* *clink*. This one goes *squish* *squish* *squish*!</p><p>To answer some questions from comments on the last page:</p><p>BowentheKotoc: Yes, those are tentacles. Biobombs are neat!</p><p>Francisco: You asked an interesting question. Is Chrys's father on the side of the Void? Or is all not as it seems? I'm afraid I can't give any answers quite yet.</p><p>There's a number of natural disasters in the US as of lately. I hope any MotA fans out there in Houston dodged the first hurricane and fans in Florida and beyond dodge the current one. I also hope readers in the Northwest are safe from the fires.</p><p>Mostly, I hope you're all safe.</p><p>See you next week!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sensei Le Roof<br><span class="Comment_info">*Guest*</span></center><a name="3036">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sensei Le Roof<br></center><a name="3036">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fe12ed5e46904c8618cefc2b6e99ea70&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sensei Le Roof"</span><br> I tend to beware of the bombs that go *death* *death* *death*...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I tend to beware of the bombs that go *death* *death* *death*...<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="3037">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="3037">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>SAMMY: It's ... ticking.</p><p>MARK: I know</p><p>MARV: It's traditional!</p>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><p>SAMMY: It's ... ticking.</p><p>MARK: I know</p><p>MARV: It's traditional!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gaisa<br><span class="Comment_info">*Guest*</span></center><a name="3038">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gaisa<br></center><a name="3038">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0b06254a5facce4809cd98463f77070f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gaisa"</span><br> Hrm... They seem to not be in control of themselves... can we say... brain hacked?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Hrm... They seem to not be in control of themselves... can we say... brain hacked?<br></p>
  
 
 </td></tr></tbody></table>

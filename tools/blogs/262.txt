@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Dun dun duuuuun....</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    How would someone know that Chrys and Mandrake would be passing by here? Interesting question, isn't it? Something's afoot...<br><br>We'll be switching over to Theresa and William again next week. It is time they have a little talk about him hitting her in the head with a brick.<br>
+       How would someone know that Chrys and Mandrake would be passing by here? Interesting question, isn't it? Something's afoot...<br><br>We'll be switching over to Theresa and William again next week. It is time they have a little talk about him hitting her in the head with a brick.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Azure<br><span class="Comment_info">*Guest*</span></center><a name="373">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Azure<br></center><a name="373">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Azure"</span><br> Seems the thief had a deal going with the ship merchant. But why? Why split the take?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Azure"</span><br> Seems the thief had a deal going with the ship merchant. But why? Why split the take?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="374">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="374">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Doubt it was the thief, too petty.&nbsp; Likely something more nefarious. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Doubt it was the thief, too petty.&nbsp; Likely something more nefarious. <br></p>
  
 
 </td></tr></tbody></table>

@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Archive Site</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Since it's likely this site will be going down in the very near future, I wanted to take a moment to direct everyone to the archive site, that way you can still access the old comic.</p><p><a href="https://mysteriesofthearcana.pages.dev/">https://mysteriesofthearcana.pages.dev/</a></p><p>Thank you very much to the wonderful Aleena for getting this situated.</p><p>Meanwhile, don't forget to head on over to the new comic site! <a href="https://legacyofthefool.com"> https://legacyofthefool.com </a> and sign up, drop a comment, bookmark the place, or join our discord!</p><p>Thinks are trucking along at a decent pace, and I look forward to January's launch!</p><p>Keira</p>
+       <p>Since it's likely this site will be going down in the very near future, I wanted to take a moment to direct everyone to the archive site, that way you can still access the old comic.</p><p><a href="https://mysteriesofthearcana.pages.dev/">https://mysteriesofthearcana.pages.dev/</a></p><p>Thank you very much to the wonderful Aleena for getting this situated.</p><p>Meanwhile, don't forget to head on over to the new comic site! <a href="https://legacyofthefool.com"> https://legacyofthefool.com </a> and sign up, drop a comment, bookmark the place, or join our discord!</p><p>Thinks are trucking along at a decent pace, and I look forward to January's launch!</p><p>Keira</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

@@ -1,63 +1,63 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Poink!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Names</strong>: Eddie the Lightbringer</p><hr><p>Oh no! Do you think that syringe was full of something good? Or something bad? What's going to happen next to poor Mandake!</p><p>I spent this weekend thinking of the great animated superhero shows that have been produced since the 90s. The DCAU shows, for example: Batman, Superman, Static, Zeta, Justice League and Justice League Unlimited. There was also Teen Titans. I really enjoyed Batman: Brave and the Bold, too. On the Marvel side I had a lot of fun with Spectacular Spider-Man and Avengers: Earth's Mightiest Heroes. The latest crop of Marvel shows aren't quite as good but are growing on me.</p><p>What about you? Any superhero shows you enjoyed?</p>
+       <p><strong>Hidden Names</strong>: Eddie the Lightbringer</p><hr><p>Oh no! Do you think that syringe was full of something good? Or something bad? What's going to happen next to poor Mandake!</p><p>I spent this weekend thinking of the great animated superhero shows that have been produced since the 90s. The DCAU shows, for example: Batman, Superman, Static, Zeta, Justice League and Justice League Unlimited. There was also Teen Titans. I really enjoyed Batman: Brave and the Bold, too. On the Marvel side I had a lot of fun with Spectacular Spider-Man and Avengers: Earth's Mightiest Heroes. The latest crop of Marvel shows aren't quite as good but are growing on me.</p><p>What about you? Any superhero shows you enjoyed?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1354">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="1354">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=640ecee85efb1da2817ecf0e4fea165e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Yo! Mandrake! &nbsp;Wake up!</p><p>I figure it's full of the equivalent of about three cups of triple espresso...</p>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><p>Yo! Mandrake! &nbsp;Wake up!</p><p>I figure it's full of the equivalent of about three cups of triple espresso...</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1355">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1355">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> There is a difference between "Not being able to Harm" and "Not able to INTERVENE"<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> There is a difference between "Not being able to Harm" and "Not able to INTERVENE"<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Jasae Bushae<br><span class="Comment_info">*Guest*</span></center><a name="1356">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Jasae Bushae<br></center><a name="1356">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Jasae Bushae"</span><br> Oh you sneaky sneak!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Oh you sneaky sneak!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1357">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1357">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Yeah, that syringe is probably a stimpack. One ass-kicking coming up! <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>As for the superhero shows, I've seen quite a few justice league episodes and several Batman ones. They're pretty good. I also saw a few Avengers episodes, but they weren't as interesting.<br><br>On the other hand, I've also seen the entire first season of Arrow and the first ten episodes of Agents of S.H.I.E.L.D., and I think those are really good.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Yeah, that syringe is probably a stimpack. One ass-kicking coming up! <img src="/smilies/smile.gif" alt="Smile" border="0"><br><br>As for the superhero shows, I've seen quite a few justice league episodes and several Batman ones. They're pretty good. I also saw a few Avengers episodes, but they weren't as interesting.<br><br>On the other hand, I've also seen the entire first season of Arrow and the first ten episodes of Agents of S.H.I.E.L.D., and I think those are really good.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1359">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1359">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Mandrake on Epi...gods help us! (or them, but I won't be asking).<br><br>I kinda liked the Avengers series, Haven't had much of a chance to watch "Avengers Assemble". But I did like "Ultimate Spider-Man" <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Mandrake on Epi...gods help us! (or them, but I won't be asking).<br><br>I kinda liked the Avengers series, Haven't had much of a chance to watch "Avengers Assemble". But I did like "Ultimate Spider-Man" <br></p>
  
 
 </td></tr></tbody></table>

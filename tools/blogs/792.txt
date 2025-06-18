@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>A Hiccup, But Still Here!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, I took last week to move my computer and assorted hardware over into the spare room, and get all of my setup out of the dining area of the house. In the course of this little adventure, my tablet died.</p><p>Lo and behold, a long time fan and supporter came to my aide and I am back to work on a brand new Wacom Cintiq 16. I'm loving it so far.</p><p>Now, onto the new art:<br>This is Devon, our human main character. I won't say much, but they do, of course, hail from our world, the Hierophant. Our story will, much in how the original comic chronicled Theresa's journey, follow Devon and all the events and adventures that await!</p><p>Don't forget to check out the new site: <a href="https://legacyofthefool.com" target="_blank">Legacy of The Fool</a></p><p>And swing by the discord, it's awfully quiet! <a href="https://discord.gg/eEhX57MatG" style="background-color: initial;">https://discord.gg/eEhX57MatG</a></p><p>Regards,</p><p>Keira</p>
+       <p>So, I took last week to move my computer and assorted hardware over into the spare room, and get all of my setup out of the dining area of the house. In the course of this little adventure, my tablet died.</p><p>Lo and behold, a long time fan and supporter came to my aide and I am back to work on a brand new Wacom Cintiq 16. I'm loving it so far.</p><p>Now, onto the new art:<br>This is Devon, our human main character. I won't say much, but they do, of course, hail from our world, the Hierophant. Our story will, much in how the original comic chronicled Theresa's journey, follow Devon and all the events and adventures that await!</p><p>Don't forget to check out the new site: <a href="https://legacyofthefool.com" target="_blank">Legacy of The Fool</a></p><p>And swing by the discord, it's awfully quiet! <a href="https://discord.gg/eEhX57MatG" style="background-color: initial;">https://discord.gg/eEhX57MatG</a></p><p>Regards,</p><p>Keira</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD</center><a name="3156">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD</center><a name="3156">&nbsp;</a></span><br>
 <center><img src="http://www.dragonpowered.com/pics/ghats.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">So you know, my server company is forcing a migration to a new cloud server, one that will be more up to date than this one. This is good, except a good portion of my code will no longer work, so it's likely the site will stop working. This happens sometime in November, 2024.<br><br><br></p>
+<p class="comment_text"> </p><p class="comment_text">So you know, my server company is forcing a migration to a new cloud server, one that will be more up to date than this one. This is good, except a good portion of my code will no longer work, so it's likely the site will stop working. This happens sometime in November, 2024.<br><br><br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>

@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy November!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I hope everyone had a good Halloween. <br><br>And now, you have a better idea of what the exploding goat-frog was all about.<br>
+       I hope everyone had a good Halloween. <br><br>And now, you have a better idea of what the exploding goat-frog was all about.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayra<br><span class="Comment_info">*Guest*</span></center><a name="259">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayra<br></center><a name="259">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=92987eee74834fecd463429085c378ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayra"</span><br> I assume that Vitamin XTreme isn't simply sold at the local super-market...?</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayra"</span><br> I assume that Vitamin XTreme isn't simply sold at the local super-market...?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="260">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayshara<br></center><a name="260">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=2bc0973a3a7bb4388f8c16a7cf1ea61e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Of course not, who ever said it would be *That* easy?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayshara"</span><br> Of course not, who ever said it would be *That* easy?<br></p>
  
 
 </td></tr></tbody></table>

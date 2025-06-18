@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Merry Christmas Eve Eve Eve</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    With this page, we're taking a week's break to celebrate the holidays. When we return, we'll be back with Theresa and William, finding out what happened after that little trick with the brick.<br><br>Starting tomorrow and going on every day from then until we return, I'll be presenting my top 10 women in video games this year. If you're not sticking around for that, I want to wish you a happy holiday! If you are, see you tomorrow!<br>
+       With this page, we're taking a week's break to celebrate the holidays. When we return, we'll be back with Theresa and William, finding out what happened after that little trick with the brick.<br><br>Starting tomorrow and going on every day from then until we return, I'll be presenting my top 10 women in video games this year. If you're not sticking around for that, I want to wish you a happy holiday! If you are, see you tomorrow!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

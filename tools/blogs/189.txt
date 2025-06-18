@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Slight Delay</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hey everyone, Keith got the new hardware and is busy installing and making sure the computer runs smooth. Expect, at the very least, the black and white version of the next page up by noon (6/3). My commentary will be posted around the same time!<br>
+       Hey everyone, Keith got the new hardware and is busy installing and making sure the computer runs smooth. Expect, at the very least, the black and white version of the next page up by noon (6/3). My commentary will be posted around the same time!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

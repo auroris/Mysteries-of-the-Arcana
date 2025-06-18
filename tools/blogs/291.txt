@@ -1,63 +1,63 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>William</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Believe it or not, William wasn't always an anthro jackal knight. He started off as Billy, a gunslinger from a post-apocolyptic world. The post-apocolypse part stayed but over time, Billy's weapon of choice became a sword. His name became William to be less derivative... and the Billy reference didn't make as much sense since he was no longer a gunfighter. As for the anthro jackal part? I blame the "After the Bomb" add-on to the "Teenage Mutant Ninja Turtles" roleplaying game from Palladium games. It just put the idea into my head.<br>
+       Believe it or not, William wasn't always an anthro jackal knight. He started off as Billy, a gunslinger from a post-apocolyptic world. The post-apocolypse part stayed but over time, Billy's weapon of choice became a sword. His name became William to be less derivative... and the Billy reference didn't make as much sense since he was no longer a gunfighter. As for the anthro jackal part? I blame the "After the Bomb" add-on to the "Teenage Mutant Ninja Turtles" roleplaying game from Palladium games. It just put the idea into my head.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>TC<br><span class="Comment_info">*Guest*</span></center><a name="583">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>TC<br></center><a name="583">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c7a049759cbd52f6f8e72a079a0747dc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "TC"</span><br> &lt;3 omg, someone else aware of Palladium.<br><br>Billy the Kid being the reference, I take it?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "TC"</span><br> &lt;3 omg, someone else aware of Palladium.<br><br>Billy the Kid being the reference, I take it?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Cemalidor<br><span class="Comment_info">*Guest*</span></center><a name="585">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Cemalidor<br></center><a name="585">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=5df39248b68113d154ac0dcac4e37bf2&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Cemalidor"</span><br> Tehe, ever had the 'Mutants in Orbit' add-on? Pretty much fun as well. *having some 30+ books of Rifts*<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Cemalidor"</span><br> Tehe, ever had the 'Mutants in Orbit' add-on? Pretty much fun as well. *having some 30+ books of Rifts*<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Emma<br><span class="Comment_info">*Guest*</span></center><a name="586">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Emma<br></center><a name="586">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=56bc1b759c1ee06c3117258bd5d05d61&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Emma"</span><br> Ah yes, Palladium, back when RPGs didn't have to be good to be successful.  Of course I'll grant you that the skill system is pretty good, compared to AD&amp;D. :D</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Emma"</span><br> Ah yes, Palladium, back when RPGs didn't have to be good to be successful.  Of course I'll grant you that the skill system is pretty good, compared to AD&amp;D. :D</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Johan<br><span class="Comment_info">*Guest*</span></center><a name="588">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Johan<br></center><a name="588">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=53e4e1e3a84f641ce65dbebe63d77097&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Johan"</span><br> Man, I love how you get your ideas. Don't change anything, the results are awesome ^^<br><br>Okay, I'm still looking for a way to send you fanarts. Seriously, how the hell do I do that? I refuse to believe I can't see it just because I'm exhausted beyond reason. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Johan"</span><br> Man, I love how you get your ideas. Don't change anything, the results are awesome ^^<br><br>Okay, I'm still looking for a way to send you fanarts. Seriously, how the hell do I do that? I refuse to believe I can't see it just because I'm exhausted beyond reason. <br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="589">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="589">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">TC, yes. Billy the Kid reference. Exactly.<br><br>I've never seen the 'Mutants in Orbit' add-on Cemalidor.<br><br>Johan, I sent you an email. <img src="//smilies/smile.gif" alt="Smile" border="0"> Thank you for the compliment!<br></p>
+<p class="comment_text"> </p><p class="comment_text">TC, yes. Billy the Kid reference. Exactly.<br><br>I've never seen the 'Mutants in Orbit' add-on Cemalidor.<br><br>Johan, I sent you an email. <img src="/smilies/smile.gif" alt="Smile" border="0"> Thank you for the compliment!<br></p>
  <hr width="70%">
 
 </td></tr></tbody></table>

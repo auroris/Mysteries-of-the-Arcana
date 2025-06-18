@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Say Yes!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, sorry for the filler delays, holidays kept things pretty hectic around here.</p><p>Anyway, this idea has been in my head for a bit, but I wasn't 100% on what kind of dress I wanted Theresa in.</p><p>Recently, the other half and I have been watching a lot of "Say Yes to the Dress" and it finally occurred to me, why not have Theresa wearing a designer gown?</p><p>In this case, the gown itself is actually a design by Kleinfeld designer Pnina Tornai.</p><p>See you guys again soon!</p>
+       <p>So, sorry for the filler delays, holidays kept things pretty hectic around here.</p><p>Anyway, this idea has been in my head for a bit, but I wasn't 100% on what kind of dress I wanted Theresa in.</p><p>Recently, the other half and I have been watching a lot of "Say Yes to the Dress" and it finally occurred to me, why not have Theresa wearing a designer gown?</p><p>In this case, the gown itself is actually a design by Kleinfeld designer Pnina Tornai.</p><p>See you guys again soon!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

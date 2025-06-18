@@ -1,52 +1,52 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Pathfinder</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And here's our official chapter 6 title page!</p><p>Pathfinder has been on my mind a lot lately. In part because I've been running a Pathfinder game via roll20.net (which is an excellent service I recommend) and in part because...</p><p>I am now a professional RPG writer! I'm pleased to say I've contracted with a few different third-party publishers of Pathfinder-compatible material as a writer. My first pro book, <a href="http://www.rpgnow.com/product/143921/More-Forgotten-Feats" target="_blank">More Forgotten Feats from Flaming Crab Games</a> just came out. It is only $1.95 and contains many feats that are just common sense stuff that should have been in the game from day one. I contributed to the book (four feats, in this case) so I highly recommend it! For the price, it can't be beat. Please give it a try.</p><p>Tell me about your PF character! I wanna hear!</p><p>See you Friday for Bricks of the Arcana!</p>
+       <p>And here's our official chapter 6 title page!</p><p>Pathfinder has been on my mind a lot lately. In part because I've been running a Pathfinder game via roll20.net (which is an excellent service I recommend) and in part because...</p><p>I am now a professional RPG writer! I'm pleased to say I've contracted with a few different third-party publishers of Pathfinder-compatible material as a writer. My first pro book, <a href="http://www.rpgnow.com/product/143921/More-Forgotten-Feats" target="_blank">More Forgotten Feats from Flaming Crab Games</a> just came out. It is only $1.95 and contains many feats that are just common sense stuff that should have been in the game from day one. I contributed to the book (four feats, in this case) so I highly recommend it! For the price, it can't be beat. Please give it a try.</p><p>Tell me about your PF character! I wanna hear!</p><p>See you Friday for Bricks of the Arcana!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1952">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1952">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> I should get a character together for PF, I would love to join the rp.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I should get a character together for PF, I would love to join the rp.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1954">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1954">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">There's a lot of play by post games as well as online games played via venues like roll20 and google chat. You can find a game!</p>
+<p class="comment_text"> </p><p class="comment_text">There's a lot of play by post games as well as online games played via venues like roll20 and google chat. You can find a game!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1955">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1955">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">A geek culture reference? Me? Never! <img src="//smilies/smile.gif" alt="Smile" border="0"></p>
+<p class="comment_text"> </p><p class="comment_text">A geek culture reference? Me? Never! <img src="/smilies/smile.gif" alt="Smile" border="0"></p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1956">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1956">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> *Looks to be sure none of the ladies are around*<br><br>You know for most males, being smothered by that many pussies would be the Ultimate way to die! :p<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> *Looks to be sure none of the ladies are around*<br><br>You know for most males, being smothered by that many pussies would be the Ultimate way to die! :p<br></p>
  
 
 </td></tr></tbody></table>

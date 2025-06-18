@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Suddenly!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Theresa seems to have forgotten something! I guess she's lucky Chrys can only Dreamwalk and not directly use the Royal Road, no? Might spoil the surprise.</p><p>I finished this amidst brain addled sickness and cold medicine induced fog, but hey, I enjoyed doing it, and that's what counts, right?</p><p>Right?</p>
+       <p>Theresa seems to have forgotten something! I guess she's lucky Chrys can only Dreamwalk and not directly use the Royal Road, no? Might spoil the surprise.</p><p>I finished this amidst brain addled sickness and cold medicine induced fog, but hey, I enjoyed doing it, and that's what counts, right?</p><p>Right?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="3084">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="3084">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Hmmmm. I wonder what she bought, <img src="//smilies/wink1.gif" alt="Wink" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Hmmmm. I wonder what she bought, <img src="/smilies/wink1.gif" alt="Wink" border="0"><br></p>
  
 
 </td></tr></tbody></table>

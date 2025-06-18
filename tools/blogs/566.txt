@@ -1,118 +1,118 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Poetry</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Why haiku?</p><p>1. Theresa's terrible at rhyming. She'd try to rhyme blue with pool or something.</p><p>2. A haiku is short. You can make one up quickly and she wants it over with.</p><p>3. She learned how to write haiku back in elementary school, which is pretty much the extent of her poetry education. Theresa just isn't the literary sort.</p><p>Now!</p><p>I want YOU to write a haiku about Mysteries of the Arcana! If I get ten haikus (by ten different readers) in the comment section by Monday I'll release an extra page next week!</p><p>Go to it!</p>
+       <p>Why haiku?</p><p>1. Theresa's terrible at rhyming. She'd try to rhyme blue with pool or something.</p><p>2. A haiku is short. You can make one up quickly and she wants it over with.</p><p>3. She learned how to write haiku back in elementary school, which is pretty much the extent of her poetry education. Theresa just isn't the literary sort.</p><p>Now!</p><p>I want YOU to write a haiku about Mysteries of the Arcana! If I get ten haikus (by ten different readers) in the comment section by Monday I'll release an extra page next week!</p><p>Go to it!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="2147">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>David<br></center><a name="2147">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> Amazing tale,</p><div>Adventure, love and caring</div><div>Bound in one story</div>
+<p class="comment_text"> </p><p class="comment_text"><br> Amazing tale,</p><div>Adventure, love and caring</div><div>Bound in one story</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://demonarchives.com" target="_blank">DaemonDan</a><br><span class="Comment_info">*Guest*</span></center><a name="2148">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://demonarchives.com" target="_blank">DaemonDan</a><br></center><a name="2148">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0a4edb1bdcc5b2a40b4c4bff66e88efb&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "DaemonDan"</span><br> Reading Sound Effects</p><div>Can be very difficult.</div><div>What is that word there?</div>
+<p class="comment_text"> </p><p class="comment_text"><br> Reading Sound Effects</p><div>Can be very difficult.</div><div>What is that word there?</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2156">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="2156">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Looks like "CRACK"&nbsp; to me.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Looks like "CRACK"&nbsp; to me.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://demonarchives.com" target="_blank">DaemonDan</a><br><span class="Comment_info">*Guest*</span></center><a name="2162">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://demonarchives.com" target="_blank">DaemonDan</a><br></center><a name="2162">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=0a4edb1bdcc5b2a40b4c4bff66e88efb&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "DaemonDan"</span><br> Aha! &nbsp;I was reading it sideways, so that first "C" looked like a "V" :D</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Aha! &nbsp;I was reading it sideways, so that first "C" looked like a "V" :D</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>mason010<br><span class="Comment_info">*Guest*</span></center><a name="2149">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>mason010<br></center><a name="2149">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=76360c448566499e454cc39f2486d733&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "mason010"</span><br> </p><div>learning yet living</div><div>loving, not yet admitting</div><div>solving mysteries jointly</div>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><div>learning yet living</div><div>loving, not yet admitting</div><div>solving mysteries jointly</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2150">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="2150">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> </p><div><div>Great snowy branches</div><div>Reach into infinite skies</div><div>A love garden blooms</div></div>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><div><div>Great snowy branches</div><div>Reach into infinite skies</div><div>A love garden blooms</div></div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>raven glassbone<br><span class="Comment_info">*Guest*</span></center><a name="2151">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>raven glassbone<br></center><a name="2151">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=98e00e166d8f5e5ee02ea42aaa319f69&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "raven glassbone"</span><br> Must write a haiku...</p><div>Comic artist commands it...</div><div>Wow, my haiku sucks!</div>
+<p class="comment_text"> </p><p class="comment_text"><br> Must write a haiku...</p><div>Comic artist commands it...</div><div>Wow, my haiku sucks!</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Drakanor Dream<br><span class="Comment_info">*Guest*</span></center><a name="2152">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Drakanor Dream<br></center><a name="2152">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=d18f0e734c47260455faea182db6bcf4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Drakanor Dream"</span><br> One persons Murder<br>Another persons attempt<br>To gift their freedom<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> One persons Murder<br>Another persons attempt<br>To gift their freedom<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Mairsil<br><span class="Comment_info">*Guest*</span></center><a name="2153">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Mairsil<br></center><a name="2153">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Mairsil"</span><br> Will Teresa find<br>That a clever Haiku grants<br>A Word of Power?<br><br>We will find out Soon!<br>Also maybe more people<br>Will post good poems?&nbsp; <img alt=" Wink " src="//smilies/wink1.gif" hspace="2" border="0" vspace="2"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Will Teresa find<br>That a clever Haiku grants<br>A Word of Power?<br><br>We will find out Soon!<br>Also maybe more people<br>Will post good poems?&nbsp; <img alt=" Wink " src="/smilies/wink1.gif" hspace="2" border="0" vspace="2"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2154">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="2154">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> A pretty garden<br>Mysterious arcana<br>Love is in the air<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> A pretty garden<br>Mysterious arcana<br>Love is in the air<br></p>
  
 
 </td></tr></tbody></table>
@@ -124,102 +124,102 @@
 
 <div>
 <!-- Main content here -->
-<hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Richard VanHouten<br><span class="Comment_info">*Guest*</span></center><a name="2155">&nbsp;</a></span><br>
+<hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Richard VanHouten<br></center><a name="2155">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=bd93a70878231aec11f0efc987ce20d2&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Richard VanHouten"</span><br> It seems some commenters either don't know what a haiku is, or can't count syllables.<br><br>Two young female friends<br>Were left behind at the inn,<br>Enter the Hanged Man.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> It seems some commenters either don't know what a haiku is, or can't count syllables.<br><br>Two young female friends<br>Were left behind at the inn,<br>Enter the Hanged Man.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>BowenTheKotoc<br><span class="Comment_info">*Guest*</span></center><a name="2157">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>BowenTheKotoc<br></center><a name="2157">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b295b2625de4cfaaf2c48dd901bf3a17&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "BowenTheKotoc"</span><br> Adventure, peril</p><div>In alternate dimensions</div><div>Read M-O-T-A</div>
+<p class="comment_text"> </p><p class="comment_text"><br> Adventure, peril</p><div>In alternate dimensions</div><div>Read M-O-T-A</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Aleena<br><span class="Comment_info">*Guest*</span></center><a name="2158">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Aleena<br></center><a name="2158">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=14c1a68d5f4b56aad5d3315747445591&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Aleena"</span><br> (from Shadowrun: Hong Kong)</p><div><br></div><div>Gossamer Tresses,</div><div>Infinity in your gaze,</div><div>Very pointy ears.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> (from Shadowrun: Hong Kong)</p><div><br></div><div>Gossamer Tresses,</div><div>Infinity in your gaze,</div><div>Very pointy ears.</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2159">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lukkai<br></center><a name="2159">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> seeks out a poem<br>too desperate for relief<br>shortcuts are murder<br>the world itself revolting<br>better attempts must follow<br><br>(Yes, while the standard form is 5-7-5, there is an option for a 7-7 addendum. Not often done though.)<br><br><br>many magic worlds<br>diverse foreign abundant<br>with tales yet to tell<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> seeks out a poem<br>too desperate for relief<br>shortcuts are murder<br>the world itself revolting<br>better attempts must follow<br><br>(Yes, while the standard form is 5-7-5, there is an option for a 7-7 addendum. Not often done though.)<br><br><br>many magic worlds<br>diverse foreign abundant<br>with tales yet to tell<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="2160">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="2160">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> How mysterious</p><div>A love that has known sorrow</div><div>Shadows cover us</div><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
+<p class="comment_text"> </p><p class="comment_text"><br> How mysterious</p><div>A love that has known sorrow</div><div>Shadows cover us</div><br><p class="comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>steveha<br><span class="Comment_info">*Guest*</span></center><a name="2161">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>steveha<br></center><a name="2161">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=5983c8378b7b667b2841b61b1c1799a9&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "steveha"</span><br> On a turtle's back<br>She found out the turtle was<br>On a turtle's back<br><br>Reference: <a href="//comics/231/">Mysteries of the Arcana 2.60, "All the Way Down"</a><br><br>I don't actually know whether she found out the turtle-recursive nature of that arcana, but please just go with it.<br><br>P.S. I kind of feel that it's cheating to repeat the first line, but it expresses the recursive "it's turtles all the way down" idea with poetic economy, IMHO.<br></p><br><p class="Comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
+<p class="comment_text"> </p><p class="comment_text"><br> On a turtle's back<br>She found out the turtle was<br>On a turtle's back<br><br>Reference: <a href="/comics/231/">Mysteries of the Arcana 2.60, "All the Way Down"</a><br><br>I don't actually know whether she found out the turtle-recursive nature of that arcana, but please just go with it.<br><br>P.S. I kind of feel that it's cheating to repeat the first line, but it expresses the recursive "it's turtles all the way down" idea with poetic economy, IMHO.<br></p><br><p class="comment_info">Last edited by Guest<br>Edited 2 time(s).</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>astrocom<br><span class="Comment_info">*Guest*</span></center><a name="2163">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>astrocom<br></center><a name="2163">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1f4d33f745771b196d49447f3348f990&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "astrocom"</span><br> An odd multiverse</p><div>That has odd inhabitants</div><div>Exciting setting</div><div><br></div><div>A heroine pull'd</div><div>From her home to another world</div><div>Adventure awaits.</div><div><br></div><div>Bam. Two stanzas done.</div><div>One for my commentary.</div><div>...no comments have I.</div>
+<p class="comment_text"> </p><p class="comment_text"><br> An odd multiverse</p><div>That has odd inhabitants</div><div>Exciting setting</div><div><br></div><div>A heroine pull'd</div><div>From her home to another world</div><div>Adventure awaits.</div><div><br></div><div>Bam. Two stanzas done.</div><div>One for my commentary.</div><div>...no comments have I.</div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>mootstrap<br><span class="Comment_info">*Guest*</span></center><a name="2164">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>mootstrap<br></center><a name="2164">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=80f8d43b4fb5915cc221350d424ef37e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "mootstrap"</span><br> Magical garden,</p><div>Inspired by feelings of love,</div><div>Grants word of power.</div><div><br></div>
+<p class="comment_text"> </p><p class="comment_text"><br> Magical garden,</p><div>Inspired by feelings of love,</div><div>Grants word of power.</div><div><br></div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2165">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="2165">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Interesting. &nbsp;I just tried to go to a movie review site from an IMDB "external reviews' link - and i wound up at the garden site. Going back and re-clicking the link (http://mysteryfile.com/blog/?p=34696) got me to the review.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Interesting. &nbsp;I just tried to go to a movie review site from an IMDB "external reviews' link - and i wound up at the garden site. Going back and re-clicking the link (http://mysteryfile.com/blog/?p=34696) got me to the review.</p>
  
 
 </td></tr></tbody></table>

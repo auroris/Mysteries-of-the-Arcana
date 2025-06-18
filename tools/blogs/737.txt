@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Parenting 101</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, it seems the Inn is okay, which is good, right? As well as Kludge, Melody, and William. With Kludge's insight, seems there might be some surveying that will be taking place here soon, and as we can see, it's every parent's job to take advantage of an awkward situation to embarrass their child.</p><p>See you guys next week!</p><p>Keith W.</p>
+       <p>So, it seems the Inn is okay, which is good, right? As well as Kludge, Melody, and William. With Kludge's insight, seems there might be some surveying that will be taking place here soon, and as we can see, it's every parent's job to take advantage of an awkward situation to embarrass their child.</p><p>See you guys next week!</p><p>Keith W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sensei Le Roof<br><span class="Comment_info">*Guest*</span></center><a name="3044">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sensei Le Roof<br></center><a name="3044">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fe12ed5e46904c8618cefc2b6e99ea70&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sensei Le Roof"</span><br> I didn't know Tetris was a tarot card...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I didn't know Tetris was a tarot card...<br></p>
  
 
 </td></tr></tbody></table>

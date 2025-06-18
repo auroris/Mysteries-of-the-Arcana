@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy Fourth!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, another holiday slides right in to interfere with our regularly scheduled story, but fret not! Seems Theresa and Chrys are out enjoying the fireworks too...kinda.</p><p>In the meantime, don't forget to vote for MotA on TWC, <a href="http://topwebcomics.com/vote/7721" target="_blank">You can vote here</a>, and there's a link waaaaaaaaaaay down at the bottom of the page. And we're trying to get the css to behave for the preview image.</p><p>And remember, you can see the fully colored incentive images (both the censored and uncensored versions) on our <a href="https://www.patreon.com/user?u=452395">Patreon</a> with a pledge as low as $3.</p><p>See you guys on Thursday!</p><p>Keith W.</p>
+       <p>So, another holiday slides right in to interfere with our regularly scheduled story, but fret not! Seems Theresa and Chrys are out enjoying the fireworks too...kinda.</p><p>In the meantime, don't forget to vote for MotA on TWC, <a href="http://topwebcomics.com/vote/7721" target="_blank">You can vote here</a>, and there's a link waaaaaaaaaaay down at the bottom of the page. And we're trying to get the css to behave for the preview image.</p><p>And remember, you can see the fully colored incentive images (both the censored and uncensored versions) on our <a href="https://www.patreon.com/user?u=452395">Patreon</a> with a pledge as low as $3.</p><p>See you guys on Thursday!</p><p>Keith W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="3008">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="3008">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=aa6f9d5ec211cb4180cd78f1bdcb0cb5&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> </p><p>Speaking of </p><p>FIREWORKS!:</p><p>Took my granddaughters to their first-ever fireworks show on the FOurth, and set up and tried out the camera setup i plan to use for eclipse photos.</p><p>See lotsa pictures here: <a href="http://forum.wapsisquare.com/viewtopic.php?f=9&amp;t=3181">http://forum.wapsisquare.com/viewtopic.php?f=9&amp;t=3181</a></p><br><p class="Comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><p>Speaking of </p><p>FIREWORKS!:</p><p>Took my granddaughters to their first-ever fireworks show on the FOurth, and set up and tried out the camera setup i plan to use for eclipse photos.</p><p>See lotsa pictures here: <a href="http://forum.wapsisquare.com/viewtopic.php?f=9&amp;t=3181">http://forum.wapsisquare.com/viewtopic.php?f=9&amp;t=3181</a></p><br><p class="comment_info">Last edited by Guest<br>Edited 1 time(s).</p>
  
 
 </td></tr></tbody></table>

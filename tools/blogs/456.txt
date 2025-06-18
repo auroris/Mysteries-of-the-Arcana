@@ -1,64 +1,64 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Music and Inspiration</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p><strong>Hidden Name: </strong>Boston Metaphysical Society</p><hr><p>So, typically when I'm working on a page, I try to have music going right along with me. Today's page was soundtracked by mostly Doctor Who related musics. Sometimes I lean more toward heavier metal, or metalcore when I am working on other projects.</p><p>What kind of music do you guys listen to?</p>
+       <p><strong>Hidden Name: </strong>Boston Metaphysical Society</p><hr><p>So, typically when I'm working on a page, I try to have music going right along with me. Today's page was soundtracked by mostly Doctor Who related musics. Sometimes I lean more toward heavier metal, or metalcore when I am working on other projects.</p><p>What kind of music do you guys listen to?</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>David<br><span class="Comment_info">*Guest*</span></center><a name="1381">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>David<br></center><a name="1381">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1a9263ea4902e647096714f885c62345&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "David"</span><br> Rock and alt-rock, mostly. Some symphonic metal has made its way into my playlist as well.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Rock and alt-rock, mostly. Some symphonic metal has made its way into my playlist as well.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1382">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1382">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Music?...Pretty much whatever hear that I like.<br><br>And now to figure out what the old pervert wants and how to end him. Hmmm Perhaps some "Screams of the Damned" is called for.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Music?...Pretty much whatever hear that I like.<br><br>And now to figure out what the old pervert wants and how to end him. Hmmm Perhaps some "Screams of the Damned" is called for.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1383">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1383">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Big band, concert band, symphonies, jazz, funk, blues, rock and video game music. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>An interrogation! At last we can find out just what is going on.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Big band, concert band, symphonies, jazz, funk, blues, rock and video game music. <img src="/smilies/smile.gif" alt="Smile" border="0"><br><br>An interrogation! At last we can find out just what is going on.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2055">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Tsuki_Ouji<br></center><a name="2055">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b314cea1885ccda4fe3cbbf87eec38c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> I listen to everything from classical, big band, 50s-70s rock, heavy mithril, symphonic metal, Voltaire and Emilie Autumn (gfl trying to put either of them in a category. You'll need a HUGE shoehorn), gothic synth in the style of The Birthday Massacre.... Yeah. Long list.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I listen to everything from classical, big band, 50s-70s rock, heavy mithril, symphonic metal, Voltaire and Emilie Autumn (gfl trying to put either of them in a category. You'll need a HUGE shoehorn), gothic synth in the style of The Birthday Massacre.... Yeah. Long list.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Tsuki_Ouji<br><span class="Comment_info">*Guest*</span></center><a name="2056">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Tsuki_Ouji<br></center><a name="2056">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b314cea1885ccda4fe3cbbf87eec38c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Tsuki_Ouji:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
-<span class="Comment_info">Guest post by "Tsuki_Ouji"</span><br> I listen to everything from classical, big band, 50s-70s rock, heavy mithril, symphonic metal, to Voltaire, Emilie Autumn (gfl trying to put either of them in a category. You'll need a HUGE shoehorn), and gothic synth in the style of The Birthday Massacre.... Yeah. Long list.<br></div></div>
+<p class="comment_text"> </p><p class="comment_text"><br> </p><div class="quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Tsuki_Ouji:</span><div class="quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<br> I listen to everything from classical, big band, 50s-70s rock, heavy mithril, symphonic metal, to Voltaire, Emilie Autumn (gfl trying to put either of them in a category. You'll need a HUGE shoehorn), and gothic synth in the style of The Birthday Massacre.... Yeah. Long list.<br></div></div>
  <br>.
  
 

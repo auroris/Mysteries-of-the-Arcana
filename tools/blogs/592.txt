@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Sorry Sorry</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>So sorry everyone. Short version: Keith is really, really ill. He managed to get himself the flu or something. He could try to draw the comic but his hand is shaking so bad you wouldn't recognize anything.</p><p>Long version: I totally spaced on posting this filler that he sent me. My bad. Entirely my bad.</p><p>In addition to this lovely filler, though, I recently wrote a story as part of a commission by Mysteries of the Arcana fan, guest star, patron, and space elf Aleena. It is the first chapter in an ongoing science fiction noir detective serial. If you're interested, <a href="http://aleenaelyn.deviantart.com/art/The-Case-of-the-Killer-Queen-Ch-1-574270739">you can read it here</a>.</p><p>For our readers who are Pathfinder players, one of my favorite 3pp publishers, Flaming Crab Games is holding a Kickstarter to raise money for a book of 200 archetypes they're writing. I'm not contributing directly to the book but I will probably be editing it. <a href="https://www.kickstarter.com/projects/1456806822/flaming-crab-games-archetype-compendium-for-pathfi-0" target="_blank">Give it a look</a> and, if you like it, please consider supporting it. They're already just $50 or so from their goal and their stretch goals are excellent.</p><p>Again, so very sorry. We should hopefully be back on track come Monday. Thanks for hanging with us!</p>
+       <p>So sorry everyone. Short version: Keith is really, really ill. He managed to get himself the flu or something. He could try to draw the comic but his hand is shaking so bad you wouldn't recognize anything.</p><p>Long version: I totally spaced on posting this filler that he sent me. My bad. Entirely my bad.</p><p>In addition to this lovely filler, though, I recently wrote a story as part of a commission by Mysteries of the Arcana fan, guest star, patron, and space elf Aleena. It is the first chapter in an ongoing science fiction noir detective serial. If you're interested, <a href="http://aleenaelyn.deviantart.com/art/The-Case-of-the-Killer-Queen-Ch-1-574270739">you can read it here</a>.</p><p>For our readers who are Pathfinder players, one of my favorite 3pp publishers, Flaming Crab Games is holding a Kickstarter to raise money for a book of 200 archetypes they're writing. I'm not contributing directly to the book but I will probably be editing it. <a href="https://www.kickstarter.com/projects/1456806822/flaming-crab-games-archetype-compendium-for-pathfi-0" target="_blank">Give it a look</a> and, if you like it, please consider supporting it. They're already just $50 or so from their goal and their stretch goals are excellent.</p><p>Again, so very sorry. We should hopefully be back on track come Monday. Thanks for hanging with us!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2263">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="2263">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Get well soon Keith. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Get well soon Keith. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>

@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Missing Monday</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>We're one Thursday closer to the debut of chapter 5. Today, though, we're spotlighting <a href="https://www.comic-rocket.com/explore/missing-monday/" target="_blank">Missing Monday</a>. This is an LGBT friendly webcomic with beautiful, evocative art. I've added it to my <a href="https://www.comic-rocket.com/" target="_blank">Comic Rocket</a> reading list and you should as well.</p><p>Just for fun, here's another sketch of a character who will be appearing in the next chapter of Mysteries of the Arcana. This is Kietra, another of our backers. She's the second villain cameo.</p><p><img src="/pics/9f6334fdf05a550d874780a8d65c361f.jpg"></p><p>See you tomorrow!</p>
+       <p>We're one Thursday closer to the debut of chapter 5. Today, though, we're spotlighting <a href="https://www.comic-rocket.com/explore/missing-monday/" target="_blank">Missing Monday</a>. This is an LGBT friendly webcomic with beautiful, evocative art. I've added it to my <a href="https://www.comic-rocket.com/" target="_blank">Comic Rocket</a> reading list and you should as well.</p><p>Just for fun, here's another sketch of a character who will be appearing in the next chapter of Mysteries of the Arcana. This is Kietra, another of our backers. She's the second villain cameo.</p><p><img src="/pics/9f6334fdf05a550d874780a8d65c361f.jpg"></p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Tzivya<br><span class="Comment_info">*Guest*</span></center><a name="1289">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Tzivya<br></center><a name="1289">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f0beecd5e42c309889dc06a423f37ad3&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Tzivya"</span><br> Been reading MM for ages, and it is very very good. I think that may even be where I learned about MotA! In short, if you are reading this, you should go read it now. Right now. No, stop reading me and go read those comics! I mean it! GO! <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Been reading MM for ages, and it is very very good. I think that may even be where I learned about MotA! In short, if you are reading this, you should go read it now. Right now. No, stop reading me and go read those comics! I mean it! GO! <br></p>
  
 
 </td></tr></tbody></table>

@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>A Glitch in the Mandrake</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Seems Mandrake made it back...albeit...she also seems to be having some issues being fully corporeal. We'll likely see more of how this cracked crystal impacts her very soon.</p><p>I'd like to thank you all for bearing with us lately, there's been a ton of life stuff on both mine and J's ends, and hopefully we'll be able to get back to regular updates incredibly soon!</p>
+       <p>Seems Mandrake made it back...albeit...she also seems to be having some issues being fully corporeal. We'll likely see more of how this cracked crystal impacts her very soon.</p><p>I'd like to thank you all for bearing with us lately, there's been a ton of life stuff on both mine and J's ends, and hopefully we'll be able to get back to regular updates incredibly soon!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sensei Le Roof<br><span class="Comment_info">*Guest*</span></center><a name="3057">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sensei Le Roof<br></center><a name="3057">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=fe12ed5e46904c8618cefc2b6e99ea70&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sensei Le Roof"</span><br> Oh dear, you've got a pixel just... no, not that way... careful, you almost put -- OH DEAR GOD WHAT ARE YOU DOING?!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Oh dear, you've got a pixel just... no, not that way... careful, you almost put -- OH DEAR GOD WHAT ARE YOU DOING?!<br></p>
  
 
 </td></tr></tbody></table>

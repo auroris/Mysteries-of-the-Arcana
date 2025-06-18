@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Irene</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hey everyone. Just an update. We're experiencing hurricane weather as we speak. Power has gone out once and may go out again. Our basement is beginning to flood a little, which sucks because it is a finished basement and is used as an office.<br><br>So, if the comic isn't up Monday, don't panic. Its probably late because I'm not able to get online.<br>
+       Hey everyone. Just an update. We're experiencing hurricane weather as we speak. Power has gone out once and may go out again. Our basement is beginning to flood a little, which sucks because it is a finished basement and is used as an office.<br><br>So, if the comic isn't up Monday, don't panic. Its probably late because I'm not able to get online.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="737">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="737">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Hopefully it's no more than rain and your basement stands up to it.<br><br>I'm a dummy and forgot to wish you a happy Birthday on Saturday when we spoke. *smacks self*&nbsp; Ok, a belated Happy Birthday!&nbsp; Hope you're not too wet.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Hopefully it's no more than rain and your basement stands up to it.<br><br>I'm a dummy and forgot to wish you a happy Birthday on Saturday when we spoke. *smacks self*&nbsp; Ok, a belated Happy Birthday!&nbsp; Hope you're not too wet.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Eddie<br><span class="Comment_info">*Guest*</span></center><a name="738">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Eddie<br></center><a name="738">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Eddie"</span><br> That's aweful! I hope it doesn't get too nasty for you &lt;:(</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Eddie"</span><br> That's aweful! I hope it doesn't get too nasty for you &lt;:(</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="739">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="739">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> ya'll ok over there Hoss? Status check!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "adamas"</span><br> ya'll ok over there Hoss? Status check!<br></p>
  
 
 </td></tr></tbody></table>

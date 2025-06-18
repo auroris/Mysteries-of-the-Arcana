@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Picture Says it All</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Hi, all! I'm alive. I want to say thank you to Keith for posting while I've been busy dealing with earning whole dollars for writing stuff!</p><p>Speaking of which, I'm the developer, editor, and layout office for the <a href="https://www.kickstarter.com/projects/1456806822/culinary-magic-cookbook-for-the-pathfinder-rolepla/" target="_blank">Culinary Magic Cookbook</a>, which brings cooking magic to Pathfinder with recipes which can be made in the real world, too! Please check it out and consider backing it.</p><p>Meanwhile, we're coming up on the end of this short story and chapter seven. Chapter eight will wrap up the overall storyline of Mysteries of the Arcana. Right now, with the Patreon the way it is, we're likely looking at a page per week. Slower but an easier pace to maintain and fund.</p><p>Meanwhile, enjoy the page!</p><p>J</p>
+       <p>Hi, all! I'm alive. I want to say thank you to Keith for posting while I've been busy dealing with earning whole dollars for writing stuff!</p><p>Speaking of which, I'm the developer, editor, and layout office for the <a href="https://www.kickstarter.com/projects/1456806822/culinary-magic-cookbook-for-the-pathfinder-rolepla/" target="_blank">Culinary Magic Cookbook</a>, which brings cooking magic to Pathfinder with recipes which can be made in the real world, too! Please check it out and consider backing it.</p><p>Meanwhile, we're coming up on the end of this short story and chapter seven. Chapter eight will wrap up the overall storyline of Mysteries of the Arcana. Right now, with the Patreon the way it is, we're likely looking at a page per week. Slower but an easier pace to maintain and fund.</p><p>Meanwhile, enjoy the page!</p><p>J</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2999">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="2999">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> *Program.Adamas-brain.EXE has stopped working*<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> *Program.Adamas-brain.EXE has stopped working*<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="3000">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="3000">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f229b3040ccf161e8dccde95a915c80c&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Cues Tickle-Glomp in five ... four ...</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Cues Tickle-Glomp in five ... four ...</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Sario528<br><span class="Comment_info">*Guest*</span></center><a name="3001">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Sario528<br></center><a name="3001">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=262f57b58e9b3c31a00a0e0decc8f28d&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Sario528"</span><br> End of MotA is unpossible. We can't be done. I refuse to believe it.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> End of MotA is unpossible. We can't be done. I refuse to believe it.</p>
  
 
 </td></tr></tbody></table>

@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>RSS Solutions</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    We've managed to fix the RSS problem, we believe, but the solution involved replacing the RSS file with a new one. In other words, everyone who was subscribed to Mysteries of the Arcana via RSS now has to resubscribe. I apologize for the inconvenience.<br>
+       We've managed to fix the RSS problem, we believe, but the solution involved replacing the RSS file with a new one. In other words, everyone who was subscribed to Mysteries of the Arcana via RSS now has to resubscribe. I apologize for the inconvenience.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>weertangel<br><span class="Comment_info">*Guest*</span></center><a name="12">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>weertangel<br></center><a name="12">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=1d9d96987c3709dcf53e59cf6c659b81&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "weertangel"</span><br> </p><p>Love the new page! a very cool way of introducing the 4 suits, i do wonder what happens when the balance in those turtles shifts.... giant monster turtles??</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "weertangel"</span><br> </p><p>Love the new page! a very cool way of introducing the 4 suits, i do wonder what happens when the balance in those turtles shifts.... giant monster turtles??</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="13">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="13">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">You'll see on Monday. Glad you liked the page, Weert!</p>
+<p class="comment_text"> </p><p class="comment_text">You'll see on Monday. Glad you liked the page, Weert!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>

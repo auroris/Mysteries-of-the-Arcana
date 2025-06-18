@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Chapter 7. FIGHT!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And so begins chapter 7. As previously mentioned, chapter 7 will be a series of short stories. The first two might be familiar to those of you who backed the Kickstarter for chapter 5, as they were the bonus stories included in the e-trade compilations of chapters 1 and 2. This first one, Narrow, takes place shortly after the end of Chapter 1 and answers a key, critical question - just how did Theresa get her jacket back after she dropped it in the abandoned subway station? It will also help give us more insight into how Theresa's view of herself has evolved. A missing piece of the puzzle, if you will, on how Theresa learned to explore her own identity.</p><p>The art, by the way, is by the wonderful Tiffany Munro of <a href="http://www.stargazersgate.com/" target="_blank">Stargazer's Gate</a>. Please go check out her comic as soon as you can. I've always loved her painted style.</p><p>Fairpointfan asked what Mandrake was laughing at in the final page of chapter 6. HolyDragonBlade got it right. Mandrake was making fun of Theresa's fair.</p><p>On a more serious topic, a fellow gaming writer and industry legend, Owen K.C. Stephens is having medical problems in his family and has need of raising money as quickly as he can. To that end he has made <a href="http://drivethrurpg.com/product/186492/OwensGeniusStuff-BUNDLE" target="_blank">$600 worth of his Pathfinder-compatible gaming products available as a bundle for $30</a>. Owen's not just a guy who writes 3pp stuff. He works for Paizo and Green Ronin, too. He's an amazing, thoughtful, and generous man and he needs help. Please consider buying the bundle.</p><p>See you Thursday!</p>
+       <p>And so begins chapter 7. As previously mentioned, chapter 7 will be a series of short stories. The first two might be familiar to those of you who backed the Kickstarter for chapter 5, as they were the bonus stories included in the e-trade compilations of chapters 1 and 2. This first one, Narrow, takes place shortly after the end of Chapter 1 and answers a key, critical question - just how did Theresa get her jacket back after she dropped it in the abandoned subway station? It will also help give us more insight into how Theresa's view of herself has evolved. A missing piece of the puzzle, if you will, on how Theresa learned to explore her own identity.</p><p>The art, by the way, is by the wonderful Tiffany Munro of <a href="http://www.stargazersgate.com/" target="_blank">Stargazer's Gate</a>. Please go check out her comic as soon as you can. I've always loved her painted style.</p><p>Fairpointfan asked what Mandrake was laughing at in the final page of chapter 6. HolyDragonBlade got it right. Mandrake was making fun of Theresa's fair.</p><p>On a more serious topic, a fellow gaming writer and industry legend, Owen K.C. Stephens is having medical problems in his family and has need of raising money as quickly as he can. To that end he has made <a href="http://drivethrurpg.com/product/186492/OwensGeniusStuff-BUNDLE" target="_blank">$600 worth of his Pathfinder-compatible gaming products available as a bundle for $30</a>. Owen's not just a guy who writes 3pp stuff. He works for Paizo and Green Ronin, too. He's an amazing, thoughtful, and generous man and he needs help. Please consider buying the bundle.</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2792">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>fairportfan<br></center><a name="2792">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=25384e7a871b43dff0641d6ca0cac5fa&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> I LIKE Chrys' fair ... uh ... hair.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I LIKE Chrys' fair ... uh ... hair.</p>
  
 
 </td></tr></tbody></table>

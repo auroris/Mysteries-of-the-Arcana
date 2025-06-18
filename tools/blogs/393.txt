@@ -1,76 +1,76 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Comic Information</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Hello! Here we are on page 11 of the Telling. I don't know which I love better: the sword eyes, the rainbow ocean, or the fish guy.<div><br></div><div>Now, onto some reminders and information.&nbsp;</div><div><br></div><div>First, you can<a href="https://twitter.com/JGrayWebcomic" class="" classname="" target="_blank" name=""> follow me on Twitter</a>. I tweet about the comic but also offer general thoughts on webcomics and other geekdom. I'm pretty responsive so if you have questions or comments I promise to respond.</div><div><br></div><div>Mysteries of the Arcana <a href="https://www.comic-rocket.com/explore/mysteries-of-the-arcana/" class="" classname="" target="_blank" name="">is available on Comic Rocket</a>, a service that allows you to read your webcomics and save your place. Its sort of a comic specific RSS interface. Right now I have 54 subscribers. I'd love more.</div><div><br></div><div>You can also follow Mysteries of the Arcana on <a href="http://inkoutbreak.com/" class="" classname="" target="_blank" name="">InkOutbreak</a>. A similar service to Comic Rocket.</div><div><br></div><div>That's all for now. See everyone next week!</div>
+       Hello! Here we are on page 11 of the Telling. I don't know which I love better: the sword eyes, the rainbow ocean, or the fish guy.<div><br></div><div>Now, onto some reminders and information.&nbsp;</div><div><br></div><div>First, you can<a href="https://twitter.com/JGrayWebcomic" class="" classname="" target="_blank" name=""> follow me on Twitter</a>. I tweet about the comic but also offer general thoughts on webcomics and other geekdom. I'm pretty responsive so if you have questions or comments I promise to respond.</div><div><br></div><div>Mysteries of the Arcana <a href="https://www.comic-rocket.com/explore/mysteries-of-the-arcana/" class="" classname="" target="_blank" name="">is available on Comic Rocket</a>, a service that allows you to read your webcomics and save your place. Its sort of a comic specific RSS interface. Right now I have 54 subscribers. I'd love more.</div><div><br></div><div>You can also follow Mysteries of the Arcana on <a href="http://inkoutbreak.com/" class="" classname="" target="_blank" name="">InkOutbreak</a>. A similar service to Comic Rocket.</div><div><br></div><div>That's all for now. See everyone next week!</div>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1144">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1144">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gunsolo"</span><br> I like that anglerfishman, he looks good.<br>The picture of him thinking is pretty funny. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Gunsolo"</span><br> I like that anglerfishman, he looks good.<br>The picture of him thinking is pretty funny. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Jasae Bushae<br><span class="Comment_info">*Guest*</span></center><a name="1145">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Jasae Bushae<br></center><a name="1145">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ee566f6b7a7fd942fef8d133d1bdbdff&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Jasae Bushae"</span><br> Yay~ The comic is back~
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Jasae Bushae"</span><br> Yay~ The comic is back~
 <br>
 <br>And awsome thinker pose there ^^</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1146">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="1146">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c36877dca7f2a5669657cff6d47669c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Awesome.<br>So, did you tell Keith to make a fish man, or did you just kinda do it that way?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Awesome.<br>So, did you tell Keith to make a fish man, or did you just kinda do it that way?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1147">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1147">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Gunsolo, thanks!&nbsp;</p><div><br></div><div>Jasae, thanks for waiting and coming back to read!</div><div><br></div><div>JD, the fishman was in the original script though Keith decided to make him ripped.</div>
+<p class="comment_text"> </p><p class="comment_text">Gunsolo, thanks!&nbsp;</p><div><br></div><div>Jasae, thanks for waiting and coming back to read!</div><div><br></div><div>JD, the fishman was in the original script though Keith decided to make him ripped.</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JD<br><span class="Comment_info">*Guest*</span></center><a name="1148">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JD<br></center><a name="1148">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c36877dca7f2a5669657cff6d47669c0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> I noticed he had my complexion.<br>A humanoid species likely would remain muscular, that is until they developed tech that allowed them to sit around and get fat, exercising only their thumbs.<br><br>I'll bet when he gets an idea his little light bulb glows.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> I noticed he had my complexion.<br>A humanoid species likely would remain muscular, that is until they developed tech that allowed them to sit around and get fat, exercising only their thumbs.<br><br>I'll bet when he gets an idea his little light bulb glows.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Comic Reader<br><span class="Comment_info">*Guest*</span></center><a name="1160">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Comic Reader<br></center><a name="1160">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=8aaf7bb4dbb34cffbb8829182aa237f7&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Comic Reader"</span><br> I just sat here and read your entire comic from Comic Rocket. It is amazing! That is the reason I am still awake at 12:30 in the morning. I just had to finish it before I went to bed! I look forward to the story!</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Comic Reader"</span><br> I just sat here and read your entire comic from Comic Rocket. It is amazing! That is the reason I am still awake at 12:30 in the morning. I just had to finish it before I went to bed! I look forward to the story!</p>
  
 
 </td></tr></tbody></table>

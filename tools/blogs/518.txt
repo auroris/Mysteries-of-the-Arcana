@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy New Year!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Welcome to 2015! This'll be a big year for Mysteries of the Arcana. I've got plans.</p><p>PLANS I TELL YOU! MWAHAHAHAHAHA!</p><p>Ahem!</p><p>In the spirit of a new year and new beginnings, you might consider supporting a worthy cause. <a href="http://malcolmandkaylee.eflea.ca/" target="_blank">May I suggest this charity auction</a>? A friend of Keith's was recently blessed with two wonderful twin babies but, unfortunately, the babies were born with medical problem that need to be addressed and they could use a hand with the funds. Rather than just ask for money, they've put a number of excellent items up for auction. You'll find artwork by comic legend Mitch Foust, original artwork from Stumbling Angel Designs, original Mysteries of the Arcana artwork (signed by Keith!) and a host of jewelry, comics, books and signed prints.</p><p>This is a really worthy cause, guys. These babies need our help. If you need to pick between supporting these kids and supporting Mysteries of the Arcana?</p><p>Help the kids.</p><p>See you Monday.</p>
+       <p>Welcome to 2015! This'll be a big year for Mysteries of the Arcana. I've got plans.</p><p>PLANS I TELL YOU! MWAHAHAHAHAHA!</p><p>Ahem!</p><p>In the spirit of a new year and new beginnings, you might consider supporting a worthy cause. <a href="http://malcolmandkaylee.eflea.ca/" target="_blank">May I suggest this charity auction</a>? A friend of Keith's was recently blessed with two wonderful twin babies but, unfortunately, the babies were born with medical problem that need to be addressed and they could use a hand with the funds. Rather than just ask for money, they've put a number of excellent items up for auction. You'll find artwork by comic legend Mitch Foust, original artwork from Stumbling Angel Designs, original Mysteries of the Arcana artwork (signed by Keith!) and a host of jewelry, comics, books and signed prints.</p><p>This is a really worthy cause, guys. These babies need our help. If you need to pick between supporting these kids and supporting Mysteries of the Arcana?</p><p>Help the kids.</p><p>See you Monday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1887">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1887">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> That's what I get for walking through the subways drunk after watching Cirque De Soleil. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> That's what I get for walking through the subways drunk after watching Cirque De Soleil. <br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1888">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1888">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Hah! Brilliant!</p>
+<p class="comment_text"> </p><p class="comment_text">Hah! Brilliant!</p>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1889">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1889">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> Maybe that's how Kludge got there. <img src="//smilies/wink1.gif" alt="Wink" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Maybe that's how Kludge got there. <img src="/smilies/wink1.gif" alt="Wink" border="0"><br></p>
  
 
 </td></tr></tbody></table>

@@ -1,65 +1,65 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Update Coming...</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Both Jessica and I have been plagued by power outages thanks to the storms that have been plaguing both our areas. She sent me this line-art before collapsing from exhaustion. Like many digital artists, she'll firm up the line-art in a last bit of work before adding the color. I'll have more to talk about then but for now, I need to go clean up my yard. Lot of work to be done.<br>
+       Both Jessica and I have been plagued by power outages thanks to the storms that have been plaguing both our areas. She sent me this line-art before collapsing from exhaustion. Like many digital artists, she'll firm up the line-art in a last bit of work before adding the color. I'll have more to talk about then but for now, I need to go clean up my yard. Lot of work to be done.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Bridget<br><span class="Comment_info">*Guest*</span></center><a name="635">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Bridget<br></center><a name="635">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=89e2a20c9f6675c04c8fd736288725ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Bridget"</span><br> plz tell me what Mandrake is saying here!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Bridget"</span><br> plz tell me what Mandrake is saying here!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Emma<br><span class="Comment_info">*Guest*</span></center><a name="637">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Emma<br></center><a name="637">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Emma"</span><br> Roughly speaking it's "There's 10 guys that will shoot Mandrake!"&nbsp; (Or penis mandrake, but I'm betting it's shoot.)<br><br>Then "No!"<br>Then "Not Chrys's gamble!&nbsp; Not Chrys's Plan!"<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Emma"</span><br> Roughly speaking it's "There's 10 guys that will shoot Mandrake!"&nbsp; (Or penis mandrake, but I'm betting it's shoot.)<br><br>Then "No!"<br>Then "Not Chrys's gamble!&nbsp; Not Chrys's Plan!"<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>James<br><span class="Comment_info">*Guest*</span></center><a name="638">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>James<br></center><a name="638">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "James"</span><br> </p><div class="Quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Guest:</span><div class="Quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
-<span class="Forum_info">Guest post by "Emma"</span><br> (Or penis mandrake, but I'm betting it's shoot.)<br></div></div>
-<br><br><img alt=" LOL " src="//smilies/laugh.gif" border="0" hspace="2" vspace="2">Thought it look a bit like that too, but that didn't make much sense, story-wise<img alt=" Smile " src="//smilies/smile.gif" border="0" hspace="2" vspace="2"><br>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "James"</span><br> </p><div class="quote-outer" style="margin:1px; width:auto; border:1px solid;"><span style="font-size:10px; font-weight:bold;">Quote from Guest:</span><div class="quote" style="margin:4px; margin-top:1px; padding:3px; width:auto; font-size:80%; border:1px inset;">
+<span class="forum_info">Guest post by "Emma"</span><br> (Or penis mandrake, but I'm betting it's shoot.)<br></div></div>
+<br><br><img alt=" LOL " src="/smilies/laugh.gif" border="0" hspace="2" vspace="2">Thought it look a bit like that too, but that didn't make much sense, story-wise<img alt=" Smile " src="/smilies/smile.gif" border="0" hspace="2" vspace="2"><br>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Bridget<br><span class="Comment_info">*Guest*</span></center><a name="639">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Bridget<br></center><a name="639">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=89e2a20c9f6675c04c8fd736288725ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Bridget"</span><br> thx guys!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Bridget"</span><br> thx guys!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Mei<br><span class="Comment_info">*Guest*</span></center><a name="643">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Mei<br></center><a name="643">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b2a8fec80c326e8f4eeb42cbf601d536&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Mei"</span><br> i thought it was "No dice!" or something. and the power outages could have been caused from the solar flare a week or two ago.</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Mei"</span><br> i thought it was "No dice!" or something. and the power outages could have been caused from the solar flare a week or two ago.</p>
  
 
 </td></tr></tbody></table>

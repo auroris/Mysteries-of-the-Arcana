@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Playing it Close to the Vest</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Seems like both sides are conspiring a little bit here. Aren't they?</p><p>Of course, leaving Theresa to keep an eye on Mister Eerie should help keep things in line, we hope!</p><p>On a separate note, I've started a Patreon for my non-MotA related work things! Commissions, random draws, brain dumps and tutorials! Swing by and check it out <a href="http://www.patreon.com/verias" target="_blank">here</a>.</p><p>Keith W.</p>
+       <p>Seems like both sides are conspiring a little bit here. Aren't they?</p><p>Of course, leaving Theresa to keep an eye on Mister Eerie should help keep things in line, we hope!</p><p>On a separate note, I've started a Patreon for my non-MotA related work things! Commissions, random draws, brain dumps and tutorials! Swing by and check it out <a href="http://www.patreon.com/verias" target="_blank">here</a>.</p><p>Keith W.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="2289">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="2289">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> I have simple solution to this. Theresa put's a bullet between the painted eyes of the two pin-heads while Chrys arranged shipments of enough food for the two clans to survive the winter.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I have simple solution to this. Theresa put's a bullet between the painted eyes of the two pin-heads while Chrys arranged shipments of enough food for the two clans to survive the winter.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="2290">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="2290">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> That works! In other news, I have a package coming today with supplies for my new tablet. I can't wait to start using this thing!</p>
+<p class="comment_text"> </p><p class="comment_text"><br> That works! In other news, I have a package coming today with supplies for my new tablet. I can't wait to start using this thing!</p>
  
 
 </td></tr></tbody></table>

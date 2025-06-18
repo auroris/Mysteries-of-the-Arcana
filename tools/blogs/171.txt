@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Voting works again!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I just wanted to let everyone know, I got access to my account at topwebcomics.com again. So, the vote incentive has been updated. Check out Keith's anime style versions of Theresa and Chrys!<br><br>
+       I just wanted to let everyone know, I got access to my account at topwebcomics.com again. So, the vote incentive has been updated. Check out Keith's anime style versions of Theresa and Chrys!<br><br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

@@ -1,96 +1,96 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy March!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>I hope your March is a little less snow-logged than mine! It looks like I'll be shoveling the driveway again tomorrow. </p><p>I'm very proud to announce that my first Pathfinder-compatible solo book was released last week.</p><p><strong>Spellstaff: the Magic User's Weapon</strong></p><p><em>The staff, be it topped with a skull, gemstone, or crystal ball, has long been a symbol of the magic user’s power in classic fantasy literature. In roleplaying games, however, a staff is often nothing more than a glorified walking stick. Even those staves with actual power hold only a limited amount of charges before they are depleted, and recharging them costs the magic user precious spells. The spellstaff changes all this, giving magic users a ranged weapon that uniquely suits their mystery and power.</em></p><p>In other words, I made Dragon Age style staff weapons for Pathfinder.</p><p>Right now, the book is #6 on the "hottest Pathfinder" list over at DriveThruRPG. It is also on sale for GM Day/Week. </p><p>If you're interested, please consider picking up a copy. You can <a href="http://rpg.drivethrustuff.com/product/145261/Spellstaff-The-Magic-Users-Weapon?" target="_blank">buy it over at DriveThruRPG</a> or at <a href="http://paizo.com/products/btpy9coq?Spellstaff-The-Magic-Users-Weapon" target="_blank">Paizo's store</a>. Better yet, pick the book up <a href="http://shop.d20pfsrd.com/collections/flaming-crab-games/products/spellstaff-the-magic-users-weapon" target="_blank">from the Open Gaming Store</a>. The Open Gaming store takes the smallest bite out of the cover price, leaving a bit more for me and my publisher, Flaming Crab Games.</p><p>Thanks for supporting me!</p><p>There'll be a new Bricks of the Arcana come Friday.</p><p>See you next week! </p>
+       <p>I hope your March is a little less snow-logged than mine! It looks like I'll be shoveling the driveway again tomorrow. </p><p>I'm very proud to announce that my first Pathfinder-compatible solo book was released last week.</p><p><strong>Spellstaff: the Magic User's Weapon</strong></p><p><em>The staff, be it topped with a skull, gemstone, or crystal ball, has long been a symbol of the magic user’s power in classic fantasy literature. In roleplaying games, however, a staff is often nothing more than a glorified walking stick. Even those staves with actual power hold only a limited amount of charges before they are depleted, and recharging them costs the magic user precious spells. The spellstaff changes all this, giving magic users a ranged weapon that uniquely suits their mystery and power.</em></p><p>In other words, I made Dragon Age style staff weapons for Pathfinder.</p><p>Right now, the book is #6 on the "hottest Pathfinder" list over at DriveThruRPG. It is also on sale for GM Day/Week. </p><p>If you're interested, please consider picking up a copy. You can <a href="http://rpg.drivethrustuff.com/product/145261/Spellstaff-The-Magic-Users-Weapon?" target="_blank">buy it over at DriveThruRPG</a> or at <a href="http://paizo.com/products/btpy9coq?Spellstaff-The-Magic-Users-Weapon" target="_blank">Paizo's store</a>. Better yet, pick the book up <a href="http://shop.d20pfsrd.com/collections/flaming-crab-games/products/spellstaff-the-magic-users-weapon" target="_blank">from the Open Gaming Store</a>. The Open Gaming store takes the smallest bite out of the cover price, leaving a bit more for me and my publisher, Flaming Crab Games.</p><p>Thanks for supporting me!</p><p>There'll be a new Bricks of the Arcana come Friday.</p><p>See you next week! </p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="1971">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lukkai<br></center><a name="1971">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Very interesting stuff. I'm sure I can use this for the mage realm on the small continent I'm currently working on for an upcoming campaign.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Very interesting stuff. I'm sure I can use this for the mage realm on the small continent I'm currently working on for an upcoming campaign.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1972">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1972">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> Sounds perfect for a very-high magic campaign (to the point where like 95% of the population [even Fighters and Monks, but maybe not Barbarians] has at least 1lvl in an Arcane spellcasting class)<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Sounds perfect for a very-high magic campaign (to the point where like 95% of the population [even Fighters and Monks, but maybe not Barbarians] has at least 1lvl in an Arcane spellcasting class)<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1973">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1973">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hmm, if anything that touches the void vanishes then how is there air?<br><br><br>Congrats on the book release!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Hmm, if anything that touches the void vanishes then how is there air?<br><br><br>Congrats on the book release!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1974">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1974">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Thanks, Gunsolo! It has sold nicely for a 3pp book so I'm happy.&nbsp;</p><div><br></div><div>To answer your question... what makes you think there actually is any air in the Fool to begin with? Beings of all kinds, with many different atmospheric requirements, come to the Fool and none have an issue with breathing there.&nbsp;</div><div><br></div><div>Note that Baron Sir used a flashbang to knock everyone out. Not a gas attack.</div><div><br></div><div>Interesting, eh?&nbsp;</div>
+<p class="comment_text"> </p><p class="comment_text">Thanks, Gunsolo! It has sold nicely for a 3pp book so I'm happy.&nbsp;</p><div><br></div><div>To answer your question... what makes you think there actually is any air in the Fool to begin with? Beings of all kinds, with many different atmospheric requirements, come to the Fool and none have an issue with breathing there.&nbsp;</div><div><br></div><div>Note that Baron Sir used a flashbang to knock everyone out. Not a gas attack.</div><div><br></div><div>Interesting, eh?&nbsp;</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1976">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1976">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Very interesting.<br>I figured there had to be air because Theresa and Kludge are from our reality, and they have no trouble breathing in the Fool (or anywhere else they have been for that matter).<br>I would guess this is also among the things Kludge is researching. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Very interesting.<br>I figured there had to be air because Theresa and Kludge are from our reality, and they have no trouble breathing in the Fool (or anywhere else they have been for that matter).<br>I would guess this is also among the things Kludge is researching. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1975">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1975">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Yeah, the spellstaves aren't intended for low fantasy worlds. But I tried to design them so they're really no more game changing that a crossbow in a wizard's hands.</p><div><br></div><div>If you bought the book, please consider taking a moment to give it an honest review at the site where you purchased it? Reviews always help and I love feedback, even the critical sort.</div>
+<p class="comment_text"> </p><p class="comment_text">Yeah, the spellstaves aren't intended for low fantasy worlds. But I tried to design them so they're really no more game changing that a crossbow in a wizard's hands.</p><div><br></div><div>If you bought the book, please consider taking a moment to give it an honest review at the site where you purchased it? Reviews always help and I love feedback, even the critical sort.</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="Comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1977">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:80%;" class="comment3"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1977">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> I was kinda picturing it like a Warlock's basic Eldritch Blast invocation in staff form. <br><br>As for the BOTA. Are we SURE about their parentage? After all there was that time he ran out of Vitamin X...<img alt=" Smile " src="//smilies/smile.gif" border="0" hspace="2" vspace="2"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> I was kinda picturing it like a Warlock's basic Eldritch Blast invocation in staff form. <br><br>As for the BOTA. Are we SURE about their parentage? After all there was that time he ran out of Vitamin X...<img alt=" Smile " src="/smilies/smile.gif" border="0" hspace="2" vspace="2"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>dragonrider<br><span class="Comment_info">*Guest*</span></center><a name="1981">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>dragonrider<br></center><a name="1981">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a1af327c4f6d0456e8b3432c7fb13027&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "dragonrider"</span><br> Actually ending the series would be a kindness to readers if you intend to continue these Lego panels. I'm sorry but they are an insult to the mentality of a newborn and I for one am very tired of seeing a previously well written fantasy series dragged down to the lowest levels.&nbsp; I have continued following in the hopes it would return to the previous standards, if it does not I shall unsubscribe.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Actually ending the series would be a kindness to readers if you intend to continue these Lego panels. I'm sorry but they are an insult to the mentality of a newborn and I for one am very tired of seeing a previously well written fantasy series dragged down to the lowest levels.&nbsp; I have continued following in the hopes it would return to the previous standards, if it does not I shall unsubscribe.<br></p>
  
 
 </td></tr></tbody></table>

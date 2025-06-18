@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Shattered</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I've really got to give Genn props here. Her computer died and she found a way to finish the page in spite of it. I know how hard it can be when a key piece of hardware craps out on you - especially when you need the processing power to run memory intensive art programs. So, thanks Genn. You went above and beyond the call of duty here!<br><br>Don't forget the contest, folks! I'm going to extend the deadline to the end of this month - so until 5/31/12. Right now we have exactly three entries. I'd love to see more!<br>
+       I've really got to give Genn props here. Her computer died and she found a way to finish the page in spite of it. I know how hard it can be when a key piece of hardware craps out on you - especially when you need the processing power to run memory intensive art programs. So, thanks Genn. You went above and beyond the call of duty here!<br><br>Don't forget the contest, folks! I'm going to extend the deadline to the end of this month - so until 5/31/12. Right now we have exactly three entries. I'd love to see more!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>TC<br><span class="Comment_info">*Guest*</span></center><a name="1033">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>TC<br></center><a name="1033">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=c7a049759cbd52f6f8e72a079a0747dc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "TC"</span><br> Only three?&nbsp; That's a shame.&nbsp; I dun wanna be one of an extremely few entries!&nbsp; Come on people!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "TC"</span><br> Only three?&nbsp; That's a shame.&nbsp; I dun wanna be one of an extremely few entries!&nbsp; Come on people!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JSmith<br><span class="Comment_info">*Guest*</span></center><a name="1034">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JSmith<br></center><a name="1034">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e95e18e354c185c198a217bf014a8e9f&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JSmith"</span><br> I;m glad for the extention, because I've been wanting to do something, but have not given myself the time to even come up with an idea or get started on something.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JSmith"</span><br> I;m glad for the extention, because I've been wanting to do something, but have not given myself the time to even come up with an idea or get started on something.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://taiyoutenshi.wordpress.com" target="_blank">Ayshara</a><br><span class="Comment_info">*Guest*</span></center><a name="1035">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://taiyoutenshi.wordpress.com" target="_blank">Ayshara</a><br></center><a name="1035">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a92f2826c887981e6f7dff4046f541ea&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> TC: Same here! T_T</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayshara"</span><br> TC: Same here! T_T</p>
  
 
 </td></tr></tbody></table>

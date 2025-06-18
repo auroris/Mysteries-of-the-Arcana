@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Tales of Hammerfist</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>We're only five days away from the debut of chapter 5! I have the first page saved on my hard drive and I love it. It is all about Theresa, Chrys and has some great interaction. Plus, it features our first cameo and two hidden names!</p><p>Today we're spotlighting <a href="https://www.comic-rocket.com/explore/tales-of-hammerfist/" target="_blank">Tales of Hammerfist.</a> This fantasy adventure webcomic isn't afraid of blood, gore, or mad science so check it out!</p><p>See you tomorrow!</p>
+       <p>We're only five days away from the debut of chapter 5! I have the first page saved on my hard drive and I love it. It is all about Theresa, Chrys and has some great interaction. Plus, it features our first cameo and two hidden names!</p><p>Today we're spotlighting <a href="https://www.comic-rocket.com/explore/tales-of-hammerfist/" target="_blank">Tales of Hammerfist.</a> This fantasy adventure webcomic isn't afraid of blood, gore, or mad science so check it out!</p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

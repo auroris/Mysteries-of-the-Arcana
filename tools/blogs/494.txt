@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Taunting the Surgeon</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p><strong>Hidden Name: </strong>David F</p><hr><p>Seems Aleena's definitely a bit on the confident side, don't you think?</p><p>In other news, Silver City is up on its own site, though the site is still under heavy construction, the comic itself is posted and updated Thursdays <a href="http://www.royalroadstudios.com" target="_blank">here</a>.</p><p>And don't forget, Silver City is a Patreon funded project, which you can hop over and support <a href="http://www.patreon.com/user?u=244206" target="_blank">here</a> and even get free goodies, as well as early access to each page.</p><p>See you guys on Monday!</p>
+       <p><strong>Hidden Name: </strong>David F</p><hr><p>Seems Aleena's definitely a bit on the confident side, don't you think?</p><p>In other news, Silver City is up on its own site, though the site is still under heavy construction, the comic itself is posted and updated Thursdays <a href="http://www.royalroadstudios.com" target="_blank">here</a>.</p><p>And don't forget, Silver City is a Patreon funded project, which you can hop over and support <a href="http://www.patreon.com/user?u=244206" target="_blank">here</a> and even get free goodies, as well as early access to each page.</p><p>See you guys on Monday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1710">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="1710">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=640ecee85efb1da2817ecf0e4fea165e&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> Ummm - did they add an Asimov bolt to the doc? &nbsp;I seem to remember him happily cutting major bits off one cast member...&nbsp;</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Ummm - did they add an Asimov bolt to the doc? &nbsp;I seem to remember him happily cutting major bits off one cast member...&nbsp;</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1712">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1712">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">And further mentioned here: http://mysteriesofthearcana.com/comics/474/</p>
+<p class="comment_text"> </p><p class="comment_text">And further mentioned here: http://mysteriesofthearcana.com/comics/474/</p>
  <hr width="70%">
 
 </td></tr></tbody></table>

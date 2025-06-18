@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Whew!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I've got to give Sarrah credit. In addition to doing a great job as artist, she's been very patient with me. This page (and the next one) were particularly hard for me to write. I wanted to get what was said just right, as I felt it represented an important moment in the development of both Theresa and William. I changed the text multiple times and each time she just said 'no problem' and went along with it.<br><br>So, thank you Sarrah. I'm lucky to be working with you!<br>
+       I've got to give Sarrah credit. In addition to doing a great job as artist, she's been very patient with me. This page (and the next one) were particularly hard for me to write. I wanted to get what was said just right, as I felt it represented an important moment in the development of both Theresa and William. I changed the text multiple times and each time she just said 'no problem' and went along with it.<br><br>So, thank you Sarrah. I'm lucky to be working with you!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="402">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="402">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Ok... what?<br><br>My sister once came to visit with her current boyfriend in tow, a nice fellow from England.&nbsp; He had quite the cockney accent with flavorful phrases, and at one point I stopped him mid-sentence and demanded, "Speak English man!"<br><br>He got quite a kick out of that.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Ok... what?<br><br>My sister once came to visit with her current boyfriend in tow, a nice fellow from England.&nbsp; He had quite the cockney accent with flavorful phrases, and at one point I stopped him mid-sentence and demanded, "Speak English man!"<br><br>He got quite a kick out of that.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Azure<br><span class="Comment_info">*Guest*</span></center><a name="403">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Azure<br></center><a name="403">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Azure"</span><br> Did he respond with something like "certainly, governor?"<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Azure"</span><br> Did he respond with something like "certainly, governor?"<br></p>
  
 
 </td></tr></tbody></table>

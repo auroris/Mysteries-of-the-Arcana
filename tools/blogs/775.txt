@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Seems Familiar</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>The entire time I was working on this, all I could picture in my head was Arnold from Twins wearing Danny DeVito's clothing. Everything about this amuses me, and I decided to devote an entire image to the visual joke.</p><p>More to come!</p>
+       <p>The entire time I was working on this, all I could picture in my head was Arnold from Twins wearing Danny DeVito's clothing. Everything about this amuses me, and I decided to devote an entire image to the visual joke.</p><p>More to come!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

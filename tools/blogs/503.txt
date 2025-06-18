@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Blue Goo</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Name</strong>: Ben Hudson</p><hr><p>First, I want to apologize to Peggy over at Samhain Night. She was nice enough to do a filler for us a few days back and we weren't able to link to her comic for a plug due to technical errors. So, let's fix that.</p><p>Go read the gorgeous, Celtic mythology rich <a href="http://samhainnight.com/the-comic/" target="_blank">Samhain Night</a> right after you read this blog!</p><p>Now, to remind everyone. Blue is a sentient color. He's literally an intelligent version of the color blue. Physically, this translates into a blue goo which can heal people. Blue usually stays inside the space suit because it finds that interacting with a world meant for people who aren't sentient shades of colors gets easier when one has hands and thumbs and a voice box/speaker. However, Baron Sir seems to have made the mistake of assuming that if Blue's outside of his suit, he's harmless.</p><p>Whoops!</p><p>See you Monday!</p>
+       <p><strong>Hidden Name</strong>: Ben Hudson</p><hr><p>First, I want to apologize to Peggy over at Samhain Night. She was nice enough to do a filler for us a few days back and we weren't able to link to her comic for a plug due to technical errors. So, let's fix that.</p><p>Go read the gorgeous, Celtic mythology rich <a href="http://samhainnight.com/the-comic/" target="_blank">Samhain Night</a> right after you read this blog!</p><p>Now, to remind everyone. Blue is a sentient color. He's literally an intelligent version of the color blue. Physically, this translates into a blue goo which can heal people. Blue usually stays inside the space suit because it finds that interacting with a world meant for people who aren't sentient shades of colors gets easier when one has hands and thumbs and a voice box/speaker. However, Baron Sir seems to have made the mistake of assuming that if Blue's outside of his suit, he's harmless.</p><p>Whoops!</p><p>See you Monday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1778">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1778">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> He might want to modify his assumption to: "mostly harmless".<br><img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> He might want to modify his assumption to: "mostly harmless".<br><img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="1780">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fairportfan<br></center><a name="1780">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e993a1f35e0339a50a7ec5148aaf81d4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fairportfan"</span><br> I find myself remembering an "Exiern" panel that said "CLOMP!"</p>
+<p class="comment_text"> </p><p class="comment_text"><br> I find myself remembering an "Exiern" panel that said "CLOMP!"</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1781">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1781">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> when you're fighting a sentient BLOB, it's always good to keep an eye cocked to the floor.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> when you're fighting a sentient BLOB, it's always good to keep an eye cocked to the floor.<br></p>
  
 
 </td></tr></tbody></table>

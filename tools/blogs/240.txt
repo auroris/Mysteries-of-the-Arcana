@@ -1,74 +1,74 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Good Morning</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I'd like to, first, apologize to Fes. He's been trying to get together with Keith and I to do an interview for his podcast, the <a name="" target="_blank" classname="" class="" href="http://webcomicbeacon.com/">Webcomic Beacon</a>, and my life has just conspired to get in the way every time.<br><br>Next, we got reviewed! <a name="" target="_blank" classname="" class="" href="http://rainofgods.blogspot.com/">I Am Legend</a>, a webcomic review site, was kind enough to give Mysteries of the Arcana a very positive recommendation. This is our first "professional" review as a webcomic and I'm very pleased with it.<br><br>Finally, a bit of trivia to lighten the morning. <br><br>Did you know most of the main characters have a signature color? Chrys's is purple. Theresa's is green. William's is purple. Mandrake's is black. Kludge's is blue. This determines the color of the vortex storm that transports people from arcana to arcana via the royal road.<br><br><br>
+       I'd like to, first, apologize to Fes. He's been trying to get together with Keith and I to do an interview for his podcast, the <a name="" target="_blank" classname="" class="" href="http://webcomicbeacon.com/">Webcomic Beacon</a>, and my life has just conspired to get in the way every time.<br><br>Next, we got reviewed! <a name="" target="_blank" classname="" class="" href="http://rainofgods.blogspot.com/">I Am Legend</a>, a webcomic review site, was kind enough to give Mysteries of the Arcana a very positive recommendation. This is our first "professional" review as a webcomic and I'm very pleased with it.<br><br>Finally, a bit of trivia to lighten the morning. <br><br>Did you know most of the main characters have a signature color? Chrys's is purple. Theresa's is green. William's is purple. Mandrake's is black. Kludge's is blue. This determines the color of the vortex storm that transports people from arcana to arcana via the royal road.<br><br><br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="292">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="292">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> I detect alot of purple in those colors. And YEESH that was a quick snatch.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "adamas"</span><br> I detect alot of purple in those colors. And YEESH that was a quick snatch.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Uhl<br><span class="Comment_info">*Guest*</span></center><a name="293">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Uhl<br></center><a name="293">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e97cdf9829a7ba88e5e10e1f4633b131&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Uhl"</span><br> SO I take it nobody's quest is going quite as planned, eh?<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Uhl"</span><br> SO I take it nobody's quest is going quite as planned, eh?<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayra<br><span class="Comment_info">*Guest*</span></center><a name="294">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayra<br></center><a name="294">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=92987eee74834fecd463429085c378ae&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayra"</span><br> </p><p>Congratulations on your review!</p> <p>Chrys and Mandrake will surely have fun trying to catch something that goes that fast... Maybe they should just go buy the stuff again, but I doubt that's what they are going to do <img src="//smilies/smile.gif" alt="Smile" border="0"> Especially since Mandrake seems awfully bumed about losing her new shoes...</p> <p>Regarding monday's (?) page, I think those are really wise words that unfortunately don't always apply... Or that sometime that they do apply, but that it takes nearly an entire lifetime.</p> <p>For the color things... I see Melody missing from the list! Always forgotten... *snif*</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayra"</span><br> </p><p>Congratulations on your review!</p> <p>Chrys and Mandrake will surely have fun trying to catch something that goes that fast... Maybe they should just go buy the stuff again, but I doubt that's what they are going to do <img src="/smilies/smile.gif" alt="Smile" border="0"> Especially since Mandrake seems awfully bumed about losing her new shoes...</p> <p>Regarding monday's (?) page, I think those are really wise words that unfortunately don't always apply... Or that sometime that they do apply, but that it takes nearly an entire lifetime.</p> <p>For the color things... I see Melody missing from the list! Always forgotten... *snif*</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ysa</center><a name="296">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ysa</center><a name="296">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=WillAv.jpg" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><table border="0" width="100%">  <tbody><tr> <td class="Forum_info">Submitted December 3 2010 at 1:11AM. &nbsp;</td> <td class="Forum_info" nowrap="" align="right"><a class="Forum_info" href="http://www.mysteriesofthearcana.com/index.php?action=journal&amp;do=addpost&amp;tid=240&amp;q=295"><img border="0" alt="Quote" src="http://www.mysteriesofthearcana.com/images/note.gif"> Quote </a>&nbsp; &nbsp; <a href="http://www.mysteriesofthearcana.com/index.php?action=journal&amp;do=editpost&amp;pid=295&amp;tid=240"><img border="0" alt="Edit Post" src="http://www.mysteriesofthearcana.com/images/edit.gif"></a> &nbsp; <a href="http://www.mysteriesofthearcana.com/index.php?action=journal&amp;do=delpost&amp;pid=295&amp;tid=240"><img border="0" alt="Delete Post" src="http://www.mysteriesofthearcana.com/images/delete.gif"></a></td></tr></tbody></table>   <p class="Forum_text"> </p><p>What a wonderful review! Congrats guys!&nbsp; Although honestly your page was much easier to navigate and highly more entertaining than that nerd who only gave you a review of a 8.5.&nbsp; Lets be honest here, MotA isn't even 2 years old yet!&nbsp; There are always atleast 30 people waiting for updates at the midnight hour.&nbsp; And 6-8 comments per page of highly intelegent conversation and inquires are far better that 50 comments on how a stack of pancakes look like an erection.&nbsp; A quick look at the members list alone shows what an appreciation your fans have for MotA.&nbsp; And we love watching all the&nbsp;guest become part of the family.&nbsp; So I say this, regular guest please register, and members don't forget to sign in!&nbsp; Lets really show the next nerd that these guys deserve a solid 10!</p> <p>BTW I bet Melody's color is red.&nbsp;</p> <p>&nbsp; And Chrys is being an uppity bitch.&nbsp; She had a hard time talking about her dad and sugar coated a lot of that story, but thinks its her right to "fix" Theresa?!&nbsp; The only effective way to help someone with serious problems is to be quietly supportive and step in only when asked or not step in at all.&nbsp;&nbsp;Sometimes you can "help a person too much" and then&nbsp;things just get worse.&nbsp; Playing mind games only leads to mistrust and broken hearts.</p>  
+<p class="comment_text"> </p><table border="0" width="100%">  <tbody><tr> <td class="forum_info">Submitted December 3 2010 at 1:11AM. &nbsp;</td> <td class="forum_info" nowrap="" align="right"><a class="forum_info" href="/index.php?action=journal&amp;do=addpost&amp;tid=240&amp;q=295"><img border="0" alt="Quote" src="/images/note.gif"> Quote </a>&nbsp; &nbsp; <a href="/index.php?action=journal&amp;do=editpost&amp;pid=295&amp;tid=240"><img border="0" alt="Edit Post" src="/images/edit.gif"></a> &nbsp; <a href="/index.php?action=journal&amp;do=delpost&amp;pid=295&amp;tid=240"><img border="0" alt="Delete Post" src="/images/delete.gif"></a></td></tr></tbody></table>   <p class="forum_text"> </p><p>What a wonderful review! Congrats guys!&nbsp; Although honestly your page was much easier to navigate and highly more entertaining than that nerd who only gave you a review of a 8.5.&nbsp; Lets be honest here, MotA isn't even 2 years old yet!&nbsp; There are always atleast 30 people waiting for updates at the midnight hour.&nbsp; And 6-8 comments per page of highly intelegent conversation and inquires are far better that 50 comments on how a stack of pancakes look like an erection.&nbsp; A quick look at the members list alone shows what an appreciation your fans have for MotA.&nbsp; And we love watching all the&nbsp;guest become part of the family.&nbsp; So I say this, regular guest please register, and members don't forget to sign in!&nbsp; Lets really show the next nerd that these guys deserve a solid 10!</p> <p>BTW I bet Melody's color is red.&nbsp;</p> <p>&nbsp; And Chrys is being an uppity bitch.&nbsp; She had a hard time talking about her dad and sugar coated a lot of that story, but thinks its her right to "fix" Theresa?!&nbsp; The only effective way to help someone with serious problems is to be quietly supportive and step in only when asked or not step in at all.&nbsp;&nbsp;Sometimes you can "help a person too much" and then&nbsp;things just get worse.&nbsp; Playing mind games only leads to mistrust and broken hearts.</p>  
  <hr width="70%">All the evils of the world can not outwiegh one act of kindness.
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><span class="Comment_info">*Guest*</span></center><a name="299">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br></center><a name="299">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Anonymous"</span><br> ROYAL RAINBOW!</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Anonymous"</span><br> ROYAL RAINBOW!</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Johan<br><span class="Comment_info">*Guest*</span></center><a name="596">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Johan<br></center><a name="596">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=53e4e1e3a84f641ce65dbebe63d77097&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Johan"</span><br> Again, I Iove Mandrake's reaction : My shoes!!! I wanna see her in hight heels and evening gown now ^^<br><br>And Ysa, you're right. And wrong. But Right. I dunno. I think Chrys acted out of fear, not just to help Theresa. She said she was afraid Theresa's secrets were going to kill her. I'm pretty sure she saw that happenning to other people. And well ... I think anger is easier to overcome than pain ... or not. Hard to say, I never take that kind of decisions without a hell lot more information. I only did something like that once, and the person got better, which is good cuz I didn't really know what I was doing.Oh well. <br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Johan"</span><br> Again, I Iove Mandrake's reaction : My shoes!!! I wanna see her in hight heels and evening gown now ^^<br><br>And Ysa, you're right. And wrong. But Right. I dunno. I think Chrys acted out of fear, not just to help Theresa. She said she was afraid Theresa's secrets were going to kill her. I'm pretty sure she saw that happenning to other people. And well ... I think anger is easier to overcome than pain ... or not. Hard to say, I never take that kind of decisions without a hell lot more information. I only did something like that once, and the person got better, which is good cuz I didn't really know what I was doing.Oh well. <br></p>
  
 
 </td></tr></tbody></table>

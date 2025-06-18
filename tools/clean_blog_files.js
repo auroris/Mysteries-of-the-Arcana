@@ -1,13 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import { load } from 'cheerio';
-import * as parse5 from 'parse5';
 
 const BLOG_DIR = './tools/blogs';
 
 function cleanHtml(html) {
-  const fixedHtml = parse5.serialize(parse5.parse(sanitizeWordHtml(html)));
-  const $ = load(fixedHtml, { xmlMode: false });
+  const $ = load(html, { xmlMode: false });
 
   // Remove tr elements containing <td class="post_info">
   $('tr').has('td.post_info').remove();
@@ -25,6 +23,7 @@ function cleanHtml(html) {
 
   // Remove <span class="desc">
   $('span.desc').remove();
+  $('span.Comment_info').remove();
 
   // Clean up and validate links
   $('a[href], img[src]').each((_, el) => {
@@ -35,7 +34,9 @@ function cleanHtml(html) {
       val = val.trim();
 
       // Rewrite legacy domain
-      val = val.replace(/^http:\/\/mysteriesofthearcana\.com/, '/');
+      val = val.replace(/^http:\/\/mysteriesofthearcana\.com/, '');
+      val = val.replace(/^http:\/\/www.mysteriesofthearcana\.com/, '');
+      val = val.replace(/^\/\//, '/');
 
       // Validate URL
       try {
@@ -118,6 +119,24 @@ function cleanHtml(html) {
       $el.attr('class', `${existingClass} ${idVal}`);
     } else {
       $el.attr('class', idVal);
+    }
+  });
+
+  // Remove first <h1> and first <div class="avatar"> inside the first td of the first table in .post-content
+  const firstTd = $('table').first().find('td').first();
+  firstTd.find('h1').first().remove();
+  firstTd.find('div.avatar').first().remove();
+
+  // Normalize class names
+  $('[class]').each((_, el) => {
+    const $el = $(el);
+    const classList = $el.attr('class');
+    if (classList) {
+      const normalized = classList
+        .split(/\s+/)
+        .map(cls => cls.toLowerCase())
+        .join(' ');
+      $el.attr('class', normalized);
     }
   });
 

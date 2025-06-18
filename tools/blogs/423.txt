@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Out of My Element</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Day two of webcomic trailers! Hello again! Today we're spotlighting <a href="https://www.comic-rocket.com/explore/out-of-my-element/" target="_blank">Out of My Element</a>, a webcomic that combines beautiful art, steampunk aesthetics, and elemental magic! I highly recommend you give it a read. </p><p>Speaking of reading something, fellow webcomic <a href="http://drifterjournalsofahero.thecomicseries.com/blogarchive/18597" target="_blank">Drifter: Journals of a Hero</a> was kind enough to spotlight Mysteries of the Arcana on their site. Give it a glance!</p><p>You may have noticed both the Kickstarter widget and the shoutbox to the right of the blog are gone. The shoutbox was somewhat outdated and hardly used and the Kickstarter widgit isn't really needed now that the campaign is over. Just one of those small changes I mentioned!</p><p>See you tomorrow!</p>
+       <p>Day two of webcomic trailers! Hello again! Today we're spotlighting <a href="https://www.comic-rocket.com/explore/out-of-my-element/" target="_blank">Out of My Element</a>, a webcomic that combines beautiful art, steampunk aesthetics, and elemental magic! I highly recommend you give it a read. </p><p>Speaking of reading something, fellow webcomic <a href="http://drifterjournalsofahero.thecomicseries.com/blogarchive/18597" target="_blank">Drifter: Journals of a Hero</a> was kind enough to spotlight Mysteries of the Arcana on their site. Give it a glance!</p><p>You may have noticed both the Kickstarter widget and the shoutbox to the right of the blog are gone. The shoutbox was somewhat outdated and hardly used and the Kickstarter widgit isn't really needed now that the campaign is over. Just one of those small changes I mentioned!</p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

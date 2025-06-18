@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Summer's Here!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Today's page is late not because of the artist but because of the writer. She sent it to me on time. Unfortunately, my mornings just got a bit busier. Summer has come, which means driving to day camp, working on the yard, and taking the occasional trip. So, please, bear with us. We'll get the comic up as soon as possible over the next few months but it might not be precisely on time. The comic should always be up in the morning of the day it is supposed to be posted, though.<br>
+       Today's page is late not because of the artist but because of the writer. She sent it to me on time. Unfortunately, my mornings just got a bit busier. Summer has come, which means driving to day camp, working on the yard, and taking the occasional trip. So, please, bear with us. We'll get the comic up as soon as possible over the next few months but it might not be precisely on time. The comic should always be up in the morning of the day it is supposed to be posted, though.<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="658">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="658">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Ok, so Featherbeard, the parrot pirate, has a mini-gray (or light purple) to sit on his shoulder and parrot him?<br><br>This is a twisted arcana.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Ok, so Featherbeard, the parrot pirate, has a mini-gray (or light purple) to sit on his shoulder and parrot him?<br><br>This is a twisted arcana.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="659">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="659">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "adamas"</span><br> Looks like he biosculpted his head to the parrot's and shaped the parrot into a grey<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "adamas"</span><br> Looks like he biosculpted his head to the parrot's and shaped the parrot into a grey<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Ayshara<br><span class="Comment_info">*Guest*</span></center><a name="660">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Ayshara<br></center><a name="660">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Ayshara"</span><br> Maybe, but he still has a green hand. *shrugs* looks like someone spliced a parrot and a human(oid) together...<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Ayshara"</span><br> Maybe, but he still has a green hand. *shrugs* looks like someone spliced a parrot and a human(oid) together...<br></p>
  
 
 </td></tr></tbody></table>

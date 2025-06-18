@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Storm troubles</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    Well, that was fun! Power went out here Saturday night. That was while the area was being blanketed with about thirteen inches of snow. Fortunately, I had the foresight to shovel the drive-way during the storm so it was easier to dig the car out on Sunday. From there, there was a quest for heat. Ended up staying in two different locations until the power was restored at home.<br><br>I hope Mystery of the Arcana readers in the northeast are safe and sound. Shout out and let us know you're okay!<br>
+       Well, that was fun! Power went out here Saturday night. That was while the area was being blanketed with about thirteen inches of snow. Fortunately, I had the foresight to shovel the drive-way during the storm so it was easier to dig the car out on Sunday. From there, there was a quest for heat. Ended up staying in two different locations until the power was restored at home.<br><br>I hope Mystery of the Arcana readers in the northeast are safe and sound. Shout out and let us know you're okay!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Johan<br><span class="Comment_info">*Guest*</span></center><a name="839">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Johan<br></center><a name="839">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=53e4e1e3a84f641ce65dbebe63d77097&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Johan"</span><br> hahaha My god what kind of gear box is that? You always surprise me with things I can never see coming, I love this webcomic so much. Also I really like the new artist, she has an interesting style. I hope you two can keep working together like this for very long cuz the result is great.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Johan"</span><br> hahaha My god what kind of gear box is that? You always surprise me with things I can never see coming, I love this webcomic so much. Also I really like the new artist, she has an interesting style. I hope you two can keep working together like this for very long cuz the result is great.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gennifer<br><span class="Comment_info">*Guest*</span></center><a name="840">&nbsp;</a></span><br>
-<center><img src="//image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gennifer<br></center><a name="840">&nbsp;</a></span><br>
+<center><img src="/image.php?type=ava&amp;i=spacer.gif" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Gennifer"</span><br> Anyone recognize the Simpsons refrence?&nbsp; <br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Gennifer"</span><br> Anyone recognize the Simpsons refrence?&nbsp; <br></p>
  
 
 </td></tr></tbody></table>

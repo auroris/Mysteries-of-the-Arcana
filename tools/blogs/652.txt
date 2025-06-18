@@ -1,19 +1,19 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Religion</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>Considering Theresa's on crutches, wearing a jacket too big for her (which has been laying on the ground in an old, abandoned subway station for weeks), and in just about the worst part of town it isn't surprising the priest thinks she needs a place to stay.</p><p>I wrote Narrow because I felt the need to explore Theresa's faith quietly. Not so much off to the side, away from the main story, but in a place where the pressures of the plotline weren't shoving it into a corner. Faith and religion are nuanced, which can be lost when you're fighting button headed men or running away from plastic yuppie zombies.</p><p>Remember, this takes place shortly after chapter 1 ended. Which means not so long ago Theresa kissed her female best friend, took her off life support, and nearly attempted suicide. All of which her religion tells her are sins. Now, she's in a place where God seems to have no place and she finds herself attracted to another woman. </p><p>And so here she is. In a church and praying, trying to understand who she is and where she is and what part she plays in the much, much wider multiverse she finds herself in. I think that's something many of us can relate to.</p><p>See you Monday.</p>
+       <p>Considering Theresa's on crutches, wearing a jacket too big for her (which has been laying on the ground in an old, abandoned subway station for weeks), and in just about the worst part of town it isn't surprising the priest thinks she needs a place to stay.</p><p>I wrote Narrow because I felt the need to explore Theresa's faith quietly. Not so much off to the side, away from the main story, but in a place where the pressures of the plotline weren't shoving it into a corner. Faith and religion are nuanced, which can be lost when you're fighting button headed men or running away from plastic yuppie zombies.</p><p>Remember, this takes place shortly after chapter 1 ended. Which means not so long ago Theresa kissed her female best friend, took her off life support, and nearly attempted suicide. All of which her religion tells her are sins. Now, she's in a place where God seems to have no place and she finds herself attracted to another woman. </p><p>And so here she is. In a church and praying, trying to understand who she is and where she is and what part she plays in the much, much wider multiverse she finds herself in. I think that's something many of us can relate to.</p><p>See you Monday.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Fafhred<br><span class="Comment_info">*Guest*</span></center><a name="2799">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Fafhred<br></center><a name="2799">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=f1a90be21b6f7a3989f9681e76fe8a49&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Fafhred"</span><br> You got a typo in 'poisoning' <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> You got a typo in 'poisoning' <br></p>
  
 
 </td></tr></tbody></table>

@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>The next morning</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p><strong>Hidden Name</strong>: Adam Bell</p><hr><p>Cut to the next morning. As Keith pointed out, this is the first time we've ever seen Chrys without makeup on. She's also in a rather unfashionable (but comfy) bathrobe. Or dressing gown, if you prefer. Theresa looks like she slept in her clothing. Maybe she has.</p><p>Theresa's got a breakfast burrito on her plate. Chrys has toast and a glass of juice squeezed from a fruit that doesn't exist on our world.</p><p>See you Thursday!</p>
+       <p><strong>Hidden Name</strong>: Adam Bell</p><hr><p>Cut to the next morning. As Keith pointed out, this is the first time we've ever seen Chrys without makeup on. She's also in a rather unfashionable (but comfy) bathrobe. Or dressing gown, if you prefer. Theresa looks like she slept in her clothing. Maybe she has.</p><p>Theresa's got a breakfast burrito on her plate. Chrys has toast and a glass of juice squeezed from a fruit that doesn't exist on our world.</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1803">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1803">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> *looks at archives to check the current page number and tilts head* Did you mean to make the odd numbered chapters the long ones?</p>
+<p class="comment_text"> </p><p class="comment_text"><br> *looks at archives to check the current page number and tilts head* Did you mean to make the odd numbered chapters the long ones?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="Comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1807">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:90%;" class="comment2"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1807">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">Complete coincidence. I don't have any specific agenda when it comes to length of a chapter. I just write and what comes out... comes out.</p>
+<p class="comment_text"> </p><p class="comment_text">Complete coincidence. I don't have any specific agenda when it comes to length of a chapter. I just write and what comes out... comes out.</p>
  <hr width="70%">
 
 </td></tr></tbody></table>

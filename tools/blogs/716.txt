@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Suggestions are Fun!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>So, someone suggested a swap of outfits from Theresa and Chrys' original and very first kiss.</p><p>Granted! It's not quite the exact outfit, because i thought maybe Chrys has a little different taste in undies, but all in all, this was rather fun to do. I still have the Mandrake idea percolating, but I'm still taking suggestions and ideas for more inbetween stuff.</p><p>J's prepping for GenCon and he's working on recharging his batteries so he can get back to writing. I'm glad you guys are sticking it out with us!</p>
+       <p>So, someone suggested a swap of outfits from Theresa and Chrys' original and very first kiss.</p><p>Granted! It's not quite the exact outfit, because i thought maybe Chrys has a little different taste in undies, but all in all, this was rather fun to do. I still have the Mandrake idea percolating, but I'm still taking suggestions and ideas for more inbetween stuff.</p><p>J's prepping for GenCon and he's working on recharging his batteries so he can get back to writing. I'm glad you guys are sticking it out with us!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

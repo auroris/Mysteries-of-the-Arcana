@@ -1,63 +1,63 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Patreon!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>I know. You're wondering when this horribly produced LEGO comic will be over? That has to be the reason you've all been so quiet! The answer is, hopefully soon. I'm working on chapter 6 as we speak. Getting the script together. Here are some key words for the next chapter of Mysteries of the Arcana:</p><p style="text-align: center;"><strong><inline><inline><inline style="font-size: 20px;">Hanged Man. Squirrel War. Void Monsters. Quest. Magic Bullets.</inline></inline></inline></strong></p><p>In the meanwhile, I hope you are enjoying this refresher on how the multiverse of Mysteries of the Arcana works. One of the problems with with webcomics is it gets spread out over a long period of time so it can be easy to forget important background details the Royal Road or Keys or Key powers.</p><p><strong>Good news! </strong>The <a href="http://www.patreon.com/user?u=452395" target="_blank">Mysteries of the Arcana Patreon</a> currently has 8 backers who have promised a total of $243 per month in support. That means we'll definitely be bringing you chapter 6 once a week for a total of 4-5 page per month (depending on how many weeks there are in a particular month). However, Keith and I really want to be able to boost that to two pages per week. To do that, we need to bring the total up to $320 per month in support. That means we're only $77 per month short! <a href="http://www.patreon.com/user?u=452395" target="_blank">Please consider supporting us</a>. Even a dollar or two per month makes a difference. It all adds up very quickly. To borrow a guilt-trip from NPR, if you love Mysteries of the Arcana and want to keep reading it, isn't it worth a bit of financial support?</p><p>See you Thursday!</p>
+       <p>I know. You're wondering when this horribly produced LEGO comic will be over? That has to be the reason you've all been so quiet! The answer is, hopefully soon. I'm working on chapter 6 as we speak. Getting the script together. Here are some key words for the next chapter of Mysteries of the Arcana:</p><p style="text-align: center;"><strong><inline><inline><inline style="font-size: 20px;">Hanged Man. Squirrel War. Void Monsters. Quest. Magic Bullets.</inline></inline></inline></strong></p><p>In the meanwhile, I hope you are enjoying this refresher on how the multiverse of Mysteries of the Arcana works. One of the problems with with webcomics is it gets spread out over a long period of time so it can be easy to forget important background details the Royal Road or Keys or Key powers.</p><p><strong>Good news! </strong>The <a href="http://www.patreon.com/user?u=452395" target="_blank">Mysteries of the Arcana Patreon</a> currently has 8 backers who have promised a total of $243 per month in support. That means we'll definitely be bringing you chapter 6 once a week for a total of 4-5 page per month (depending on how many weeks there are in a particular month). However, Keith and I really want to be able to boost that to two pages per week. To do that, we need to bring the total up to $320 per month in support. That means we're only $77 per month short! <a href="http://www.patreon.com/user?u=452395" target="_blank">Please consider supporting us</a>. Even a dollar or two per month makes a difference. It all adds up very quickly. To borrow a guilt-trip from NPR, if you love Mysteries of the Arcana and want to keep reading it, isn't it worth a bit of financial support?</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>adamas<br><span class="Comment_info">*Guest*</span></center><a name="1912">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>adamas<br></center><a name="1912">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "adamas"</span><br> in my case it's been trying NOT to get sick while everybody and the cat IS. :(<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> in my case it's been trying NOT to get sick while everybody and the cat IS. :(<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Musical_life<br><span class="Comment_info">*Guest*</span></center><a name="1916">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Musical_life<br></center><a name="1916">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6f86cb0ffa70485e791906edfc2d1247&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Musical_life"</span><br> In my area, it's been Christmas stress and getting over the tragedy that was 2014.</p>
+<p class="comment_text"> </p><p class="comment_text"><br> In my area, it's been Christmas stress and getting over the tragedy that was 2014.</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>JGray</center><a name="1918">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>JGray</center><a name="1918">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=3de6483cf7ef4947f33483faa590f1a0&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=100&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text">@Adamas: I know that feeling. I went through it myself recently.</p><div><br></div><div>@Musical_Life: I can only hope 2015 is much better.&nbsp;</div>
+<p class="comment_text"> </p><p class="comment_text">@Adamas: I know that feeling. I went through it myself recently.</p><div><br></div><div>@Musical_Life: I can only hope 2015 is much better.&nbsp;</div>
  <hr width="70%">
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://commandercottontail.com" target="_blank">Wendy Wood</a><br><span class="Comment_info">*Guest*</span></center><a name="1922">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://commandercottontail.com" target="_blank">Wendy Wood</a><br></center><a name="1922">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=67497f5b53d7aa88f6dafaa471fecd0a&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Wendy Wood"</span><br> Squirrel war!&nbsp;</p><div><br><div>o/</div></div>
+<p class="comment_text"> </p><p class="comment_text"><br> Squirrel war!&nbsp;</p><div><br><div>o/</div></div>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1925">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1925">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> As for me, I'm so busy at school these days that I've switched my comic reading to sporadic bulk mode.<br><br>I think the LEGO comic looks fine, and it's a nice change of pace while we wait for the next chapter. <img src="//smilies/smile.gif" alt="Smile" border="0"><br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> As for me, I'm so busy at school these days that I've switched my comic reading to sporadic bulk mode.<br><br>I think the LEGO comic looks fine, and it's a nice change of pace while we wait for the next chapter. <img src="/smilies/smile.gif" alt="Smile" border="0"><br></p>
  
 
 </td></tr></tbody></table>

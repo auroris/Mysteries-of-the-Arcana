@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>The End!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And so, after way too long, we come to the very end of chapter 4! An awww moment for Chrys and Theresa and a little bit of foreshadowing. Foreshadowing for what, you might ask? Find out in chapter 5!</p><p>Now, we're going to take a two week hiatus between chapter 4 and chapter 5. A little over two weeks, technically. The first page of chapter 5 will go live on 3/24.</p><p>But! That doesn't mean there's no reason to visit our site between now and then. Each day between now and the 24th we'll have WEBCOMIC TRAILERS! Basically, we're letting other webcomics use our space to present their webcomic to you in an entertaining format in an attempt to win your love and readership. So, come back each day and see what Webcomic Trailers has to offer.</p><p>Seriously. How cute are Chrys and Theresa here?</p><p>See you tomorrow!</p>
+       <p>And so, after way too long, we come to the very end of chapter 4! An awww moment for Chrys and Theresa and a little bit of foreshadowing. Foreshadowing for what, you might ask? Find out in chapter 5!</p><p>Now, we're going to take a two week hiatus between chapter 4 and chapter 5. A little over two weeks, technically. The first page of chapter 5 will go live on 3/24.</p><p>But! That doesn't mean there's no reason to visit our site between now and then. Each day between now and the 24th we'll have WEBCOMIC TRAILERS! Basically, we're letting other webcomics use our space to present their webcomic to you in an entertaining format in an attempt to win your love and readership. So, come back each day and see what Webcomic Trailers has to offer.</p><p>Seriously. How cute are Chrys and Theresa here?</p><p>See you tomorrow!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Adamas<br><span class="Comment_info">*Guest*</span></center><a name="1276">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Adamas<br></center><a name="1276">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=63b5da7dbecbf4a2fac891b8f15ccbc4&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Adamas"</span><br> Hmmm mysterious android and Stage 2...It's the machines again! Everybody! Get your waterguns! <br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Hmmm mysterious android and Stage 2...It's the machines again! Everybody! Get your waterguns! <br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="1280">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="1280">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Hmm, are the machines switching to Terminator mode?<br>Theresa's ability to see weaknesses ultimately results in their defeat, so they sent this robot back in time to... nah, probably not.<br><br>I like the design of that gynoid, it's very interesting. Also those headphones are funny. <img src="//smilies/smile.gif" alt="Smile" border="0"><br><br>Looking forward to chapter 5!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Hmm, are the machines switching to Terminator mode?<br>Theresa's ability to see weaknesses ultimately results in their defeat, so they sent this robot back in time to... nah, probably not.<br><br>I like the design of that gynoid, it's very interesting. Also those headphones are funny. <img src="/smilies/smile.gif" alt="Smile" border="0"><br><br>Looking forward to chapter 5!<br></p>
  
 
 </td></tr></tbody></table>

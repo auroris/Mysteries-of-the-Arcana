@@ -1,11 +1,11 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Home Again?</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="verias"><br></div>    <p>Of all the fantastical places we've gone in MotA, one place we haven't seen much of at all since Chapter 1 (minus the short stories), is our Earth. After some thinking, I decided it might be kinda fun to see Theresa standing back on familiar home ground, even basking a bit in the rain as she casts a backward glance to someone.</p><p>So, while we're still battling life things, enjoy this little peek at Theresa, back home again, in far better spirits than the first time we saw her.</p>
+       <p>Of all the fantastical places we've gone in MotA, one place we haven't seen much of at all since Chapter 1 (minus the short stories), is our Earth. After some thinking, I decided it might be kinda fun to see Theresa standing back on familiar home ground, even basking a bit in the rain as she casts a backward glance to someone.</p><p>So, while we're still battling life things, enjoy this little peek at Theresa, back home again, in far better spirits than the first time we saw her.</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody></tbody></table>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody></tbody></table>
 <!-- End main content -->
               </div></body></html>

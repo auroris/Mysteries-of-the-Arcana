@@ -1,41 +1,41 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Happy Spring!</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    <p>And here we are, on the second day of spring. Of course, before spring started it had climbed up into the 60s and now that spring has started it is down in the 20s. For those of you outside the US who use a sane measuring system, that's "spring-like warm" and "light winter cold" respectively.</p><p>Hey, did you all see that Gunsolo (one of our most frequent commenters and friend of the comic) is building a robot? That climbs stairs?</p><p><a href="https://www.youtube.com/watch?v=9lCRyh-02EM" target="_blank">Check this bad boy out!</a> Or girl. Check this bad girl out? Something like that. While you are there, give it a like. Let's get those views up!</p><p>See you Thursday!</p>
+       <p>And here we are, on the second day of spring. Of course, before spring started it had climbed up into the 60s and now that spring has started it is down in the 20s. For those of you outside the US who use a sane measuring system, that's "spring-like warm" and "light winter cold" respectively.</p><p>Hey, did you all see that Gunsolo (one of our most frequent commenters and friend of the comic) is building a robot? That climbs stairs?</p><p><a href="https://www.youtube.com/watch?v=9lCRyh-02EM" target="_blank">Check this bad boy out!</a> Or girl. Check this bad girl out? Something like that. While you are there, give it a like. Let's get those views up!</p><p>See you Thursday!</p>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>fairportfan<br><span class="Comment_info">*Guest*</span></center><a name="2485">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>fairportfan<br></center><a name="2485">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=6a0561c0957a6b889bac34144c7cec72&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "fairportfan"</span><br> Did they mean to do it like that?</p>
+<p class="comment_text"> </p><p class="comment_text"><br> Did they mean to do it like that?</p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Lukkai<br><span class="Comment_info">*Guest*</span></center><a name="2486">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Lukkai<br></center><a name="2486">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=e01e7833e9dba61f3f3d11328040f997&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Lukkai"</span><br> Well, let's hope that entry is as visible to their pursuer as it was to Theresa.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Well, let's hope that entry is as visible to their pursuer as it was to Theresa.<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center>Gunsolo<br><span class="Comment_info">*Guest*</span></center><a name="2487">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center>Gunsolo<br></center><a name="2487">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=a94f16ab08c7abb74820e668722a5ffc&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Comment_info">Guest post by "Gunsolo"</span><br> Better hope the void person doesn't start deleting the top layer of the bark at random.<br><br>Come to think of it, why not do that in the first place instead of getting the viquirrels to dig random trenches?<br>I guess he just couldn't be bothered, or maybe it takes a lot of effort to exist as a void.<br></p>
+<p class="comment_text"> </p><p class="comment_text"><br> Better hope the void person doesn't start deleting the top layer of the bark at random.<br><br>Come to think of it, why not do that in the first place instead of getting the viquirrels to dig random trenches?<br>I guess he just couldn't be bothered, or maybe it takes a lot of effort to exist as a void.<br></p>
  
 
 </td></tr></tbody></table>

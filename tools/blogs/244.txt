@@ -1,30 +1,30 @@
 <html><head></head><body><div>
 <!-- Main content here -->
 <table border="0" class="post"><tbody><tr><td>
-   <h1>Behind the mall is never pretty...</h1>
+   
    <div class="post_body">
-   <div id="avatar"><img src="//images/spacer.gif" border="0" alt="JGray"><br></div>    I'm guessing most of you have, at some point in your life, been behind the scenes at a mall. In the corridors that run behind the stores of the bathrooms in the little used corners. They're never very pretty...<br><br>Dont' forget about the art auction. Keith's auctioning off several pieces of original Mystery of the Arcana comic boards. This is a chance to own part of the comic for a very low price. Details are in the post below!<br>
+       I'm guessing most of you have, at some point in your life, been behind the scenes at a mall. In the corridors that run behind the stores of the bathrooms in the little used corners. They're never very pretty...<br><br>Dont' forget about the art auction. Keith's auctioning off several pieces of original Mystery of the Arcana comic boards. This is a chance to own part of the comic for a very low price. Details are in the post below!<br>
    </div>
    </td></tr>
-   </tbody></table><hr><table style="width:100%; border:0;" class="Comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br><span class="Comment_info">*Guest*</span></center><a name="312">&nbsp;</a></span><br>
+   </tbody></table><hr><table style="width:100%; border:0;" class="comment_table"><tbody><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="https://www.dragonpowered.com" target="_blank">JD</a><br></center><a name="312">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=ca086ab32c3326c1cca9697fd6eb1aec&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "JD"</span><br> Wow!&nbsp; How did my last car end up at the mall, and why are they thinking of getting into it?!?!<br></p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "JD"</span><br> Wow!&nbsp; How did my last car end up at the mall, and why are they thinking of getting into it?!?!<br></p>
  
 
 </td></tr></tbody></table>
-<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="Comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
-<span class="Comment_title"><center><br><a href="http://katya-s69.livejournal.com/" target="_blank">Katy</a><br><span class="Comment_info">*Guest*</span></center><a name="429">&nbsp;</a></span><br>
+<hr></div></td></tr><tr><td width="100%"><a name=""> </a><div style="width:100%;" class="comment"><table border="0" width="100%"><tbody><tr><td align="center" valign="top" width="125">
+<span class="comment_title"><center><br><a href="http://katya-s69.livejournal.com/" target="_blank">Katy</a><br></center><a name="429">&nbsp;</a></span><br>
 <center><img src="https://www.gravatar.com/avatar.php?gravatar_id=b7d33aed217fbd6aa0920639efbb18f2&amp;default=http%3A%2F%2Fmysteriesofthearcana.com%2Ftemplates%2Fmain%2Fimages%2Favatar.gif&amp;size=80&amp;rating=g" border="0" alt=""></center>
 </td>
 <td valign="top">
 
 
-<p class="Comment_text"> </p><p class="Comment_text"><span class="Forum_info">Guest post by "Katy"</span><br> At this point, I think I would be seriously contemplating just buying the stuff again. (BTW, the dehydrated water blew my mind ... how do you re-hydrate it? &nbsp;With water, I presume - and in that case, why bother having dehydrated water? &nbsp;The mind boggles ...)</p>
+<p class="comment_text"> </p><p class="comment_text"><span class="forum_info">Guest post by "Katy"</span><br> At this point, I think I would be seriously contemplating just buying the stuff again. (BTW, the dehydrated water blew my mind ... how do you re-hydrate it? &nbsp;With water, I presume - and in that case, why bother having dehydrated water? &nbsp;The mind boggles ...)</p>
  
 
 </td></tr></tbody></table>
