@@ -247,7 +247,6 @@ ul.gallery-images li {
      box-sizing: border-box;
      padding: 10px;
      text-align: center;
-     justify-content: space-between;
 }
 
 ul.gallery-images a {
