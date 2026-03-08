@@ -7,7 +7,7 @@ layout: base.njk
     {% include "site-nav.njk" %}
     <article class="post">
         <h1 class="posttitle">{{ title }}</h1>
-        <div class="postmeta">Published on: <span class="date">{{ date }}</span> | Author: <span class="author">{{ author }}</span></div>
+        <div class="postmeta">Published on: <span class="date">{{ date | date() }}</span> | Author: <span class="author">{{ author }}</span></div>
         <div class="post-content">
             {{ content | safe }}
         </div>

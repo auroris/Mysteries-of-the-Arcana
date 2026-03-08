@@ -22,7 +22,7 @@ permalink: index.html
         <h1 class="posttitle">{{ latestPost.data.title }}</h1>
         <div class="postmeta">Published on: <span class="date">{{ latestPost.date | date() }}</span> | Author: <span class="author">{{ latestPost.data.author }}</span></div>
         <div class="post-content">
-            {{ latestPost.rawInput | safe }}
+            {{ latestPost.templateContent | safe }}
         </div>
     </article>
 </div>

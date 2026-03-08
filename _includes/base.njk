@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{{ title or metadata.title }}</title>
         <meta name="description" content="{{ description or metadata.description }}" />
-        <link rel="stylesheet" href="/theme/style.css" rel="preload">
+        <link rel="stylesheet" href="/theme/style.css">
         <link rel="alternate" href="/feeds/feed.xml" type="application/atom+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feeds/arcanarss.xml" type="application/rss+xml" title="{{ metadata.title }}" />
         <link rel="alternate" href="/feeds/feed.json" type="application/json" title="{{ metadata.title }}" />
@@ -16,10 +16,12 @@
         <meta name="date" content="{{ date or latestComic.data.date }}">
         {% if page.nextUrl %} <link rel="prefetch" href="{{ page.nextUrl }}" /> {% endif %}
         <meta property="og:site_name" content="{{ metadata.title }}" />
+        <meta property="og:title" content="{{ title or metadata.title }}" />
+        <meta property="og:type" content="website" />
         <meta property="og:description" content="{{ description or metadata.description }}">
-        <meta property="og:image" content="/theme/motalogo.png">
+        <meta property="og:image" content="{{ metadata.url }}theme/motalogo.png">
     </head>
-    <body bgcolor="#000">
+    <body>
         <header class="logo-container">
             <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" aria-label="Logo" />
         </header>
