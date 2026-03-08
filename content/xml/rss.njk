@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: true
     <title>{{ metadata.title }}</title>
     <description>{{ metadata.description }}</description>
     <link>{{ metadata.url }}</link>
-    {%- for post in collections.posts %}
+    {%- for post in collections.feed | reverse %}
     {% set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
         <item>
         <title>{{ post.data.title }}</title>

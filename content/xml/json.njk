@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: true
         "name": "{{ metadata.author.name }}"
     },
     "items": [
-        {%- for post in collections.posts | reverse %}
+        {%- for post in collections.feed | reverse %}
         {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.url) %}
         {
             "id": "{{ absolutePostUrl }}",

@@ -5,13 +5,19 @@ import { fileURLToPath } from "url";
 import { DateTime } from "luxon";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
 import htmlmin from "html-minifier-terser";
 import { promises as fs } from 'fs';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
+    eleventyConfig.addCollection("feed", (collectionApi) => {
+        return [
+            ...collectionApi.getFilteredByGlob("content/comics/*.md"),
+            ...collectionApi.getFilteredByGlob("content/posts/*.md"),
+        ].sort((a, b) => a.date - b.date);
+    });
+
     // Drafts: Only include draft content if ELEVENTY_RUN_MODE is not "build"
     eleventyConfig.addPreprocessor("drafts", "*", (data) => {
         if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
