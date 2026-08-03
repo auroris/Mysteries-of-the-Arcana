@@ -4,12 +4,8 @@
     "description": "\"Mysteries of the Arcana\" is a fantasy webcomic about a diverse group of characters journeying through a multiverse inspired by tarot cards, blending magic, adventure, and personal growth.",
     "type": "module",
     "scripts": {
-        "prebuild": "node ./tools/utf8-preprocessor.cjs",
-        "build": "npm run prebuild && npm run build:dev && npm run lint:css && npm run build:css && npm run lint:html",
-        "start": "npm run prebuild && npx @11ty/eleventy --serve --quiet",
-        "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-        "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-        "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+        "build": "npm run build:dev && npm run lint:css && npm run build:css && npm run lint:html",
+        "start": "npx @11ty/eleventy --serve --quiet",
         "lint:html": "htmlhint ./_site/**/*.html",
         "build:css": "postcss public/theme/*.css -d _site/theme",
         "lint:css": "stylelint public/theme/*.css --fix",
@@ -18,7 +14,7 @@
         "build:dev": "cross-env RELATIVE_URL_ENABLE=true RELATIVE_URL_HTML=true HTML_MINIFIER=false npx @11ty/eleventy"
     },
     "engines": {
-        "node": ">=20"
+        "node": ">=22"
     },
     "devDependencies": {
         "@11ty/eleventy": "^3.1.1",

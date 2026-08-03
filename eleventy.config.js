@@ -101,14 +101,15 @@ export default async function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj, { zone }).toFormat(format || "dd LLLL yyyy");
     });
 
-    eleventyConfig.addFilter("htmlEscape", (value) =>
+    const htmlEscape = (value) =>
         String(value)
             .replace(/&/g, "&amp;")
             .replace(/</g, "&lt;")
             .replace(/>/g, "&gt;")
             .replace(/"/g, "&quot;")
-            .replace(/'/g, "&#39;")
-    );
+            .replace(/'/g, "&#39;");
+
+    eleventyConfig.addFilter("htmlEscape", htmlEscape);
 
     eleventyConfig.addNunjucksAsyncShortcode("Image", async (src, alt, width = 650) => {
         const possibleExtensions = ["jpg", "png"];
@@ -180,8 +181,9 @@ export default async function(eleventyConfig) {
         ]);
 
         const { width, height } = await sharp(avifSourcePath).metadata();
+        const escapedAlt = htmlEscape(alt);
 
-        return `<picture><source type="image/avif" srcset="/img/${avifFileName}"><img src="/img/${originalFileName}" width="${width}" height="${height}" alt="${alt}" class="comic"></picture>`;
+        return `<picture><source type="image/avif" srcset="/img/${avifFileName}"><img src="/img/${originalFileName}" width="${width}" height="${height}" alt="${escapedAlt}" title="${escapedAlt}" class="comic"></picture>`;
     });
 
     eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {

@@ -30,11 +30,22 @@ layout: base.njk
 
 <div class="content-h">
     {% include "site-nav.njk" %}
-    <article class="comic">
-        {% if next %}<a href="{{ next.url }}" data-preserve-scroll>{% endif %}
-        {% ComicImage "content/comics/" + page.fileSlug, alt %}
-        {% if next %}</a>{% endif %}
-    </article>
+    <div class="comic-page-layout">
+        <article class="comic">
+            {% if next %}<a href="{{ next.url }}" data-preserve-scroll>{% endif %}
+            {% ComicImage "content/comics/" + page.fileSlug, alt %}
+            {% if next %}</a>{% endif %}
+        </article>
+
+        {% if content | trim %}
+        <section class="comic-transcript" aria-labelledby="comic-transcript-title">
+            <h2 id="comic-transcript-title">Transcript</h2>
+            <div class="comic-transcript-body">
+                {{ content | safe }}
+            </div>
+        </section>
+        {% endif %}
+    </div>
 </div>
 
 {% include "comic-nav.njk" %}
