@@ -3,6 +3,7 @@ import sharp from "sharp";
 import { join, resolve, dirname, basename } from "path";
 import { fileURLToPath } from "url";
 import { DateTime } from "luxon";
+import markdownIt from "markdown-it";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
@@ -11,6 +12,8 @@ import { promises as fs } from 'fs';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
+    const markdownLibrary = markdownIt({ html: true }).disable("code");
+
     eleventyConfig.addCollection("feed", (collectionApi) => {
         return [
             ...collectionApi.getFilteredByGlob("content/comics/*.md"),
@@ -43,6 +46,9 @@ export default async function(eleventyConfig) {
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
     eleventyConfig.addPlugin(IdAttributePlugin);
+
+    eleventyConfig.setLibrary("md", markdownLibrary);
+    eleventyConfig.addFilter("renderMarkdown", (content) => markdownLibrary.render(content));
 
     const relativeURLsEnable = process.env.RELATIVE_URL_ENABLE === "true";
     const relativeURLsAssumeHtml = process.env.RELATIVE_URL_HTML === "true";

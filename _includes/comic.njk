@@ -61,7 +61,7 @@ layout: base.njk
                 Author: <span class="author">{{ post.data.author }}</span>
             </div>
             <div class="post-content">
-                {{ post.templateContent | safe }}
+                {{ post.rawInput | renderMarkdown | safe }}
             </div>
         </article>
     {% endfor %}
