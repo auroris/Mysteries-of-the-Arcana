@@ -31,8 +31,8 @@ layout: base.njk
 <div class="content-h">
     {% include "site-nav.njk" %}
     <article class="comic">
-        {% if next %}<a href="{{ next.url }}">{% endif %}
-        {% Image "content/comics/" + page.fileSlug, alt %}
+        {% if next %}<a href="{{ next.url }}" data-preserve-scroll>{% endif %}
+        {% ComicImage "content/comics/" + page.fileSlug, alt %}
         {% if next %}</a>{% endif %}
     </article>
 </div>

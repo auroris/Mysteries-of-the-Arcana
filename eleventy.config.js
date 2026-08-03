@@ -31,9 +31,12 @@ export default async function(eleventyConfig) {
     });
 
     eleventyConfig.addPassthroughCopy({ "./public/": "/" });
+    eleventyConfig.addPassthroughCopy({
+        "./node_modules/swup/dist/Swup.umd.js": "/scripts/swup.js",
+    });
 
     // Add files to Eleventy watch target
-    eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+    eleventyConfig.addWatchTarget("content/**/*.{svg,avif,webp,png,jpg,jpeg}");
 
     // Register official Eleventy plugins
     eleventyConfig.addPlugin(pluginNavigation);
@@ -139,6 +142,46 @@ export default async function(eleventyConfig) {
 
         // Return the <img> tag with the correct reference
         return `<img src="/img/${baseFileName}.${fileExtension}" alt="${alt}" class="comic">`;
+    });
+
+    eleventyConfig.addNunjucksAsyncShortcode("ComicImage", async (src, alt) => {
+        const possibleExtensions = ["jpg", "png"];
+        const outputDir = resolve(process.cwd(), "./_site/img");
+        const avifSourcePath = resolve(process.cwd(), `${src}.avif`);
+
+        let resolvedSrc;
+        let fileExtension;
+        for (const ext of possibleExtensions) {
+            const filePath = resolve(process.cwd(), `${src}.${ext}`);
+            if (existsSync(filePath)) {
+                resolvedSrc = filePath;
+                fileExtension = ext;
+                break;
+            }
+        }
+
+        if (!resolvedSrc) {
+            throw new Error(`Image not found for ${src}`);
+        }
+        if (!existsSync(avifSourcePath)) {
+            throw new Error(`AVIF image not found for ${src}`);
+        }
+
+        const baseFileName = basename(src);
+        const originalFileName = `${baseFileName}.${fileExtension}`;
+        const originalOutputPath = resolve(outputDir, originalFileName);
+        const avifFileName = `${baseFileName}.avif`;
+        const avifOutputPath = resolve(outputDir, avifFileName);
+
+        await fs.mkdir(outputDir, { recursive: true });
+        await Promise.all([
+            fs.copyFile(resolvedSrc, originalOutputPath),
+            fs.copyFile(avifSourcePath, avifOutputPath),
+        ]);
+
+        const { width, height } = await sharp(avifSourcePath).metadata();
+
+        return `<picture><source type="image/avif" srcset="/img/${avifFileName}"><img src="/img/${originalFileName}" width="${width}" height="${height}" alt="${alt}" class="comic"></picture>`;
     });
 
     eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {

@@ -11,7 +11,7 @@ permalink: index.html
 <div class="content-h">
     {% include "site-nav.njk" %}
     <article class="comic">
-        {% Image "content/comics/" + latestComic.fileSlug, latestComic.data.alt %}
+        {% ComicImage "content/comics/" + latestComic.fileSlug, latestComic.data.alt %}
     </article>
 </div>
 

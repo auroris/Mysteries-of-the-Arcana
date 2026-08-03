@@ -7,7 +7,7 @@
 - **_data**: Stores site metadata.
 - **_includes**: Contains site templates for various elements.
 - **content**: Holds all content files.
-  - **content/comics**: Contains individual comic pages. Each page is a `.png` file paired with metadata in a `.md` file. Files should be named numerically (e.g., `818.png` and `818.md`).
+  - **content/comics**: Contains individual comic pages. Each page has an original `.jpg` or `.png`, a matching `.avif`, and metadata in a `.md` file. Files are named numerically (e.g., `818.png`, `818.avif`, and `818.md`).
   - **content/posts**: Stores blog posts related to specific comic pages by date.
 - **public**: Houses the site theme and other static files.
 
@@ -64,6 +64,7 @@ The project uses a set of npm scripts to build, test, and serve the site:
 This project uses the following key packages:
 
 - **@11ty/eleventy**: Static site generator.
+- **swup**: Progressive client-side navigation for preserving comic reading position.
 - **postcss** and **autoprefixer**: For processing and optimizing CSS.
 - **htmlhint** and **stylelint**: For linting HTML and CSS.
 - **html-minifier-terser**: For minifying HTML output.
