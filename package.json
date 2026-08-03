@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "build": "npm run build:dev && npm run lint:css && npm run build:css && npm run lint:html",
-        "start": "npx @11ty/eleventy --serve --quiet",
+        "start": "npx @11ty/eleventy --serve --incremental --quiet",
         "lint:html": "htmlhint ./_site/**/*.html",
         "build:css": "postcss public/theme/*.css -d _site/theme",
         "lint:css": "stylelint public/theme/*.css --fix",
