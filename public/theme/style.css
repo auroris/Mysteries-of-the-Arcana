@@ -20,7 +20,6 @@
      display: flex;
      flex-direction: row;
      flex-grow: 1;
-     margin-right: 123px;
 }
 
  .content-v {
@@ -356,7 +355,19 @@ ul.gallery-images span {
      margin-left: 122px;
 }
 
-@media (width <= 1265px) {
+/* Balance the wider transcript against the site nav so the comic stays centered. */
+@media (width >= 1324px) {
+    .content-h:has(.comic-transcript) {
+        margin-right: 0;
+        margin-left: 198px;
+    }
+}
+
+@media (width <= 1180px) {
+    .content-h {
+        margin-right: 123px;
+    }
+
     .comic-page-layout {
         flex-direction: column;
     }

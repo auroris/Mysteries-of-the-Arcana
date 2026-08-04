@@ -105,7 +105,7 @@ William calls from off panel, “Aye.”
 
 Attribute each speaking turn only as much as comprehension requires. Consecutive balloons from the same speaker are one turn and may be combined into one quotation without preserving decorative line wraps. Re-establish the speaker whenever another character intervenes or the attribution could become unclear.
 
-Preserve the printed dialogue exactly, including its spelling, grammar, capitalization, punctuation, hesitation, and intentional errors. Do not silently repair lines such as `!GNAB`, unusual robot speech tags, or a character’s idiosyncratic wording.
+Preserve the printed dialogue exactly except for all-caps lettering used as the comic’s default font. Normalize that default lettering to conventional sentence casing while retaining the original spelling, grammar, punctuation, hesitation, emphasis, and intentional errors. Preserve meaningful capitalization in proper names, acronyms, initialisms, and deliberate stylizations such as `BbuzZ` and `!GNAB`. Do not silently repair unusual robot speech tags or a character’s idiosyncratic wording.
 
 Use full canonical names in descriptions and prose attributions. A nickname belongs in the transcript only when it is part of the printed dialogue.
 

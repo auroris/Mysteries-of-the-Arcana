@@ -41,7 +41,9 @@ layout: base.njk
         <section class="comic-transcript" aria-labelledby="comic-transcript-title">
             <h2 id="comic-transcript-title">Transcript</h2>
             <div class="comic-transcript-body">
+                {% if (page.fileSlug | int) <= 333 %}
                 {{ content | safe }}
+                {% endif %}
             </div>
         </section>
         {% endif %}
