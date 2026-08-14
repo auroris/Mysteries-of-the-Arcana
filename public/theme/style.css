@@ -20,6 +20,7 @@
      display: flex;
      flex-direction: row;
      flex-grow: 1;
+     margin-right: 123px;
 }
 
  .content-v {
@@ -173,12 +174,6 @@ article.comic img {
     width: 650px;
 }
 
- .comic-page-layout {
-     display: flex;
-     align-items: flex-start;
-     gap: 0;
- }
-
 /* Post Styles */
  article.post {
      background: url('notebookwhole.png') repeat-y;
@@ -201,38 +196,6 @@ article.comic img {
      color: #666;
      margin-bottom: 20px;
 }
-
- .comic-transcript {
-     box-sizing: border-box;
-     flex: 0 0 320px;
-     width: 320px;
-     padding: 0.5rem 0.625rem;
-     border: 8px solid #CDA12D;
-     border-left: 0;
-     border-radius: 0 8px 8px 0;
-     background-color: #f4efe3;
-     box-shadow: inset 0 0 0 2px #9F640E;
-     color: #222;
-     font-family: Arial, Helvetica, sans-serif;
-     line-height: 1.6;
-}
-
- .comic-transcript > h2 {
-     margin: 0 0 1rem;
-     padding-bottom: 0.75rem;
-     border-bottom: 2px solid #CDA12D;
-     font-size: 1.25rem;
-     line-height: 1.4;
-}
-
- .comic-transcript-body > :first-child {
-     margin-top: 0;
-}
-
- .comic-transcript-body ol {
-     padding-inline-start: 0;
-     list-style-position: inside;
- }
 
 /* Table Styles within Articles */
  article table {
@@ -355,31 +318,6 @@ ul.gallery-images span {
      margin-left: 122px;
 }
 
-/* Balance the wider transcript against the site nav so the comic stays centered. */
-@media (width >= 1324px) {
-    .content-h:has(.comic-transcript) {
-        margin-right: 0;
-        margin-left: 198px;
-    }
-}
-
-@media (width <= 1180px) {
-    .content-h {
-        margin-right: 123px;
-    }
-
-    .comic-page-layout {
-        flex-direction: column;
-    }
-
-    .comic-transcript {
-        flex-basis: auto;
-        width: 684px;
-        border-width: 0 8px 8px;
-        border-radius: 0 0 8px 8px;
-    }
-}
-
 @media (width <= 900px) {
     .content-h, .content-v {
          margin-right: 0;
@@ -399,11 +337,6 @@ ul.gallery-images span {
 
      .content-h {
          flex-direction: column;
-         width: 100%;
-    }
-
-     .comic-page-layout {
-         width: 100%;
     }
 
      .comic-nav ul, .site-nav ul {
@@ -418,14 +351,9 @@ ul.gallery-images span {
          margin-bottom: 10px;
     }
 
-     article.comic, article.post, .comic-transcript {
+     article.comic, article.post {
          width: 100%;
          padding: 5px;
-    }
-
-     .comic-transcript {
-         padding: 0.5rem 0.625rem;
-         border-width: 0 5px 5px;
     }
     
     article.post {
@@ -436,7 +364,7 @@ ul.gallery-images span {
          width: 100%;
     }
 
-     article.post img, .comic-transcript img {
+     article.post img {
          max-width: 100%;
          height: auto;
     }

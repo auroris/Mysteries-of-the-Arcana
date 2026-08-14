@@ -10,20 +10,9 @@ permalink: index.html
 
 <div class="content-h">
     {% include "site-nav.njk" %}
-    <div class="comic-page-layout">
-        <article class="comic">
-            {% ComicImage "content/comics/" + latestComic.fileSlug, latestComic.data.alt %}
-        </article>
-
-        {% if latestComic.templateContent | trim %}
-        <section class="comic-transcript" aria-labelledby="comic-transcript-title">
-            <h2 id="comic-transcript-title">Transcript</h2>
-            <div class="comic-transcript-body">
-                {{ latestComic.templateContent | safe }}
-            </div>
-        </section>
-        {% endif %}
-    </div>
+    <article class="comic">
+        {% ComicImage "content/comics/" + latestComic.fileSlug, latestComic.data.title %}
+    </article>
 </div>
 
 {% include "comic-nav.njk" %}

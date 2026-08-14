@@ -151,7 +151,7 @@ export default async function(eleventyConfig) {
         return `<img src="/img/${baseFileName}.${fileExtension}" alt="${alt}" class="comic">`;
     });
 
-    eleventyConfig.addNunjucksAsyncShortcode("ComicImage", async (src, alt) => {
+    eleventyConfig.addNunjucksAsyncShortcode("ComicImage", async (src, title) => {
         const possibleExtensions = ["jpg", "png"];
         const outputDir = resolve(process.cwd(), "./_site/img");
         const avifSourcePath = resolve(process.cwd(), `${src}.avif`);
@@ -187,9 +187,9 @@ export default async function(eleventyConfig) {
         ]);
 
         const { width, height } = await sharp(avifSourcePath).metadata();
-        const escapedAlt = htmlEscape(alt);
+        const escapedTitle = htmlEscape(title);
 
-        return `<picture><source type="image/avif" srcset="/img/${avifFileName}"><img src="/img/${originalFileName}" width="${width}" height="${height}" alt="${escapedAlt}" title="${escapedAlt}" class="comic"></picture>`;
+        return `<picture><source type="image/avif" srcset="/img/${avifFileName}"><img src="/img/${originalFileName}" width="${width}" height="${height}" alt="${escapedTitle}" title="${escapedTitle}" class="comic"></picture>`;
     });
 
     eleventyConfig.addFilter("filterPostsByDate", (posts, currentComicDate, nextComicDate) => {
