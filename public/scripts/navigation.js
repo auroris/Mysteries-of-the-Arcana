@@ -72,6 +72,40 @@ const rememberScrollPosition = () => {
     });
 };
 
+const comicArrowKeyRelations = {
+    ArrowLeft: "prev",
+    ArrowRight: "next",
+};
+
+window.addEventListener("keydown", (event) => {
+    const target = event.target;
+    const isEditing = target instanceof HTMLElement
+        && (target.isContentEditable || target.matches("input, textarea, select"));
+    const relation = comicArrowKeyRelations[event.key];
+
+    if (
+        !relation
+        || !document.querySelector("article.comic")
+        || isEditing
+        || event.defaultPrevented
+        || event.isComposing
+        || event.repeat
+        || event.altKey
+        || event.ctrlKey
+        || event.metaKey
+        || event.shiftKey
+    ) {
+        return;
+    }
+
+    const comicLink = document.querySelector(`.comic-nav a[rel="${relation}"]`);
+
+    if (comicLink) {
+        event.preventDefault();
+        comicLink.click();
+    }
+});
+
 window.history.scrollRestoration = "manual";
 rememberScrollPosition();
 window.addEventListener("scroll", rememberScrollPosition, { passive: true });
