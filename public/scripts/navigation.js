@@ -5,6 +5,22 @@ const swup = new Swup({
 
 const scrollPositions = new Map();
 let currentHistoryIndex = window.history.state?.index;
+let comicPreloadDirection = "next";
+
+const preloadAdjacentComic = () => {
+    const comicPage = document.querySelector("#swup[data-next-comic-url], #swup[data-previous-comic-url]");
+    const url = comicPreloadDirection === "previous"
+        ? comicPage?.dataset.previousComicUrl
+        : comicPage?.dataset.nextComicUrl;
+
+    if (!url || swup.cache.has(url)) {
+        return;
+    }
+
+    swup.fetchPage(url).catch(() => {
+        // Preloading is an optimization; navigation can retry a failed request.
+    });
+};
 
 const rememberScrollPosition = () => {
     if (currentHistoryIndex === undefined) {
@@ -24,7 +40,15 @@ window.addEventListener("scroll", rememberScrollPosition, { passive: true });
 swup.hooks.on("visit:start", (visit) => {
     rememberScrollPosition();
 
-    if (visit.trigger.el?.closest("[data-preserve-scroll]")) {
+    const trigger = visit.trigger.el;
+
+    if (trigger?.closest(".navprev")) {
+        comicPreloadDirection = "previous";
+    } else if (trigger?.closest(".navnext, article.comic")) {
+        comicPreloadDirection = "next";
+    }
+
+    if (trigger?.closest("[data-preserve-scroll]")) {
         visit.scroll.reset = false;
     }
 });
@@ -52,4 +76,7 @@ swup.hooks.on("content:scroll", (visit) => {
 
 swup.hooks.on("page:view", () => {
     rememberScrollPosition();
+    preloadAdjacentComic();
 });
+
+preloadAdjacentComic();

@@ -10,7 +10,12 @@ layout: base.njk
     {% endif %}
 {% endfor %}
 
+{% set prev = null %}
 {% set next = null %}
+{% if currentIndex > 0 %}
+  {% set prev = comics[currentIndex - 1] %}
+{% endif %}
+
 {% if currentIndex < comics.length - 1 %}
   {% set next = comics[currentIndex + 1] %}
 {% endif %}
@@ -24,7 +29,8 @@ layout: base.njk
   {% set nextComicDate = null %}
 {% endif %}
 
-{% setPageVar 'nextUrl' %}{{ next.url }}{% endsetPageVar %}
+{% if prev %}{% setPageVar 'previousUrl' %}{{ prev.url }}{% endsetPageVar %}{% endif %}
+{% if next %}{% setPageVar 'nextUrl' %}{{ next.url }}{% endsetPageVar %}{% endif %}
 
 <div class="hide-mobile">{% include "comic-nav.njk" %}</div>
 
