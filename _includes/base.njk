@@ -20,14 +20,13 @@
         <meta property="og:type" content="website" />
         <meta property="og:description" content="{{ description or metadata.description }}">
         <meta property="og:image" content="{{ metadata.url }}theme/motalogo.png">
-        <script src="/scripts/swup.js" defer></script>
         <script src="/scripts/navigation.js" defer></script>
     </head>
     <body>
         <header class="logo-container">
             <img src="/theme/motalogo.png" alt="Mysteries of the Arcana logo" aria-label="Logo" />
         </header>
-        <main id="swup"{% if page.previousUrl %} data-previous-comic-url="{{ page.previousUrl }}"{% endif %}{% if page.nextUrl %} data-next-comic-url="{{ page.nextUrl }}"{% endif %}>
+        <main id="swup">
             {{ content | safe }}
         </main>
         <footer>Copyright &copy; 2008 - 2024 by J Gray</footer>

@@ -6,6 +6,7 @@ import { DateTime } from "luxon";
 import markdownIt from "markdown-it";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
+import { build } from "esbuild";
 import eleventyPluginRelativeUrls from "./eleventy.plugin.relativeUrls.js";
 import htmlmin from "html-minifier-terser";
 import { promises as fs } from 'fs';
@@ -34,12 +35,10 @@ export default async function(eleventyConfig) {
     });
 
     eleventyConfig.addPassthroughCopy({ "./public/": "/" });
-    eleventyConfig.addPassthroughCopy({
-        "./node_modules/swup/dist/Swup.umd.js": "/scripts/swup.js",
-    });
 
     // Add files to Eleventy watch target
     eleventyConfig.addWatchTarget("content/**/*.{svg,avif,webp,png,jpg,jpeg}");
+    eleventyConfig.addWatchTarget("public/scripts/**/*.js");
 
     // Register official Eleventy plugins
     eleventyConfig.addPlugin(pluginNavigation);
@@ -53,6 +52,21 @@ export default async function(eleventyConfig) {
     const relativeURLsEnable = process.env.RELATIVE_URL_ENABLE === "true";
     const relativeURLsAssumeHtml = process.env.RELATIVE_URL_HTML === "true";
     const htmlMinifier = process.env.HTML_MINIFIER === "true";
+
+    eleventyConfig.on("eleventy.after", async () => {
+        await build({
+            entryPoints: ["public/scripts/navigation.js"],
+            bundle: true,
+            format: "iife",
+            legalComments: "none",
+            minify: htmlMinifier,
+            outfile: "_site/scripts/navigation.js",
+            platform: "browser",
+            sourcemap: htmlMinifier ? false : "inline",
+            target: "es2020",
+            treeShaking: true,
+        });
+    });
 
     if (relativeURLsEnable) {
         eleventyConfig.addPlugin(eleventyPluginRelativeUrls, { assumeIndexHtml: relativeURLsAssumeHtml });

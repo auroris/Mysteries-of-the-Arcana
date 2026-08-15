@@ -47,15 +47,6 @@ function eleventyPluginRelativeUrls({ assumeIndexHtml } = {}) {
           posthtmlUrls({
             eachURL: makeRelative,
           }),
-          posthtmlUrls({
-            filter: {
-              main: {
-                "data-previous-comic-url": true,
-                "data-next-comic-url": true,
-              },
-            },
-            eachURL: makeRelative,
-          }),
         ]).process(htmlContent);
 
         return processedHtml.html;

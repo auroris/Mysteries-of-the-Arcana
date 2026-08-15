@@ -1,25 +1,64 @@
+import Swup from "swup";
+import SwupPreloadPlugin from "@swup/preload-plugin";
+
 const swup = new Swup({
     animationSelector: false,
+    plugins: [new SwupPreloadPlugin({
+        preloadHoveredLinks: true,
+        preloadInitialPage: false,
+    })],
     timeout: 10000,
 });
 
 const scrollPositions = new Map();
+const requestedComicImages = new Set();
 let currentHistoryIndex = window.history.state?.index;
-let comicPreloadDirection = "next";
 
-const preloadAdjacentComic = () => {
-    const comicPage = document.querySelector("#swup[data-next-comic-url], #swup[data-previous-comic-url]");
-    const url = comicPreloadDirection === "previous"
-        ? comicPage?.dataset.previousComicUrl
-        : comicPage?.dataset.nextComicUrl;
+const getComicImageUrl = (root, pageUrl) => {
+    const imageSource = root.querySelector("article.comic source[type='image/avif']")?.getAttribute("srcset");
+    return imageSource ? new URL(imageSource, pageUrl).href : null;
+};
 
-    if (!url || swup.cache.has(url)) {
+const preloadComicImage = (imageUrl) => {
+    if (requestedComicImages.has(imageUrl)) {
         return;
     }
 
-    swup.fetchPage(url).catch(() => {
-        // Preloading is an optimization; navigation can retry a failed request.
-    });
+    requestedComicImages.add(imageUrl);
+
+    fetch(imageUrl)
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error(`Unable to preload comic image: ${response.status}`);
+            }
+
+            return response.blob();
+        })
+        .catch(() => {
+            // Preloading is an optimization; normal image loading can retry later.
+        });
+};
+
+swup.hooks.on("page:preload", (_visit, { page }) => {
+    if (!page) {
+        return;
+    }
+
+    const targetDocument = new DOMParser().parseFromString(page.html, "text/html");
+    const targetPageUrl = new URL(page.url, document.baseURI);
+    const imageUrl = getComicImageUrl(targetDocument, targetPageUrl);
+
+    if (imageUrl) {
+        preloadComicImage(imageUrl);
+    }
+});
+
+const rememberCurrentComicImage = () => {
+    const imageUrl = getComicImageUrl(document, document.baseURI);
+
+    if (imageUrl) {
+        requestedComicImages.add(imageUrl);
+    }
 };
 
 const rememberScrollPosition = () => {
@@ -41,12 +80,6 @@ swup.hooks.on("visit:start", (visit) => {
     rememberScrollPosition();
 
     const trigger = visit.trigger.el;
-
-    if (trigger?.closest(".navprev")) {
-        comicPreloadDirection = "previous";
-    } else if (trigger?.closest(".navnext, article.comic")) {
-        comicPreloadDirection = "next";
-    }
 
     if (trigger?.closest("[data-preserve-scroll]")) {
         visit.scroll.reset = false;
@@ -76,7 +109,7 @@ swup.hooks.on("content:scroll", (visit) => {
 
 swup.hooks.on("page:view", () => {
     rememberScrollPosition();
-    preloadAdjacentComic();
+    rememberCurrentComicImage();
 });
 
-preloadAdjacentComic();
+rememberCurrentComicImage();
