@@ -62,7 +62,7 @@ export default async function(eleventyConfig) {
             minify: htmlMinifier,
             outfile: "_site/scripts/navigation.js",
             platform: "browser",
-            sourcemap: htmlMinifier ? false : "inline",
+            sourcemap: htmlMinifier ? false : "linked",
             target: "es2020",
             treeShaking: true,
         });
